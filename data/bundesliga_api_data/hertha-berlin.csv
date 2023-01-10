@@ -1,0 +1,35 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Saturday, August 06 08:30 AM",hertha berlin,union berlin,1 - 3,L,away,1659792600,https://media-2.api-sports.io/football/teams/159.png
+"Saturday, August 13 08:30 AM",hertha berlin,eintracht frankfurt,1 - 1,tie,home,1660397400,https://media-1.api-sports.io/football/teams/159.png
+"Friday, August 19 01:30 PM",hertha berlin,borussia monchengladbach,0 - 1,L,away,1660933800,https://media-3.api-sports.io/football/teams/159.png
+"Saturday, August 27 08:30 AM",hertha berlin,borussia dortmund,1 - 0,L,home,1661607000,https://media-2.api-sports.io/football/teams/159.png
+"Sunday, September 04 08:30 AM",hertha berlin,fc augsburg,2 - 0,W,away,1662298200,https://media-1.api-sports.io/football/teams/159.png
+"Saturday, September 10 08:30 AM",hertha berlin,bayer leverkusen,2 - 2,tie,home,1662816600,https://media-2.api-sports.io/football/teams/159.png
+"Friday, September 16 01:30 PM",hertha berlin,fsv mainz 05,1 - 1,tie,away,1663353000,https://media-3.api-sports.io/football/teams/159.png
+"Sunday, October 02 08:30 AM",hertha berlin,1899 hoffenheim,1 - 1,tie,home,1664717400,https://media-2.api-sports.io/football/teams/159.png
+"Sunday, October 09 10:30 AM",hertha berlin,sc freiburg,2 - 2,tie,home,1665329400,https://media-3.api-sports.io/football/teams/159.png
+"Saturday, October 15 11:30 AM",hertha berlin,rb leipzig,2 - 3,L,away,1665851400,https://media-3.api-sports.io/football/teams/159.png
+"Sunday, October 23 10:30 AM",hertha berlin,fc schalke 04,1 - 2,W,home,1666539000,https://media-2.api-sports.io/football/teams/159.png
+"Friday, October 28 01:30 PM",hertha berlin,werder bremen,0 - 1,L,away,1666981800,https://media-3.api-sports.io/football/teams/159.png
+"Saturday, November 05 09:30 AM",hertha berlin,bayern munich,3 - 2,L,home,1667658600,https://media-1.api-sports.io/football/teams/159.png
+"Tuesday, November 08 01:30 PM",hertha berlin,vfb stuttgart,1 - 2,L,away,1667935800,https://media-1.api-sports.io/football/teams/159.png
+"Saturday, November 12 08:30 AM",hertha berlin,fc koln,0 - 2,W,home,1668263400,https://media-3.api-sports.io/football/teams/159.png
+"Saturday, January 21 08:30 AM",hertha berlin,vfl bochum,,,away,1674311400,https://media-1.api-sports.io/football/teams/159.png
+"Tuesday, January 24 01:30 PM",hertha berlin,vfl wolfsburg,,,home,1674588600,https://media-3.api-sports.io/football/teams/159.png
+"Saturday, January 28 08:30 AM",hertha berlin,union berlin,,,home,1674916200,https://media-1.api-sports.io/football/teams/159.png
+"Saturday, February 04 08:30 AM",hertha berlin,eintracht frankfurt,,,away,1675521000,https://media-2.api-sports.io/football/teams/159.png
+"Sunday, February 12 08:30 AM",hertha berlin,borussia monchengladbach,,,home,1676212200,https://media-2.api-sports.io/football/teams/159.png
+"Sunday, February 19 10:30 AM",hertha berlin,borussia dortmund,,,away,1676824200,https://media-2.api-sports.io/football/teams/159.png
+"Saturday, February 25 08:30 AM",hertha berlin,fc augsburg,,,home,1677335400,https://media-3.api-sports.io/football/teams/159.png
+"Sunday, March 05 08:30 AM",hertha berlin,bayer leverkusen,,,away,1678026600,https://media-3.api-sports.io/football/teams/159.png
+"Saturday, March 11 08:30 AM",hertha berlin,fsv mainz 05,,,home,1678545000,https://media-2.api-sports.io/football/teams/159.png
+"Saturday, March 18 09:30 AM",hertha berlin,1899 hoffenheim,,,away,1679149800,https://media-2.api-sports.io/football/teams/159.png
+"Friday, March 31 07:00 PM",hertha berlin,sc freiburg,,,away,1680307200,https://media-2.api-sports.io/football/teams/159.png
+"Friday, April 07 07:00 PM",hertha berlin,rb leipzig,,,home,1680912000,https://media-1.api-sports.io/football/teams/159.png
+"Friday, April 14 07:00 PM",hertha berlin,fc schalke 04,,,away,1681516800,https://media-1.api-sports.io/football/teams/159.png
+"Friday, April 21 07:00 PM",hertha berlin,werder bremen,,,home,1682121600,https://media-3.api-sports.io/football/teams/159.png
+"Friday, April 28 07:00 PM",hertha berlin,bayern munich,,,away,1682726400,https://media-1.api-sports.io/football/teams/159.png
+"Friday, May 05 07:00 PM",hertha berlin,vfb stuttgart,,,home,1683331200,https://media-1.api-sports.io/football/teams/159.png
+"Friday, May 12 07:00 PM",hertha berlin,fc koln,,,away,1683936000,https://media-2.api-sports.io/football/teams/159.png
+"Friday, May 19 07:00 PM",hertha berlin,vfl bochum,,,home,1684540800,https://media-2.api-sports.io/football/teams/159.png
+"Saturday, May 27 08:30 AM",hertha berlin,vfl wolfsburg,,,away,1685194200,https://media-3.api-sports.io/football/teams/159.png

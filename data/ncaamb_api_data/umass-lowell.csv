@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T23:00:00+00:00,umass lowell,fisher,43 - 108,W,home,1667862000,https://media-2.api-sports.io/basketball/teams/2169.png
+2022-11-11T00:00:00+00:00,umass lowell,columbia,89 - 62,W,away,1668124800,https://media-2.api-sports.io/basketball/teams/2169.png
+2022-11-12T19:00:00+00:00,umass lowell,rutgers,65 - 73,L,away,1668279600,https://media-3.api-sports.io/basketball/teams/2169.png
+2022-11-16T21:00:00+00:00,umass lowell,sacred heart,81 - 90,W,home,1668632400,https://media-1.api-sports.io/basketball/teams/2169.png
+2022-11-19T22:00:00+00:00,umass lowell,emerson,53 - 105,W,home,1668895200,https://media-2.api-sports.io/basketball/teams/2169.png
+2022-11-24T00:00:00+00:00,umass lowell,brown,73 - 62,W,away,1669248000,https://media-3.api-sports.io/basketball/teams/2169.png
+2022-11-27T18:00:00+00:00,umass lowell,stonehill,59 - 73,W,home,1669572000,https://media-2.api-sports.io/basketball/teams/2169.png
+2022-11-30T23:00:00+00:00,umass lowell,merrimack warriors,51 - 77,W,home,1669849200,https://media-3.api-sports.io/basketball/teams/2169.png
+2022-12-03T19:00:00+00:00,umass lowell,sacred heart,70 - 59,W,away,1670094000,https://media-2.api-sports.io/basketball/teams/2169.png
+2022-12-06T00:00:00+00:00,umass lowell,liu sharks,84 - 64,W,away,1670284800,https://media-2.api-sports.io/basketball/teams/2169.png
+2022-12-09T00:00:00+00:00,umass lowell,umass,85 - 80,W,away,1670544000,https://media-2.api-sports.io/basketball/teams/2169.png
+2022-12-10T22:00:00+00:00,umass lowell,st. francis brooklyn,59 - 68,W,home,1670709600,https://media-2.api-sports.io/basketball/teams/2169.png
+2022-12-14T00:00:00+00:00,umass lowell,rhode island,75 - 77,L,away,1670976000,https://media-3.api-sports.io/basketball/teams/2169.png
+2022-12-21T21:00:00+00:00,umass lowell,boston university,60 - 68,W,home,1671656400,https://media-1.api-sports.io/basketball/teams/2169.png
+2022-12-31T19:00:00+00:00,umass lowell,njit,67 - 64,W,away,1672513200,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-01-05T23:00:00+00:00,umass lowell,maine black bears,70 - 72,W,home,1672959600,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-01-08T20:00:00+00:00,umass lowell,albany,63 - 89,L,away,1673208000,https://media-3.api-sports.io/basketball/teams/2169.png
+2023-01-11T23:00:00+00:00,umass lowell,vermont,,,home,1673478000,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-01-14T19:00:00+00:00,umass lowell,binghamton,,,away,1673722800,https://media-3.api-sports.io/basketball/teams/2169.png
+2023-01-18T23:00:00+00:00,umass lowell,umbc retrievers,,,home,1674082800,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-01-22T18:00:00+00:00,umass lowell,bryant university,,,home,1674410400,https://media-3.api-sports.io/basketball/teams/2169.png
+2023-01-26T00:00:00+00:00,umass lowell,maine black bears,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/2169.png
+2023-01-28T18:00:00+00:00,umass lowell,new hampshire,,,away,1674928800,https://media-2.api-sports.io/basketball/teams/2169.png
+2023-02-01T23:00:00+00:00,umass lowell,albany,,,home,1675292400,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-02-04T18:00:00+00:00,umass lowell,njit,,,home,1675533600,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-02-06T23:00:00+00:00,umass lowell,hartford,,,away,1675724400,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-02-12T00:00:00+00:00,umass lowell,vermont,,,away,1676160000,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-02-16T00:00:00+00:00,umass lowell,bryant university,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/2169.png
+2023-02-18T18:00:00+00:00,umass lowell,binghamton,,,home,1676743200,https://media-1.api-sports.io/basketball/teams/2169.png

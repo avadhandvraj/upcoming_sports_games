@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,umass,central connecticut state,67 - 94,W,home,1667867400,https://media-2.api-sports.io/basketball/teams/2168.png
+2022-11-11T00:00:00+00:00,umass,towson,67 - 55,L,home,1668124800,https://media-3.api-sports.io/basketball/teams/2168.png
+2022-11-17T18:30:00+00:00,umass,colorado,63 - 66,W,home,1668709800,https://media-1.api-sports.io/basketball/teams/2168.png
+2022-11-18T19:30:00+00:00,umass,murray state,71 - 69,W,away,1668799800,https://media-3.api-sports.io/basketball/teams/2168.png
+2022-11-20T18:00:00+00:00,umass,charlotte,60 - 54,W,away,1668967200,https://media-2.api-sports.io/basketball/teams/2168.png
+2022-11-30T00:00:00+00:00,umass,south florida,73 - 67,W,away,1669766400,https://media-3.api-sports.io/basketball/teams/2168.png
+2022-12-03T00:00:00+00:00,umass,harvard,71 - 68,W,away,1670025600,https://media-2.api-sports.io/basketball/teams/2168.png
+2022-12-06T00:00:00+00:00,umass,albany,73 - 87,W,home,1670284800,https://media-3.api-sports.io/basketball/teams/2168.png
+2022-12-09T00:00:00+00:00,umass,umass lowell,85 - 80,L,home,1670544000,https://media-3.api-sports.io/basketball/teams/2168.png
+2022-12-12T00:00:00+00:00,umass,hofstra,56 - 71,W,home,1670803200,https://media-3.api-sports.io/basketball/teams/2168.png
+2022-12-17T20:00:00+00:00,umass,north texas,44 - 62,L,away,1671307200,https://media-1.api-sports.io/basketball/teams/2168.png
+2022-12-21T00:00:00+00:00,umass,dartmouth,57 - 68,W,home,1671580800,https://media-1.api-sports.io/basketball/teams/2168.png
+2022-12-31T19:00:00+00:00,umass,st. bonaventure,64 - 83,L,away,1672513200,https://media-1.api-sports.io/basketball/teams/2168.png
+2023-01-05T00:30:00+00:00,umass,st. louis,81 - 90,W,home,1672878600,https://media-1.api-sports.io/basketball/teams/2168.png
+2023-01-07T19:00:00+00:00,umass,george washington,73 - 81,L,away,1673118000,https://media-2.api-sports.io/basketball/teams/2168.png
+2023-01-12T00:00:00+00:00,umass,la salle,,,home,1673481600,https://media-3.api-sports.io/basketball/teams/2168.png
+2023-01-14T21:30:00+00:00,umass,rhode island,,,home,1673731800,https://media-2.api-sports.io/basketball/teams/2168.png
+2023-01-18T00:00:00+00:00,umass,vcu rams,,,away,1674000000,https://media-3.api-sports.io/basketball/teams/2168.png
+2023-01-21T18:00:00+00:00,umass,saint josephs,,,away,1674324000,https://media-2.api-sports.io/basketball/teams/2168.png
+2023-01-26T00:00:00+00:00,umass,richmond,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/2168.png
+2023-01-28T21:00:00+00:00,umass,duquesne,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/2168.png
+2023-02-02T00:00:00+00:00,umass,george mason,,,away,1675296000,https://media-1.api-sports.io/basketball/teams/2168.png
+2023-02-04T17:30:00+00:00,umass,davidson,,,home,1675531800,https://media-2.api-sports.io/basketball/teams/2168.png
+2023-02-09T00:00:00+00:00,umass,fordham,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/2168.png
+2023-02-11T19:00:00+00:00,umass,la salle,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/2168.png
+2023-02-15T00:00:00+00:00,umass,loyola chicago,,,home,1676419200,https://media-2.api-sports.io/basketball/teams/2168.png
+2023-02-18T19:00:00+00:00,umass,rhode island,,,away,1676746800,https://media-3.api-sports.io/basketball/teams/2168.png

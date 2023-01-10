@@ -1,0 +1,21 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-08-13,seattle seahawks,pittsburgh steelers,25 - 32,L,away,1660431600,https://media-2.api-sports.io/american-football/teams/23.png
+2022-08-18,seattle seahawks,chicago bears,27 - 11,L,home,1660780800,https://media-2.api-sports.io/american-football/teams/23.png
+2022-08-26,seattle seahawks,dallas cowboys,26 - 27,L,away,1661472000,https://media-3.api-sports.io/american-football/teams/23.png
+2022-09-12,seattle seahawks,denver broncos,16 - 17,W,home,1662941700,https://media-1.api-sports.io/american-football/teams/23.png
+2022-09-18,seattle seahawks,san francisco 49ers,7 - 27,L,away,1663531500,https://media-2.api-sports.io/american-football/teams/23.png
+2022-09-25,seattle seahawks,atlanta falcons,27 - 23,L,home,1664137500,https://media-1.api-sports.io/american-football/teams/23.png
+2022-10-02,seattle seahawks,detroit lions,48 - 45,W,away,1664730000,https://media-1.api-sports.io/american-football/teams/23.png
+2022-10-09,seattle seahawks,new orleans saints,32 - 39,L,away,1665334800,https://media-3.api-sports.io/american-football/teams/23.png
+2022-10-16,seattle seahawks,arizona cardinals,9 - 19,W,home,1665950700,https://media-1.api-sports.io/american-football/teams/23.png
+2022-10-23,seattle seahawks,los angeles chargers,37 - 23,W,away,1666556700,https://media-2.api-sports.io/american-football/teams/23.png
+2022-10-30,seattle seahawks,new york giants,13 - 27,W,home,1667161500,https://media-3.api-sports.io/american-football/teams/23.png
+2022-11-06,seattle seahawks,arizona cardinals,31 - 21,W,away,1667768700,https://media-2.api-sports.io/american-football/teams/23.png
+2022-11-13,seattle seahawks,tampa bay buccaneers,16 - 21,L,away,1668349800,https://media-1.api-sports.io/american-football/teams/23.png
+2022-11-27,seattle seahawks,las vegas raiders,40 - 34,L,home,1669583100,https://media-2.api-sports.io/american-football/teams/23.png
+2022-12-04,seattle seahawks,los angeles rams,27 - 23,W,away,1670187900,https://media-3.api-sports.io/american-football/teams/23.png
+2022-12-11,seattle seahawks,carolina panthers,30 - 24,L,home,1670793900,https://media-3.api-sports.io/american-football/teams/23.png
+2022-12-15,seattle seahawks,san francisco 49ers,21 - 13,L,home,1671066900,https://media-2.api-sports.io/american-football/teams/23.png
+2022-12-24,seattle seahawks,kansas city chiefs,10 - 24,L,away,1671904800,https://media-3.api-sports.io/american-football/teams/23.png
+2023-01-01,seattle seahawks,new york jets,6 - 23,W,home,1672607100,https://media-3.api-sports.io/american-football/teams/23.png
+2023-01-08,seattle seahawks,los angeles rams,16 - 19,W,home,1673213100,https://media-1.api-sports.io/american-football/teams/23.png

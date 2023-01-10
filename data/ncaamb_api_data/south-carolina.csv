@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-09T00:00:00+00:00,south carolina,south carolina st,77 - 80,W,home,1667952000,https://media-3.api-sports.io/basketball/teams/2116.png
+2022-11-12T00:00:00+00:00,south carolina,clemson,58 - 60,W,home,1668211200,https://media-3.api-sports.io/basketball/teams/2116.png
+2022-11-17T22:00:00+00:00,south carolina,colorado state,85 - 53,L,home,1668722400,https://media-1.api-sports.io/basketball/teams/2116.png
+2022-11-19T00:30:00+00:00,south carolina,davidson,60 - 69,L,away,1668817800,https://media-1.api-sports.io/basketball/teams/2116.png
+2022-11-20T15:30:00+00:00,south carolina,furman,79 - 60,L,home,1668958200,https://media-1.api-sports.io/basketball/teams/2116.png
+2022-11-25T21:00:00+00:00,south carolina,usc upstate,53 - 68,W,home,1669410000,https://media-2.api-sports.io/basketball/teams/2116.png
+2022-12-01T02:00:00+00:00,south carolina,george washington,55 - 79,L,away,1669860000,https://media-3.api-sports.io/basketball/teams/2116.png
+2022-12-03T17:00:00+00:00,south carolina,georgetown,74 - 71,W,away,1670086800,https://media-1.api-sports.io/basketball/teams/2116.png
+2022-12-11T23:00:00+00:00,south carolina,presbyterian,57 - 68,W,home,1670799600,https://media-2.api-sports.io/basketball/teams/2116.png
+2022-12-15T00:00:00+00:00,south carolina,uab,70 - 84,L,away,1671062400,https://media-3.api-sports.io/basketball/teams/2116.png
+2022-12-17T19:00:00+00:00,south carolina,east carolina,64 - 56,L,home,1671303600,https://media-2.api-sports.io/basketball/teams/2116.png
+2022-12-23T00:00:00+00:00,south carolina,western kentucky,58 - 65,W,home,1671753600,https://media-3.api-sports.io/basketball/teams/2116.png
+2022-12-31T00:00:00+00:00,south carolina,eastern michigan,64 - 74,W,home,1672444800,https://media-1.api-sports.io/basketball/teams/2116.png
+2023-01-04T00:00:00+00:00,south carolina,vanderbilt,79 - 84,L,away,1672790400,https://media-1.api-sports.io/basketball/teams/2116.png
+2023-01-07T20:30:00+00:00,south carolina,tennessee,85 - 42,L,home,1673123400,https://media-1.api-sports.io/basketball/teams/2116.png
+2023-01-11T00:00:00+00:00,south carolina,kentucky,,,away,1673395200,https://media-3.api-sports.io/basketball/teams/2116.png
+2023-01-14T23:00:00+00:00,south carolina,texas a&m,,,home,1673737200,https://media-2.api-sports.io/basketball/teams/2116.png
+2023-01-17T23:30:00+00:00,south carolina,ole miss,,,home,1673998200,https://media-2.api-sports.io/basketball/teams/2116.png
+2023-01-21T20:30:00+00:00,south carolina,auburn,,,home,1674333000,https://media-2.api-sports.io/basketball/teams/2116.png
+2023-01-26T00:00:00+00:00,south carolina,florida,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/2116.png
+2023-01-28T23:00:00+00:00,south carolina,georgia,,,away,1674946800,https://media-3.api-sports.io/basketball/teams/2116.png
+2023-01-31T23:30:00+00:00,south carolina,mississippi st.,,,home,1675207800,https://media-2.api-sports.io/basketball/teams/2116.png
+2023-02-04T20:30:00+00:00,south carolina,arkansas,,,home,1675542600,https://media-3.api-sports.io/basketball/teams/2116.png
+2023-02-08T02:00:00+00:00,south carolina,missouri,,,away,1675821600,https://media-2.api-sports.io/basketball/teams/2116.png
+2023-02-11T18:00:00+00:00,south carolina,ole miss,,,away,1676138400,https://media-3.api-sports.io/basketball/teams/2116.png
+2023-02-14T23:30:00+00:00,south carolina,vanderbilt,,,home,1676417400,https://media-2.api-sports.io/basketball/teams/2116.png
+2023-02-18T18:00:00+00:00,south carolina,lsu,,,away,1676743200,https://media-2.api-sports.io/basketball/teams/2116.png

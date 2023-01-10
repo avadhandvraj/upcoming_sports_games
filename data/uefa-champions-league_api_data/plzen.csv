@@ -1,0 +1,13 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Wednesday, July 20 11:00 AM",plzen,hjk helsinki,2 - 1,W,away,1658332800,https://media-1.api-sports.io/football/teams/567.png
+"Tuesday, July 26 12:00 PM",plzen,hjk helsinki,0 - 5,W,home,1658854800,https://media-3.api-sports.io/football/teams/567.png
+"Tuesday, August 02 12:00 PM",plzen,sheriff tiraspol,2 - 1,W,away,1659459600,https://media-1.api-sports.io/football/teams/567.png
+"Tuesday, August 09 12:00 PM",plzen,sheriff tiraspol,1 - 2,W,home,1660064400,https://media-2.api-sports.io/football/teams/567.png
+"Wednesday, August 17 11:45 AM",plzen,qarabag,0 - 0,tie,away,1660754700,https://media-3.api-sports.io/football/teams/567.png
+"Tuesday, August 23 02:00 PM",plzen,qarabag,1 - 2,W,home,1661281200,https://media-3.api-sports.io/football/teams/567.png
+"Wednesday, September 07 02:00 PM",plzen,barcelona,1 - 5,L,away,1662577200,https://media-2.api-sports.io/football/teams/567.png
+"Tuesday, September 13 11:45 AM",plzen,inter,2 - 0,L,home,1663087500,https://media-2.api-sports.io/football/teams/567.png
+"Tuesday, October 04 11:45 AM",plzen,bayern munich,0 - 5,L,away,1664901900,https://media-3.api-sports.io/football/teams/567.png
+"Wednesday, October 12 02:00 PM",plzen,bayern munich,4 - 2,L,home,1665601200,https://media-1.api-sports.io/football/teams/567.png
+"Wednesday, October 26 11:45 AM",plzen,inter,0 - 4,L,away,1666802700,https://media-3.api-sports.io/football/teams/567.png
+"Tuesday, November 01 03:00 PM",plzen,barcelona,4 - 2,L,home,1667332800,https://media-1.api-sports.io/football/teams/567.png

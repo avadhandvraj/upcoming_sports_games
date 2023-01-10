@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T23:30:00+00:00,providence,rider,65 - 66,W,home,1667950200,https://media-3.api-sports.io/basketball/teams/197.png
+2022-11-13T01:00:00+00:00,providence,northeastern,65 - 89,W,home,1668301200,https://media-3.api-sports.io/basketball/teams/197.png
+2022-11-15T22:00:00+00:00,providence,stonehill,76 - 100,W,home,1668549600,https://media-1.api-sports.io/basketball/teams/197.png
+2022-11-19T21:00:00+00:00,providence,miami (fl),74 - 64,L,home,1668891600,https://media-1.api-sports.io/basketball/teams/197.png
+2022-11-20T20:30:00+00:00,providence,st. louis,73 - 76,L,away,1668976200,https://media-3.api-sports.io/basketball/teams/197.png
+2022-11-24T00:00:00+00:00,providence,merrimack warriors,57 - 71,W,home,1669248000,https://media-1.api-sports.io/basketball/teams/197.png
+2022-11-26T21:00:00+00:00,providence,columbia,64 - 78,W,home,1669496400,https://media-3.api-sports.io/basketball/teams/197.png
+2022-12-01T01:00:00+00:00,providence,tcu,62 - 75,L,away,1669856400,https://media-3.api-sports.io/basketball/teams/197.png
+2022-12-03T22:00:00+00:00,providence,rhode island,88 - 74,W,away,1670104800,https://media-2.api-sports.io/basketball/teams/197.png
+2022-12-08T01:30:00+00:00,providence,manhattan,59 - 99,W,home,1670463000,https://media-1.api-sports.io/basketball/teams/197.png
+2022-12-10T19:30:00+00:00,providence,albany,55 - 93,W,home,1670700600,https://media-1.api-sports.io/basketball/teams/197.png
+2022-12-17T17:30:00+00:00,providence,seton hall,71 - 67,W,away,1671298200,https://media-2.api-sports.io/basketball/teams/197.png
+2022-12-21T00:00:00+00:00,providence,marquette,98 - 103,W,home,1671580800,https://media-1.api-sports.io/basketball/teams/197.png
+2022-12-29T23:30:00+00:00,providence,butler,72 - 52,W,away,1672356600,https://media-1.api-sports.io/basketball/teams/197.png
+2023-01-01T19:30:00+00:00,providence,depaul,74 - 59,W,away,1672601400,https://media-3.api-sports.io/basketball/teams/197.png
+2023-01-05T01:30:00+00:00,providence,uconn,61 - 73,W,home,1672882200,https://media-1.api-sports.io/basketball/teams/197.png
+2023-01-07T17:00:00+00:00,providence,st. john's (n.y.),80 - 83,W,home,1673110800,https://media-2.api-sports.io/basketball/teams/197.png
+2023-01-14T19:00:00+00:00,providence,creighton,,,away,1673722800,https://media-3.api-sports.io/basketball/teams/197.png
+2023-01-19T02:00:00+00:00,providence,marquette,,,away,1674093600,https://media-3.api-sports.io/basketball/teams/197.png
+2023-01-21T19:00:00+00:00,providence,depaul,,,home,1674327600,https://media-1.api-sports.io/basketball/teams/197.png
+2023-01-26T01:30:00+00:00,providence,butler,,,home,1674696600,https://media-3.api-sports.io/basketball/teams/197.png
+2023-01-29T17:00:00+00:00,providence,villanova,,,away,1675011600,https://media-2.api-sports.io/basketball/teams/197.png
+2023-02-01T23:30:00+00:00,providence,xavier,,,away,1675294200,https://media-2.api-sports.io/basketball/teams/197.png
+2023-02-09T00:00:00+00:00,providence,georgetown,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/197.png
+2023-02-11T17:00:00+00:00,providence,st. john's (n.y.),,,away,1676134800,https://media-3.api-sports.io/basketball/teams/197.png
+2023-02-14T21:00:00+00:00,providence,creighton,,,home,1676408400,https://media-3.api-sports.io/basketball/teams/197.png
+2023-02-18T21:30:00+00:00,providence,villanova,,,home,1676755800,https://media-1.api-sports.io/basketball/teams/197.png

@@ -1,0 +1,31 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,stonehill,uconn,54 - 85,L,away,1667867400,https://media-1.api-sports.io/basketball/teams/5866.png
+2022-11-11T00:00:00+00:00,stonehill,quinnipiac,102 - 95,L,home,1668124800,https://media-3.api-sports.io/basketball/teams/5866.png
+2022-11-12T18:00:00+00:00,stonehill,army,82 - 77,W,away,1668276000,https://media-3.api-sports.io/basketball/teams/5866.png
+2022-11-15T22:00:00+00:00,stonehill,providence,76 - 100,L,away,1668549600,https://media-1.api-sports.io/basketball/teams/5866.png
+2022-11-20T00:30:00+00:00,stonehill,holy cross,81 - 79,W,away,1668904200,https://media-1.api-sports.io/basketball/teams/5866.png
+2022-11-21T21:00:00+00:00,stonehill,illinois (chi.),77 - 71,L,home,1669064400,https://media-2.api-sports.io/basketball/teams/5866.png
+2022-11-23T00:00:00+00:00,stonehill,fordham,60 - 71,L,away,1669161600,https://media-2.api-sports.io/basketball/teams/5866.png
+2022-11-27T18:00:00+00:00,stonehill,umass lowell,59 - 73,L,away,1669572000,https://media-1.api-sports.io/basketball/teams/5866.png
+2022-12-01T00:00:00+00:00,stonehill,eastern nazarene,45 - 92,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/5866.png
+2022-12-03T21:00:00+00:00,stonehill,binghamton,69 - 66,W,away,1670101200,https://media-3.api-sports.io/basketball/teams/5866.png
+2022-12-08T00:00:00+00:00,stonehill,rider,78 - 67,L,home,1670457600,https://media-1.api-sports.io/basketball/teams/5866.png
+2022-12-14T00:00:00+00:00,stonehill,boston college,56 - 63,L,away,1670976000,https://media-2.api-sports.io/basketball/teams/5866.png
+2022-12-20T01:00:00+00:00,stonehill,bradley,50 - 79,L,away,1671498000,https://media-1.api-sports.io/basketball/teams/5866.png
+2022-12-21T18:00:00+00:00,stonehill,valparaiso,67 - 77,L,away,1671645600,https://media-2.api-sports.io/basketball/teams/5866.png
+2022-12-29T19:00:00+00:00,stonehill,sacred heart,74 - 67,W,away,1672340400,https://media-2.api-sports.io/basketball/teams/5866.png
+2022-12-31T21:00:00+00:00,stonehill,st. francis (pa),72 - 73,L,away,1672520400,https://media-2.api-sports.io/basketball/teams/5866.png
+2023-01-06T00:00:00+00:00,stonehill,wagner,58 - 62,W,home,1672963200,https://media-2.api-sports.io/basketball/teams/5866.png
+2023-01-07T19:00:00+00:00,stonehill,central connecticut state,49 - 51,W,home,1673118000,https://media-1.api-sports.io/basketball/teams/5866.png
+2023-01-14T19:00:00+00:00,stonehill,merrimack warriors,,,home,1673722800,https://media-3.api-sports.io/basketball/teams/5866.png
+2023-01-17T00:00:00+00:00,stonehill,fairleigh dickinson,,,home,1673913600,https://media-3.api-sports.io/basketball/teams/5866.png
+2023-01-21T00:00:00+00:00,stonehill,liu sharks,,,away,1674259200,https://media-3.api-sports.io/basketball/teams/5866.png
+2023-01-22T23:00:00+00:00,stonehill,fairleigh dickinson,,,away,1674428400,https://media-1.api-sports.io/basketball/teams/5866.png
+2023-01-26T00:00:00+00:00,stonehill,hartford,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/5866.png
+2023-01-28T19:00:00+00:00,stonehill,sacred heart,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/5866.png
+2023-02-03T00:00:00+00:00,stonehill,st. francis (pa),,,home,1675382400,https://media-2.api-sports.io/basketball/teams/5866.png
+2023-02-04T18:00:00+00:00,stonehill,st. francis brooklyn,,,away,1675533600,https://media-1.api-sports.io/basketball/teams/5866.png
+2023-02-10T00:00:00+00:00,stonehill,merrimack warriors,,,away,1675987200,https://media-2.api-sports.io/basketball/teams/5866.png
+2023-02-11T19:00:00+00:00,stonehill,st. francis brooklyn,,,home,1676142000,https://media-2.api-sports.io/basketball/teams/5866.png
+2023-02-17T00:00:00+00:00,stonehill,liu sharks,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/5866.png
+2023-02-18T18:00:00+00:00,stonehill,central connecticut state,,,away,1676743200,https://media-1.api-sports.io/basketball/teams/5866.png

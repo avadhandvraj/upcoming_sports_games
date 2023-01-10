@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,charleston southern,toccoa falls,52 - 83,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/226.png
+2022-11-10T23:30:00+00:00,charleston southern,ohio state,56 - 82,L,away,1668123000,https://media-3.api-sports.io/basketball/teams/226.png
+2022-11-17T00:00:00+00:00,charleston southern,tulane,79 - 99,L,away,1668643200,https://media-3.api-sports.io/basketball/teams/226.png
+2022-11-22T00:00:00+00:00,charleston southern,bethune-cookman,63 - 78,W,home,1669075200,https://media-3.api-sports.io/basketball/teams/226.png
+2022-11-26T01:00:00+00:00,charleston southern,virginia tech,64 - 69,L,away,1669424400,https://media-1.api-sports.io/basketball/teams/226.png
+2022-12-01T00:00:00+00:00,charleston southern,citadel,76 - 73,L,home,1669852800,https://media-2.api-sports.io/basketball/teams/226.png
+2022-12-03T00:00:00+00:00,charleston southern,south florida,59 - 79,L,away,1670025600,https://media-3.api-sports.io/basketball/teams/226.png
+2022-12-06T00:00:00+00:00,charleston southern,kennesaw state,76 - 65,L,home,1670284800,https://media-3.api-sports.io/basketball/teams/226.png
+2022-12-15T01:00:00+00:00,charleston southern,tennessee state,91 - 87,W,away,1671066000,https://media-1.api-sports.io/basketball/teams/226.png
+2022-12-17T21:00:00+00:00,charleston southern,jacksonville,63 - 72,L,away,1671310800,https://media-1.api-sports.io/basketball/teams/226.png
+2022-12-22T20:00:00+00:00,charleston southern,kentucky christian,67 - 126,W,home,1671739200,https://media-1.api-sports.io/basketball/teams/226.png
+2022-12-29T22:00:00+00:00,charleston southern,gardner webb,63 - 83,L,away,1672351200,https://media-2.api-sports.io/basketball/teams/226.png
+2022-12-31T20:00:00+00:00,charleston southern,usc upstate,85 - 90,W,home,1672516800,https://media-1.api-sports.io/basketball/teams/226.png
+2023-01-05T00:00:00+00:00,charleston southern,longwood,79 - 74,L,home,1672876800,https://media-2.api-sports.io/basketball/teams/226.png
+2023-01-07T19:00:00+00:00,charleston southern,presbyterian,67 - 61,W,away,1673118000,https://media-1.api-sports.io/basketball/teams/226.png
+2023-01-12T00:00:00+00:00,charleston southern,high point,,,home,1673481600,https://media-3.api-sports.io/basketball/teams/226.png
+2023-01-14T19:00:00+00:00,charleston southern,radford,,,away,1673722800,https://media-2.api-sports.io/basketball/teams/226.png
+2023-01-19T00:00:00+00:00,charleston southern,unc asheville,,,home,1674086400,https://media-2.api-sports.io/basketball/teams/226.png
+2023-01-21T22:30:00+00:00,charleston southern,campbell,,,home,1674340200,https://media-3.api-sports.io/basketball/teams/226.png
+2023-01-26T00:00:00+00:00,charleston southern,winthrop,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/226.png
+2023-01-28T20:00:00+00:00,charleston southern,longwood,,,away,1674936000,https://media-2.api-sports.io/basketball/teams/226.png
+2023-02-02T00:00:00+00:00,charleston southern,gardner webb,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/226.png
+2023-02-05T00:00:00+00:00,charleston southern,high point,,,away,1675555200,https://media-2.api-sports.io/basketball/teams/226.png
+2023-02-09T00:00:00+00:00,charleston southern,usc upstate,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/226.png
+2023-02-11T22:30:00+00:00,charleston southern,radford,,,home,1676154600,https://media-3.api-sports.io/basketball/teams/226.png
+2023-02-16T00:00:00+00:00,charleston southern,campbell,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/226.png
+2023-02-18T22:30:00+00:00,charleston southern,winthrop,,,home,1676759400,https://media-1.api-sports.io/basketball/teams/226.png

@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,nc state,austin peay,50 - 99,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-11-12T00:00:00+00:00,nc state,campbell,67 - 73,W,home,1668211200,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-11-16T02:00:00+00:00,nc state,florida international,74 - 107,W,home,1668564000,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-11-19T18:00:00+00:00,nc state,elon,63 - 74,W,home,1668880800,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-11-23T17:00:00+00:00,nc state,kansas,74 - 80,L,away,1669222800,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-11-24T21:00:00+00:00,nc state,dayton,64 - 76,W,home,1669323600,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-11-26T03:00:00+00:00,nc state,butler,61 - 76,W,home,1669431600,https://media-3.api-sports.io/basketball/teams/5813.png
+2022-11-30T00:00:00+00:00,nc state,william & mary,64 - 85,W,home,1669766400,https://media-2.api-sports.io/basketball/teams/5813.png
+2022-12-03T00:00:00+00:00,nc state,pittsburgh,68 - 60,L,home,1670025600,https://media-3.api-sports.io/basketball/teams/5813.png
+2022-12-07T00:00:00+00:00,nc state,coppin state,72 - 94,W,home,1670371200,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-12-10T19:00:00+00:00,nc state,miami (fl),73 - 80,L,away,1670698800,https://media-3.api-sports.io/basketball/teams/5813.png
+2022-12-13T23:30:00+00:00,nc state,furman,73 - 92,W,home,1670974200,https://media-2.api-sports.io/basketball/teams/5813.png
+2022-12-18T03:30:00+00:00,nc state,vanderbilt,66 - 70,W,home,1671334200,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-12-23T00:00:00+00:00,nc state,louisville,64 - 76,W,home,1671753600,https://media-1.api-sports.io/basketball/teams/5813.png
+2022-12-30T21:00:00+00:00,nc state,clemson,64 - 78,L,away,1672434000,https://media-3.api-sports.io/basketball/teams/5813.png
+2023-01-05T00:00:00+00:00,nc state,duke,60 - 84,W,home,1672876800,https://media-2.api-sports.io/basketball/teams/5813.png
+2023-01-08T00:30:00+00:00,nc state,virginia tech,73 - 69,W,away,1673137800,https://media-3.api-sports.io/basketball/teams/5813.png
+2023-01-14T17:00:00+00:00,nc state,miami (fl),,,home,1673715600,https://media-3.api-sports.io/basketball/teams/5813.png
+2023-01-18T00:00:00+00:00,nc state,georgia tech,,,away,1674000000,https://media-1.api-sports.io/basketball/teams/5813.png
+2023-01-21T22:00:00+00:00,nc state,north carolina,,,away,1674338400,https://media-1.api-sports.io/basketball/teams/5813.png
+2023-01-25T00:00:00+00:00,nc state,notre dame,,,home,1674604800,https://media-3.api-sports.io/basketball/teams/5813.png
+2023-01-28T18:00:00+00:00,nc state,wake forest,,,away,1674928800,https://media-1.api-sports.io/basketball/teams/5813.png
+2023-02-02T02:00:00+00:00,nc state,florida state,,,home,1675303200,https://media-1.api-sports.io/basketball/teams/5813.png
+2023-02-04T18:00:00+00:00,nc state,georgia tech,,,home,1675533600,https://media-2.api-sports.io/basketball/teams/5813.png
+2023-02-08T02:00:00+00:00,nc state,virginia,,,away,1675821600,https://media-3.api-sports.io/basketball/teams/5813.png
+2023-02-11T17:00:00+00:00,nc state,boston college,,,away,1676134800,https://media-3.api-sports.io/basketball/teams/5813.png
+2023-02-15T00:00:00+00:00,nc state,syracuse,,,away,1676419200,https://media-1.api-sports.io/basketball/teams/5813.png

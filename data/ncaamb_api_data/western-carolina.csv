@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,western carolina,georgia,55 - 68,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/2199.png
+2022-11-11T00:00:00+00:00,western carolina,maryland,51 - 71,L,away,1668124800,https://media-3.api-sports.io/basketball/teams/2199.png
+2022-11-13T21:00:00+00:00,western carolina,brescia,45 - 112,W,home,1668373200,https://media-1.api-sports.io/basketball/teams/2199.png
+2022-11-18T22:30:00+00:00,western carolina,mcneese state,88 - 69,W,away,1668810600,https://media-1.api-sports.io/basketball/teams/2199.png
+2022-11-19T17:00:00+00:00,western carolina,lamar,91 - 98,W,home,1668877200,https://media-3.api-sports.io/basketball/teams/2199.png
+2022-11-20T17:00:00+00:00,western carolina,lindenwood,88 - 90,W,home,1668963600,https://media-2.api-sports.io/basketball/teams/2199.png
+2022-11-26T19:00:00+00:00,western carolina,unc asheville,61 - 73,L,away,1669489200,https://media-1.api-sports.io/basketball/teams/2199.png
+2022-12-01T00:00:00+00:00,western carolina,gardner webb,71 - 55,L,home,1669852800,https://media-3.api-sports.io/basketball/teams/2199.png
+2022-12-03T22:30:00+00:00,western carolina,usc upstate,79 - 64,L,home,1670106600,https://media-3.api-sports.io/basketball/teams/2199.png
+2022-12-08T00:00:00+00:00,western carolina,davidson,64 - 72,L,away,1670457600,https://media-3.api-sports.io/basketball/teams/2199.png
+2022-12-10T21:00:00+00:00,western carolina,brevard college,55 - 99,W,home,1670706000,https://media-1.api-sports.io/basketball/teams/2199.png
+2022-12-17T21:00:00+00:00,western carolina,tennessee tech,75 - 65,W,away,1671310800,https://media-2.api-sports.io/basketball/teams/2199.png
+2022-12-20T19:00:00+00:00,western carolina,toccoa falls,50 - 117,W,home,1671562800,https://media-2.api-sports.io/basketball/teams/2199.png
+2022-12-29T19:00:00+00:00,western carolina,nc greensboro,72 - 47,L,home,1672340400,https://media-3.api-sports.io/basketball/teams/2199.png
+2022-12-31T21:00:00+00:00,western carolina,furman,67 - 79,W,home,1672520400,https://media-3.api-sports.io/basketball/teams/2199.png
+2023-01-05T00:00:00+00:00,western carolina,east tennessee st,71 - 60,W,away,1672876800,https://media-1.api-sports.io/basketball/teams/2199.png
+2023-01-07T21:00:00+00:00,western carolina,mercer,45 - 73,W,home,1673125200,https://media-3.api-sports.io/basketball/teams/2199.png
+2023-01-12T00:00:00+00:00,western carolina,chattanooga mocs,,,away,1673481600,https://media-3.api-sports.io/basketball/teams/2199.png
+2023-01-14T18:00:00+00:00,western carolina,citadel,,,away,1673719200,https://media-2.api-sports.io/basketball/teams/2199.png
+2023-01-19T00:00:00+00:00,western carolina,wofford,,,home,1674086400,https://media-3.api-sports.io/basketball/teams/2199.png
+2023-01-21T21:00:00+00:00,western carolina,samford,,,away,1674334800,https://media-2.api-sports.io/basketball/teams/2199.png
+2023-01-26T00:00:00+00:00,western carolina,citadel,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/2199.png
+2023-01-28T18:00:00+00:00,western carolina,vmi,,,away,1674928800,https://media-1.api-sports.io/basketball/teams/2199.png
+2023-02-02T00:00:00+00:00,western carolina,samford,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/2199.png
+2023-02-04T19:00:00+00:00,western carolina,chattanooga mocs,,,home,1675537200,https://media-3.api-sports.io/basketball/teams/2199.png
+2023-02-09T00:00:00+00:00,western carolina,wofford,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/2199.png
+2023-02-11T19:00:00+00:00,western carolina,furman,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/2199.png
+2023-02-16T00:00:00+00:00,western carolina,east tennessee st,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/2199.png
+2023-02-18T21:00:00+00:00,western carolina,mercer,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/2199.png

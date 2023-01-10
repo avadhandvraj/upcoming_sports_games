@@ -1,0 +1,31 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,georgia state,coastal georgia,59 - 76,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/1925.png
+2022-11-13T00:00:00+00:00,georgia state,georgia tech,59 - 57,L,home,1668297600,https://media-1.api-sports.io/basketball/teams/1925.png
+2022-11-16T00:00:00+00:00,georgia state,mercer,83 - 85,W,home,1668556800,https://media-1.api-sports.io/basketball/teams/1925.png
+2022-11-18T23:00:00+00:00,georgia state,eastern kentucky,62 - 61,L,home,1668812400,https://media-3.api-sports.io/basketball/teams/1925.png
+2022-11-19T20:00:00+00:00,georgia state,tx a&m commerce,53 - 57,W,home,1668888000,https://media-3.api-sports.io/basketball/teams/1925.png
+2022-11-20T20:30:00+00:00,georgia state,unc asheville,68 - 74,W,home,1668976200,https://media-3.api-sports.io/basketball/teams/1925.png
+2022-11-27T19:00:00+00:00,georgia state,belmont,68 - 66,L,home,1669575600,https://media-1.api-sports.io/basketball/teams/1925.png
+2022-12-02T00:00:00+00:00,georgia state,middle georgia state,53 - 79,W,home,1669939200,https://media-3.api-sports.io/basketball/teams/1925.png
+2022-12-04T19:00:00+00:00,georgia state,northeastern,46 - 66,L,away,1670180400,https://media-2.api-sports.io/basketball/teams/1925.png
+2022-12-15T01:00:00+00:00,georgia state,auburn,64 - 72,L,away,1671066000,https://media-2.api-sports.io/basketball/teams/1925.png
+2022-12-18T19:00:00+00:00,georgia state,rhode island,66 - 75,W,home,1671390000,https://media-2.api-sports.io/basketball/teams/1925.png
+2022-12-21T17:00:00+00:00,georgia state,toccoa falls,52 - 91,W,home,1671642000,https://media-1.api-sports.io/basketball/teams/1925.png
+2022-12-30T00:00:00+00:00,georgia state,james madison,63 - 47,L,home,1672358400,https://media-1.api-sports.io/basketball/teams/1925.png
+2022-12-31T19:00:00+00:00,georgia state,south alabama,58 - 68,W,home,1672513200,https://media-1.api-sports.io/basketball/teams/1925.png
+2023-01-06T00:30:00+00:00,georgia state,louisiana monroe,58 - 66,L,away,1672965000,https://media-3.api-sports.io/basketball/teams/1925.png
+2023-01-08T01:00:00+00:00,georgia state,louisiana lafayette,70 - 78,L,away,1673139600,https://media-1.api-sports.io/basketball/teams/1925.png
+2023-01-13T00:00:00+00:00,georgia state,troy,,,home,1673568000,https://media-2.api-sports.io/basketball/teams/1925.png
+2023-01-14T19:00:00+00:00,georgia state,coastal carolina,,,home,1673722800,https://media-3.api-sports.io/basketball/teams/1925.png
+2023-01-20T00:00:00+00:00,georgia state,old dominion,,,away,1674172800,https://media-1.api-sports.io/basketball/teams/1925.png
+2023-01-21T20:00:00+00:00,georgia state,georgia southern,,,away,1674331200,https://media-1.api-sports.io/basketball/teams/1925.png
+2023-01-26T23:30:00+00:00,georgia state,appalachian state,,,away,1674775800,https://media-3.api-sports.io/basketball/teams/1925.png
+2023-01-29T00:00:00+00:00,georgia state,marshall,,,away,1674950400,https://media-3.api-sports.io/basketball/teams/1925.png
+2023-02-03T00:00:00+00:00,georgia state,georgia southern,,,home,1675382400,https://media-1.api-sports.io/basketball/teams/1925.png
+2023-02-04T19:00:00+00:00,georgia state,southern miss,,,home,1675537200,https://media-1.api-sports.io/basketball/teams/1925.png
+2023-02-10T00:00:00+00:00,georgia state,old dominion,,,home,1675987200,https://media-2.api-sports.io/basketball/teams/1925.png
+2023-02-11T19:00:00+00:00,georgia state,marshall,,,home,1676142000,https://media-2.api-sports.io/basketball/teams/1925.png
+2023-02-17T00:00:00+00:00,georgia state,coastal carolina,,,away,1676592000,https://media-2.api-sports.io/basketball/teams/1925.png
+2023-02-18T20:00:00+00:00,georgia state,arkansas state,,,away,1676750400,https://media-2.api-sports.io/basketball/teams/1925.png
+2023-02-22T21:00:00+00:00,georgia state,appalachian state,None - None,tie,home,1677099600,https://media-3.api-sports.io/basketball/teams/1925.png
+2023-02-24T21:00:00+00:00,georgia state,james madison,None - None,tie,away,1677272400,https://media-1.api-sports.io/basketball/teams/1925.png

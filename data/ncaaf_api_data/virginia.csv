@@ -1,0 +1,13 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-09-03,virginia,richmond,17 - 34,W,home,1662222600,https://media-2.api-sports.io/american-football/teams/147.png
+2022-09-10,virginia,illinois,3 - 24,L,away,1662840000,https://media-3.api-sports.io/american-football/teams/147.png
+2022-09-17,virginia,old dominion,14 - 16,W,home,1663437600,https://media-2.api-sports.io/american-football/teams/147.png
+2022-09-23,virginia,syracuse,20 - 22,L,away,1663974000,https://media-2.api-sports.io/american-football/teams/147.png
+2022-10-01,virginia,duke,17 - 38,L,away,1664667000,https://media-2.api-sports.io/american-football/teams/147.png
+2022-10-08,virginia,louisville,34 - 17,L,home,1665244800,https://media-1.api-sports.io/american-football/teams/147.png
+2022-10-20,virginia,georgia tech,16 - 9,W,away,1666308600,https://media-1.api-sports.io/american-football/teams/147.png
+2022-10-29,virginia,miami,14 - 12,L,home,1667061000,https://media-1.api-sports.io/american-football/teams/147.png
+2022-11-05,virginia,north carolina,31 - 28,L,home,1667664000,https://media-1.api-sports.io/american-football/teams/147.png
+2022-11-12,virginia,pittsburgh,37 - 7,L,home,1668272400,https://media-1.api-sports.io/american-football/teams/147.png
+2022-11-19,virginia,coastal carolina,None - None,tie,home,1668889800,https://media-3.api-sports.io/american-football/teams/147.png
+2022-11-26,virginia,virginia tech,None - None,tie,away,1669438800,https://media-2.api-sports.io/american-football/teams/147.png

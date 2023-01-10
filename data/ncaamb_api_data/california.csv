@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T04:00:00+00:00,california,uc davis,75 - 65,L,home,1667880000,https://media-2.api-sports.io/basketball/teams/1850.png
+2022-11-12T00:00:00+00:00,california,kansas state,63 - 54,L,home,1668211200,https://media-1.api-sports.io/basketball/teams/1850.png
+2022-11-16T03:00:00+00:00,california,uc san diego,62 - 64,L,away,1668567600,https://media-2.api-sports.io/basketball/teams/1850.png
+2022-11-19T02:00:00+00:00,california,southern univ.,74 - 66,L,home,1668823200,https://media-2.api-sports.io/basketball/teams/1850.png
+2022-11-22T03:00:00+00:00,california,texas state,59 - 55,L,home,1669086000,https://media-1.api-sports.io/basketball/teams/1850.png
+2022-11-26T03:00:00+00:00,california,tcu,48 - 59,L,away,1669431600,https://media-1.api-sports.io/basketball/teams/1850.png
+2022-11-26T21:00:00+00:00,california,clemson,67 - 59,L,home,1669496400,https://media-3.api-sports.io/basketball/teams/1850.png
+2022-12-01T03:00:00+00:00,california,usc,66 - 51,L,home,1669863600,https://media-1.api-sports.io/basketball/teams/1850.png
+2022-12-04T22:00:00+00:00,california,arizona,68 - 81,L,away,1670191200,https://media-2.api-sports.io/basketball/teams/1850.png
+2022-12-08T03:00:00+00:00,california,east. washington,50 - 48,L,home,1670468400,https://media-3.api-sports.io/basketball/teams/1850.png
+2022-12-10T22:00:00+00:00,california,butler,82 - 58,L,home,1670709600,https://media-1.api-sports.io/basketball/teams/1850.png
+2022-12-18T22:00:00+00:00,california,santa clara,62 - 71,L,away,1671400800,https://media-2.api-sports.io/basketball/teams/1850.png
+2022-12-22T00:00:00+00:00,california,ut arlington,51 - 73,W,home,1671667200,https://media-1.api-sports.io/basketball/teams/1850.png
+2022-12-30T03:00:00+00:00,california,utah utes,58 - 43,L,home,1672369200,https://media-3.api-sports.io/basketball/teams/1850.png
+2022-12-31T23:00:00+00:00,california,colorado,76 - 80,W,home,1672527600,https://media-1.api-sports.io/basketball/teams/1850.png
+2023-01-07T02:00:00+00:00,california,stanford,70 - 92,W,home,1673056800,https://media-2.api-sports.io/basketball/teams/1850.png
+2023-01-12T04:00:00+00:00,california,washington state,,,away,1673496000,https://media-3.api-sports.io/basketball/teams/1850.png
+2023-01-14T23:00:00+00:00,california,washington,,,away,1673737200,https://media-1.api-sports.io/basketball/teams/1850.png
+2023-01-19T03:00:00+00:00,california,oregon,,,home,1674097200,https://media-3.api-sports.io/basketball/teams/1850.png
+2023-01-22T20:00:00+00:00,california,oregon state,,,home,1674417600,https://media-2.api-sports.io/basketball/teams/1850.png
+2023-01-29T03:00:00+00:00,california,stanford,,,away,1674961200,https://media-1.api-sports.io/basketball/teams/1850.png
+2023-02-03T03:00:00+00:00,california,colorado,,,away,1675393200,https://media-1.api-sports.io/basketball/teams/1850.png
+2023-02-05T23:00:00+00:00,california,utah utes,,,away,1675638000,https://media-2.api-sports.io/basketball/teams/1850.png
+2023-02-10T04:00:00+00:00,california,arizona,,,home,1676001600,https://media-1.api-sports.io/basketball/teams/1850.png
+2023-02-12T01:00:00+00:00,california,arizona state,,,home,1676163600,https://media-1.api-sports.io/basketball/teams/1850.png
+2023-02-16T21:00:00+00:00,california,usc,,,away,1676581200,https://media-1.api-sports.io/basketball/teams/1850.png

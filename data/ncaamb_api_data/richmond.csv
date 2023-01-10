@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,richmond,vmi,48 - 69,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/2092.png
+2022-11-12T00:00:00+00:00,richmond,northern iowa,55 - 68,W,home,1668211200,https://media-1.api-sports.io/basketball/teams/2092.png
+2022-11-15T00:00:00+00:00,richmond,charleston,90 - 92,L,away,1668470400,https://media-2.api-sports.io/basketball/teams/2092.png
+2022-11-18T00:00:00+00:00,richmond,wichita state,56 - 53,L,home,1668729600,https://media-1.api-sports.io/basketball/teams/2092.png
+2022-11-22T00:00:00+00:00,richmond,syracuse,74 - 71,L,home,1669075200,https://media-2.api-sports.io/basketball/teams/2092.png
+2022-11-23T00:00:00+00:00,richmond,temple,49 - 61,W,home,1669161600,https://media-3.api-sports.io/basketball/teams/2092.png
+2022-12-01T00:00:00+00:00,richmond,toledo,67 - 90,L,away,1669852800,https://media-1.api-sports.io/basketball/teams/2092.png
+2022-12-04T00:00:00+00:00,richmond,william & mary,57 - 58,L,away,1670112000,https://media-3.api-sports.io/basketball/teams/2092.png
+2022-12-10T19:00:00+00:00,richmond,drake,52 - 82,W,home,1670698800,https://media-1.api-sports.io/basketball/teams/2092.png
+2022-12-14T00:00:00+00:00,richmond,fairleigh dickinson,48 - 77,W,home,1670976000,https://media-2.api-sports.io/basketball/teams/2092.png
+2022-12-18T00:00:00+00:00,richmond,clemson,57 - 85,L,away,1671321600,https://media-2.api-sports.io/basketball/teams/2092.png
+2022-12-22T00:00:00+00:00,richmond,bucknell,71 - 81,W,home,1671667200,https://media-3.api-sports.io/basketball/teams/2092.png
+2022-12-29T00:00:00+00:00,richmond,coppin state,65 - 83,W,home,1672272000,https://media-2.api-sports.io/basketball/teams/2092.png
+2022-12-31T19:00:00+00:00,richmond,george mason,58 - 62,L,away,1672513200,https://media-3.api-sports.io/basketball/teams/2092.png
+2023-01-05T00:00:00+00:00,richmond,george washington,63 - 73,W,home,1672876800,https://media-1.api-sports.io/basketball/teams/2092.png
+2023-01-07T23:00:00+00:00,richmond,duquesne,73 - 75,W,home,1673132400,https://media-2.api-sports.io/basketball/teams/2092.png
+2023-01-12T00:00:00+00:00,richmond,davidson,,,away,1673481600,https://media-2.api-sports.io/basketball/teams/2092.png
+2023-01-14T19:30:00+00:00,richmond,st. bonaventure,,,away,1673724600,https://media-2.api-sports.io/basketball/teams/2092.png
+2023-01-18T00:00:00+00:00,richmond,rhode island,,,home,1674000000,https://media-2.api-sports.io/basketball/teams/2092.png
+2023-01-21T00:00:00+00:00,richmond,vcu rams,,,home,1674259200,https://media-2.api-sports.io/basketball/teams/2092.png
+2023-01-26T00:00:00+00:00,richmond,umass,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/2092.png
+2023-01-28T21:00:00+00:00,richmond,dayton,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/2092.png
+2023-02-02T00:00:00+00:00,richmond,st. bonaventure,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/2092.png
+2023-02-05T17:00:00+00:00,richmond,fordham,,,home,1675616400,https://media-2.api-sports.io/basketball/teams/2092.png
+2023-02-09T00:00:00+00:00,richmond,george washington,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/2092.png
+2023-02-11T21:00:00+00:00,richmond,loyola chicago,,,home,1676149200,https://media-3.api-sports.io/basketball/teams/2092.png
+2023-02-16T00:00:00+00:00,richmond,la salle,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/2092.png

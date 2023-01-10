@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-12T00:00:00+00:00,drexel,old dominion,59 - 71,W,home,1668211200,https://media-2.api-sports.io/basketball/teams/1889.png
+2022-11-16T00:00:00+00:00,drexel,penn,64 - 59,L,home,1668556800,https://media-1.api-sports.io/basketball/teams/1889.png
+2022-11-18T23:00:00+00:00,drexel,arcadia,45 - 85,W,home,1668812400,https://media-1.api-sports.io/basketball/teams/1889.png
+2022-11-21T22:00:00+00:00,drexel,ut arlington,59 - 38,W,away,1669068000,https://media-2.api-sports.io/basketball/teams/1889.png
+2022-11-23T00:30:00+00:00,drexel,florida gulf coast,59 - 67,L,away,1669163400,https://media-1.api-sports.io/basketball/teams/1889.png
+2022-11-23T22:00:00+00:00,drexel,indiana state,81 - 85,L,away,1669240800,https://media-2.api-sports.io/basketball/teams/1889.png
+2022-11-27T19:00:00+00:00,drexel,temple,61 - 73,L,away,1669575600,https://media-1.api-sports.io/basketball/teams/1889.png
+2022-12-01T00:00:00+00:00,drexel,lafayette,56 - 64,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/1889.png
+2022-12-03T19:00:00+00:00,drexel,princeton,83 - 63,L,home,1670094000,https://media-1.api-sports.io/basketball/teams/1889.png
+2022-12-10T17:00:00+00:00,drexel,la salle,65 - 58,W,away,1670691600,https://media-3.api-sports.io/basketball/teams/1889.png
+2022-12-15T00:00:00+00:00,drexel,seton hall,49 - 66,L,away,1671062400,https://media-1.api-sports.io/basketball/teams/1889.png
+2022-12-17T19:00:00+00:00,drexel,delaware state,52 - 85,W,home,1671303600,https://media-1.api-sports.io/basketball/teams/1889.png
+2022-12-23T00:00:00+00:00,drexel,fairfield,None - None,tie,away,1671753600,https://media-2.api-sports.io/basketball/teams/1889.png
+2022-12-29T21:00:00+00:00,drexel,elon,50 - 62,W,home,1672347600,https://media-2.api-sports.io/basketball/teams/1889.png
+2022-12-31T19:00:00+00:00,drexel,william & mary,56 - 66,W,home,1672513200,https://media-2.api-sports.io/basketball/teams/1889.png
+2023-01-06T00:00:00+00:00,drexel,towson,58 - 64,L,away,1672963200,https://media-3.api-sports.io/basketball/teams/1889.png
+2023-01-07T19:00:00+00:00,drexel,monmouth,35 - 67,W,home,1673118000,https://media-1.api-sports.io/basketball/teams/1889.png
+2023-01-13T00:00:00+00:00,drexel,stony brook,,,away,1673568000,https://media-1.api-sports.io/basketball/teams/1889.png
+2023-01-14T17:00:00+00:00,drexel,northeastern,,,away,1673715600,https://media-2.api-sports.io/basketball/teams/1889.png
+2023-01-20T00:00:00+00:00,drexel,hampton,,,home,1674172800,https://media-3.api-sports.io/basketball/teams/1889.png
+2023-01-21T19:00:00+00:00,drexel,delaware,,,home,1674327600,https://media-2.api-sports.io/basketball/teams/1889.png
+2023-01-27T00:00:00+00:00,drexel,n. carolina a&t,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/1889.png
+2023-01-28T21:00:00+00:00,drexel,elon,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/1889.png
+2023-02-03T00:00:00+00:00,drexel,charleston,,,home,1675382400,https://media-1.api-sports.io/basketball/teams/1889.png
+2023-02-04T19:00:00+00:00,drexel,monmouth,,,away,1675537200,https://media-1.api-sports.io/basketball/teams/1889.png
+2023-02-09T00:00:00+00:00,drexel,delaware,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1889.png
+2023-02-11T19:00:00+00:00,drexel,towson,,,home,1676142000,https://media-2.api-sports.io/basketball/teams/1889.png
+2023-02-14T00:00:00+00:00,drexel,hofstra,,,away,1676332800,https://media-2.api-sports.io/basketball/teams/1889.png
+2023-02-17T00:00:00+00:00,drexel,nc wilmington,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/1889.png
+2023-02-18T21:00:00+00:00,drexel,hampton,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/1889.png
+2023-02-23T21:00:00+00:00,drexel,northeastern,None - None,tie,home,1677186000,https://media-3.api-sports.io/basketball/teams/1889.png

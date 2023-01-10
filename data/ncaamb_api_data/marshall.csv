@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,marshall,queens royals,82 - 83,L,away,1667865600,https://media-1.api-sports.io/basketball/teams/237.png
+2022-11-15T00:00:00+00:00,marshall,tennessee tech,65 - 91,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/237.png
+2022-11-18T00:00:00+00:00,marshall,miami (ohio),95 - 69,W,away,1668729600,https://media-2.api-sports.io/basketball/teams/237.png
+2022-11-20T00:00:00+00:00,marshall,coppin state,67 - 86,W,home,1668902400,https://media-2.api-sports.io/basketball/teams/237.png
+2022-11-22T00:00:00+00:00,marshall,chicago state,70 - 82,W,home,1669075200,https://media-2.api-sports.io/basketball/teams/237.png
+2022-11-27T00:00:00+00:00,marshall,morehead state,59 - 83,W,home,1669507200,https://media-3.api-sports.io/basketball/teams/237.png
+2022-12-01T00:00:00+00:00,marshall,akron,57 - 68,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/237.png
+2022-12-03T22:00:00+00:00,marshall,ohio,69 - 83,W,home,1670104800,https://media-2.api-sports.io/basketball/teams/237.png
+2022-12-09T00:00:00+00:00,marshall,duquesne,82 - 71,W,away,1670544000,https://media-1.api-sports.io/basketball/teams/237.png
+2022-12-11T00:00:00+00:00,marshall,robert morris,69 - 60,W,away,1670716800,https://media-2.api-sports.io/basketball/teams/237.png
+2022-12-14T00:00:00+00:00,marshall,nc greensboro,67 - 75,L,away,1670976000,https://media-2.api-sports.io/basketball/teams/237.png
+2022-12-17T20:30:00+00:00,marshall,toledo,85 - 100,W,home,1671309000,https://media-1.api-sports.io/basketball/teams/237.png
+2022-12-20T00:00:00+00:00,marshall,glenville state,73 - 99,W,home,1671494400,https://media-2.api-sports.io/basketball/teams/237.png
+2022-12-30T00:00:00+00:00,marshall,appalachian state,53 - 79,W,home,1672358400,https://media-2.api-sports.io/basketball/teams/237.png
+2022-12-31T19:00:00+00:00,marshall,james madison,72 - 66,L,home,1672513200,https://media-1.api-sports.io/basketball/teams/237.png
+2023-01-06T00:00:00+00:00,marshall,georgia southern,76 - 81,L,away,1672963200,https://media-3.api-sports.io/basketball/teams/237.png
+2023-01-07T20:30:00+00:00,marshall,coastal carolina,66 - 81,W,home,1673123400,https://media-2.api-sports.io/basketball/teams/237.png
+2023-01-13T00:00:00+00:00,marshall,southern miss,,,home,1673568000,https://media-3.api-sports.io/basketball/teams/237.png
+2023-01-15T00:00:00+00:00,marshall,old dominion,,,home,1673740800,https://media-2.api-sports.io/basketball/teams/237.png
+2023-01-20T01:00:00+00:00,marshall,texas state,,,away,1674176400,https://media-1.api-sports.io/basketball/teams/237.png
+2023-01-21T20:00:00+00:00,marshall,arkansas state,,,away,1674331200,https://media-2.api-sports.io/basketball/teams/237.png
+2023-01-27T00:00:00+00:00,marshall,louisiana monroe,,,home,1674777600,https://media-2.api-sports.io/basketball/teams/237.png
+2023-01-29T00:00:00+00:00,marshall,georgia state,,,home,1674950400,https://media-1.api-sports.io/basketball/teams/237.png
+2023-02-02T23:30:00+00:00,marshall,appalachian state,,,away,1675380600,https://media-3.api-sports.io/basketball/teams/237.png
+2023-02-05T01:00:00+00:00,marshall,louisiana lafayette,,,away,1675558800,https://media-3.api-sports.io/basketball/teams/237.png
+2023-02-10T00:00:00+00:00,marshall,coastal carolina,,,away,1675987200,https://media-1.api-sports.io/basketball/teams/237.png
+2023-02-11T19:00:00+00:00,marshall,georgia state,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/237.png
+2023-02-17T00:00:00+00:00,marshall,georgia southern,,,home,1676592000,https://media-1.api-sports.io/basketball/teams/237.png
+2023-02-18T21:00:00+00:00,marshall,troy,None - None,tie,home,1676754000,https://media-3.api-sports.io/basketball/teams/237.png
+2023-02-22T21:00:00+00:00,marshall,james madison,None - None,tie,away,1677099600,https://media-2.api-sports.io/basketball/teams/237.png
+2023-02-24T21:00:00+00:00,marshall,old dominion,None - None,tie,away,1677272400,https://media-3.api-sports.io/basketball/teams/237.png

@@ -1,0 +1,35 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Saturday, August 06 08:30 AM",fsv mainz 05,vfl bochum,2 - 1,W,away,1659792600,https://media-2.api-sports.io/football/teams/164.png
+"Sunday, August 14 08:30 AM",fsv mainz 05,union berlin,0 - 0,tie,home,1660483800,https://media-1.api-sports.io/football/teams/164.png
+"Saturday, August 20 08:30 AM",fsv mainz 05,fc augsburg,2 - 1,W,away,1661002200,https://media-3.api-sports.io/football/teams/164.png
+"Saturday, August 27 08:30 AM",fsv mainz 05,bayer leverkusen,3 - 0,L,home,1661607000,https://media-3.api-sports.io/football/teams/164.png
+"Sunday, September 04 10:30 AM",fsv mainz 05,borussia monchengladbach,1 - 0,W,away,1662305400,https://media-1.api-sports.io/football/teams/164.png
+"Saturday, September 10 08:30 AM",fsv mainz 05,1899 hoffenheim,1 - 4,L,away,1662816600,https://media-3.api-sports.io/football/teams/164.png
+"Friday, September 16 01:30 PM",fsv mainz 05,hertha berlin,1 - 1,tie,home,1663353000,https://media-3.api-sports.io/football/teams/164.png
+"Saturday, October 01 08:30 AM",fsv mainz 05,sc freiburg,1 - 2,L,away,1664631000,https://media-1.api-sports.io/football/teams/164.png
+"Saturday, October 08 08:30 AM",fsv mainz 05,rb leipzig,1 - 1,tie,home,1665235800,https://media-3.api-sports.io/football/teams/164.png
+"Saturday, October 15 08:30 AM",fsv mainz 05,werder bremen,2 - 0,W,away,1665840600,https://media-3.api-sports.io/football/teams/164.png
+"Friday, October 21 01:30 PM",fsv mainz 05,fc koln,0 - 5,W,home,1666377000,https://media-3.api-sports.io/football/teams/164.png
+"Saturday, October 29 08:30 AM",fsv mainz 05,bayern munich,2 - 6,L,away,1667050200,https://media-2.api-sports.io/football/teams/164.png
+"Saturday, November 05 09:30 AM",fsv mainz 05,vfl wolfsburg,3 - 0,L,home,1667658600,https://media-1.api-sports.io/football/teams/164.png
+"Wednesday, November 09 01:30 PM",fsv mainz 05,fc schalke 04,0 - 1,L,away,1668022200,https://media-1.api-sports.io/football/teams/164.png
+"Sunday, November 13 08:30 AM",fsv mainz 05,eintracht frankfurt,1 - 1,tie,home,1668349800,https://media-3.api-sports.io/football/teams/164.png
+"Saturday, January 21 08:30 AM",fsv mainz 05,vfb stuttgart,,,away,1674311400,https://media-2.api-sports.io/football/teams/164.png
+"Wednesday, January 25 11:30 AM",fsv mainz 05,borussia dortmund,,,home,1674667800,https://media-1.api-sports.io/football/teams/164.png
+"Saturday, January 28 08:30 AM",fsv mainz 05,vfl bochum,,,home,1674916200,https://media-1.api-sports.io/football/teams/164.png
+"Saturday, February 04 08:30 AM",fsv mainz 05,union berlin,,,away,1675521000,https://media-2.api-sports.io/football/teams/164.png
+"Saturday, February 11 08:30 AM",fsv mainz 05,fc augsburg,,,home,1676125800,https://media-2.api-sports.io/football/teams/164.png
+"Sunday, February 19 12:30 PM",fsv mainz 05,bayer leverkusen,,,away,1676831400,https://media-1.api-sports.io/football/teams/164.png
+"Friday, February 24 06:00 PM",fsv mainz 05,borussia monchengladbach,,,home,1677283200,https://media-3.api-sports.io/football/teams/164.png
+"Saturday, March 04 08:30 AM",fsv mainz 05,1899 hoffenheim,,,home,1677940200,https://media-2.api-sports.io/football/teams/164.png
+"Saturday, March 11 08:30 AM",fsv mainz 05,hertha berlin,,,away,1678545000,https://media-1.api-sports.io/football/teams/164.png
+"Sunday, March 19 01:30 PM",fsv mainz 05,sc freiburg,,,home,1679250600,https://media-1.api-sports.io/football/teams/164.png
+"Friday, March 31 07:00 PM",fsv mainz 05,rb leipzig,,,away,1680307200,https://media-2.api-sports.io/football/teams/164.png
+"Friday, April 07 07:00 PM",fsv mainz 05,werder bremen,,,home,1680912000,https://media-1.api-sports.io/football/teams/164.png
+"Friday, April 14 07:00 PM",fsv mainz 05,fc koln,,,away,1681516800,https://media-1.api-sports.io/football/teams/164.png
+"Friday, April 21 07:00 PM",fsv mainz 05,bayern munich,,,home,1682121600,https://media-1.api-sports.io/football/teams/164.png
+"Friday, April 28 07:00 PM",fsv mainz 05,vfl wolfsburg,,,away,1682726400,https://media-1.api-sports.io/football/teams/164.png
+"Friday, May 05 07:00 PM",fsv mainz 05,fc schalke 04,,,home,1683331200,https://media-3.api-sports.io/football/teams/164.png
+"Friday, May 12 07:00 PM",fsv mainz 05,eintracht frankfurt,,,away,1683936000,https://media-1.api-sports.io/football/teams/164.png
+"Friday, May 19 07:00 PM",fsv mainz 05,vfb stuttgart,,,home,1684540800,https://media-2.api-sports.io/football/teams/164.png
+"Saturday, May 27 08:30 AM",fsv mainz 05,borussia dortmund,,,away,1685194200,https://media-1.api-sports.io/football/teams/164.png

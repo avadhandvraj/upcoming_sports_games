@@ -1,0 +1,21 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-08-13,los angeles chargers,los angeles rams,29 - 22,L,home,1660356000,https://media-3.api-sports.io/american-football/teams/30.png
+2022-08-20,los angeles chargers,dallas cowboys,32 - 18,L,home,1660960800,https://media-2.api-sports.io/american-football/teams/30.png
+2022-08-26,los angeles chargers,new orleans saints,10 - 27,L,away,1661472000,https://media-1.api-sports.io/american-football/teams/30.png
+2022-09-11,los angeles chargers,las vegas raiders,19 - 24,W,home,1662927900,https://media-2.api-sports.io/american-football/teams/30.png
+2022-09-15,los angeles chargers,kansas city chiefs,24 - 27,L,away,1663200900,https://media-2.api-sports.io/american-football/teams/30.png
+2022-09-25,los angeles chargers,jacksonville jaguars,38 - 10,L,home,1664136300,https://media-3.api-sports.io/american-football/teams/30.png
+2022-10-02,los angeles chargers,houston texans,34 - 24,W,away,1664730000,https://media-3.api-sports.io/american-football/teams/30.png
+2022-10-09,los angeles chargers,cleveland browns,30 - 28,W,away,1665334800,https://media-3.api-sports.io/american-football/teams/30.png
+2022-10-17,los angeles chargers,denver broncos,16 - 19,W,home,1665965700,https://media-1.api-sports.io/american-football/teams/30.png
+2022-10-23,los angeles chargers,seattle seahawks,37 - 23,L,home,1666556700,https://media-3.api-sports.io/american-football/teams/30.png
+2022-11-06,los angeles chargers,atlanta falcons,20 - 17,W,away,1667757600,https://media-1.api-sports.io/american-football/teams/30.png
+2022-11-13,los angeles chargers,san francisco 49ers,16 - 22,L,away,1668302400,https://media-2.api-sports.io/american-football/teams/30.png
+2022-11-20,los angeles chargers,kansas city chiefs,30 - 27,L,home,1668907200,https://media-2.api-sports.io/american-football/teams/30.png
+2022-11-27,los angeles chargers,arizona cardinals,25 - 24,W,away,1669583100,https://media-1.api-sports.io/american-football/teams/30.png
+2022-12-04,los angeles chargers,las vegas raiders,20 - 27,L,away,1670189100,https://media-1.api-sports.io/american-football/teams/30.png
+2022-12-11,los angeles chargers,miami dolphins,17 - 23,W,home,1670721600,https://media-2.api-sports.io/american-football/teams/30.png
+2022-12-18,los angeles chargers,tennessee titans,14 - 17,W,home,1671398700,https://media-2.api-sports.io/american-football/teams/30.png
+2022-12-26,los angeles chargers,indianapolis colts,20 - 3,W,away,1672017300,https://media-2.api-sports.io/american-football/teams/30.png
+2023-01-01,los angeles chargers,los angeles rams,10 - 31,W,home,1672608300,https://media-3.api-sports.io/american-football/teams/30.png
+2023-01-08,los angeles chargers,denver broncos,28 - 31,L,away,1673213100,https://media-2.api-sports.io/american-football/teams/30.png

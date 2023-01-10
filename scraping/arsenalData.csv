@@ -1,0 +1,54 @@
+Date,Team,Score,Result,Home or Away,Unix Timestamp
+"Fri, Jul 8 2022",Nurnberg,`3 - 5,W,Away,1657256400.0
+"Sat, Jul 16 2022",Everton,`2 - 0,W,Home,1657947600.0
+"Wed, Jul 20 2022",Orlando City SC,`1 - 3,W,Away,1658293200.0
+"Sat, Jul 23 2022",Chelsea,`4 - 0,W,Home,1658552400.0
+"Sat, Jul 30 2022",Sevilla,`6 - 0,W,Home,1659157200.0
+"Fri, Aug 5 2022",Crystal Palace,`0 - 2,W,Away,1659675600.0
+"Sat, Aug 13 2022",Leicester City,`4 - 2,W,Home,1660366800.0
+"Sat, Aug 20 2022",AFC Bournemouth,`0 - 3,W,Away,1660971600.0
+"Sat, Aug 27 2022",Fulham,`2 - 1,W,Home,1661576400.0
+"Wed, Aug 31 2022",Aston Villa,`2 - 1,W,Home,1661922000.0
+"Sun, Sep 4 2022",Manchester United,`3 - 1,L,Away,1662267600.0
+"Thu, Sep 8 2022",FC Zürich,`1 - 2,W,Away,1662613200.0
+"Sun, Sep 18 2022",Brentford,`0 - 3,W,Away,1663477200.0
+"Sat, Oct 1 2022",Tottenham Hotspur,`3 - 1,W,Home,1664600400.0
+"Thu, Oct 6 2022",Bodo/Glimt,`3 - 0,W,Home,1665032400.0
+"Sun, Oct 9 2022",Liverpool,`3 - 2,W,Home,1665291600.0
+"Thu, Oct 13 2022",Bodo/Glimt,`0 - 1,W,Away,1665637200.0
+"Sun, Oct 16 2022",Leeds United,`0 - 1,W,Away,1665896400.0
+"Thu, Oct 20 2022",PSV Eindhoven,`1 - 0,W,Home,1666242000.0
+"Sun, Oct 23 2022",Southampton,`1 - 1,Tie,Away,1666501200.0
+"Thu, Oct 27 2022",PSV Eindhoven,`2 - 0,L,Away,1666846800.0
+"Sun, Oct 30 2022",Nottingham Forest,`5 - 0,W,Home,1667106000.0
+"Thu, Nov 3 2022",FC Zürich,`1 - 0,W,Home,1667451600.0
+"Sun, Nov 6 2022",Chelsea,`0 - 1,W,Away,1667710800.0
+"Wed, Nov 9 2022",Brighton & Hove Albion,`1 - 3,L,Home,1667973600.0
+"Sat, Nov 12 2022",Wolverhampton Wanderers,`0 - 2,W,Away,1668232800.0
+"Thu, Dec 8 2022",Lyon,`3 - 0 Arsenal wins 2-1 on Penalty Kicks,W,Home,1670479200.0
+"Tue, Dec 13 2022",AC Milan,`2 - 1 Arsenal wins 4-3 on Penalty Kicks,W,Home,1670911200.0
+"Sat, Dec 17 2022",Juventus,`0 - 2,L,Home,1671256800.0
+"Mon, Dec 26 2022 2:00 PM",West Ham United,,,Home,1672084800.0
+"Sat, Dec 31 2022 11:30 AM",Brighton & Hove Albion,,,Away,1672507800.0
+"Tue, Jan 3 2023 1:45 PM",Newcastle United,,,Home,1672775100.0
+"Mon, Jan 9 2023 2:00 PM",Oxford United,,,Away,1673294400.0
+"Sun, Jan 15 2023 10:30 AM",Tottenham Hotspur,,,Away,1673800200.0
+"Sun, Jan 22 2023 10:30 AM",Manchester United,,,Home,1674405000.0
+"Sat, Feb 4 2023 6:30 AM",Everton,,,Away,1675513800.0
+"Sat, Feb 11 2023 9:00 AM",Brentford,,,Home,1676127600.0
+"Wed, Feb 15 2023 1:30 PM",Manchester City,,,Home,1676489400.0
+"Sat, Feb 18 2023 6:30 AM",Aston Villa,,,Away,1676723400.0
+"Sat, Feb 25 2023 9:00 AM",Leicester City,,,Away,1677337200.0
+"Sat, Mar 4 2023 9:00 AM",AFC Bournemouth,,,Home,1677942000.0
+"Sat, Mar 11 2023 9:00 AM",Fulham,,,Away,1678546800.0
+"Sat, Mar 18 2023 10:00 AM",Crystal Palace,,,Home,1679151600.0
+"Sat, Apr 1 2023 9:00 AM",Leeds United,,,Home,1680357600.0
+"Sat, Apr 8 2023 9:00 AM",Liverpool,,,Away,1680962400.0
+"Sat, Apr 15 2023 9:00 AM",West Ham United,,,Away,1681567200.0
+"Sat, Apr 22 2023 9:00 AM",Southampton,,,Home,1682172000.0
+"Wed, Apr 26 2023 2:00 PM",Manchester City,,,Away,1682535600.0
+"Sat, Apr 29 2023 9:00 AM",Chelsea,,,Home,1682776800.0
+"Sat, May 6 2023 9:00 AM",Newcastle United,,,Away,1683381600.0
+"Sat, May 13 2023 9:00 AM",Brighton & Hove Albion,,,Home,1683986400.0
+"Sat, May 20 2023 9:00 AM",Nottingham Forest,,,Away,1684591200.0
+"Sun, May 28 2023 10:00 AM",Wolverhampton Wanderers,,,Home,1685286000.0

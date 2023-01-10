@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,tennessee tech,tennessee,43 - 75,L,away,1667865600,https://media-3.api-sports.io/basketball/teams/2143.png
+2022-11-11T00:00:00+00:00,tennessee tech,wesleyan univ.,48 - 82,W,home,1668124800,https://media-2.api-sports.io/basketball/teams/2143.png
+2022-11-15T00:00:00+00:00,tennessee tech,marshall,65 - 91,L,away,1668470400,https://media-2.api-sports.io/basketball/teams/2143.png
+2022-11-18T01:30:00+00:00,tennessee tech,coppin state,90 - 85,L,home,1668735000,https://media-1.api-sports.io/basketball/teams/2143.png
+2022-11-20T21:00:00+00:00,tennessee tech,east tennessee st,62 - 69,W,home,1668978000,https://media-1.api-sports.io/basketball/teams/2143.png
+2022-11-23T00:00:00+00:00,tennessee tech,truett-mcconnell,48 - 84,W,home,1669161600,https://media-1.api-sports.io/basketball/teams/2143.png
+2022-11-27T19:00:00+00:00,tennessee tech,northern kentucky,77 - 85,L,away,1669575600,https://media-2.api-sports.io/basketball/teams/2143.png
+2022-12-01T00:00:00+00:00,tennessee tech,chattanooga mocs,81 - 74,L,home,1669852800,https://media-3.api-sports.io/basketball/teams/2143.png
+2022-12-03T19:00:00+00:00,tennessee tech,butler,66 - 80,L,away,1670094000,https://media-3.api-sports.io/basketball/teams/2143.png
+2022-12-10T22:30:00+00:00,tennessee tech,troy,64 - 87,L,away,1670711400,https://media-1.api-sports.io/basketball/teams/2143.png
+2022-12-15T01:00:00+00:00,tennessee tech,lipscomb,63 - 64,L,away,1671066000,https://media-2.api-sports.io/basketball/teams/2143.png
+2022-12-17T21:00:00+00:00,tennessee tech,western carolina,75 - 65,L,home,1671310800,https://media-2.api-sports.io/basketball/teams/2143.png
+2022-12-21T00:00:00+00:00,tennessee tech,kentucky christian,72 - 104,W,home,1671580800,https://media-2.api-sports.io/basketball/teams/2143.png
+2022-12-30T01:30:00+00:00,tennessee tech,siu edwardsville,51 - 64,L,away,1672363800,https://media-2.api-sports.io/basketball/teams/2143.png
+2022-12-31T21:30:00+00:00,tennessee tech,lindenwood,64 - 82,L,away,1672522200,https://media-3.api-sports.io/basketball/teams/2143.png
+2023-01-06T01:30:00+00:00,tennessee tech,eastern illinois,49 - 70,W,home,1672968600,https://media-1.api-sports.io/basketball/teams/2143.png
+2023-01-07T21:30:00+00:00,tennessee tech,ut martin,84 - 80,W,away,1673127000,https://media-1.api-sports.io/basketball/teams/2143.png
+2023-01-13T01:30:00+00:00,tennessee tech,morehead state,,,home,1673573400,https://media-3.api-sports.io/basketball/teams/2143.png
+2023-01-14T21:00:00+00:00,tennessee tech,tennessee state,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/2143.png
+2023-01-20T01:30:00+00:00,tennessee tech,ualr,,,away,1674178200,https://media-1.api-sports.io/basketball/teams/2143.png
+2023-01-21T22:00:00+00:00,tennessee tech,southeast missouri state,,,away,1674338400,https://media-3.api-sports.io/basketball/teams/2143.png
+2023-01-27T01:30:00+00:00,tennessee tech,siu edwardsville,,,home,1674783000,https://media-1.api-sports.io/basketball/teams/2143.png
+2023-01-28T21:00:00+00:00,tennessee tech,ualr,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/2143.png
+2023-02-03T00:00:00+00:00,tennessee tech,morehead state,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/2143.png
+2023-02-04T21:00:00+00:00,tennessee tech,southeast missouri state,,,home,1675544400,https://media-1.api-sports.io/basketball/teams/2143.png
+2023-02-10T01:30:00+00:00,tennessee tech,southern indiana,,,home,1675992600,https://media-2.api-sports.io/basketball/teams/2143.png
+2023-02-11T21:30:00+00:00,tennessee tech,tennessee state,,,away,1676151000,https://media-3.api-sports.io/basketball/teams/2143.png
+2023-02-17T01:30:00+00:00,tennessee tech,lindenwood,,,home,1676597400,https://media-1.api-sports.io/basketball/teams/2143.png
+2023-02-18T21:00:00+00:00,tennessee tech,ut martin,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/2143.png
+2023-02-23T21:00:00+00:00,tennessee tech,southern indiana,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/2143.png
+2023-02-25T21:00:00+00:00,tennessee tech,eastern illinois,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/2143.png

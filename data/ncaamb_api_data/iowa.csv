@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,iowa,bethune-cookman,58 - 89,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/1950.png
+2022-11-12T01:00:00+00:00,iowa,n. carolina a&t,71 - 112,W,home,1668214800,https://media-1.api-sports.io/basketball/teams/1950.png
+2022-11-17T00:30:00+00:00,iowa,seton hall,83 - 67,W,away,1668645000,https://media-1.api-sports.io/basketball/teams/1950.png
+2022-11-22T01:00:00+00:00,iowa,nebraska o.,64 - 100,W,home,1669078800,https://media-1.api-sports.io/basketball/teams/1950.png
+2022-11-26T00:00:00+00:00,iowa,clemson,74 - 71,W,away,1669420800,https://media-2.api-sports.io/basketball/teams/1950.png
+2022-11-27T00:00:00+00:00,iowa,tcu,66 - 79,L,away,1669507200,https://media-1.api-sports.io/basketball/teams/1950.png
+2022-11-30T02:00:00+00:00,iowa,georgia tech,65 - 81,W,home,1669773600,https://media-1.api-sports.io/basketball/teams/1950.png
+2022-12-07T02:30:00+00:00,iowa,duke,62 - 74,L,away,1670380200,https://media-3.api-sports.io/basketball/teams/1950.png
+2022-12-09T01:00:00+00:00,iowa,iowa state,56 - 75,W,home,1670547600,https://media-1.api-sports.io/basketball/teams/1950.png
+2022-12-11T23:30:00+00:00,iowa,wisconsin,78 - 75,L,home,1670801400,https://media-2.api-sports.io/basketball/teams/1950.png
+2022-12-18T01:30:00+00:00,iowa,southeast missouri state,75 - 106,W,home,1671327000,https://media-2.api-sports.io/basketball/teams/1950.png
+2022-12-21T20:30:00+00:00,iowa,eastern illinois,92 - 83,L,home,1671654600,https://media-3.api-sports.io/basketball/teams/1950.png
+2022-12-30T00:00:00+00:00,iowa,nebraska,50 - 66,L,away,1672358400,https://media-2.api-sports.io/basketball/teams/1950.png
+2023-01-01T22:30:00+00:00,iowa,penn state,79 - 83,L,away,1672612200,https://media-3.api-sports.io/basketball/teams/1950.png
+2023-01-06T02:00:00+00:00,iowa,indiana,89 - 91,W,home,1672970400,https://media-2.api-sports.io/basketball/teams/1950.png
+2023-01-08T17:00:00+00:00,iowa,rutgers,76 - 65,W,away,1673197200,https://media-2.api-sports.io/basketball/teams/1950.png
+2023-01-13T00:00:00+00:00,iowa,michigan,,,home,1673568000,https://media-1.api-sports.io/basketball/teams/1950.png
+2023-01-15T21:00:00+00:00,iowa,maryland,,,home,1673816400,https://media-3.api-sports.io/basketball/teams/1950.png
+2023-01-19T02:00:00+00:00,iowa,northwestern,,,home,1674093600,https://media-1.api-sports.io/basketball/teams/1950.png
+2023-01-21T21:00:00+00:00,iowa,ohio state,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/1950.png
+2023-01-27T00:00:00+00:00,iowa,michigan state,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/1950.png
+2023-01-29T19:00:00+00:00,iowa,rutgers,,,home,1675018800,https://media-2.api-sports.io/basketball/teams/1950.png
+2023-02-04T19:30:00+00:00,iowa,illinois,,,home,1675539000,https://media-2.api-sports.io/basketball/teams/1950.png
+2023-02-10T00:00:00+00:00,iowa,purdue,,,away,1675987200,https://media-1.api-sports.io/basketball/teams/1950.png
+2023-02-12T18:00:00+00:00,iowa,minnesota,,,away,1676224800,https://media-3.api-sports.io/basketball/teams/1950.png
+2023-02-17T02:00:00+00:00,iowa,ohio state,,,home,1676599200,https://media-1.api-sports.io/basketball/teams/1950.png

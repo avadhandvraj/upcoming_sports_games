@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,illinois state,western illinois,71 - 68,L,home,1667869200,https://media-1.api-sports.io/basketball/teams/1945.png
+2022-11-11T01:00:00+00:00,illinois state,eastern illinois,54 - 49,W,away,1668128400,https://media-3.api-sports.io/basketball/teams/1945.png
+2022-11-13T01:00:00+00:00,illinois state,northwestern st.,69 - 67,W,away,1668301200,https://media-3.api-sports.io/basketball/teams/1945.png
+2022-11-18T01:00:00+00:00,illinois state,northwestern st.,70 - 67,L,home,1668733200,https://media-3.api-sports.io/basketball/teams/1945.png
+2022-11-21T16:00:00+00:00,illinois state,lsu,61 - 77,L,away,1669046400,https://media-1.api-sports.io/basketball/teams/1945.png
+2022-11-22T16:00:00+00:00,illinois state,western kentucky,66 - 78,L,away,1669132800,https://media-3.api-sports.io/basketball/teams/1945.png
+2022-11-23T16:00:00+00:00,illinois state,rhode island,44 - 57,L,away,1669219200,https://media-1.api-sports.io/basketball/teams/1945.png
+2022-12-02T01:00:00+00:00,illinois state,murray state,67 - 70,L,away,1669942800,https://media-2.api-sports.io/basketball/teams/1945.png
+2022-12-04T19:00:00+00:00,illinois state,belmont,77 - 87,W,home,1670180400,https://media-1.api-sports.io/basketball/teams/1945.png
+2022-12-08T01:00:00+00:00,illinois state,eastern michigan,81 - 87,W,home,1670461200,https://media-2.api-sports.io/basketball/teams/1945.png
+2022-12-10T21:00:00+00:00,illinois state,siu edwardsville,71 - 77,W,home,1670706000,https://media-2.api-sports.io/basketball/teams/1945.png
+2022-12-17T20:30:00+00:00,illinois state,ball state,69 - 83,L,away,1671309000,https://media-3.api-sports.io/basketball/teams/1945.png
+2022-12-20T01:00:00+00:00,illinois state,chicago state,52 - 66,W,home,1671498000,https://media-1.api-sports.io/basketball/teams/1945.png
+2022-12-29T01:00:00+00:00,illinois state,illinois (chi.),51 - 55,L,away,1672275600,https://media-3.api-sports.io/basketball/teams/1945.png
+2022-12-31T20:00:00+00:00,illinois state,northern iowa,66 - 60,L,home,1672516800,https://media-3.api-sports.io/basketball/teams/1945.png
+2023-01-05T01:00:00+00:00,illinois state,indiana state,76 - 67,L,home,1672880400,https://media-3.api-sports.io/basketball/teams/1945.png
+2023-01-07T19:00:00+00:00,illinois state,evansville,69 - 61,W,away,1673118000,https://media-1.api-sports.io/basketball/teams/1945.png
+2023-01-12T01:00:00+00:00,illinois state,missouri state,,,home,1673485200,https://media-3.api-sports.io/basketball/teams/1945.png
+2023-01-14T21:00:00+00:00,illinois state,southern illinois,,,away,1673730000,https://media-2.api-sports.io/basketball/teams/1945.png
+2023-01-19T01:00:00+00:00,illinois state,northern iowa,,,away,1674090000,https://media-2.api-sports.io/basketball/teams/1945.png
+2023-01-21T23:00:00+00:00,illinois state,valparaiso,,,home,1674342000,https://media-3.api-sports.io/basketball/teams/1945.png
+2023-01-26T01:00:00+00:00,illinois state,bradley,,,away,1674694800,https://media-1.api-sports.io/basketball/teams/1945.png
+2023-01-29T20:00:00+00:00,illinois state,southern illinois,,,home,1675022400,https://media-1.api-sports.io/basketball/teams/1945.png
+2023-02-02T01:00:00+00:00,illinois state,illinois (chi.),,,home,1675299600,https://media-1.api-sports.io/basketball/teams/1945.png
+2023-02-04T22:00:00+00:00,illinois state,belmont,,,away,1675548000,https://media-3.api-sports.io/basketball/teams/1945.png
+2023-02-09T01:00:00+00:00,illinois state,bradley,,,home,1675904400,https://media-2.api-sports.io/basketball/teams/1945.png
+2023-02-11T19:00:00+00:00,illinois state,valparaiso,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/1945.png
+2023-02-16T01:00:00+00:00,illinois state,murray state,,,home,1676509200,https://media-2.api-sports.io/basketball/teams/1945.png
+2023-02-18T19:00:00+00:00,illinois state,indiana state,,,away,1676746800,https://media-1.api-sports.io/basketball/teams/1945.png

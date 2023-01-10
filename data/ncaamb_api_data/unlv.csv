@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T03:15:00+00:00,unlv,southern univ.,56 - 66,W,home,1667877300,https://media-1.api-sports.io/basketball/teams/2171.png
+2022-11-12T23:00:00+00:00,unlv,incarnate word,63 - 88,W,home,1668294000,https://media-3.api-sports.io/basketball/teams/2171.png
+2022-11-16T04:00:00+00:00,unlv,dayton,52 - 60,W,home,1668571200,https://media-1.api-sports.io/basketball/teams/2171.png
+2022-11-19T03:00:00+00:00,unlv,high point,68 - 78,W,home,1668826800,https://media-2.api-sports.io/basketball/teams/2171.png
+2022-11-22T06:00:00+00:00,unlv,southern illinois,49 - 56,W,home,1669096800,https://media-2.api-sports.io/basketball/teams/2171.png
+2022-11-24T03:30:00+00:00,unlv,minnesota,71 - 62,W,away,1669260600,https://media-3.api-sports.io/basketball/teams/2171.png
+2022-11-27T03:30:00+00:00,unlv,life pacific,54 - 126,W,home,1669519800,https://media-3.api-sports.io/basketball/teams/2171.png
+2022-12-04T03:00:00+00:00,unlv,san diego toreros,95 - 78,W,away,1670122800,https://media-3.api-sports.io/basketball/teams/2171.png
+2022-12-08T03:00:00+00:00,unlv,hawaii,62 - 77,W,home,1670468400,https://media-1.api-sports.io/basketball/teams/2171.png
+2022-12-10T21:30:00+00:00,unlv,washington state,74 - 70,W,away,1670707800,https://media-3.api-sports.io/basketball/teams/2171.png
+2022-12-17T22:00:00+00:00,unlv,san francisco,75 - 73,L,home,1671314400,https://media-3.api-sports.io/basketball/teams/2171.png
+2022-12-23T03:00:00+00:00,unlv,southern miss,63 - 74,W,home,1671764400,https://media-2.api-sports.io/basketball/teams/2171.png
+2022-12-29T03:00:00+00:00,unlv,san jose state,72 - 75,L,away,1672282800,https://media-2.api-sports.io/basketball/teams/2171.png
+2022-12-31T21:00:00+00:00,unlv,san diego state,76 - 67,L,home,1672520400,https://media-3.api-sports.io/basketball/teams/2171.png
+2023-01-08T02:30:00+00:00,unlv,new mexico,84 - 77,W,away,1673145000,https://media-3.api-sports.io/basketball/teams/2171.png
+2023-01-12T04:00:00+00:00,unlv,boise state,,,home,1673496000,https://media-2.api-sports.io/basketball/teams/2171.png
+2023-01-15T00:00:00+00:00,unlv,colorado state,,,home,1673740800,https://media-1.api-sports.io/basketball/teams/2171.png
+2023-01-18T02:00:00+00:00,unlv,utah state,,,away,1674007200,https://media-2.api-sports.io/basketball/teams/2171.png
+2023-01-21T23:00:00+00:00,unlv,fresno state,,,away,1674342000,https://media-1.api-sports.io/basketball/teams/2171.png
+2023-01-25T04:00:00+00:00,unlv,wyoming,,,home,1674619200,https://media-2.api-sports.io/basketball/teams/2171.png
+2023-01-29T03:00:00+00:00,unlv,nevada,,,home,1674961200,https://media-1.api-sports.io/basketball/teams/2171.png
+2023-02-01T02:00:00+00:00,unlv,colorado state,,,away,1675216800,https://media-3.api-sports.io/basketball/teams/2171.png
+2023-02-04T04:00:00+00:00,unlv,fresno state,,,home,1675483200,https://media-3.api-sports.io/basketball/teams/2171.png
+2023-02-09T03:30:00+00:00,unlv,wyoming,,,away,1675913400,https://media-3.api-sports.io/basketball/teams/2171.png
+2023-02-11T21:00:00+00:00,unlv,san diego state,,,away,1676149200,https://media-3.api-sports.io/basketball/teams/2171.png
+2023-02-15T03:00:00+00:00,unlv,san jose state,,,home,1676430000,https://media-2.api-sports.io/basketball/teams/2171.png

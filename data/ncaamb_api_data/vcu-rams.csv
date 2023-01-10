@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,vcu rams,manhattan,56 - 73,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/5888.png
+2022-11-13T00:00:00+00:00,vcu rams,morgan state,54 - 69,W,home,1668297600,https://media-3.api-sports.io/basketball/teams/5888.png
+2022-11-17T01:30:00+00:00,vcu rams,arizona state,63 - 59,L,home,1668648600,https://media-1.api-sports.io/basketball/teams/5888.png
+2022-11-18T00:00:00+00:00,vcu rams,pittsburgh,67 - 71,W,home,1668729600,https://media-2.api-sports.io/basketball/teams/5888.png
+2022-11-20T22:00:00+00:00,vcu rams,memphis,47 - 62,L,away,1668981600,https://media-3.api-sports.io/basketball/teams/5888.png
+2022-11-26T21:00:00+00:00,vcu rams,kennesaw state,61 - 64,W,home,1669496400,https://media-3.api-sports.io/basketball/teams/5888.png
+2022-12-01T00:00:00+00:00,vcu rams,vanderbilt,65 - 70,W,home,1669852800,https://media-1.api-sports.io/basketball/teams/5888.png
+2022-12-03T18:00:00+00:00,vcu rams,temple,73 - 83,L,away,1670090400,https://media-2.api-sports.io/basketball/teams/5888.png
+2022-12-08T00:00:00+00:00,vcu rams,jacksonville,73 - 62,L,home,1670457600,https://media-3.api-sports.io/basketball/teams/5888.png
+2022-12-12T00:00:00+00:00,vcu rams,howard,60 - 70,W,home,1670803200,https://media-3.api-sports.io/basketball/teams/5888.png
+2022-12-15T00:00:00+00:00,vcu rams,radford,62 - 70,W,home,1671062400,https://media-2.api-sports.io/basketball/teams/5888.png
+2022-12-17T21:00:00+00:00,vcu rams,northern illinois,63 - 90,W,home,1671310800,https://media-2.api-sports.io/basketball/teams/5888.png
+2022-12-22T00:00:00+00:00,vcu rams,navy,52 - 74,W,home,1671667200,https://media-2.api-sports.io/basketball/teams/5888.png
+2022-12-31T19:00:00+00:00,vcu rams,la salle,67 - 80,W,home,1672513200,https://media-3.api-sports.io/basketball/teams/5888.png
+2023-01-05T00:00:00+00:00,vcu rams,duquesne,70 - 79,L,away,1672876800,https://media-2.api-sports.io/basketball/teams/5888.png
+2023-01-07T17:00:00+00:00,vcu rams,davidson,72 - 89,W,home,1673110800,https://media-2.api-sports.io/basketball/teams/5888.png
+2023-01-11T00:00:00+00:00,vcu rams,loyola chicago,,,away,1673395200,https://media-2.api-sports.io/basketball/teams/5888.png
+2023-01-14T02:00:00+00:00,vcu rams,dayton,,,away,1673661600,https://media-1.api-sports.io/basketball/teams/5888.png
+2023-01-18T00:00:00+00:00,vcu rams,umass,,,home,1674000000,https://media-2.api-sports.io/basketball/teams/5888.png
+2023-01-21T00:00:00+00:00,vcu rams,richmond,,,away,1674259200,https://media-2.api-sports.io/basketball/teams/5888.png
+2023-01-26T00:00:00+00:00,vcu rams,george mason,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/5888.png
+2023-01-28T23:00:00+00:00,vcu rams,st. bonaventure,,,home,1674946800,https://media-1.api-sports.io/basketball/teams/5888.png
+2023-02-01T00:00:00+00:00,vcu rams,davidson,,,away,1675209600,https://media-1.api-sports.io/basketball/teams/5888.png
+2023-02-04T00:00:00+00:00,vcu rams,st. louis,,,away,1675468800,https://media-3.api-sports.io/basketball/teams/5888.png
+2023-02-08T00:00:00+00:00,vcu rams,dayton,,,home,1675814400,https://media-2.api-sports.io/basketball/teams/5888.png
+2023-02-16T00:00:00+00:00,vcu rams,rhode island,,,away,1676505600,https://media-2.api-sports.io/basketball/teams/5888.png
+2023-02-18T19:30:00+00:00,vcu rams,fordham,,,home,1676748600,https://media-1.api-sports.io/basketball/teams/5888.png

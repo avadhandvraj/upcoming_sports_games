@@ -1,0 +1,13 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-09-03,california,uc davis,13 - 34,W,home,1662235200,https://media-2.api-sports.io/american-football/teams/161.png
+2022-09-10,california,unlv,14 - 20,W,home,1662840000,https://media-2.api-sports.io/american-football/teams/161.png
+2022-09-17,california,notre dame,17 - 24,L,away,1663439400,https://media-1.api-sports.io/american-football/teams/161.png
+2022-09-24,california,arizona,31 - 49,W,home,1664055000,https://media-3.api-sports.io/american-football/teams/161.png
+2022-10-01,california,washington state,9 - 28,L,away,1664659800,https://media-3.api-sports.io/american-football/teams/161.png
+2022-10-15,california,colorado,13 - 20,L,away,1665856800,https://media-1.api-sports.io/american-football/teams/161.png
+2022-10-22,california,washington,28 - 21,L,home,1666405800,https://media-2.api-sports.io/american-football/teams/161.png
+2022-10-29,california,oregon,42 - 24,L,home,1667071800,https://media-2.api-sports.io/american-football/teams/161.png
+2022-11-05,california,usc,35 - 41,L,away,1667615400,https://media-1.api-sports.io/american-football/teams/161.png
+2022-11-12,california,oregon state,10 - 38,L,away,1668218400,https://media-2.api-sports.io/american-football/teams/161.png
+2022-11-19,california,stanford,20 - 27,W,home,1668897000,https://media-3.api-sports.io/american-football/teams/161.png
+2022-11-25,california,ucla,35 - 28,L,home,1669411800,https://media-1.api-sports.io/american-football/teams/161.png

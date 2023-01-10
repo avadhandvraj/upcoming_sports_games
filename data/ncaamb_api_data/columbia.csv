@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,columbia,rutgers,35 - 75,L,away,1667865600,https://media-2.api-sports.io/basketball/teams/1871.png
+2022-11-11T00:00:00+00:00,columbia,umass lowell,89 - 62,L,home,1668124800,https://media-3.api-sports.io/basketball/teams/1871.png
+2022-11-13T18:00:00+00:00,columbia,sacred heart,85 - 88,L,away,1668362400,https://media-2.api-sports.io/basketball/teams/1871.png
+2022-11-17T00:00:00+00:00,columbia,delaware state,65 - 70,W,home,1668643200,https://media-2.api-sports.io/basketball/teams/1871.png
+2022-11-19T00:00:00+00:00,columbia,maine black bears,70 - 93,L,away,1668816000,https://media-1.api-sports.io/basketball/teams/1871.png
+2022-11-20T18:00:00+00:00,columbia,suny maritime,44 - 96,W,home,1668967200,https://media-1.api-sports.io/basketball/teams/1871.png
+2022-11-23T19:00:00+00:00,columbia,binghamton,79 - 81,L,away,1669230000,https://media-2.api-sports.io/basketball/teams/1871.png
+2022-11-26T21:00:00+00:00,columbia,providence,64 - 78,L,away,1669496400,https://media-2.api-sports.io/basketball/teams/1871.png
+2022-11-29T00:00:00+00:00,columbia,marist,39 - 52,L,away,1669680000,https://media-2.api-sports.io/basketball/teams/1871.png
+2022-12-03T21:00:00+00:00,columbia,new hampshire,52 - 56,W,home,1670101200,https://media-1.api-sports.io/basketball/teams/1871.png
+2022-12-04T19:00:00+00:00,columbia,sarah lawrence,65 - 106,W,home,1670180400,https://media-2.api-sports.io/basketball/teams/1871.png
+2022-12-07T00:00:00+00:00,columbia,umbc retrievers,73 - 66,L,home,1670371200,https://media-1.api-sports.io/basketball/teams/1871.png
+2022-12-10T00:00:00+00:00,columbia,fairleigh dickinson,76 - 73,L,home,1670630400,https://media-3.api-sports.io/basketball/teams/1871.png
+2022-12-13T00:00:00+00:00,columbia,lafayette,57 - 45,W,away,1670889600,https://media-2.api-sports.io/basketball/teams/1871.png
+2022-12-28T21:00:00+00:00,columbia,md.-east. shore,74 - 67,L,home,1672261200,https://media-1.api-sports.io/basketball/teams/1871.png
+2022-12-31T17:00:00+00:00,columbia,yale,60 - 62,W,home,1672506000,https://media-2.api-sports.io/basketball/teams/1871.png
+2023-01-07T00:00:00+00:00,columbia,princeton,68 - 49,L,home,1673049600,https://media-1.api-sports.io/basketball/teams/1871.png
+2023-01-08T00:00:00+00:00,columbia,penn,84 - 55,L,home,1673136000,https://media-1.api-sports.io/basketball/teams/1871.png
+2023-01-14T18:00:00+00:00,columbia,harvard,,,away,1673719200,https://media-2.api-sports.io/basketball/teams/1871.png
+2023-01-16T17:00:00+00:00,columbia,cornell,,,home,1673888400,https://media-2.api-sports.io/basketball/teams/1871.png
+2023-01-21T21:00:00+00:00,columbia,brown,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/1871.png
+2023-01-28T19:00:00+00:00,columbia,dartmouth,,,away,1674932400,https://media-2.api-sports.io/basketball/teams/1871.png
+2023-02-04T00:00:00+00:00,columbia,penn,,,away,1675468800,https://media-2.api-sports.io/basketball/teams/1871.png
+2023-02-04T23:00:00+00:00,columbia,princeton,,,away,1675551600,https://media-1.api-sports.io/basketball/teams/1871.png
+2023-02-12T00:00:00+00:00,columbia,yale,,,away,1676160000,https://media-2.api-sports.io/basketball/teams/1871.png
+2023-02-18T00:00:00+00:00,columbia,harvard,,,home,1676678400,https://media-3.api-sports.io/basketball/teams/1871.png

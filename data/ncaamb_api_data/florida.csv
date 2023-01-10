@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,florida,stony brook,45 - 81,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/1909.png
+2022-11-12T00:00:00+00:00,florida,kennesaw state,78 - 88,W,home,1668211200,https://media-2.api-sports.io/basketball/teams/1909.png
+2022-11-15T00:00:00+00:00,florida,florida atlantic,76 - 74,L,home,1668470400,https://media-1.api-sports.io/basketball/teams/1909.png
+2022-11-19T01:00:00+00:00,florida,florida state,76 - 67,W,away,1668819600,https://media-2.api-sports.io/basketball/teams/1909.png
+2022-11-24T22:30:00+00:00,florida,xavier,83 - 90,L,away,1669329000,https://media-1.api-sports.io/basketball/teams/1909.png
+2022-11-25T23:00:00+00:00,florida,oregon state,68 - 81,W,home,1669417200,https://media-2.api-sports.io/basketball/teams/1909.png
+2022-11-28T01:30:00+00:00,florida,west virginia,55 - 84,L,away,1669599000,https://media-1.api-sports.io/basketball/teams/1909.png
+2022-12-01T01:00:00+00:00,florida,florida a&m,62 - 102,W,home,1669856400,https://media-2.api-sports.io/basketball/teams/1909.png
+2022-12-04T19:00:00+00:00,florida,stetson,51 - 89,W,home,1670180400,https://media-1.api-sports.io/basketball/teams/1909.png
+2022-12-08T02:00:00+00:00,florida,uconn,75 - 54,L,home,1670464800,https://media-1.api-sports.io/basketball/teams/1909.png
+2022-12-15T00:00:00+00:00,florida,ohio,48 - 82,W,home,1671062400,https://media-2.api-sports.io/basketball/teams/1909.png
+2022-12-21T02:30:00+00:00,florida,oklahoma,53 - 62,L,away,1671589800,https://media-3.api-sports.io/basketball/teams/1909.png
+2022-12-29T00:00:00+00:00,florida,auburn,58 - 61,L,away,1672272000,https://media-3.api-sports.io/basketball/teams/1909.png
+2023-01-05T00:00:00+00:00,florida,texas a&m,66 - 63,L,home,1672876800,https://media-3.api-sports.io/basketball/teams/1909.png
+2023-01-07T18:00:00+00:00,florida,georgia,75 - 82,W,home,1673114400,https://media-3.api-sports.io/basketball/teams/1909.png
+2023-01-11T00:00:00+00:00,florida,lsu,,,away,1673395200,https://media-2.api-sports.io/basketball/teams/1909.png
+2023-01-14T20:30:00+00:00,florida,missouri,,,home,1673728200,https://media-3.api-sports.io/basketball/teams/1909.png
+2023-01-19T00:00:00+00:00,florida,texas a&m,,,away,1674086400,https://media-1.api-sports.io/basketball/teams/1909.png
+2023-01-22T01:30:00+00:00,florida,mississippi st.,,,away,1674351000,https://media-1.api-sports.io/basketball/teams/1909.png
+2023-01-26T00:00:00+00:00,florida,south carolina,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/1909.png
+2023-01-28T23:00:00+00:00,florida,kansas state,,,away,1674946800,https://media-1.api-sports.io/basketball/teams/1909.png
+2023-02-02T00:00:00+00:00,florida,tennessee,,,home,1675296000,https://media-2.api-sports.io/basketball/teams/1909.png
+2023-02-05T01:30:00+00:00,florida,kentucky,,,away,1675560600,https://media-2.api-sports.io/basketball/teams/1909.png
+2023-02-09T02:00:00+00:00,florida,alabama,,,away,1675908000,https://media-1.api-sports.io/basketball/teams/1909.png
+2023-02-11T20:30:00+00:00,florida,vanderbilt,,,home,1676147400,https://media-2.api-sports.io/basketball/teams/1909.png
+2023-02-15T23:30:00+00:00,florida,ole miss,,,home,1676503800,https://media-1.api-sports.io/basketball/teams/1909.png
+2023-02-18T19:00:00+00:00,florida,arkansas,,,away,1676746800,https://media-1.api-sports.io/basketball/teams/1909.png

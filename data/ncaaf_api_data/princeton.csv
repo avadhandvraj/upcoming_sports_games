@@ -1,0 +1,11 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-09-17,princeton,stetson,39 - 14,W,away,1663434000,https://media-2.api-sports.io/american-football/teams/323.png
+2022-09-24,princeton,lehigh,17 - 29,W,home,1664046000,https://media-2.api-sports.io/american-football/teams/323.png
+2022-10-01,princeton,columbia,24 - 6,W,away,1664643600,https://media-1.api-sports.io/american-football/teams/323.png
+2022-10-08,princeton,lafayette,23 - 2,W,away,1665246600,https://media-1.api-sports.io/american-football/teams/323.png
+2022-10-14,princeton,brown,19 - 35,W,home,1665788400,https://media-3.api-sports.io/american-football/teams/323.png
+2022-10-21,princeton,harvard,37 - 10,W,away,1666393200,https://media-2.api-sports.io/american-football/teams/323.png
+2022-10-29,princeton,cornell,9 - 35,W,home,1667062800,https://media-3.api-sports.io/american-football/teams/323.png
+2022-11-05,princeton,dartmouth,14 - 17,W,home,1667667600,https://media-1.api-sports.io/american-football/teams/323.png
+2022-11-12,princeton,yale,20 - 24,L,away,1668272400,https://media-3.api-sports.io/american-football/teams/323.png
+2022-11-19,princeton,pennsylvania,20 - 19,L,home,1668880800,https://media-2.api-sports.io/american-football/teams/323.png

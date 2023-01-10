@@ -1,0 +1,9 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Wednesday, September 07 02:00 PM",liverpool,napoli,1 - 4,L,away,1662577200,https://media-1.api-sports.io/football/teams/40.png
+"Tuesday, September 13 02:00 PM",liverpool,ajax,1 - 2,W,home,1663095600,https://media-2.api-sports.io/football/teams/40.png
+"Tuesday, October 04 02:00 PM",liverpool,rangers,0 - 2,W,home,1664910000,https://media-3.api-sports.io/football/teams/40.png
+"Wednesday, October 12 02:00 PM",liverpool,rangers,7 - 1,W,away,1665601200,https://media-3.api-sports.io/football/teams/40.png
+"Wednesday, October 26 02:00 PM",liverpool,ajax,3 - 0,W,away,1666810800,https://media-2.api-sports.io/football/teams/40.png
+"Tuesday, November 01 03:00 PM",liverpool,napoli,0 - 2,W,home,1667332800,https://media-3.api-sports.io/football/teams/40.png
+"Tuesday, February 21 02:00 PM",liverpool,real madrid,,,home,1677009600,https://media-3.api-sports.io/football/teams/40.png
+"Wednesday, March 15 03:00 PM",liverpool,real madrid,,,away,1678910400,https://media-1.api-sports.io/football/teams/40.png

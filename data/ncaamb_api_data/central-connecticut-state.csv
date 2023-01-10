@@ -1,0 +1,31 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,central connecticut state,umass,67 - 94,L,away,1667867400,https://media-1.api-sports.io/basketball/teams/1856.png
+2022-11-12T00:00:00+00:00,central connecticut state,manhattan,None - None,tie,away,1668211200,https://media-1.api-sports.io/basketball/teams/1856.png
+2022-11-13T18:00:00+00:00,central connecticut state,quinnipiac,72 - 70,L,home,1668362400,https://media-1.api-sports.io/basketball/teams/1856.png
+2022-11-16T00:00:00+00:00,central connecticut state,st. john's (n.y.),74 - 91,L,away,1668556800,https://media-1.api-sports.io/basketball/teams/1856.png
+2022-11-19T17:00:00+00:00,central connecticut state,lafayette,55 - 50,L,home,1668877200,https://media-2.api-sports.io/basketball/teams/1856.png
+2022-11-20T18:00:00+00:00,central connecticut state,umbc retrievers,76 - 78,L,away,1668967200,https://media-3.api-sports.io/basketball/teams/1856.png
+2022-11-23T20:30:00+00:00,central connecticut state,maine black bears,66 - 58,L,home,1669235400,https://media-2.api-sports.io/basketball/teams/1856.png
+2022-11-26T20:00:00+00:00,central connecticut state,rutgers,49 - 83,L,away,1669492800,https://media-2.api-sports.io/basketball/teams/1856.png
+2022-11-30T00:00:00+00:00,central connecticut state,brown,59 - 51,L,home,1669766400,https://media-2.api-sports.io/basketball/teams/1856.png
+2022-12-03T23:00:00+00:00,central connecticut state,holy cross,57 - 63,L,away,1670108400,https://media-2.api-sports.io/basketball/teams/1856.png
+2022-12-10T00:00:00+00:00,central connecticut state,dartmouth,50 - 59,W,home,1670630400,https://media-1.api-sports.io/basketball/teams/1856.png
+2022-12-11T18:00:00+00:00,central connecticut state,fordham,77 - 90,L,away,1670781600,https://media-3.api-sports.io/basketball/teams/1856.png
+2022-12-17T00:00:00+00:00,central connecticut state,manhattan,78 - 67,W,away,1671235200,https://media-1.api-sports.io/basketball/teams/1856.png
+2022-12-21T00:00:00+00:00,central connecticut state,army,66 - 55,L,home,1671580800,https://media-1.api-sports.io/basketball/teams/1856.png
+2022-12-23T00:00:00+00:00,central connecticut state,saint josephs,66 - 83,L,away,1671753600,https://media-2.api-sports.io/basketball/teams/1856.png
+2022-12-30T00:00:00+00:00,central connecticut state,st. francis (pa),72 - 80,L,away,1672358400,https://media-2.api-sports.io/basketball/teams/1856.png
+2022-12-31T18:00:00+00:00,central connecticut state,st. francis brooklyn,52 - 74,W,home,1672509600,https://media-2.api-sports.io/basketball/teams/1856.png
+2023-01-06T00:00:00+00:00,central connecticut state,liu sharks,59 - 78,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/1856.png
+2023-01-07T19:00:00+00:00,central connecticut state,stonehill,49 - 51,L,away,1673118000,https://media-1.api-sports.io/basketball/teams/1856.png
+2023-01-14T18:00:00+00:00,central connecticut state,fairleigh dickinson,,,home,1673719200,https://media-3.api-sports.io/basketball/teams/1856.png
+2023-01-21T00:00:00+00:00,central connecticut state,wagner,,,away,1674259200,https://media-3.api-sports.io/basketball/teams/1856.png
+2023-01-22T17:00:00+00:00,central connecticut state,liu sharks,,,away,1674406800,https://media-1.api-sports.io/basketball/teams/1856.png
+2023-01-27T00:00:00+00:00,central connecticut state,merrimack warriors,,,home,1674777600,https://media-3.api-sports.io/basketball/teams/1856.png
+2023-01-28T18:00:00+00:00,central connecticut state,st. francis (pa),,,home,1674928800,https://media-2.api-sports.io/basketball/teams/1856.png
+2023-02-02T19:00:00+00:00,central connecticut state,st. francis brooklyn,,,away,1675364400,https://media-2.api-sports.io/basketball/teams/1856.png
+2023-02-04T19:00:00+00:00,central connecticut state,sacred heart,,,away,1675537200,https://media-2.api-sports.io/basketball/teams/1856.png
+2023-02-09T00:00:00+00:00,central connecticut state,hartford,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1856.png
+2023-02-11T22:00:00+00:00,central connecticut state,fairleigh dickinson,,,away,1676152800,https://media-1.api-sports.io/basketball/teams/1856.png
+2023-02-17T00:00:00+00:00,central connecticut state,wagner,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/1856.png
+2023-02-18T18:00:00+00:00,central connecticut state,stonehill,,,home,1676743200,https://media-1.api-sports.io/basketball/teams/1856.png

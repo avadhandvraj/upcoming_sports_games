@@ -1,0 +1,39 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Sunday, August 14 03:00 PM",almeria,real madrid,2 - 1,L,home,1660507200,https://media-3.api-sports.io/football/teams/723.png
+"Monday, August 22 01:00 PM",almeria,elche,1 - 1,tie,away,1661191200,https://media-1.api-sports.io/football/teams/723.png
+"Saturday, August 27 03:00 PM",almeria,sevilla,1 - 2,W,home,1661630400,https://media-1.api-sports.io/football/teams/723.png
+"Monday, September 05 02:00 PM",almeria,valladolid,0 - 1,L,away,1662404400,https://media-2.api-sports.io/football/teams/723.png
+"Monday, September 12 02:00 PM",almeria,osasuna,1 - 0,L,home,1663009200,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, September 17 07:00 AM",almeria,mallorca,0 - 1,L,away,1663416000,https://media-2.api-sports.io/football/teams/723.png
+"Friday, September 30 02:00 PM",almeria,athletic club,0 - 4,L,away,1664564400,https://media-3.api-sports.io/football/teams/723.png
+"Saturday, October 08 07:00 AM",almeria,rayo vallecano,1 - 3,W,home,1665230400,https://media-2.api-sports.io/football/teams/723.png
+"Sunday, October 16 02:00 PM",almeria,real betis,1 - 3,L,away,1665946800,https://media-1.api-sports.io/football/teams/723.png
+"Thursday, October 20 12:00 PM",almeria,girona,2 - 3,W,home,1666285200,https://media-1.api-sports.io/football/teams/723.png
+"Sunday, October 23 11:30 AM",almeria,villarreal,1 - 2,L,away,1666542600,https://media-3.api-sports.io/football/teams/723.png
+"Saturday, October 29 07:00 AM",almeria,celta vigo,1 - 3,W,home,1667044800,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, November 05 03:00 PM",almeria,barcelona,0 - 2,L,away,1667678400,https://media-3.api-sports.io/football/teams/723.png
+"Wednesday, November 09 12:00 PM",almeria,getafe,0 - 1,W,home,1668016800,https://media-1.api-sports.io/football/teams/723.png
+"Friday, December 30 12:15 PM",almeria,cadiz,1 - 1,tie,away,1672424100,https://media-1.api-sports.io/football/teams/723.png
+"Sunday, January 08 07:00 AM",almeria,real sociedad,2 - 0,L,home,1673182800,https://media-2.api-sports.io/football/teams/723.png
+"Sunday, January 15 09:15 AM",almeria,atletico madrid,,,home,1673795700,https://media-3.api-sports.io/football/teams/723.png
+"Monday, January 23 02:00 PM",almeria,valencia,,,away,1674504000,https://media-1.api-sports.io/football/teams/723.png
+"Saturday, January 28 06:00 PM",almeria,espanyol,,,home,1674950400,https://media-1.api-sports.io/football/teams/723.png
+"Saturday, February 04 06:00 PM",almeria,rayo vallecano,,,away,1675555200,https://media-1.api-sports.io/football/teams/723.png
+"Saturday, February 11 06:00 PM",almeria,real betis,,,home,1676160000,https://media-1.api-sports.io/football/teams/723.png
+"Saturday, February 18 06:00 PM",almeria,girona,,,away,1676764800,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, February 25 06:00 PM",almeria,barcelona,,,home,1677369600,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, March 04 06:00 PM",almeria,villarreal,,,home,1677974400,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, March 11 06:00 PM",almeria,sevilla,,,away,1678579200,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, March 18 07:00 PM",almeria,cadiz,,,home,1679184000,https://media-3.api-sports.io/football/teams/723.png
+"Saturday, April 01 07:00 PM",almeria,celta vigo,,,away,1680393600,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, April 08 07:00 PM",almeria,valencia,,,home,1680998400,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, April 15 07:00 PM",almeria,atletico madrid,,,away,1681603200,https://media-3.api-sports.io/football/teams/723.png
+"Saturday, April 22 07:00 PM",almeria,athletic club,,,home,1682208000,https://media-3.api-sports.io/football/teams/723.png
+"Tuesday, April 25 07:00 PM",almeria,getafe,,,away,1682467200,https://media-3.api-sports.io/football/teams/723.png
+"Saturday, April 29 07:00 PM",almeria,real madrid,,,away,1682812800,https://media-2.api-sports.io/football/teams/723.png
+"Tuesday, May 02 07:00 PM",almeria,elche,,,home,1683072000,https://media-1.api-sports.io/football/teams/723.png
+"Saturday, May 13 07:00 PM",almeria,osasuna,,,away,1684022400,https://media-3.api-sports.io/football/teams/723.png
+"Saturday, May 20 07:00 PM",almeria,mallorca,,,home,1684627200,https://media-1.api-sports.io/football/teams/723.png
+"Tuesday, May 23 07:00 PM",almeria,real sociedad,,,away,1684886400,https://media-2.api-sports.io/football/teams/723.png
+"Saturday, May 27 07:00 PM",almeria,valladolid,,,home,1685232000,https://media-1.api-sports.io/football/teams/723.png
+"Saturday, June 03 07:00 PM",almeria,espanyol,,,away,1685836800,https://media-2.api-sports.io/football/teams/723.png

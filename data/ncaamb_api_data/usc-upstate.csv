@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,usc upstate,brevard college,42 - 90,W,home,1667867400,https://media-1.api-sports.io/basketball/teams/2173.png
+2022-11-11T23:30:00+00:00,usc upstate,duke,38 - 84,L,away,1668209400,https://media-1.api-sports.io/basketball/teams/2173.png
+2022-11-16T00:00:00+00:00,usc upstate,clemson,70 - 81,L,away,1668556800,https://media-2.api-sports.io/basketball/teams/2173.png
+2022-11-19T00:30:00+00:00,usc upstate,coastal carolina,78 - 79,W,home,1668817800,https://media-3.api-sports.io/basketball/teams/2173.png
+2022-11-22T02:00:00+00:00,usc upstate,air force,56 - 83,L,away,1669082400,https://media-3.api-sports.io/basketball/teams/2173.png
+2022-11-25T21:00:00+00:00,usc upstate,south carolina,53 - 68,L,away,1669410000,https://media-1.api-sports.io/basketball/teams/2173.png
+2022-12-01T00:00:00+00:00,usc upstate,columbia international,59 - 93,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/2173.png
+2022-12-03T22:30:00+00:00,usc upstate,western carolina,79 - 64,W,away,1670106600,https://media-2.api-sports.io/basketball/teams/2173.png
+2022-12-10T20:00:00+00:00,usc upstate,south carolina st,84 - 89,W,home,1670702400,https://media-2.api-sports.io/basketball/teams/2173.png
+2022-12-14T01:30:00+00:00,usc upstate,florida state,63 - 80,L,away,1670981400,https://media-3.api-sports.io/basketball/teams/2173.png
+2022-12-21T00:00:00+00:00,usc upstate,kennesaw state,56 - 65,L,away,1671580800,https://media-3.api-sports.io/basketball/teams/2173.png
+2022-12-29T22:00:00+00:00,usc upstate,winthrop,62 - 70,W,home,1672351200,https://media-1.api-sports.io/basketball/teams/2173.png
+2022-12-31T20:00:00+00:00,usc upstate,charleston southern,85 - 90,L,away,1672516800,https://media-2.api-sports.io/basketball/teams/2173.png
+2023-01-05T00:00:00+00:00,usc upstate,radford,65 - 60,W,away,1672876800,https://media-3.api-sports.io/basketball/teams/2173.png
+2023-01-07T20:00:00+00:00,usc upstate,high point,57 - 76,W,home,1673121600,https://media-2.api-sports.io/basketball/teams/2173.png
+2023-01-12T00:00:00+00:00,usc upstate,campbell,,,home,1673481600,https://media-2.api-sports.io/basketball/teams/2173.png
+2023-01-14T21:00:00+00:00,usc upstate,longwood,,,away,1673730000,https://media-2.api-sports.io/basketball/teams/2173.png
+2023-01-19T00:00:00+00:00,usc upstate,presbyterian,,,home,1674086400,https://media-1.api-sports.io/basketball/teams/2173.png
+2023-01-21T19:00:00+00:00,usc upstate,unc asheville,,,away,1674327600,https://media-1.api-sports.io/basketball/teams/2173.png
+2023-01-26T00:00:00+00:00,usc upstate,gardner webb,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/2173.png
+2023-01-28T19:00:00+00:00,usc upstate,radford,,,home,1674932400,https://media-3.api-sports.io/basketball/teams/2173.png
+2023-02-02T00:00:00+00:00,usc upstate,campbell,,,away,1675296000,https://media-1.api-sports.io/basketball/teams/2173.png
+2023-02-04T21:00:00+00:00,usc upstate,unc asheville,,,home,1675544400,https://media-1.api-sports.io/basketball/teams/2173.png
+2023-02-09T00:00:00+00:00,usc upstate,charleston southern,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/2173.png
+2023-02-11T22:00:00+00:00,usc upstate,winthrop,,,away,1676152800,https://media-3.api-sports.io/basketball/teams/2173.png
+2023-02-16T00:00:00+00:00,usc upstate,longwood,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/2173.png
+2023-02-18T21:00:00+00:00,usc upstate,high point,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/2173.png

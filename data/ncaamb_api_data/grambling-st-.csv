@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,grambling st.,north texas-dallas,57 - 82,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/232.png
+2022-11-12T01:00:00+00:00,grambling st.,colorado,74 - 83,W,home,1668214800,https://media-2.api-sports.io/basketball/teams/232.png
+2022-11-19T02:00:00+00:00,grambling st.,grand canyon,48 - 81,L,away,1668823200,https://media-1.api-sports.io/basketball/teams/232.png
+2022-11-23T02:00:00+00:00,grambling st.,arizona state,49 - 80,L,away,1669168800,https://media-2.api-sports.io/basketball/teams/232.png
+2022-11-26T01:30:00+00:00,grambling st.,utsa roadrunners,75 - 55,W,away,1669426200,https://media-1.api-sports.io/basketball/teams/232.png
+2022-11-27T23:00:00+00:00,grambling st.,incarnate word,63 - 61,L,home,1669590000,https://media-2.api-sports.io/basketball/teams/232.png
+2022-11-28T21:00:00+00:00,grambling st.,dartmouth,73 - 49,W,away,1669669200,https://media-3.api-sports.io/basketball/teams/232.png
+2022-12-03T22:00:00+00:00,grambling st.,incarnate word,39 - 72,W,home,1670104800,https://media-1.api-sports.io/basketball/teams/232.png
+2022-12-10T00:00:00+00:00,grambling st.,vanderbilt,64 - 62,W,away,1670630400,https://media-2.api-sports.io/basketball/teams/232.png
+2022-12-17T21:00:00+00:00,grambling st.,virginia tech,48 - 74,L,away,1671310800,https://media-2.api-sports.io/basketball/teams/232.png
+2022-12-20T00:00:00+00:00,grambling st.,liberty,56 - 75,L,away,1671494400,https://media-1.api-sports.io/basketball/teams/232.png
+2022-12-24T02:00:00+00:00,grambling st.,wisconsin,None - None,tie,away,1671847200,https://media-1.api-sports.io/basketball/teams/232.png
+2022-12-30T01:00:00+00:00,grambling st.,north american stallions,42 - 101,W,home,1672362000,https://media-1.api-sports.io/basketball/teams/232.png
+2023-01-03T01:30:00+00:00,grambling st.,prairie view a&m,60 - 61,L,away,1672709400,https://media-1.api-sports.io/basketball/teams/232.png
+2023-01-05T01:00:00+00:00,grambling st.,texas southern,85 - 72,W,away,1672880400,https://media-1.api-sports.io/basketball/teams/232.png
+2023-01-07T23:30:00+00:00,grambling st.,bethune-cookman,70 - 76,W,home,1673134200,https://media-1.api-sports.io/basketball/teams/232.png
+2023-01-10T01:00:00+00:00,grambling st.,florida a&m,None - None,tie,home,1673312400,https://media-1.api-sports.io/basketball/teams/232.png
+2023-01-14T23:30:00+00:00,grambling st.,southern univ.,,,away,1673739000,https://media-2.api-sports.io/basketball/teams/232.png
+2023-01-22T00:00:00+00:00,grambling st.,miss. valley st.,,,away,1674345600,https://media-2.api-sports.io/basketball/teams/232.png
+2023-01-24T01:30:00+00:00,grambling st.,arkansas-pine bluff,,,away,1674523800,https://media-2.api-sports.io/basketball/teams/232.png
+2023-01-28T23:30:00+00:00,grambling st.,jackson state,,,home,1674948600,https://media-1.api-sports.io/basketball/teams/232.png
+2023-01-31T01:00:00+00:00,grambling st.,alcorn state,,,home,1675126800,https://media-2.api-sports.io/basketball/teams/232.png
+2023-02-05T01:00:00+00:00,grambling st.,alabama state,,,away,1675558800,https://media-1.api-sports.io/basketball/teams/232.png
+2023-02-07T01:00:00+00:00,grambling st.,alabama a&m,,,away,1675731600,https://media-1.api-sports.io/basketball/teams/232.png
+2023-02-11T23:30:00+00:00,grambling st.,texas southern,,,home,1676158200,https://media-3.api-sports.io/basketball/teams/232.png
+2023-02-14T01:00:00+00:00,grambling st.,prairie view a&m,,,home,1676336400,https://media-1.api-sports.io/basketball/teams/232.png
+2023-02-18T21:00:00+00:00,grambling st.,southern univ.,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/232.png

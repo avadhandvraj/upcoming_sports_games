@@ -1,0 +1,21 @@
+Date,Team,Score,Week,Result,Home or Away,Unix Timestamp
+"Sun, Sep 11",Washington,`28-22,1,L,Away,
+"Fri, Aug 12",Cleveland,`24-13,1,L,Home,
+"Sun, Sep 18",Indianapolis,`24-0,2,W,Home,
+"Sat, Aug 20",Pittsburgh,`16-15,2,L,Home,
+"Sun, Sep 25",Los Angeles,`38-10,3,W,Away,
+"Sat, Aug 27",Atlanta,`28-12,3,L,Away,
+"Sun, Oct 2",Philadelphia,`29-21,4,L,Away,
+"Sun, Oct 9",Houston,`13-6,5,L,Home,
+"Sun, Oct 16",Indianapolis,`34-27,6,L,Away,
+"Sun, Oct 23",New York,`23-17,7,L,Home,
+"Sun, Oct 30",Denver *,`21-17,8,L,Home,
+"Sun, Nov 6",Las Vegas,`27-20,9,W,Home,
+"Sun, Nov 13",Kansas City,`27-17,10,L,Away,
+BYE WEEK,,,11,,,
+"Sun, Nov 27",Baltimore,`28-27,12,W,Home,
+"Sun, Dec 4",Detroit,`40-14,13,L,Away,
+"Sun, Dec 11",Tennessee,`36-22,14,W,Away,
+"Sun, Dec 18",Dallas,`40-34 OT,15,W,Home,
+"Thu, Dec 22 2022 7:15 PM",New York,,16,,Away,1671758100.0
+"Sun, Jan 1 2022 12:00 PM",Houston,,17,,Away,1641060000.0

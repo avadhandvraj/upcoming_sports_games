@@ -1,0 +1,86 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-10-04T02:30:00+00:00,los angeles clippers,portland trail blazers,97 - 102,W,home,1664850600,https://media-3.api-sports.io/basketball/teams/144.png
+2022-10-10T02:30:00+00:00,los angeles clippers,minnesota timberwolves,119 - 117,L,home,1665369000,https://media-3.api-sports.io/basketball/teams/144.png
+2022-10-13T02:30:00+00:00,los angeles clippers,denver nuggets,126 - 115,L,home,1665628200,https://media-2.api-sports.io/basketball/teams/144.png
+2022-10-21T02:00:00+00:00,los angeles clippers,los angeles lakers,103 - 97,W,away,1666317600,https://media-2.api-sports.io/basketball/teams/144.png
+2022-10-23T02:00:00+00:00,los angeles clippers,sacramento kings,111 - 109,W,away,1666490400,https://media-3.api-sports.io/basketball/teams/144.png
+2022-10-24T02:00:00+00:00,los angeles clippers,phoenix suns,112 - 95,L,home,1666576800,https://media-2.api-sports.io/basketball/teams/144.png
+2022-10-26T00:00:00+00:00,los angeles clippers,oklahoma city thunder,94 - 108,L,away,1666742400,https://media-3.api-sports.io/basketball/teams/144.png
+2022-10-28T00:00:00+00:00,los angeles clippers,oklahoma city thunder,110 - 118,L,away,1666915200,https://media-1.api-sports.io/basketball/teams/144.png
+2022-10-30T19:00:00+00:00,los angeles clippers,new orleans pelicans,112 - 91,L,home,1667156400,https://media-2.api-sports.io/basketball/teams/144.png
+2022-11-01T02:30:00+00:00,los angeles clippers,houston rockets,93 - 95,W,home,1667269800,https://media-2.api-sports.io/basketball/teams/144.png
+2022-11-03T00:00:00+00:00,los angeles clippers,houston rockets,109 - 101,W,away,1667433600,https://media-1.api-sports.io/basketball/teams/144.png
+2022-11-05T00:00:00+00:00,los angeles clippers,san antonio spurs,113 - 106,W,away,1667606400,https://media-3.api-sports.io/basketball/teams/144.png
+2022-11-07T03:00:00+00:00,los angeles clippers,utah jazz,110 - 102,L,home,1667790000,https://media-1.api-sports.io/basketball/teams/144.png
+2022-11-08T03:30:00+00:00,los angeles clippers,cleveland cavaliers,117 - 119,W,home,1667878200,https://media-2.api-sports.io/basketball/teams/144.png
+2022-11-10T03:00:00+00:00,los angeles clippers,los angeles lakers,101 - 114,W,home,1668049200,https://media-1.api-sports.io/basketball/teams/144.png
+2022-11-12T21:00:00+00:00,los angeles clippers,brooklyn nets,110 - 95,L,home,1668286800,https://media-1.api-sports.io/basketball/teams/144.png
+2022-11-15T01:00:00+00:00,los angeles clippers,houston rockets,122 - 106,W,away,1668474000,https://media-3.api-sports.io/basketball/teams/144.png
+2022-11-16T01:30:00+00:00,los angeles clippers,dallas mavericks,101 - 103,L,away,1668562200,https://media-1.api-sports.io/basketball/teams/144.png
+2022-11-18T03:30:00+00:00,los angeles clippers,detroit pistons,91 - 96,W,home,1668742200,https://media-2.api-sports.io/basketball/teams/144.png
+2022-11-20T03:30:00+00:00,los angeles clippers,san antonio spurs,97 - 119,W,home,1668915000,https://media-1.api-sports.io/basketball/teams/144.png
+2022-11-22T03:30:00+00:00,los angeles clippers,utah jazz,114 - 121,W,home,1669087800,https://media-1.api-sports.io/basketball/teams/144.png
+2022-11-24T03:00:00+00:00,los angeles clippers,golden state warriors,107 - 124,L,away,1669258800,https://media-3.api-sports.io/basketball/teams/144.png
+2022-11-26T03:30:00+00:00,los angeles clippers,denver nuggets,114 - 104,L,home,1669433400,https://media-2.api-sports.io/basketball/teams/144.png
+2022-11-27T21:00:00+00:00,los angeles clippers,indiana pacers,100 - 114,W,home,1669582800,https://media-3.api-sports.io/basketball/teams/144.png
+2022-11-30T03:00:00+00:00,los angeles clippers,portland trail blazers,118 - 112,W,away,1669777200,https://media-2.api-sports.io/basketball/teams/144.png
+2022-12-01T02:00:00+00:00,los angeles clippers,utah jazz,112 - 125,L,away,1669860000,https://media-3.api-sports.io/basketball/teams/144.png
+2022-12-03T21:00:00+00:00,los angeles clippers,sacramento kings,123 - 96,L,home,1670101200,https://media-1.api-sports.io/basketball/teams/144.png
+2022-12-06T00:00:00+00:00,los angeles clippers,charlotte hornets,119 - 117,W,away,1670284800,https://media-3.api-sports.io/basketball/teams/144.png
+2022-12-08T00:00:00+00:00,los angeles clippers,orlando magic,111 - 116,L,away,1670457600,https://media-2.api-sports.io/basketball/teams/144.png
+2022-12-09T00:30:00+00:00,los angeles clippers,miami heat,110 - 115,L,away,1670545800,https://media-2.api-sports.io/basketball/teams/144.png
+2022-12-11T00:00:00+00:00,los angeles clippers,washington wizards,114 - 107,W,away,1670716800,https://media-1.api-sports.io/basketball/teams/144.png
+2022-12-13T03:30:00+00:00,los angeles clippers,boston celtics,93 - 113,W,home,1670902200,https://media-1.api-sports.io/basketball/teams/144.png
+2022-12-15T03:00:00+00:00,los angeles clippers,minnesota timberwolves,88 - 99,W,home,1671073200,https://media-1.api-sports.io/basketball/teams/144.png
+2022-12-16T03:30:00+00:00,los angeles clippers,phoenix suns,111 - 95,L,home,1671161400,https://media-2.api-sports.io/basketball/teams/144.png
+2022-12-17T21:00:00+00:00,los angeles clippers,washington wizards,93 - 102,W,home,1671310800,https://media-2.api-sports.io/basketball/teams/144.png
+2022-12-22T03:30:00+00:00,los angeles clippers,charlotte hornets,105 - 126,W,home,1671679800,https://media-1.api-sports.io/basketball/teams/144.png
+2022-12-24T00:00:00+00:00,los angeles clippers,philadelphia 76ers,114 - 119,L,away,1671840000,https://media-1.api-sports.io/basketball/teams/144.png
+2022-12-27T00:00:00+00:00,los angeles clippers,detroit pistons,142 - 131,W,away,1672099200,https://media-1.api-sports.io/basketball/teams/144.png
+2022-12-28T00:30:00+00:00,los angeles clippers,toronto raptors,124 - 113,W,away,1672187400,https://media-1.api-sports.io/basketball/teams/144.png
+2022-12-30T00:30:00+00:00,los angeles clippers,boston celtics,110 - 116,L,away,1672360200,https://media-2.api-sports.io/basketball/teams/144.png
+2022-12-31T20:00:00+00:00,los angeles clippers,indiana pacers,130 - 131,L,away,1672516800,https://media-2.api-sports.io/basketball/teams/144.png
+2023-01-03T03:30:00+00:00,los angeles clippers,miami heat,110 - 100,L,home,1672716600,https://media-3.api-sports.io/basketball/teams/144.png
+2023-01-06T03:00:00+00:00,los angeles clippers,denver nuggets,91 - 122,L,away,1672974000,https://media-1.api-sports.io/basketball/teams/144.png
+2023-01-07T02:00:00+00:00,los angeles clippers,minnesota timberwolves,115 - 128,L,away,1673056800,https://media-3.api-sports.io/basketball/teams/144.png
+2023-01-09T02:00:00+00:00,los angeles clippers,atlanta hawks,112 - 108,L,home,1673229600,https://media-1.api-sports.io/basketball/teams/144.png
+2023-01-11T03:30:00+00:00,los angeles clippers,dallas mavericks,,,home,1673407800,https://media-2.api-sports.io/basketball/teams/144.png
+2023-01-14T03:00:00+00:00,los angeles clippers,denver nuggets,,,home,1673665200,https://media-1.api-sports.io/basketball/teams/144.png
+2023-01-15T20:00:00+00:00,los angeles clippers,houston rockets,,,home,1673812800,https://media-2.api-sports.io/basketball/teams/144.png
+2023-01-18T03:00:00+00:00,los angeles clippers,philadelphia 76ers,,,home,1674010800,https://media-1.api-sports.io/basketball/teams/144.png
+2023-01-19T02:00:00+00:00,los angeles clippers,utah jazz,,,away,1674093600,https://media-3.api-sports.io/basketball/teams/144.png
+2023-01-21T01:00:00+00:00,los angeles clippers,san antonio spurs,,,away,1674262800,https://media-3.api-sports.io/basketball/teams/144.png
+2023-01-23T00:30:00+00:00,los angeles clippers,dallas mavericks,,,away,1674433800,https://media-3.api-sports.io/basketball/teams/144.png
+2023-01-25T03:00:00+00:00,los angeles clippers,los angeles lakers,,,away,1674615600,https://media-2.api-sports.io/basketball/teams/144.png
+2023-01-27T03:30:00+00:00,los angeles clippers,san antonio spurs,,,home,1674790200,https://media-1.api-sports.io/basketball/teams/144.png
+2023-01-29T00:30:00+00:00,los angeles clippers,atlanta hawks,,,away,1674952200,https://media-1.api-sports.io/basketball/teams/144.png
+2023-01-30T00:00:00+00:00,los angeles clippers,cleveland cavaliers,,,away,1675036800,https://media-2.api-sports.io/basketball/teams/144.png
+2023-02-01T01:00:00+00:00,los angeles clippers,chicago bulls,,,away,1675213200,https://media-1.api-sports.io/basketball/teams/144.png
+2023-02-03T03:00:00+00:00,los angeles clippers,milwaukee bucks,,,away,1675393200,https://media-3.api-sports.io/basketball/teams/144.png
+2023-02-05T00:00:00+00:00,los angeles clippers,new york knicks,,,away,1675555200,https://media-1.api-sports.io/basketball/teams/144.png
+2023-02-07T00:30:00+00:00,los angeles clippers,brooklyn nets,,,away,1675729800,https://media-1.api-sports.io/basketball/teams/144.png
+2023-02-09T03:00:00+00:00,los angeles clippers,dallas mavericks,,,home,1675911600,https://media-3.api-sports.io/basketball/teams/144.png
+2023-02-11T03:30:00+00:00,los angeles clippers,milwaukee bucks,,,home,1676086200,https://media-3.api-sports.io/basketball/teams/144.png
+2023-02-15T03:00:00+00:00,los angeles clippers,golden state warriors,,,home,1676430000,https://media-1.api-sports.io/basketball/teams/144.png
+2023-02-17T03:00:00+00:00,los angeles clippers,phoenix suns,,,away,1676602800,https://media-1.api-sports.io/basketball/teams/144.png
+2023-02-25T03:30:00+00:00,los angeles clippers,sacramento kings,,,home,1677295800,https://media-1.api-sports.io/basketball/teams/144.png
+2023-02-27T03:00:00+00:00,los angeles clippers,denver nuggets,,,away,1677466800,https://media-1.api-sports.io/basketball/teams/144.png
+2023-03-01T03:00:00+00:00,los angeles clippers,minnesota timberwolves,,,home,1677639600,https://media-1.api-sports.io/basketball/teams/144.png
+2023-03-03T03:00:00+00:00,los angeles clippers,golden state warriors,,,away,1677812400,https://media-1.api-sports.io/basketball/teams/144.png
+2023-03-04T03:00:00+00:00,los angeles clippers,sacramento kings,,,away,1677898800,https://media-2.api-sports.io/basketball/teams/144.png
+2023-03-06T03:00:00+00:00,los angeles clippers,memphis grizzlies,,,home,1678071600,https://media-1.api-sports.io/basketball/teams/144.png
+2023-03-09T03:00:00+00:00,los angeles clippers,toronto raptors,,,home,1678330800,https://media-3.api-sports.io/basketball/teams/144.png
+2023-03-11T21:00:00+00:00,los angeles clippers,new york knicks,,,home,1678568400,https://media-1.api-sports.io/basketball/teams/144.png
+2023-03-16T02:00:00+00:00,los angeles clippers,golden state warriors,,,home,1678932000,https://media-3.api-sports.io/basketball/teams/144.png
+2023-03-18T19:00:00+00:00,los angeles clippers,orlando magic,,,home,1679166000,https://media-3.api-sports.io/basketball/teams/144.png
+2023-03-20T01:00:00+00:00,los angeles clippers,portland trail blazers,,,away,1679274000,https://media-3.api-sports.io/basketball/teams/144.png
+2023-03-22T02:30:00+00:00,los angeles clippers,oklahoma city thunder,,,home,1679452200,https://media-3.api-sports.io/basketball/teams/144.png
+2023-03-24T02:30:00+00:00,los angeles clippers,oklahoma city thunder,,,home,1679625000,https://media-2.api-sports.io/basketball/teams/144.png
+2023-03-26T02:30:00+00:00,los angeles clippers,new orleans pelicans,,,home,1679797800,https://media-3.api-sports.io/basketball/teams/144.png
+2023-03-28T02:30:00+00:00,los angeles clippers,chicago bulls,,,home,1679970600,https://media-2.api-sports.io/basketball/teams/144.png
+2023-03-30T00:00:00+00:00,los angeles clippers,memphis grizzlies,,,away,1680134400,https://media-3.api-sports.io/basketball/teams/144.png
+2023-04-01T00:00:00+00:00,los angeles clippers,memphis grizzlies,,,away,1680307200,https://media-2.api-sports.io/basketball/teams/144.png
+2023-04-02T00:30:00+00:00,los angeles clippers,new orleans pelicans,,,away,1680395400,https://media-1.api-sports.io/basketball/teams/144.png
+2023-04-06T02:00:00+00:00,los angeles clippers,los angeles lakers,,,home,1680746400,https://media-1.api-sports.io/basketball/teams/144.png
+2023-04-08T20:00:00+00:00,los angeles clippers,portland trail blazers,None - None,tie,home,1680984000,https://media-3.api-sports.io/basketball/teams/144.png
+2023-04-09T19:30:00+00:00,los angeles clippers,phoenix suns,None - None,tie,away,1681068600,https://media-3.api-sports.io/basketball/teams/144.png

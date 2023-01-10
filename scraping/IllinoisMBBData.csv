@@ -1,0 +1,32 @@
+Date,Team,Score,Result,Home or Away,Unix Timestamp
+"Mon, Nov 7",Eastern Illinois,`87-57,W,Home,
+"Fri, Nov 11",Kansas City,`86-48,W,Home,
+"Mon, Nov 14",Monmouth,`103-65,W,Home,
+"Fri, Nov 18",8 UCLA *,`79-70,W,Home,
+"Sun, Nov 20",16 Virginia *,`70-61,L,Home,
+"Fri, Nov 25",Lindenwood,`92-59,W,Home,
+"Tue, Nov 29",Syracuse,`73-44,W,Home,
+"Fri, Dec 2",22 Maryland,`71-66,L,Away,
+"Tue, Dec 6",2 Texas *,`85-78 OT,W,Home,
+"Sat, Dec 10",Penn State,`74-59,L,Home,
+"Sat, Dec 17",Alabama A&M,`68-47,W,Home,
+"Thu, Dec 22 2022 8:00 PM",Missouri *,,,Home,1671760800.0
+"Thu, Dec 29 2022 7:30 PM",Bethune-Cookman,,,Home,1672363800.0
+"Wed, Jan 4 2023 8:00 PM",Northwestern,,,Away,1672884000.0
+"Sat, Jan 7 2023 12:30 PM",17 Wisconsin,,,Home,1673116200.0
+"Tue, Jan 10 2023 8:00 PM",Nebraska,,,Away,1673402400.0
+"Fri, Jan 13 2023 8:00 PM",Michigan State,,,Home,1673661600.0
+"Mon, Jan 16 2023 5:00 PM",Minnesota,,,Away,1673910000.0
+"Thu, Jan 19 2023 7:30 PM",18 Indiana,,,Home,1674178200.0
+"Tue, Jan 24 2023 6:00 PM",Ohio State,,,Home,1674604800.0
+"Sat, Jan 28 2023 2:00 PM",17 Wisconsin,,,Away,1674936000.0
+"Tue, Jan 31 2023 6:30 PM",Nebraska,,,Home,1675211400.0
+"Sat, Feb 4 2023 1:30 PM",Iowa,,,Away,1675539000.0
+"Tue, Feb 7 2023 7:30 PM",Minnesota,,,Home,1675819800.0
+"Sat, Feb 11 2023 1:00 PM",Rutgers,,,Home,1676142000.0
+"Tue, Feb 14 2023 6:00 PM",Penn State,,,Away,1676419200.0
+"Sat, Feb 18 2023 11:00 AM",18 Indiana,,,Away,1676739600.0
+"Thu, Feb 23 2023 8:00 PM",Northwestern,,,Home,1677204000.0
+"Sun, Feb 26 2023 11:00 AM",Ohio State,,,Away,1677430800.0
+"Thu, Mar 2 2023 6:00 PM",Michigan,,,Home,1677801600.0
+"Sun, Mar 5 2023 11:30 AM",1 Purdue,,,Away,1678037400.0

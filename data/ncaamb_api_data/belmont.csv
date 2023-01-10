@@ -1,0 +1,29 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,belmont,ohio,69 - 70,W,home,1667867400,https://media-1.api-sports.io/basketball/teams/1826.png
+2022-11-12T00:00:00+00:00,belmont,furman,74 - 89,L,away,1668211200,https://media-1.api-sports.io/basketball/teams/1826.png
+2022-11-15T01:00:00+00:00,belmont,lipscomb,75 - 77,L,away,1668474000,https://media-1.api-sports.io/basketball/teams/1826.png
+2022-11-18T22:45:00+00:00,belmont,tarleton,89 - 81,L,home,1668811500,https://media-2.api-sports.io/basketball/teams/1826.png
+2022-11-19T20:15:00+00:00,belmont,george mason,66 - 62,W,away,1668888900,https://media-2.api-sports.io/basketball/teams/1826.png
+2022-11-21T20:15:00+00:00,belmont,howard,73 - 96,W,home,1669061700,https://media-3.api-sports.io/basketball/teams/1826.png
+2022-11-27T19:00:00+00:00,belmont,georgia state,68 - 66,W,away,1669575600,https://media-2.api-sports.io/basketball/teams/1826.png
+2022-12-02T01:00:00+00:00,belmont,valparaiso,64 - 76,W,home,1669942800,https://media-3.api-sports.io/basketball/teams/1826.png
+2022-12-04T19:00:00+00:00,belmont,illinois state,77 - 87,L,away,1670180400,https://media-3.api-sports.io/basketball/teams/1826.png
+2022-12-07T00:30:00+00:00,belmont,trevecca nazarene,53 - 83,W,home,1670373000,https://media-2.api-sports.io/basketball/teams/1826.png
+2022-12-10T22:00:00+00:00,belmont,middle tenn. st.,85 - 75,L,home,1670709600,https://media-2.api-sports.io/basketball/teams/1826.png
+2022-12-18T19:00:00+00:00,belmont,chattanooga mocs,83 - 79,W,away,1671390000,https://media-3.api-sports.io/basketball/teams/1826.png
+2022-12-22T00:30:00+00:00,belmont,samford,56 - 79,W,home,1671669000,https://media-1.api-sports.io/basketball/teams/1826.png
+2022-12-29T01:00:00+00:00,belmont,bradley,60 - 63,W,home,1672275600,https://media-1.api-sports.io/basketball/teams/1826.png
+2023-01-01T22:00:00+00:00,belmont,southern illinois,45 - 63,L,away,1672610400,https://media-2.api-sports.io/basketball/teams/1826.png
+2023-01-05T01:00:00+00:00,belmont,illinois (chi.),77 - 71,W,away,1672880400,https://media-3.api-sports.io/basketball/teams/1826.png
+2023-01-07T22:00:00+00:00,belmont,missouri state,61 - 74,W,home,1673128800,https://media-2.api-sports.io/basketball/teams/1826.png
+2023-01-11T00:00:00+00:00,belmont,valparaiso,,,away,1673395200,https://media-3.api-sports.io/basketball/teams/1826.png
+2023-01-14T22:00:00+00:00,belmont,northern iowa,,,home,1673733600,https://media-1.api-sports.io/basketball/teams/1826.png
+2023-01-18T02:00:00+00:00,belmont,murray state,,,home,1674007200,https://media-3.api-sports.io/basketball/teams/1826.png
+2023-01-21T21:00:00+00:00,belmont,bradley,,,away,1674334800,https://media-1.api-sports.io/basketball/teams/1826.png
+2023-01-26T01:00:00+00:00,belmont,evansville,,,away,1674694800,https://media-2.api-sports.io/basketball/teams/1826.png
+2023-01-29T20:00:00+00:00,belmont,drake,,,home,1675022400,https://media-3.api-sports.io/basketball/teams/1826.png
+2023-02-02T01:00:00+00:00,belmont,murray state,,,away,1675299600,https://media-1.api-sports.io/basketball/teams/1826.png
+2023-02-04T22:00:00+00:00,belmont,illinois state,,,home,1675548000,https://media-3.api-sports.io/basketball/teams/1826.png
+2023-02-09T00:00:00+00:00,belmont,missouri state,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1826.png
+2023-02-11T19:00:00+00:00,belmont,illinois (chi.),,,home,1676142000,https://media-1.api-sports.io/basketball/teams/1826.png
+2023-02-16T00:30:00+00:00,belmont,evansville,,,home,1676507400,https://media-1.api-sports.io/basketball/teams/1826.png

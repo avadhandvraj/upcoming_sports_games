@@ -1,0 +1,35 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Saturday, August 06 08:30 AM",vfl wolfsburg,werder bremen,2 - 2,tie,home,1659792600,https://media-1.api-sports.io/football/teams/161.png
+"Sunday, August 14 10:30 AM",vfl wolfsburg,bayern munich,0 - 2,L,away,1660491000,https://media-1.api-sports.io/football/teams/161.png
+"Saturday, August 20 08:30 AM",vfl wolfsburg,fc schalke 04,0 - 0,tie,home,1661002200,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, August 27 08:30 AM",vfl wolfsburg,rb leipzig,0 - 2,L,away,1661607000,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, September 03 08:30 AM",vfl wolfsburg,fc koln,4 - 2,L,home,1662211800,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, September 10 08:30 AM",vfl wolfsburg,eintracht frankfurt,1 - 0,W,away,1662816600,https://media-3.api-sports.io/football/teams/161.png
+"Sunday, September 18 08:30 AM",vfl wolfsburg,union berlin,0 - 2,L,away,1663507800,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, October 01 08:30 AM",vfl wolfsburg,vfb stuttgart,2 - 3,W,home,1664631000,https://media-1.api-sports.io/football/teams/161.png
+"Saturday, October 08 08:30 AM",vfl wolfsburg,fc augsburg,1 - 1,tie,away,1665235800,https://media-1.api-sports.io/football/teams/161.png
+"Saturday, October 15 08:30 AM",vfl wolfsburg,borussia monchengladbach,2 - 2,tie,home,1665840600,https://media-2.api-sports.io/football/teams/161.png
+"Saturday, October 22 08:30 AM",vfl wolfsburg,bayer leverkusen,2 - 2,tie,away,1666445400,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, October 29 08:30 AM",vfl wolfsburg,vfl bochum,0 - 4,W,home,1667050200,https://media-2.api-sports.io/football/teams/161.png
+"Saturday, November 05 09:30 AM",vfl wolfsburg,fsv mainz 05,3 - 0,W,away,1667658600,https://media-1.api-sports.io/football/teams/161.png
+"Tuesday, November 08 11:30 AM",vfl wolfsburg,borussia dortmund,0 - 2,W,home,1667928600,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, November 12 08:30 AM",vfl wolfsburg,1899 hoffenheim,2 - 1,W,away,1668263400,https://media-1.api-sports.io/football/teams/161.png
+"Saturday, January 21 08:30 AM",vfl wolfsburg,sc freiburg,,,home,1674311400,https://media-2.api-sports.io/football/teams/161.png
+"Tuesday, January 24 01:30 PM",vfl wolfsburg,hertha berlin,,,away,1674588600,https://media-1.api-sports.io/football/teams/161.png
+"Saturday, January 28 08:30 AM",vfl wolfsburg,werder bremen,,,away,1674916200,https://media-1.api-sports.io/football/teams/161.png
+"Sunday, February 05 10:30 AM",vfl wolfsburg,bayern munich,,,home,1675614600,https://media-2.api-sports.io/football/teams/161.png
+"Friday, February 10 06:00 PM",vfl wolfsburg,fc schalke 04,,,away,1676073600,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, February 18 08:30 AM",vfl wolfsburg,rb leipzig,,,home,1676730600,https://media-1.api-sports.io/football/teams/161.png
+"Saturday, February 25 08:30 AM",vfl wolfsburg,fc koln,,,away,1677335400,https://media-3.api-sports.io/football/teams/161.png
+"Sunday, March 05 10:30 AM",vfl wolfsburg,eintracht frankfurt,,,home,1678033800,https://media-3.api-sports.io/football/teams/161.png
+"Sunday, March 12 01:30 PM",vfl wolfsburg,union berlin,,,home,1678645800,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, March 18 09:30 AM",vfl wolfsburg,vfb stuttgart,,,away,1679149800,https://media-1.api-sports.io/football/teams/161.png
+"Friday, March 31 07:00 PM",vfl wolfsburg,fc augsburg,,,home,1680307200,https://media-1.api-sports.io/football/teams/161.png
+"Friday, April 07 07:00 PM",vfl wolfsburg,borussia monchengladbach,,,away,1680912000,https://media-2.api-sports.io/football/teams/161.png
+"Friday, April 14 07:00 PM",vfl wolfsburg,bayer leverkusen,,,home,1681516800,https://media-3.api-sports.io/football/teams/161.png
+"Friday, April 21 07:00 PM",vfl wolfsburg,vfl bochum,,,away,1682121600,https://media-3.api-sports.io/football/teams/161.png
+"Friday, April 28 07:00 PM",vfl wolfsburg,fsv mainz 05,,,home,1682726400,https://media-2.api-sports.io/football/teams/161.png
+"Friday, May 05 07:00 PM",vfl wolfsburg,borussia dortmund,,,away,1683331200,https://media-1.api-sports.io/football/teams/161.png
+"Friday, May 12 07:00 PM",vfl wolfsburg,1899 hoffenheim,,,home,1683936000,https://media-2.api-sports.io/football/teams/161.png
+"Friday, May 19 07:00 PM",vfl wolfsburg,sc freiburg,,,away,1684540800,https://media-3.api-sports.io/football/teams/161.png
+"Saturday, May 27 08:30 AM",vfl wolfsburg,hertha berlin,,,home,1685194200,https://media-3.api-sports.io/football/teams/161.png

@@ -1,0 +1,21 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-08-11,new york giants,new england patriots,23 - 21,W,away,1660258800,https://media-3.api-sports.io/american-football/teams/4.png
+2022-08-21,new york giants,cincinnati bengals,22 - 25,W,home,1661122800,https://media-1.api-sports.io/american-football/teams/4.png
+2022-08-28,new york giants,new york jets,27 - 31,L,away,1661706000,https://media-3.api-sports.io/american-football/teams/4.png
+2022-09-11,new york giants,tennessee titans,21 - 20,W,away,1662927900,https://media-3.api-sports.io/american-football/teams/4.png
+2022-09-18,new york giants,carolina panthers,16 - 19,W,home,1663520400,https://media-2.api-sports.io/american-football/teams/4.png
+2022-09-26,new york giants,dallas cowboys,23 - 16,L,home,1664151300,https://media-3.api-sports.io/american-football/teams/4.png
+2022-10-02,new york giants,chicago bears,12 - 20,W,home,1664730000,https://media-2.api-sports.io/american-football/teams/4.png
+2022-10-09,new york giants,green bay packers,27 - 22,W,away,1665322200,https://media-1.api-sports.io/american-football/teams/4.png
+2022-10-16,new york giants,baltimore ravens,20 - 24,W,home,1665939600,https://media-2.api-sports.io/american-football/teams/4.png
+2022-10-23,new york giants,jacksonville jaguars,23 - 17,W,away,1666544400,https://media-2.api-sports.io/american-football/teams/4.png
+2022-10-30,new york giants,seattle seahawks,13 - 27,L,away,1667161500,https://media-3.api-sports.io/american-football/teams/4.png
+2022-11-13,new york giants,houston texans,16 - 24,W,home,1668362400,https://media-1.api-sports.io/american-football/teams/4.png
+2022-11-20,new york giants,detroit lions,31 - 18,L,home,1668967200,https://media-2.api-sports.io/american-football/teams/4.png
+2022-11-24,new york giants,dallas cowboys,20 - 28,L,away,1669325400,https://media-3.api-sports.io/american-football/teams/4.png
+2022-12-04,new york giants,washington commanders,20 - 20,tie,home,1670176800,https://media-3.api-sports.io/american-football/teams/4.png
+2022-12-11,new york giants,philadelphia eagles,48 - 22,L,home,1670781600,https://media-1.api-sports.io/american-football/teams/4.png
+2022-12-18,new york giants,washington commanders,20 - 12,W,away,1671326400,https://media-1.api-sports.io/american-football/teams/4.png
+2022-12-24,new york giants,minnesota vikings,24 - 27,L,away,1671904800,https://media-1.api-sports.io/american-football/teams/4.png
+2023-01-01,new york giants,indianapolis colts,10 - 38,W,home,1672596000,https://media-2.api-sports.io/american-football/teams/4.png
+2023-01-08,new york giants,philadelphia eagles,16 - 22,L,away,1673213100,https://media-1.api-sports.io/american-football/teams/4.png

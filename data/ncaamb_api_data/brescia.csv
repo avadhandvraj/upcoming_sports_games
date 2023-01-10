@@ -1,0 +1,5 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T17:00:00+00:00,brescia,middle tenn. st.,52 - 79,L,away,1667840400,https://media-1.api-sports.io/basketball/teams/717.png
+2022-11-13T21:00:00+00:00,brescia,western carolina,45 - 112,L,away,1668373200,https://media-2.api-sports.io/basketball/teams/717.png
+2022-11-23T21:30:00+00:00,brescia,eastern kentucky,84 - 122,L,away,1669239000,https://media-2.api-sports.io/basketball/teams/717.png
+2022-12-20T20:00:00+00:00,brescia,tennessee state,83 - 98,L,away,1671566400,https://media-3.api-sports.io/basketball/teams/717.png

@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,umkc,lincoln mo.,59 - 56,L,home,1667869200,https://media-3.api-sports.io/basketball/teams/1505.png
+2022-11-10T01:00:00+00:00,umkc,lsu,63 - 74,L,away,1668042000,https://media-2.api-sports.io/basketball/teams/1505.png
+2022-11-12T02:00:00+00:00,umkc,illinois,48 - 86,L,away,1668218400,https://media-1.api-sports.io/basketball/teams/1505.png
+2022-11-15T01:00:00+00:00,umkc,calvary,54 - 113,W,home,1668474000,https://media-1.api-sports.io/basketball/teams/1505.png
+2022-11-17T23:30:00+00:00,umkc,kansas state,53 - 69,L,away,1668727800,https://media-1.api-sports.io/basketball/teams/1505.png
+2022-11-21T16:00:00+00:00,umkc,toledo,71 - 83,W,home,1669046400,https://media-2.api-sports.io/basketball/teams/1505.png
+2022-11-22T22:00:00+00:00,umkc,indiana state,63 - 61,W,away,1669154400,https://media-3.api-sports.io/basketball/teams/1505.png
+2022-11-24T00:30:00+00:00,umkc,florida gulf coast,59 - 73,L,away,1669249800,https://media-2.api-sports.io/basketball/teams/1505.png
+2022-11-27T01:00:00+00:00,umkc,siu edwardsville,64 - 54,L,home,1669510800,https://media-2.api-sports.io/basketball/teams/1505.png
+2022-11-30T01:00:00+00:00,umkc,idaho state,75 - 65,L,home,1669770000,https://media-1.api-sports.io/basketball/teams/1505.png
+2022-12-04T01:00:00+00:00,umkc,lindenwood,47 - 61,W,home,1670115600,https://media-2.api-sports.io/basketball/teams/1505.png
+2022-12-07T01:00:00+00:00,umkc,oklahoma,53 - 75,L,away,1670374800,https://media-1.api-sports.io/basketball/teams/1505.png
+2022-12-11T01:00:00+00:00,umkc,wisc. green bay,64 - 70,L,away,1670720400,https://media-2.api-sports.io/basketball/teams/1505.png
+2022-12-20T01:00:00+00:00,umkc,south dakota coyotes,45 - 62,W,home,1671498000,https://media-2.api-sports.io/basketball/teams/1505.png
+2022-12-22T01:00:00+00:00,umkc,south dakota st.,None - None,tie,home,1671670800,https://media-3.api-sports.io/basketball/teams/1505.png
+2022-12-30T02:00:00+00:00,umkc,denver,83 - 85,L,away,1672365600,https://media-3.api-sports.io/basketball/teams/1505.png
+2022-12-31T19:00:00+00:00,umkc,nebraska o.,75 - 59,W,away,1672513200,https://media-3.api-sports.io/basketball/teams/1505.png
+2023-01-08T01:00:00+00:00,umkc,oral roberts,71 - 74,L,away,1673139600,https://media-3.api-sports.io/basketball/teams/1505.png
+2023-01-13T01:00:00+00:00,umkc,st. thomas (minn.),,,home,1673571600,https://media-1.api-sports.io/basketball/teams/1505.png
+2023-01-15T01:00:00+00:00,umkc,western illinois,,,home,1673744400,https://media-2.api-sports.io/basketball/teams/1505.png
+2023-01-20T01:00:00+00:00,umkc,north dakota,,,away,1674176400,https://media-1.api-sports.io/basketball/teams/1505.png
+2023-01-21T19:00:00+00:00,umkc,north dakota st,,,away,1674327600,https://media-2.api-sports.io/basketball/teams/1505.png
+2023-01-27T01:00:00+00:00,umkc,nebraska o.,,,home,1674781200,https://media-1.api-sports.io/basketball/teams/1505.png
+2023-01-29T01:00:00+00:00,umkc,denver,,,home,1674954000,https://media-2.api-sports.io/basketball/teams/1505.png
+2023-02-05T01:00:00+00:00,umkc,oral roberts,,,home,1675558800,https://media-2.api-sports.io/basketball/teams/1505.png
+2023-02-10T00:00:00+00:00,umkc,western illinois,,,away,1675987200,https://media-3.api-sports.io/basketball/teams/1505.png
+2023-02-12T01:00:00+00:00,umkc,st. thomas (minn.),,,away,1676163600,https://media-2.api-sports.io/basketball/teams/1505.png
+2023-02-17T01:00:00+00:00,umkc,north dakota st,,,home,1676595600,https://media-2.api-sports.io/basketball/teams/1505.png
+2023-02-18T21:00:00+00:00,umkc,north dakota,None - None,tie,home,1676754000,https://media-3.api-sports.io/basketball/teams/1505.png
+2023-02-23T21:00:00+00:00,umkc,south dakota st.,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/1505.png
+2023-02-25T21:00:00+00:00,umkc,south dakota coyotes,None - None,tie,away,1677358800,https://media-2.api-sports.io/basketball/teams/1505.png

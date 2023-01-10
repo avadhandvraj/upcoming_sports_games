@@ -1,0 +1,26 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,princeton,hofstra,83 - 77,L,home,1667867400,https://media-3.api-sports.io/basketball/teams/2084.png
+2022-11-12T01:30:00+00:00,princeton,navy,73 - 74,L,away,1668216600,https://media-2.api-sports.io/basketball/teams/2084.png
+2022-11-14T23:00:00+00:00,princeton,umbc retrievers,94 - 64,W,away,1668466800,https://media-1.api-sports.io/basketball/teams/2084.png
+2022-11-20T00:00:00+00:00,princeton,marist,62 - 55,W,away,1668902400,https://media-1.api-sports.io/basketball/teams/2084.png
+2022-11-24T19:30:00+00:00,princeton,army,66 - 74,W,home,1669318200,https://media-2.api-sports.io/basketball/teams/2084.png
+2022-11-26T17:00:00+00:00,princeton,northeastern,54 - 56,W,home,1669482000,https://media-2.api-sports.io/basketball/teams/2084.png
+2022-12-01T00:00:00+00:00,princeton,cairn,58 - 92,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/2084.png
+2022-12-03T19:00:00+00:00,princeton,drexel,83 - 63,W,away,1670094000,https://media-3.api-sports.io/basketball/teams/2084.png
+2022-12-07T00:00:00+00:00,princeton,lafayette,58 - 69,W,home,1670371200,https://media-3.api-sports.io/basketball/teams/2084.png
+2022-12-11T00:00:00+00:00,princeton,monmouth,54 - 91,W,home,1670716800,https://media-1.api-sports.io/basketball/teams/2084.png
+2022-12-14T00:00:00+00:00,princeton,iona,64 - 70,L,away,1670976000,https://media-2.api-sports.io/basketball/teams/2084.png
+2022-12-17T00:00:00+00:00,princeton,delaware,76 - 69,L,home,1671235200,https://media-1.api-sports.io/basketball/teams/2084.png
+2022-12-23T17:00:00+00:00,princeton,kean,70 - 88,W,home,1671814800,https://media-3.api-sports.io/basketball/teams/2084.png
+2022-12-31T18:00:00+00:00,princeton,harvard,66 - 69,W,home,1672509600,https://media-3.api-sports.io/basketball/teams/2084.png
+2023-01-07T00:00:00+00:00,princeton,columbia,68 - 49,W,away,1673049600,https://media-3.api-sports.io/basketball/teams/2084.png
+2023-01-07T23:00:00+00:00,princeton,cornell,75 - 68,W,away,1673132400,https://media-3.api-sports.io/basketball/teams/2084.png
+2023-01-14T19:00:00+00:00,princeton,brown,,,away,1673722800,https://media-1.api-sports.io/basketball/teams/2084.png
+2023-01-17T00:00:00+00:00,princeton,penn,,,away,1673913600,https://media-2.api-sports.io/basketball/teams/2084.png
+2023-01-21T19:00:00+00:00,princeton,dartmouth,,,home,1674327600,https://media-1.api-sports.io/basketball/teams/2084.png
+2023-01-29T00:00:00+00:00,princeton,yale,,,away,1674950400,https://media-2.api-sports.io/basketball/teams/2084.png
+2023-02-04T00:00:00+00:00,princeton,cornell,,,home,1675468800,https://media-2.api-sports.io/basketball/teams/2084.png
+2023-02-04T23:00:00+00:00,princeton,columbia,,,home,1675551600,https://media-3.api-sports.io/basketball/teams/2084.png
+2023-02-11T19:00:00+00:00,princeton,dartmouth,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/2084.png
+2023-02-18T00:00:00+00:00,princeton,brown,,,home,1676678400,https://media-3.api-sports.io/basketball/teams/2084.png
+2023-02-18T23:00:00+00:00,princeton,yale,,,home,1676761200,https://media-2.api-sports.io/basketball/teams/2084.png

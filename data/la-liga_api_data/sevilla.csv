@@ -1,0 +1,39 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Friday, August 12 02:00 PM",sevilla,osasuna,1 - 2,L,away,1660330800,https://media-3.api-sports.io/football/teams/536.png
+"Friday, August 19 03:00 PM",sevilla,valladolid,1 - 1,tie,home,1660939200,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, August 27 03:00 PM",sevilla,almeria,1 - 2,L,away,1661630400,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, September 03 02:00 PM",sevilla,barcelona,3 - 0,L,home,1662231600,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, September 10 09:15 AM",sevilla,espanyol,3 - 2,W,away,1662819300,https://media-1.api-sports.io/football/teams/536.png
+"Sunday, September 18 09:15 AM",sevilla,villarreal,1 - 1,tie,away,1663510500,https://media-1.api-sports.io/football/teams/536.png
+"Saturday, October 01 11:30 AM",sevilla,atletico madrid,2 - 0,L,home,1664641800,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, October 08 11:30 AM",sevilla,athletic club,1 - 1,tie,home,1665246600,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, October 15 11:30 AM",sevilla,mallorca,1 - 0,W,away,1665851400,https://media-1.api-sports.io/football/teams/536.png
+"Tuesday, October 18 12:00 PM",sevilla,valencia,1 - 1,tie,home,1666112400,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, October 22 02:00 PM",sevilla,real madrid,1 - 3,L,away,1666465200,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, October 29 11:30 AM",sevilla,rayo vallecano,1 - 0,L,home,1667061000,https://media-3.api-sports.io/football/teams/536.png
+"Sunday, November 06 02:00 PM",sevilla,real betis,1 - 1,tie,away,1667764800,https://media-1.api-sports.io/football/teams/536.png
+"Wednesday, November 09 12:00 PM",sevilla,real sociedad,2 - 1,L,home,1668016800,https://media-2.api-sports.io/football/teams/536.png
+"Friday, December 30 12:15 PM",sevilla,celta vigo,1 - 1,tie,away,1672424100,https://media-3.api-sports.io/football/teams/536.png
+"Sunday, January 08 11:30 AM",sevilla,getafe,1 - 2,W,home,1673199000,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, January 14 09:15 AM",sevilla,girona,,,away,1673709300,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, January 21 02:00 PM",sevilla,cadiz,,,home,1674331200,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, January 28 06:00 PM",sevilla,elche,,,home,1674950400,https://media-1.api-sports.io/football/teams/536.png
+"Saturday, February 04 06:00 PM",sevilla,barcelona,,,away,1675555200,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, February 11 06:00 PM",sevilla,mallorca,,,home,1676160000,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, February 18 06:00 PM",sevilla,rayo vallecano,,,away,1676764800,https://media-1.api-sports.io/football/teams/536.png
+"Saturday, February 25 06:00 PM",sevilla,osasuna,,,home,1677369600,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, March 04 06:00 PM",sevilla,atletico madrid,,,away,1677974400,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, March 11 06:00 PM",sevilla,almeria,,,home,1678579200,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, March 18 07:00 PM",sevilla,getafe,,,away,1679184000,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, April 01 07:00 PM",sevilla,cadiz,,,away,1680393600,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, April 08 07:00 PM",sevilla,celta vigo,,,home,1680998400,https://media-1.api-sports.io/football/teams/536.png
+"Saturday, April 15 07:00 PM",sevilla,valencia,,,away,1681603200,https://media-1.api-sports.io/football/teams/536.png
+"Saturday, April 22 07:00 PM",sevilla,villarreal,,,home,1682208000,https://media-2.api-sports.io/football/teams/536.png
+"Tuesday, April 25 07:00 PM",sevilla,athletic club,,,away,1682467200,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, April 29 07:00 PM",sevilla,girona,,,home,1682812800,https://media-1.api-sports.io/football/teams/536.png
+"Tuesday, May 02 07:00 PM",sevilla,espanyol,,,home,1683072000,https://media-3.api-sports.io/football/teams/536.png
+"Saturday, May 13 07:00 PM",sevilla,valladolid,,,away,1684022400,https://media-1.api-sports.io/football/teams/536.png
+"Saturday, May 20 07:00 PM",sevilla,real betis,,,home,1684627200,https://media-2.api-sports.io/football/teams/536.png
+"Tuesday, May 23 07:00 PM",sevilla,elche,,,away,1684886400,https://media-2.api-sports.io/football/teams/536.png
+"Saturday, May 27 07:00 PM",sevilla,real madrid,,,home,1685232000,https://media-1.api-sports.io/football/teams/536.png
+"Saturday, June 03 07:00 PM",sevilla,real sociedad,,,away,1685836800,https://media-3.api-sports.io/football/teams/536.png

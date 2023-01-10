@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,wofford,bob jones,48 - 120,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-11-12T21:00:00+00:00,wofford,high point,80 - 91,L,away,1668286800,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-11-15T01:00:00+00:00,wofford,drake,72 - 80,L,away,1668474000,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-11-19T00:00:00+00:00,wofford,gardner webb,58 - 60,W,home,1668816000,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-11-20T22:00:00+00:00,wofford,n. carolina a&t,64 - 78,W,home,1668981600,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-11-23T18:00:00+00:00,wofford,north greenville,59 - 70,W,home,1669226400,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-11-27T20:00:00+00:00,wofford,lsu,75 - 78,L,away,1669579200,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-12-02T00:00:00+00:00,wofford,presbyterian,63 - 76,W,home,1669939200,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-12-03T22:00:00+00:00,wofford,vanderbilt,62 - 65,L,away,1670104800,https://media-2.api-sports.io/basketball/teams/2215.png
+2022-12-07T00:30:00+00:00,wofford,coastal carolina,61 - 71,W,home,1670373000,https://media-2.api-sports.io/basketball/teams/2215.png
+2022-12-10T20:00:00+00:00,wofford,georgia southern,57 - 79,L,away,1670702400,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-12-17T19:00:00+00:00,wofford,montreat college,65 - 107,W,home,1671303600,https://media-1.api-sports.io/basketball/teams/2215.png
+2022-12-20T19:00:00+00:00,wofford,texas a&m,67 - 62,W,away,1671562800,https://media-3.api-sports.io/basketball/teams/2215.png
+2022-12-30T00:00:00+00:00,wofford,east tennessee st,73 - 71,L,home,1672358400,https://media-1.api-sports.io/basketball/teams/2215.png
+2022-12-31T19:00:00+00:00,wofford,nc greensboro,73 - 64,L,home,1672513200,https://media-2.api-sports.io/basketball/teams/2215.png
+2023-01-05T00:00:00+00:00,wofford,mercer,53 - 52,W,away,1672876800,https://media-1.api-sports.io/basketball/teams/2215.png
+2023-01-08T00:00:00+00:00,wofford,citadel,57 - 77,W,home,1673136000,https://media-2.api-sports.io/basketball/teams/2215.png
+2023-01-12T01:00:00+00:00,wofford,samford,,,away,1673485200,https://media-2.api-sports.io/basketball/teams/2215.png
+2023-01-15T00:00:00+00:00,wofford,vmi,,,home,1673740800,https://media-1.api-sports.io/basketball/teams/2215.png
+2023-01-19T00:00:00+00:00,wofford,western carolina,,,away,1674086400,https://media-2.api-sports.io/basketball/teams/2215.png
+2023-01-22T21:00:00+00:00,wofford,furman,,,home,1674421200,https://media-3.api-sports.io/basketball/teams/2215.png
+2023-01-26T00:00:00+00:00,wofford,chattanooga mocs,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/2215.png
+2023-01-28T19:00:00+00:00,wofford,samford,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/2215.png
+2023-02-02T00:00:00+00:00,wofford,east tennessee st,,,away,1675296000,https://media-1.api-sports.io/basketball/teams/2215.png
+2023-02-04T23:00:00+00:00,wofford,furman,,,away,1675551600,https://media-1.api-sports.io/basketball/teams/2215.png
+2023-02-09T00:00:00+00:00,wofford,western carolina,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/2215.png
+2023-02-12T20:00:00+00:00,wofford,nc greensboro,,,away,1676232000,https://media-3.api-sports.io/basketball/teams/2215.png
+2023-02-16T00:00:00+00:00,wofford,mercer,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/2215.png
+2023-02-18T18:00:00+00:00,wofford,citadel,,,away,1676743200,https://media-1.api-sports.io/basketball/teams/2215.png

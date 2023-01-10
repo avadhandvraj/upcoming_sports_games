@@ -1,0 +1,39 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Sunday, August 07 08:00 AM",lille,auxerre,1 - 4,W,home,1659877200,https://media-1.api-sports.io/football/teams/79.png
+"Friday, August 12 02:00 PM",lille,nantes,1 - 1,tie,away,1660330800,https://media-1.api-sports.io/football/teams/79.png
+"Sunday, August 21 01:45 PM",lille,paris saint germain,7 - 1,L,home,1661107500,https://media-2.api-sports.io/football/teams/79.png
+"Friday, August 26 02:00 PM",lille,ajaccio,3 - 1,W,away,1661540400,https://media-1.api-sports.io/football/teams/79.png
+"Wednesday, August 31 02:00 PM",lille,nice,2 - 1,L,home,1661972400,https://media-3.api-sports.io/football/teams/79.png
+"Sunday, September 04 06:00 AM",lille,montpellier,3 - 1,W,away,1662289200,https://media-2.api-sports.io/football/teams/79.png
+"Saturday, September 10 02:00 PM",lille,marseille,1 - 2,L,away,1662836400,https://media-3.api-sports.io/football/teams/79.png
+"Saturday, September 17 02:00 PM",lille,toulouse,1 - 2,W,home,1663441200,https://media-3.api-sports.io/football/teams/79.png
+"Sunday, October 02 06:00 AM",lille,lorient,1 - 2,L,away,1664708400,https://media-1.api-sports.io/football/teams/79.png
+"Sunday, October 09 01:45 PM",lille,lens,0 - 1,W,home,1665341100,https://media-2.api-sports.io/football/teams/79.png
+"Friday, October 14 02:00 PM",lille,strasbourg,3 - 0,W,away,1665774000,https://media-3.api-sports.io/football/teams/79.png
+"Sunday, October 23 01:45 PM",lille,monaco,3 - 4,W,home,1666550700,https://media-1.api-sports.io/football/teams/79.png
+"Sunday, October 30 02:45 PM",lille,lyon,0 - 1,L,away,1667159100,https://media-2.api-sports.io/football/teams/79.png
+"Sunday, November 06 10:05 AM",lille,rennes,1 - 1,tie,home,1667750700,https://media-3.api-sports.io/football/teams/79.png
+"Sunday, November 13 08:00 AM",lille,angers,0 - 1,W,home,1668348000,https://media-2.api-sports.io/football/teams/79.png
+"Wednesday, December 28 12:00 PM",lille,clermont foot,2 - 0,W,away,1672250400,https://media-3.api-sports.io/football/teams/79.png
+"Monday, January 02 10:00 AM",lille,reims,1 - 1,tie,home,1672675200,https://media-3.api-sports.io/football/teams/79.png
+"Wednesday, January 11 12:00 PM",lille,stade brestois 29,,,away,1673460000,https://media-1.api-sports.io/football/teams/79.png
+"Sunday, January 15 06:00 AM",lille,estac troyes,,,home,1673784000,https://media-3.api-sports.io/football/teams/79.png
+"Sunday, January 29 06:00 AM",lille,nice,,,away,1674993600,https://media-3.api-sports.io/football/teams/79.png
+"Wednesday, February 01 12:00 PM",lille,clermont foot,,,home,1675274400,https://media-2.api-sports.io/football/teams/79.png
+"Saturday, February 04 06:00 PM",lille,rennes,,,away,1675555200,https://media-1.api-sports.io/football/teams/79.png
+"Saturday, February 11 06:00 PM",lille,strasbourg,,,home,1676160000,https://media-2.api-sports.io/football/teams/79.png
+"Saturday, February 18 06:00 PM",lille,paris saint germain,,,away,1676764800,https://media-1.api-sports.io/football/teams/79.png
+"Saturday, February 25 06:00 PM",lille,stade brestois 29,,,home,1677369600,https://media-2.api-sports.io/football/teams/79.png
+"Saturday, March 04 06:00 PM",lille,lens,,,away,1677974400,https://media-1.api-sports.io/football/teams/79.png
+"Saturday, March 11 06:00 PM",lille,lyon,,,home,1678579200,https://media-1.api-sports.io/football/teams/79.png
+"Saturday, March 18 07:00 PM",lille,toulouse,,,away,1679184000,https://media-3.api-sports.io/football/teams/79.png
+"Saturday, April 01 07:00 PM",lille,lorient,,,home,1680393600,https://media-1.api-sports.io/football/teams/79.png
+"Saturday, April 08 07:00 PM",lille,angers,,,away,1680998400,https://media-1.api-sports.io/football/teams/79.png
+"Saturday, April 15 07:00 PM",lille,montpellier,,,home,1681603200,https://media-2.api-sports.io/football/teams/79.png
+"Saturday, April 22 07:00 PM",lille,auxerre,,,away,1682208000,https://media-2.api-sports.io/football/teams/79.png
+"Saturday, April 29 07:00 PM",lille,ajaccio,,,home,1682812800,https://media-3.api-sports.io/football/teams/79.png
+"Saturday, May 06 07:00 PM",lille,reims,,,away,1683417600,https://media-3.api-sports.io/football/teams/79.png
+"Saturday, May 13 07:00 PM",lille,monaco,,,away,1684022400,https://media-1.api-sports.io/football/teams/79.png
+"Saturday, May 20 07:00 PM",lille,marseille,,,home,1684627200,https://media-2.api-sports.io/football/teams/79.png
+"Friday, May 26 07:00 PM",lille,nantes,,,home,1685145600,https://media-1.api-sports.io/football/teams/79.png
+"Friday, June 02 07:00 PM",lille,estac troyes,,,away,1685750400,https://media-3.api-sports.io/football/teams/79.png

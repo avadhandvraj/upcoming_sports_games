@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T23:30:00+00:00,butler,new orleans,53 - 89,W,home,1667863800,https://media-2.api-sports.io/basketball/teams/178.png
+2022-11-15T01:30:00+00:00,butler,penn state,62 - 68,L,away,1668475800,https://media-3.api-sports.io/basketball/teams/178.png
+2022-11-17T23:30:00+00:00,butler,st. francis (pa),67 - 95,W,home,1668727800,https://media-1.api-sports.io/basketball/teams/178.png
+2022-11-20T00:00:00+00:00,butler,citadel,42 - 89,W,home,1668902400,https://media-3.api-sports.io/basketball/teams/178.png
+2022-11-24T00:30:00+00:00,butler,tennessee,45 - 71,L,away,1669249800,https://media-2.api-sports.io/basketball/teams/178.png
+2022-11-24T23:30:00+00:00,butler,brigham young,75 - 70,W,away,1669332600,https://media-3.api-sports.io/basketball/teams/178.png
+2022-11-26T03:00:00+00:00,butler,nc state,61 - 76,L,away,1669431600,https://media-2.api-sports.io/basketball/teams/178.png
+2022-11-30T23:30:00+00:00,butler,kansas state,64 - 76,W,home,1669851000,https://media-2.api-sports.io/basketball/teams/178.png
+2022-12-03T19:00:00+00:00,butler,tennessee tech,66 - 80,W,home,1670094000,https://media-2.api-sports.io/basketball/teams/178.png
+2022-12-06T23:30:00+00:00,butler,yale,61 - 71,W,home,1670369400,https://media-3.api-sports.io/basketball/teams/178.png
+2022-12-10T22:00:00+00:00,butler,california,82 - 58,W,away,1670709600,https://media-2.api-sports.io/basketball/teams/178.png
+2022-12-18T00:00:00+00:00,butler,uconn,68 - 46,L,home,1671321600,https://media-2.api-sports.io/basketball/teams/178.png
+2022-12-23T01:00:00+00:00,butler,creighton,56 - 78,L,away,1671757200,https://media-3.api-sports.io/basketball/teams/178.png
+2022-12-29T23:30:00+00:00,butler,providence,72 - 52,L,home,1672356600,https://media-3.api-sports.io/basketball/teams/178.png
+2023-01-01T23:30:00+00:00,butler,georgetown,80 - 51,W,away,1672615800,https://media-3.api-sports.io/basketball/teams/178.png
+2023-01-05T02:00:00+00:00,butler,depaul,70 - 78,W,home,1672884000,https://media-1.api-sports.io/basketball/teams/178.png
+2023-01-08T01:30:00+00:00,butler,seton hall,51 - 76,L,away,1673141400,https://media-3.api-sports.io/basketball/teams/178.png
+2023-01-10T23:30:00+00:00,butler,st. john's (n.y.),,,away,1673393400,https://media-3.api-sports.io/basketball/teams/178.png
+2023-01-14T00:00:00+00:00,butler,villanova,,,home,1673654400,https://media-2.api-sports.io/basketball/teams/178.png
+2023-01-18T00:00:00+00:00,butler,creighton,,,home,1674000000,https://media-3.api-sports.io/basketball/teams/178.png
+2023-01-22T17:00:00+00:00,butler,uconn,,,away,1674406800,https://media-3.api-sports.io/basketball/teams/178.png
+2023-01-26T01:30:00+00:00,butler,providence,,,away,1674696600,https://media-1.api-sports.io/basketball/teams/178.png
+2023-01-28T21:00:00+00:00,butler,seton hall,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/178.png
+2023-02-04T19:00:00+00:00,butler,marquette,,,away,1675537200,https://media-3.api-sports.io/basketball/teams/178.png
+2023-02-08T01:30:00+00:00,butler,st. john's (n.y.),,,home,1675819800,https://media-3.api-sports.io/basketball/teams/178.png
+2023-02-11T00:00:00+00:00,butler,xavier,,,home,1676073600,https://media-2.api-sports.io/basketball/teams/178.png
+2023-02-15T01:00:00+00:00,butler,villanova,,,away,1676422800,https://media-1.api-sports.io/basketball/teams/178.png

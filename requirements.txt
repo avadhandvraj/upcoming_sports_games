@@ -1,0 +1,6 @@
+apscheduler==3.9.1.post1
+etext==0.0.1
+Pillow==9.4.0
+requests==2.27.1
+selenium==4.7.2
+webdriver_manager==3.8.5

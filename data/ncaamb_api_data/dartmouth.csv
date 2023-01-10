@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,dartmouth,fordham,74 - 88,L,away,1667867400,https://media-1.api-sports.io/basketball/teams/1883.png
+2022-11-12T00:00:00+00:00,dartmouth,bryant university,89 - 70,L,home,1668211200,https://media-2.api-sports.io/basketball/teams/1883.png
+2022-11-13T00:00:00+00:00,dartmouth,massachusetts college,52 - 107,W,home,1668297600,https://media-1.api-sports.io/basketball/teams/1883.png
+2022-11-16T00:00:00+00:00,dartmouth,quinnipiac,72 - 81,L,away,1668556800,https://media-3.api-sports.io/basketball/teams/1883.png
+2022-11-25T23:00:00+00:00,dartmouth,incarnate word,64 - 69,L,away,1669417200,https://media-2.api-sports.io/basketball/teams/1883.png
+2022-11-28T01:30:00+00:00,dartmouth,utsa roadrunners,78 - 77,W,away,1669599000,https://media-3.api-sports.io/basketball/teams/1883.png
+2022-11-28T21:00:00+00:00,dartmouth,grambling st.,73 - 49,L,home,1669669200,https://media-1.api-sports.io/basketball/teams/1883.png
+2022-12-01T00:00:00+00:00,dartmouth,northern vermont - johnson,41 - 99,W,home,1669852800,https://media-3.api-sports.io/basketball/teams/1883.png
+2022-12-03T19:00:00+00:00,dartmouth,csu bakersfield,54 - 79,W,home,1670094000,https://media-2.api-sports.io/basketball/teams/1883.png
+2022-12-07T00:00:00+00:00,dartmouth,vermont,68 - 52,L,home,1670371200,https://media-1.api-sports.io/basketball/teams/1883.png
+2022-12-10T00:00:00+00:00,dartmouth,central connecticut state,50 - 59,L,away,1670630400,https://media-1.api-sports.io/basketball/teams/1883.png
+2022-12-14T00:00:00+00:00,dartmouth,boston university,59 - 67,L,away,1670976000,https://media-1.api-sports.io/basketball/teams/1883.png
+2022-12-17T00:00:00+00:00,dartmouth,south florida,55 - 59,L,away,1671235200,https://media-1.api-sports.io/basketball/teams/1883.png
+2022-12-21T00:00:00+00:00,dartmouth,umass,57 - 68,L,away,1671580800,https://media-3.api-sports.io/basketball/teams/1883.png
+2022-12-30T00:00:00+00:00,dartmouth,new hampshire,None - None,tie,home,1672358400,https://media-1.api-sports.io/basketball/teams/1883.png
+2023-01-01T19:00:00+00:00,dartmouth,cornell,74 - 63,L,home,1672599600,https://media-3.api-sports.io/basketball/teams/1883.png
+2023-01-07T00:00:00+00:00,dartmouth,yale,81 - 77,W,away,1673049600,https://media-2.api-sports.io/basketball/teams/1883.png
+2023-01-07T23:00:00+00:00,dartmouth,brown,70 - 77,L,away,1673132400,https://media-3.api-sports.io/basketball/teams/1883.png
+2023-01-14T19:00:00+00:00,dartmouth,penn,,,home,1673722800,https://media-1.api-sports.io/basketball/teams/1883.png
+2023-01-16T19:00:00+00:00,dartmouth,harvard,,,away,1673895600,https://media-3.api-sports.io/basketball/teams/1883.png
+2023-01-21T19:00:00+00:00,dartmouth,princeton,,,away,1674327600,https://media-1.api-sports.io/basketball/teams/1883.png
+2023-01-28T19:00:00+00:00,dartmouth,columbia,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/1883.png
+2023-02-03T23:00:00+00:00,dartmouth,brown,,,home,1675465200,https://media-2.api-sports.io/basketball/teams/1883.png
+2023-02-04T23:00:00+00:00,dartmouth,yale,,,home,1675551600,https://media-2.api-sports.io/basketball/teams/1883.png
+2023-02-11T19:00:00+00:00,dartmouth,princeton,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/1883.png
+2023-02-17T23:00:00+00:00,dartmouth,cornell,,,away,1676674800,https://media-3.api-sports.io/basketball/teams/1883.png

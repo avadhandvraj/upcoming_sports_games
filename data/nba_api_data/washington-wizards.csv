@@ -1,0 +1,87 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-09-30T10:00:00+00:00,washington wizards,golden state warriors,96 - 87,L,home,1664532000,https://media-2.api-sports.io/basketball/teams/161.png
+2022-10-02T05:00:00+00:00,washington wizards,golden state warriors,104 - 95,L,home,1664686800,https://media-1.api-sports.io/basketball/teams/161.png
+2022-10-10T23:00:00+00:00,washington wizards,charlotte hornets,116 - 107,W,away,1665442800,https://media-3.api-sports.io/basketball/teams/161.png
+2022-10-14T23:30:00+00:00,washington wizards,new york knicks,89 - 105,L,away,1665790200,https://media-3.api-sports.io/basketball/teams/161.png
+2022-10-19T23:00:00+00:00,washington wizards,indiana pacers,114 - 107,W,away,1666220400,https://media-1.api-sports.io/basketball/teams/161.png
+2022-10-21T23:00:00+00:00,washington wizards,chicago bulls,100 - 102,W,home,1666393200,https://media-2.api-sports.io/basketball/teams/161.png
+2022-10-23T23:00:00+00:00,washington wizards,cleveland cavaliers,107 - 117,L,away,1666566000,https://media-1.api-sports.io/basketball/teams/161.png
+2022-10-25T23:00:00+00:00,washington wizards,detroit pistons,99 - 120,W,home,1666738800,https://media-1.api-sports.io/basketball/teams/161.png
+2022-10-28T23:30:00+00:00,washington wizards,indiana pacers,127 - 117,L,home,1666999800,https://media-3.api-sports.io/basketball/teams/161.png
+2022-10-30T22:00:00+00:00,washington wizards,boston celtics,94 - 112,L,away,1667167200,https://media-3.api-sports.io/basketball/teams/161.png
+2022-10-31T23:00:00+00:00,washington wizards,philadelphia 76ers,118 - 111,L,home,1667257200,https://media-2.api-sports.io/basketball/teams/161.png
+2022-11-02T22:00:00+00:00,washington wizards,philadelphia 76ers,121 - 111,W,away,1667426400,https://media-2.api-sports.io/basketball/teams/161.png
+2022-11-04T23:00:00+00:00,washington wizards,brooklyn nets,128 - 86,L,home,1667602800,https://media-1.api-sports.io/basketball/teams/161.png
+2022-11-06T23:00:00+00:00,washington wizards,memphis grizzlies,97 - 103,L,away,1667775600,https://media-3.api-sports.io/basketball/teams/161.png
+2022-11-08T00:00:00+00:00,washington wizards,charlotte hornets,108 - 100,W,away,1667865600,https://media-1.api-sports.io/basketball/teams/161.png
+2022-11-11T00:00:00+00:00,washington wizards,dallas mavericks,105 - 113,W,home,1668124800,https://media-1.api-sports.io/basketball/teams/161.png
+2022-11-12T23:00:00+00:00,washington wizards,utah jazz,112 - 121,W,home,1668294000,https://media-3.api-sports.io/basketball/teams/161.png
+2022-11-13T23:00:00+00:00,washington wizards,memphis grizzlies,92 - 102,W,home,1668380400,https://media-1.api-sports.io/basketball/teams/161.png
+2022-11-17T00:00:00+00:00,washington wizards,oklahoma city thunder,121 - 120,L,home,1668643200,https://media-3.api-sports.io/basketball/teams/161.png
+2022-11-19T00:00:00+00:00,washington wizards,miami heat,106 - 107,W,home,1668816000,https://media-2.api-sports.io/basketball/teams/161.png
+2022-11-20T23:00:00+00:00,washington wizards,charlotte hornets,102 - 106,W,home,1668985200,https://media-3.api-sports.io/basketball/teams/161.png
+2022-11-24T00:30:00+00:00,washington wizards,miami heat,105 - 113,L,away,1669249800,https://media-3.api-sports.io/basketball/teams/161.png
+2022-11-26T01:00:00+00:00,washington wizards,miami heat,107 - 110,L,away,1669424400,https://media-1.api-sports.io/basketball/teams/161.png
+2022-11-27T23:00:00+00:00,washington wizards,boston celtics,121 - 130,L,away,1669590000,https://media-1.api-sports.io/basketball/teams/161.png
+2022-11-29T00:00:00+00:00,washington wizards,minnesota timberwolves,127 - 142,W,home,1669680000,https://media-3.api-sports.io/basketball/teams/161.png
+2022-12-01T00:30:00+00:00,washington wizards,brooklyn nets,107 - 113,L,away,1669854600,https://media-2.api-sports.io/basketball/teams/161.png
+2022-12-03T00:00:00+00:00,washington wizards,charlotte hornets,116 - 117,L,away,1670025600,https://media-3.api-sports.io/basketball/teams/161.png
+2022-12-04T23:00:00+00:00,washington wizards,los angeles lakers,130 - 119,L,home,1670194800,https://media-2.api-sports.io/basketball/teams/161.png
+2022-12-08T01:00:00+00:00,washington wizards,chicago bulls,111 - 115,L,away,1670461200,https://media-1.api-sports.io/basketball/teams/161.png
+2022-12-10T00:00:00+00:00,washington wizards,indiana pacers,111 - 121,L,away,1670630400,https://media-1.api-sports.io/basketball/teams/161.png
+2022-12-11T00:00:00+00:00,washington wizards,los angeles clippers,114 - 107,L,home,1670716800,https://media-2.api-sports.io/basketball/teams/161.png
+2022-12-13T00:00:00+00:00,washington wizards,brooklyn nets,112 - 100,L,home,1670889600,https://media-3.api-sports.io/basketball/teams/161.png
+2022-12-15T02:00:00+00:00,washington wizards,denver nuggets,128 - 141,L,away,1671069600,https://media-3.api-sports.io/basketball/teams/161.png
+2022-12-17T21:00:00+00:00,washington wizards,los angeles clippers,93 - 102,L,away,1671310800,https://media-3.api-sports.io/basketball/teams/161.png
+2022-12-19T02:30:00+00:00,washington wizards,los angeles lakers,117 - 119,L,away,1671417000,https://media-1.api-sports.io/basketball/teams/161.png
+2022-12-21T02:00:00+00:00,washington wizards,phoenix suns,113 - 110,W,away,1671588000,https://media-2.api-sports.io/basketball/teams/161.png
+2022-12-23T02:00:00+00:00,washington wizards,utah jazz,112 - 120,L,away,1671760800,https://media-1.api-sports.io/basketball/teams/161.png
+2022-12-24T03:00:00+00:00,washington wizards,sacramento kings,125 - 111,W,away,1671850800,https://media-1.api-sports.io/basketball/teams/161.png
+2022-12-28T00:00:00+00:00,washington wizards,philadelphia 76ers,111 - 116,W,home,1672185600,https://media-1.api-sports.io/basketball/teams/161.png
+2022-12-29T00:00:00+00:00,washington wizards,phoenix suns,102 - 127,W,home,1672272000,https://media-1.api-sports.io/basketball/teams/161.png
+2022-12-31T00:00:00+00:00,washington wizards,orlando magic,119 - 100,W,away,1672444800,https://media-2.api-sports.io/basketball/teams/161.png
+2023-01-02T01:00:00+00:00,washington wizards,milwaukee bucks,118 - 95,W,away,1672621200,https://media-1.api-sports.io/basketball/teams/161.png
+2023-01-04T01:00:00+00:00,washington wizards,milwaukee bucks,113 - 123,L,away,1672794000,https://media-2.api-sports.io/basketball/teams/161.png
+2023-01-07T01:00:00+00:00,washington wizards,oklahoma city thunder,110 - 127,L,away,1673053200,https://media-1.api-sports.io/basketball/teams/161.png
+2023-01-10T00:00:00+00:00,washington wizards,new orleans pelicans,132 - 112,L,home,1673308800,https://media-3.api-sports.io/basketball/teams/161.png
+2023-01-12T00:00:00+00:00,washington wizards,chicago bulls,,,home,1673481600,https://media-3.api-sports.io/basketball/teams/161.png
+2023-01-14T00:00:00+00:00,washington wizards,new york knicks,,,home,1673654400,https://media-2.api-sports.io/basketball/teams/161.png
+2023-01-16T20:00:00+00:00,washington wizards,golden state warriors,,,home,1673899200,https://media-1.api-sports.io/basketball/teams/161.png
+2023-01-19T00:30:00+00:00,washington wizards,new york knicks,,,away,1674088200,https://media-3.api-sports.io/basketball/teams/161.png
+2023-01-22T00:00:00+00:00,washington wizards,orlando magic,,,home,1674345600,https://media-3.api-sports.io/basketball/teams/161.png
+2023-01-25T01:30:00+00:00,washington wizards,dallas mavericks,,,away,1674610200,https://media-1.api-sports.io/basketball/teams/161.png
+2023-01-26T01:00:00+00:00,washington wizards,houston rockets,,,away,1674694800,https://media-1.api-sports.io/basketball/teams/161.png
+2023-01-29T01:00:00+00:00,washington wizards,new orleans pelicans,,,away,1674954000,https://media-2.api-sports.io/basketball/teams/161.png
+2023-01-31T01:00:00+00:00,washington wizards,san antonio spurs,,,away,1675126800,https://media-3.api-sports.io/basketball/teams/161.png
+2023-02-02T00:00:00+00:00,washington wizards,detroit pistons,,,away,1675296000,https://media-1.api-sports.io/basketball/teams/161.png
+2023-02-04T00:00:00+00:00,washington wizards,portland trail blazers,,,home,1675468800,https://media-2.api-sports.io/basketball/teams/161.png
+2023-02-04T23:00:00+00:00,washington wizards,brooklyn nets,,,away,1675551600,https://media-2.api-sports.io/basketball/teams/161.png
+2023-02-07T00:00:00+00:00,washington wizards,cleveland cavaliers,,,home,1675728000,https://media-3.api-sports.io/basketball/teams/161.png
+2023-02-09T00:00:00+00:00,washington wizards,charlotte hornets,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/161.png
+2023-02-12T00:00:00+00:00,washington wizards,indiana pacers,,,home,1676160000,https://media-1.api-sports.io/basketball/teams/161.png
+2023-02-14T03:00:00+00:00,washington wizards,golden state warriors,,,away,1676343600,https://media-3.api-sports.io/basketball/teams/161.png
+2023-02-15T03:00:00+00:00,washington wizards,portland trail blazers,,,away,1676430000,https://media-2.api-sports.io/basketball/teams/161.png
+2023-02-17T01:00:00+00:00,washington wizards,minnesota timberwolves,,,away,1676595600,https://media-3.api-sports.io/basketball/teams/161.png
+2023-02-25T00:00:00+00:00,washington wizards,new york knicks,,,home,1677283200,https://media-2.api-sports.io/basketball/teams/161.png
+2023-02-26T20:30:00+00:00,washington wizards,chicago bulls,,,away,1677443400,https://media-3.api-sports.io/basketball/teams/161.png
+2023-03-01T00:30:00+00:00,washington wizards,atlanta hawks,,,away,1677630600,https://media-1.api-sports.io/basketball/teams/161.png
+2023-03-03T00:00:00+00:00,washington wizards,toronto raptors,,,home,1677801600,https://media-2.api-sports.io/basketball/teams/161.png
+2023-03-04T22:00:00+00:00,washington wizards,toronto raptors,,,home,1677967200,https://media-3.api-sports.io/basketball/teams/161.png
+2023-03-07T00:00:00+00:00,washington wizards,milwaukee bucks,,,home,1678147200,https://media-3.api-sports.io/basketball/teams/161.png
+2023-03-09T00:00:00+00:00,washington wizards,atlanta hawks,,,home,1678320000,https://media-1.api-sports.io/basketball/teams/161.png
+2023-03-11T00:00:00+00:00,washington wizards,atlanta hawks,,,home,1678492800,https://media-3.api-sports.io/basketball/teams/161.png
+2023-03-12T22:00:00+00:00,washington wizards,philadelphia 76ers,,,away,1678658400,https://media-3.api-sports.io/basketball/teams/161.png
+2023-03-14T23:00:00+00:00,washington wizards,detroit pistons,,,home,1678834800,https://media-1.api-sports.io/basketball/teams/161.png
+2023-03-17T23:30:00+00:00,washington wizards,cleveland cavaliers,,,away,1679095800,https://media-2.api-sports.io/basketball/teams/161.png
+2023-03-19T00:00:00+00:00,washington wizards,sacramento kings,,,home,1679184000,https://media-3.api-sports.io/basketball/teams/161.png
+2023-03-21T23:00:00+00:00,washington wizards,orlando magic,,,away,1679439600,https://media-1.api-sports.io/basketball/teams/161.png
+2023-03-22T23:00:00+00:00,washington wizards,denver nuggets,,,home,1679526000,https://media-1.api-sports.io/basketball/teams/161.png
+2023-03-24T23:00:00+00:00,washington wizards,san antonio spurs,,,home,1679698800,https://media-1.api-sports.io/basketball/teams/161.png
+2023-03-26T22:00:00+00:00,washington wizards,toronto raptors,,,away,1679868000,https://media-2.api-sports.io/basketball/teams/161.png
+2023-03-28T23:00:00+00:00,washington wizards,boston celtics,,,home,1680044400,https://media-2.api-sports.io/basketball/teams/161.png
+2023-03-31T23:00:00+00:00,washington wizards,orlando magic,,,home,1680303600,https://media-2.api-sports.io/basketball/teams/161.png
+2023-04-02T22:00:00+00:00,washington wizards,new york knicks,,,away,1680472800,https://media-1.api-sports.io/basketball/teams/161.png
+2023-04-04T23:00:00+00:00,washington wizards,milwaukee bucks,,,home,1680649200,https://media-3.api-sports.io/basketball/teams/161.png
+2023-04-05T23:30:00+00:00,washington wizards,atlanta hawks,,,away,1680737400,https://media-2.api-sports.io/basketball/teams/161.png
+2023-04-07T23:00:00+00:00,washington wizards,miami heat,,,home,1680908400,https://media-1.api-sports.io/basketball/teams/161.png
+2023-04-09T17:00:00+00:00,washington wizards,houston rockets,None - None,tie,home,1681059600,https://media-2.api-sports.io/basketball/teams/161.png

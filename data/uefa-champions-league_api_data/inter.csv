@@ -1,0 +1,9 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Wednesday, September 07 02:00 PM",inter,bayern munich,2 - 0,L,home,1662577200,https://media-2.api-sports.io/football/teams/505.png
+"Tuesday, September 13 11:45 AM",inter,plzen,2 - 0,W,away,1663087500,https://media-2.api-sports.io/football/teams/505.png
+"Tuesday, October 04 02:00 PM",inter,barcelona,0 - 1,W,home,1664910000,https://media-2.api-sports.io/football/teams/505.png
+"Wednesday, October 12 02:00 PM",inter,barcelona,3 - 3,tie,away,1665601200,https://media-2.api-sports.io/football/teams/505.png
+"Wednesday, October 26 11:45 AM",inter,plzen,0 - 4,W,home,1666802700,https://media-3.api-sports.io/football/teams/505.png
+"Tuesday, November 01 03:00 PM",inter,bayern munich,0 - 2,L,away,1667332800,https://media-3.api-sports.io/football/teams/505.png
+"Wednesday, February 22 02:00 PM",inter,fc porto,,,home,1677096000,https://media-2.api-sports.io/football/teams/505.png
+"Tuesday, March 14 03:00 PM",inter,fc porto,,,away,1678824000,https://media-1.api-sports.io/football/teams/505.png

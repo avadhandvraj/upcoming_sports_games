@@ -1,0 +1,26 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,njit,st. peters,59 - 73,L,away,1667865600,https://media-3.api-sports.io/basketball/teams/5815.png
+2022-11-12T03:00:00+00:00,njit,california baptist,43 - 59,L,away,1668222000,https://media-2.api-sports.io/basketball/teams/5815.png
+2022-11-13T22:00:00+00:00,njit,san diego toreros,64 - 74,L,away,1668376800,https://media-2.api-sports.io/basketball/teams/5815.png
+2022-11-19T21:00:00+00:00,njit,american university,58 - 53,L,home,1668891600,https://media-2.api-sports.io/basketball/teams/5815.png
+2022-11-22T18:00:00+00:00,njit,sacred heart,85 - 75,W,away,1669140000,https://media-1.api-sports.io/basketball/teams/5815.png
+2022-11-27T19:00:00+00:00,njit,wagner,62 - 57,L,home,1669575600,https://media-2.api-sports.io/basketball/teams/5815.png
+2022-12-01T00:00:00+00:00,njit,cincinnati,60 - 86,L,away,1669852800,https://media-1.api-sports.io/basketball/teams/5815.png
+2022-12-03T19:00:00+00:00,njit,bucknell,79 - 63,L,home,1670094000,https://media-3.api-sports.io/basketball/teams/5815.png
+2022-12-08T00:00:00+00:00,njit,army,62 - 63,L,away,1670457600,https://media-2.api-sports.io/basketball/teams/5815.png
+2022-12-11T19:00:00+00:00,njit,fairleigh dickinson,71 - 73,L,away,1670785200,https://media-1.api-sports.io/basketball/teams/5815.png
+2022-12-18T19:00:00+00:00,njit,niagara,53 - 62,W,home,1671390000,https://media-3.api-sports.io/basketball/teams/5815.png
+2022-12-23T00:00:00+00:00,njit,south florida,73 - 92,L,away,1671753600,https://media-2.api-sports.io/basketball/teams/5815.png
+2022-12-28T00:00:00+00:00,njit,st. elizabeth,51 - 79,W,home,1672185600,https://media-1.api-sports.io/basketball/teams/5815.png
+2022-12-31T19:00:00+00:00,njit,umass lowell,67 - 64,L,home,1672513200,https://media-3.api-sports.io/basketball/teams/5815.png
+2023-01-08T19:00:00+00:00,njit,maine black bears,91 - 83,W,away,1673204400,https://media-1.api-sports.io/basketball/teams/5815.png
+2023-01-12T00:00:00+00:00,njit,binghamton,,,home,1673481600,https://media-2.api-sports.io/basketball/teams/5815.png
+2023-01-15T00:00:00+00:00,njit,albany,,,home,1673740800,https://media-1.api-sports.io/basketball/teams/5815.png
+2023-01-20T00:00:00+00:00,njit,bryant university,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/5815.png
+2023-01-22T18:00:00+00:00,njit,vermont,,,away,1674410400,https://media-3.api-sports.io/basketball/teams/5815.png
+2023-01-26T00:00:00+00:00,njit,umbc retrievers,,,home,1674691200,https://media-1.api-sports.io/basketball/teams/5815.png
+2023-02-02T00:00:00+00:00,njit,new hampshire,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/5815.png
+2023-02-04T18:00:00+00:00,njit,umass lowell,,,away,1675533600,https://media-3.api-sports.io/basketball/teams/5815.png
+2023-02-09T00:00:00+00:00,njit,umbc retrievers,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/5815.png
+2023-02-11T21:00:00+00:00,njit,maine black bears,,,home,1676149200,https://media-2.api-sports.io/basketball/teams/5815.png
+2023-02-16T00:00:00+00:00,njit,binghamton,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/5815.png

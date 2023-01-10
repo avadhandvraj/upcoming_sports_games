@@ -1,0 +1,26 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,brown,vermont,65 - 80,L,away,1667865600,https://media-3.api-sports.io/basketball/teams/208.png
+2022-11-11T00:00:00+00:00,brown,colgate,77 - 68,L,home,1668124800,https://media-1.api-sports.io/basketball/teams/208.png
+2022-11-13T22:00:00+00:00,brown,loyola maryland,70 - 75,L,away,1668376800,https://media-2.api-sports.io/basketball/teams/208.png
+2022-11-18T00:00:00+00:00,brown,stony brook,53 - 64,W,home,1668729600,https://media-3.api-sports.io/basketball/teams/208.png
+2022-11-24T00:00:00+00:00,brown,umass lowell,73 - 62,L,home,1669248000,https://media-1.api-sports.io/basketball/teams/208.png
+2022-11-27T19:00:00+00:00,brown,maine black bears,63 - 70,W,home,1669575600,https://media-1.api-sports.io/basketball/teams/208.png
+2022-11-30T00:00:00+00:00,brown,central connecticut state,59 - 51,W,away,1669766400,https://media-2.api-sports.io/basketball/teams/208.png
+2022-12-02T23:00:00+00:00,brown,bryant university,72 - 60,W,away,1670022000,https://media-2.api-sports.io/basketball/teams/208.png
+2022-12-04T19:00:00+00:00,brown,hartford,65 - 51,W,away,1670180400,https://media-2.api-sports.io/basketball/teams/208.png
+2022-12-08T00:00:00+00:00,brown,rhode island,59 - 58,W,away,1670457600,https://media-2.api-sports.io/basketball/teams/208.png
+2022-12-10T21:30:00+00:00,brown,michigan state,50 - 68,L,away,1670707800,https://media-1.api-sports.io/basketball/teams/208.png
+2022-12-22T00:00:00+00:00,brown,new hampshire,51 - 67,W,home,1671667200,https://media-2.api-sports.io/basketball/teams/208.png
+2022-12-29T18:00:00+00:00,brown,northwestern,58 - 63,L,away,1672336800,https://media-2.api-sports.io/basketball/teams/208.png
+2023-01-03T00:00:00+00:00,brown,penn,76 - 68,L,home,1672704000,https://media-3.api-sports.io/basketball/teams/208.png
+2023-01-07T00:00:00+00:00,brown,harvard,70 - 68,L,home,1673049600,https://media-3.api-sports.io/basketball/teams/208.png
+2023-01-07T23:00:00+00:00,brown,dartmouth,70 - 77,W,home,1673132400,https://media-1.api-sports.io/basketball/teams/208.png
+2023-01-14T19:00:00+00:00,brown,princeton,,,home,1673722800,https://media-1.api-sports.io/basketball/teams/208.png
+2023-01-16T22:00:00+00:00,brown,yale,,,away,1673906400,https://media-1.api-sports.io/basketball/teams/208.png
+2023-01-21T21:00:00+00:00,brown,columbia,,,home,1674334800,https://media-2.api-sports.io/basketball/teams/208.png
+2023-01-28T19:00:00+00:00,brown,cornell,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/208.png
+2023-02-03T23:00:00+00:00,brown,dartmouth,,,away,1675465200,https://media-2.api-sports.io/basketball/teams/208.png
+2023-02-04T23:00:00+00:00,brown,harvard,,,away,1675551600,https://media-1.api-sports.io/basketball/teams/208.png
+2023-02-11T19:00:00+00:00,brown,cornell,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/208.png
+2023-02-18T00:00:00+00:00,brown,princeton,,,away,1676678400,https://media-1.api-sports.io/basketball/teams/208.png
+2023-02-18T23:00:00+00:00,brown,penn,,,away,1676761200,https://media-3.api-sports.io/basketball/teams/208.png

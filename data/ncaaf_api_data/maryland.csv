@@ -1,0 +1,14 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-09-03,maryland,buffalo state,10 - 31,W,home,1662220800,https://media-1.api-sports.io/american-football/teams/140.png
+2022-09-10,maryland,charlotte,56 - 21,W,away,1662838200,https://media-2.api-sports.io/american-football/teams/140.png
+2022-09-17,maryland,smu,27 - 34,W,home,1663457400,https://media-2.api-sports.io/american-football/teams/140.png
+2022-09-24,maryland,michigan,27 - 34,L,away,1664035200,https://media-1.api-sports.io/american-football/teams/140.png
+2022-10-01,maryland,michigan state,13 - 27,W,home,1664652600,https://media-2.api-sports.io/american-football/teams/140.png
+2022-10-08,maryland,purdue,31 - 29,L,home,1665244800,https://media-1.api-sports.io/american-football/teams/140.png
+2022-10-15,maryland,indiana,38 - 33,W,away,1665862200,https://media-3.api-sports.io/american-football/teams/140.png
+2022-10-22,maryland,northwestern,24 - 31,W,home,1666467000,https://media-2.api-sports.io/american-football/teams/140.png
+2022-11-05,maryland,wisconsin,10 - 23,L,away,1667664000,https://media-3.api-sports.io/american-football/teams/140.png
+2022-11-12,maryland,penn state,0 - 30,L,away,1668285000,https://media-2.api-sports.io/american-football/teams/140.png
+2022-11-19,maryland,ohio state,43 - 30,L,home,1668889800,https://media-2.api-sports.io/american-football/teams/140.png
+2022-11-26,maryland,rutgers,0 - 37,W,home,1669482000,https://media-3.api-sports.io/american-football/teams/140.png
+2022-12-30,maryland,nc state,16 - 12,W,away,1672419600,https://media-1.api-sports.io/american-football/teams/140.png

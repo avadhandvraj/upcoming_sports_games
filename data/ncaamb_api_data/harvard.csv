@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T22:00:00+00:00,harvard,morehouse,68 - 63,W,away,1667858400,https://media-2.api-sports.io/basketball/teams/187.png
+2022-11-11T23:00:00+00:00,harvard,louisiana lafayette,75 - 61,L,home,1668207600,https://media-3.api-sports.io/basketball/teams/187.png
+2022-11-13T19:00:00+00:00,harvard,elon,92 - 77,W,away,1668366000,https://media-2.api-sports.io/basketball/teams/187.png
+2022-11-17T00:00:00+00:00,harvard,northeastern,70 - 69,W,away,1668643200,https://media-3.api-sports.io/basketball/teams/187.png
+2022-11-20T19:00:00+00:00,harvard,siena,59 - 69,W,home,1668970800,https://media-3.api-sports.io/basketball/teams/187.png
+2022-11-25T19:00:00+00:00,harvard,loyola chicago,55 - 61,W,home,1669402800,https://media-1.api-sports.io/basketball/teams/187.png
+2022-11-27T18:30:00+00:00,harvard,fordham,60 - 68,L,away,1669573800,https://media-3.api-sports.io/basketball/teams/187.png
+2022-12-01T00:00:00+00:00,harvard,holy cross,72 - 38,W,away,1669852800,https://media-2.api-sports.io/basketball/teams/187.png
+2022-12-03T00:00:00+00:00,harvard,umass,71 - 68,L,home,1670025600,https://media-1.api-sports.io/basketball/teams/187.png
+2022-12-04T19:00:00+00:00,harvard,tufts jumbos,59 - 76,W,home,1670180400,https://media-1.api-sports.io/basketball/teams/187.png
+2022-12-18T17:00:00+00:00,harvard,howard,66 - 54,L,home,1671382800,https://media-1.api-sports.io/basketball/teams/187.png
+2022-12-21T03:00:00+00:00,harvard,uc irvine,62 - 57,W,away,1671591600,https://media-1.api-sports.io/basketball/teams/187.png
+2022-12-23T00:00:00+00:00,harvard,kansas,54 - 68,L,away,1671753600,https://media-2.api-sports.io/basketball/teams/187.png
+2022-12-29T00:00:00+00:00,harvard,maine black bears,74 - 73,W,away,1672272000,https://media-1.api-sports.io/basketball/teams/187.png
+2022-12-31T18:00:00+00:00,harvard,princeton,66 - 69,L,away,1672509600,https://media-3.api-sports.io/basketball/teams/187.png
+2023-01-07T00:00:00+00:00,harvard,brown,70 - 68,W,away,1673049600,https://media-3.api-sports.io/basketball/teams/187.png
+2023-01-08T00:00:00+00:00,harvard,yale,54 - 58,L,away,1673136000,https://media-3.api-sports.io/basketball/teams/187.png
+2023-01-14T18:00:00+00:00,harvard,columbia,,,home,1673719200,https://media-1.api-sports.io/basketball/teams/187.png
+2023-01-16T19:00:00+00:00,harvard,dartmouth,,,home,1673895600,https://media-2.api-sports.io/basketball/teams/187.png
+2023-01-21T19:00:00+00:00,harvard,cornell,,,home,1674327600,https://media-2.api-sports.io/basketball/teams/187.png
+2023-01-28T19:00:00+00:00,harvard,penn,,,away,1674932400,https://media-3.api-sports.io/basketball/teams/187.png
+2023-02-03T22:00:00+00:00,harvard,yale,,,home,1675461600,https://media-3.api-sports.io/basketball/teams/187.png
+2023-02-04T23:00:00+00:00,harvard,brown,,,home,1675551600,https://media-3.api-sports.io/basketball/teams/187.png
+2023-02-11T19:00:00+00:00,harvard,penn,,,home,1676142000,https://media-2.api-sports.io/basketball/teams/187.png
+2023-02-18T00:00:00+00:00,harvard,columbia,,,away,1676678400,https://media-2.api-sports.io/basketball/teams/187.png
+2023-02-18T23:00:00+00:00,harvard,cornell,,,away,1676761200,https://media-2.api-sports.io/basketball/teams/187.png

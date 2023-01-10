@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T23:30:00+00:00,purdue,wisc. milwaukee,53 - 84,W,home,1667950200,https://media-2.api-sports.io/basketball/teams/2085.png
+2022-11-12T00:00:00+00:00,purdue,austin peay,44 - 63,W,home,1668211200,https://media-3.api-sports.io/basketball/teams/2085.png
+2022-11-16T01:30:00+00:00,purdue,marquette,70 - 75,W,home,1668562200,https://media-2.api-sports.io/basketball/teams/2085.png
+2022-11-25T03:00:00+00:00,purdue,west virginia,80 - 68,W,away,1669345200,https://media-1.api-sports.io/basketball/teams/2085.png
+2022-11-26T04:30:00+00:00,purdue,gonzaga,84 - 66,W,away,1669437000,https://media-3.api-sports.io/basketball/teams/2085.png
+2022-11-27T20:30:00+00:00,purdue,duke,56 - 75,W,home,1669581000,https://media-3.api-sports.io/basketball/teams/2085.png
+2022-12-01T00:15:00+00:00,purdue,florida state,79 - 69,W,away,1669853700,https://media-1.api-sports.io/basketball/teams/2085.png
+2022-12-04T22:00:00+00:00,purdue,minnesota,70 - 89,W,home,1670191200,https://media-1.api-sports.io/basketball/teams/2085.png
+2022-12-08T00:00:00+00:00,purdue,hofstra,66 - 85,W,home,1670457600,https://media-2.api-sports.io/basketball/teams/2085.png
+2022-12-10T19:15:00+00:00,purdue,nebraska,65 - 62,W,away,1670699700,https://media-3.api-sports.io/basketball/teams/2085.png
+2022-12-17T23:15:00+00:00,purdue,davidson,61 - 69,W,home,1671318900,https://media-2.api-sports.io/basketball/teams/2085.png
+2022-12-22T02:00:00+00:00,purdue,new orleans,53 - 74,W,home,1671674400,https://media-2.api-sports.io/basketball/teams/2085.png
+2022-12-29T22:00:00+00:00,purdue,florida a&m,49 - 82,W,home,1672351200,https://media-3.api-sports.io/basketball/teams/2085.png
+2023-01-03T00:00:00+00:00,purdue,rutgers,65 - 64,L,home,1672704000,https://media-1.api-sports.io/basketball/teams/2085.png
+2023-01-06T00:00:00+00:00,purdue,ohio state,71 - 69,W,away,1672963200,https://media-2.api-sports.io/basketball/teams/2085.png
+2023-01-08T23:00:00+00:00,purdue,penn state,76 - 63,W,away,1673218800,https://media-2.api-sports.io/basketball/teams/2085.png
+2023-01-14T00:00:00+00:00,purdue,nebraska,,,home,1673654400,https://media-3.api-sports.io/basketball/teams/2085.png
+2023-01-16T19:30:00+00:00,purdue,michigan state,,,away,1673897400,https://media-3.api-sports.io/basketball/teams/2085.png
+2023-01-20T00:00:00+00:00,purdue,minnesota,,,away,1674172800,https://media-1.api-sports.io/basketball/teams/2085.png
+2023-01-22T21:00:00+00:00,purdue,maryland,,,home,1674421200,https://media-2.api-sports.io/basketball/teams/2085.png
+2023-01-27T02:00:00+00:00,purdue,michigan,,,away,1674784800,https://media-2.api-sports.io/basketball/teams/2085.png
+2023-01-29T17:15:00+00:00,purdue,michigan state,,,home,1675012500,https://media-2.api-sports.io/basketball/teams/2085.png
+2023-02-01T23:30:00+00:00,purdue,penn state,,,home,1675294200,https://media-2.api-sports.io/basketball/teams/2085.png
+2023-02-04T21:00:00+00:00,purdue,indiana,,,away,1675544400,https://media-3.api-sports.io/basketball/teams/2085.png
+2023-02-10T00:00:00+00:00,purdue,iowa,,,home,1675987200,https://media-3.api-sports.io/basketball/teams/2085.png
+2023-02-12T19:00:00+00:00,purdue,northwestern,,,away,1676228400,https://media-1.api-sports.io/basketball/teams/2085.png
+2023-02-16T23:30:00+00:00,purdue,maryland,,,away,1676590200,https://media-3.api-sports.io/basketball/teams/2085.png

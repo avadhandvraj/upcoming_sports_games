@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,pittsburgh,ut martin,58 - 80,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/2079.png
+2022-11-12T00:00:00+00:00,pittsburgh,west virginia,81 - 56,L,home,1668211200,https://media-1.api-sports.io/basketball/teams/2079.png
+2022-11-16T23:00:00+00:00,pittsburgh,michigan,91 - 60,L,home,1668639600,https://media-3.api-sports.io/basketball/teams/2079.png
+2022-11-18T00:00:00+00:00,pittsburgh,vcu rams,67 - 71,L,away,1668729600,https://media-2.api-sports.io/basketball/teams/2079.png
+2022-11-20T19:00:00+00:00,pittsburgh,alabama state,54 - 73,W,home,1668970800,https://media-3.api-sports.io/basketball/teams/2079.png
+2022-11-23T01:30:00+00:00,pittsburgh,fairleigh dickinson,61 - 83,W,home,1669167000,https://media-3.api-sports.io/basketball/teams/2079.png
+2022-11-26T00:00:00+00:00,pittsburgh,william & mary,64 - 80,W,home,1669420800,https://media-3.api-sports.io/basketball/teams/2079.png
+2022-11-29T02:00:00+00:00,pittsburgh,northwestern,87 - 58,W,away,1669687200,https://media-2.api-sports.io/basketball/teams/2079.png
+2022-12-03T00:00:00+00:00,pittsburgh,nc state,68 - 60,W,away,1670025600,https://media-3.api-sports.io/basketball/teams/2079.png
+2022-12-08T02:00:00+00:00,pittsburgh,vanderbilt,74 - 75,L,away,1670464800,https://media-3.api-sports.io/basketball/teams/2079.png
+2022-12-10T20:30:00+00:00,pittsburgh,sacred heart,66 - 91,W,home,1670704200,https://media-3.api-sports.io/basketball/teams/2079.png
+2022-12-17T18:00:00+00:00,pittsburgh,north florida,56 - 82,W,home,1671300000,https://media-3.api-sports.io/basketball/teams/2079.png
+2022-12-21T02:00:00+00:00,pittsburgh,syracuse,84 - 82,W,away,1671588000,https://media-2.api-sports.io/basketball/teams/2079.png
+2022-12-30T17:00:00+00:00,pittsburgh,north carolina,74 - 76,W,home,1672419600,https://media-2.api-sports.io/basketball/teams/2079.png
+2023-01-04T02:00:00+00:00,pittsburgh,virginia,65 - 68,W,home,1672797600,https://media-2.api-sports.io/basketball/teams/2079.png
+2023-01-07T21:00:00+00:00,pittsburgh,clemson,75 - 74,L,home,1673125200,https://media-1.api-sports.io/basketball/teams/2079.png
+2023-01-12T00:00:00+00:00,pittsburgh,duke,,,away,1673481600,https://media-3.api-sports.io/basketball/teams/2079.png
+2023-01-14T20:00:00+00:00,pittsburgh,georgia tech,,,away,1673726400,https://media-3.api-sports.io/basketball/teams/2079.png
+2023-01-19T00:00:00+00:00,pittsburgh,louisville,,,away,1674086400,https://media-3.api-sports.io/basketball/teams/2079.png
+2023-01-21T20:00:00+00:00,pittsburgh,florida state,,,home,1674331200,https://media-2.api-sports.io/basketball/teams/2079.png
+2023-01-26T00:00:00+00:00,pittsburgh,wake forest,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/2079.png
+2023-01-28T21:00:00+00:00,pittsburgh,miami (fl),,,home,1674939600,https://media-1.api-sports.io/basketball/teams/2079.png
+2023-02-02T00:00:00+00:00,pittsburgh,north carolina,,,away,1675296000,https://media-2.api-sports.io/basketball/teams/2079.png
+2023-02-08T00:00:00+00:00,pittsburgh,louisville,,,home,1675814400,https://media-3.api-sports.io/basketball/teams/2079.png
+2023-02-11T17:00:00+00:00,pittsburgh,florida state,,,away,1676134800,https://media-1.api-sports.io/basketball/teams/2079.png
+2023-02-15T02:00:00+00:00,pittsburgh,boston college,,,home,1676426400,https://media-1.api-sports.io/basketball/teams/2079.png
+2023-02-18T22:00:00+00:00,pittsburgh,virginia tech,,,away,1676757600,https://media-3.api-sports.io/basketball/teams/2079.png

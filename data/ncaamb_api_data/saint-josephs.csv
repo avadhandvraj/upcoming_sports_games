@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-11T23:00:00+00:00,saint josephs,houston,81 - 55,L,home,1668207600,https://media-3.api-sports.io/basketball/teams/2103.png
+2022-11-15T00:00:00+00:00,saint josephs,lafayette,59 - 63,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/2103.png
+2022-11-18T00:00:00+00:00,saint josephs,albany,79 - 99,W,home,1668729600,https://media-2.api-sports.io/basketball/teams/2103.png
+2022-11-22T01:30:00+00:00,saint josephs,georgia,66 - 53,L,home,1669080600,https://media-3.api-sports.io/basketball/teams/2103.png
+2022-11-22T23:30:00+00:00,saint josephs,south florida,75 - 62,L,home,1669159800,https://media-2.api-sports.io/basketball/teams/2103.png
+2022-12-01T01:30:00+00:00,saint josephs,penn,85 - 80,W,away,1669858200,https://media-1.api-sports.io/basketball/teams/2103.png
+2022-12-03T18:00:00+00:00,saint josephs,fairleigh dickinson,97 - 80,L,home,1670090400,https://media-2.api-sports.io/basketball/teams/2103.png
+2022-12-07T00:00:00+00:00,saint josephs,temple,60 - 70,L,away,1670371200,https://media-1.api-sports.io/basketball/teams/2103.png
+2022-12-10T18:00:00+00:00,saint josephs,st. peters,57 - 73,W,home,1670695200,https://media-2.api-sports.io/basketball/teams/2103.png
+2022-12-17T21:00:00+00:00,saint josephs,villanova,71 - 64,L,home,1671310800,https://media-2.api-sports.io/basketball/teams/2103.png
+2022-12-20T00:00:00+00:00,saint josephs,sacred heart,59 - 77,W,home,1671494400,https://media-1.api-sports.io/basketball/teams/2103.png
+2022-12-23T00:00:00+00:00,saint josephs,central connecticut state,66 - 83,W,home,1671753600,https://media-2.api-sports.io/basketball/teams/2103.png
+2022-12-31T18:00:00+00:00,saint josephs,st. louis,83 - 78,L,home,1672509600,https://media-3.api-sports.io/basketball/teams/2103.png
+2023-01-05T00:00:00+00:00,saint josephs,dayton,56 - 76,L,away,1672876800,https://media-2.api-sports.io/basketball/teams/2103.png
+2023-01-07T19:00:00+00:00,saint josephs,fordham,54 - 66,L,away,1673118000,https://media-1.api-sports.io/basketball/teams/2103.png
+2023-01-12T00:00:00+00:00,saint josephs,duquesne,,,home,1673481600,https://media-3.api-sports.io/basketball/teams/2103.png
+2023-01-14T17:30:00+00:00,saint josephs,loyola chicago,,,home,1673717400,https://media-2.api-sports.io/basketball/teams/2103.png
+2023-01-16T19:00:00+00:00,saint josephs,la salle,,,away,1673895600,https://media-3.api-sports.io/basketball/teams/2103.png
+2023-01-21T18:00:00+00:00,saint josephs,umass,,,home,1674324000,https://media-1.api-sports.io/basketball/teams/2103.png
+2023-01-26T00:00:00+00:00,saint josephs,george washington,,,away,1674691200,https://media-2.api-sports.io/basketball/teams/2103.png
+2023-01-29T17:00:00+00:00,saint josephs,george mason,,,away,1675011600,https://media-3.api-sports.io/basketball/teams/2103.png
+2023-02-02T00:00:00+00:00,saint josephs,rhode island,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/2103.png
+2023-02-05T17:00:00+00:00,saint josephs,la salle,,,home,1675616400,https://media-2.api-sports.io/basketball/teams/2103.png
+2023-02-09T02:00:00+00:00,saint josephs,loyola chicago,,,away,1675908000,https://media-3.api-sports.io/basketball/teams/2103.png
+2023-02-11T18:00:00+00:00,saint josephs,george washington,,,home,1676138400,https://media-2.api-sports.io/basketball/teams/2103.png
+2023-02-16T00:00:00+00:00,saint josephs,duquesne,,,away,1676505600,https://media-2.api-sports.io/basketball/teams/2103.png
+2023-02-18T17:30:00+00:00,saint josephs,davidson,,,away,1676741400,https://media-3.api-sports.io/basketball/teams/2103.png

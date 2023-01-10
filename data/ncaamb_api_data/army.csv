@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,army,keystone,65 - 110,W,home,1667867400,https://media-1.api-sports.io/basketball/teams/1820.png
+2022-11-12T18:00:00+00:00,army,stonehill,82 - 77,L,home,1668276000,https://media-1.api-sports.io/basketball/teams/1820.png
+2022-11-17T00:00:00+00:00,army,siena,96 - 94,W,away,1668643200,https://media-3.api-sports.io/basketball/teams/1820.png
+2022-11-19T21:00:00+00:00,army,william & mary,67 - 76,L,away,1668891600,https://media-2.api-sports.io/basketball/teams/1820.png
+2022-11-20T19:00:00+00:00,army,radford,75 - 90,L,away,1668970800,https://media-2.api-sports.io/basketball/teams/1820.png
+2022-11-24T19:30:00+00:00,army,princeton,66 - 74,L,away,1669318200,https://media-3.api-sports.io/basketball/teams/1820.png
+2022-11-26T14:30:00+00:00,army,manhattan,72 - 71,L,home,1669473000,https://media-3.api-sports.io/basketball/teams/1820.png
+2022-11-30T23:00:00+00:00,army,usmma,57 - 88,W,home,1669849200,https://media-3.api-sports.io/basketball/teams/1820.png
+2022-12-03T18:00:00+00:00,army,wagner,64 - 75,W,home,1670090400,https://media-1.api-sports.io/basketball/teams/1820.png
+2022-12-08T00:00:00+00:00,army,njit,62 - 63,W,home,1670457600,https://media-1.api-sports.io/basketball/teams/1820.png
+2022-12-10T19:00:00+00:00,army,rhode island,67 - 77,L,away,1670698800,https://media-3.api-sports.io/basketball/teams/1820.png
+2022-12-18T18:00:00+00:00,army,stony brook,59 - 66,L,away,1671386400,https://media-1.api-sports.io/basketball/teams/1820.png
+2022-12-21T00:00:00+00:00,army,central connecticut state,66 - 55,W,away,1671580800,https://media-3.api-sports.io/basketball/teams/1820.png
+2022-12-30T23:00:00+00:00,army,lehigh,78 - 80,W,home,1672441200,https://media-2.api-sports.io/basketball/teams/1820.png
+2023-01-03T00:00:00+00:00,army,lafayette,82 - 65,W,away,1672704000,https://media-1.api-sports.io/basketball/teams/1820.png
+2023-01-06T00:00:00+00:00,army,loyola maryland,78 - 55,W,away,1672963200,https://media-2.api-sports.io/basketball/teams/1820.png
+2023-01-10T00:00:00+00:00,army,colgate,77 - 75,L,home,1673308800,https://media-3.api-sports.io/basketball/teams/1820.png
+2023-01-11T23:00:00+00:00,army,american university,,,home,1673478000,https://media-3.api-sports.io/basketball/teams/1820.png
+2023-01-14T18:00:00+00:00,army,boston university,,,away,1673719200,https://media-2.api-sports.io/basketball/teams/1820.png
+2023-01-18T23:00:00+00:00,army,bucknell,,,home,1674082800,https://media-2.api-sports.io/basketball/teams/1820.png
+2023-01-21T18:30:00+00:00,army,navy,,,home,1674325800,https://media-1.api-sports.io/basketball/teams/1820.png
+2023-01-26T00:00:00+00:00,army,american university,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/1820.png
+2023-01-28T18:00:00+00:00,army,holy cross,,,home,1674928800,https://media-1.api-sports.io/basketball/teams/1820.png
+2023-02-02T00:00:00+00:00,army,lehigh,,,away,1675296000,https://media-2.api-sports.io/basketball/teams/1820.png
+2023-02-05T00:00:00+00:00,army,bucknell,,,away,1675555200,https://media-3.api-sports.io/basketball/teams/1820.png
+2023-02-08T23:00:00+00:00,army,loyola maryland,,,home,1675897200,https://media-3.api-sports.io/basketball/teams/1820.png
+2023-02-11T18:30:00+00:00,army,navy,,,away,1676140200,https://media-1.api-sports.io/basketball/teams/1820.png
+2023-02-16T00:00:00+00:00,army,colgate,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/1820.png
+2023-02-18T18:00:00+00:00,army,lafayette,,,home,1676743200,https://media-1.api-sports.io/basketball/teams/1820.png

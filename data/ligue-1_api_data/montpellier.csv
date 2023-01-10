@@ -1,0 +1,39 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Sunday, August 07 08:00 AM",montpellier,estac troyes,2 - 3,W,home,1659877200,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, August 13 02:00 PM",montpellier,paris saint germain,2 - 5,L,away,1660417200,https://media-1.api-sports.io/football/teams/82.png
+"Sunday, August 21 08:00 AM",montpellier,auxerre,2 - 1,L,home,1661086800,https://media-2.api-sports.io/football/teams/82.png
+"Sunday, August 28 08:00 AM",montpellier,stade brestois 29,7 - 0,W,away,1661691600,https://media-2.api-sports.io/football/teams/82.png
+"Wednesday, August 31 12:00 PM",montpellier,ajaccio,0 - 2,W,home,1661965200,https://media-1.api-sports.io/football/teams/82.png
+"Sunday, September 04 06:00 AM",montpellier,lille,3 - 1,L,home,1662289200,https://media-3.api-sports.io/football/teams/82.png
+"Sunday, September 11 08:00 AM",montpellier,angers,1 - 2,L,away,1662901200,https://media-3.api-sports.io/football/teams/82.png
+"Saturday, September 17 10:00 AM",montpellier,strasbourg,1 - 2,W,home,1663426800,https://media-1.api-sports.io/football/teams/82.png
+"Sunday, October 02 08:00 AM",montpellier,toulouse,2 - 4,L,away,1664715600,https://media-2.api-sports.io/football/teams/82.png
+"Sunday, October 09 06:00 AM",montpellier,monaco,2 - 0,L,home,1665313200,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, October 15 02:00 PM",montpellier,lens,0 - 1,L,away,1665860400,https://media-2.api-sports.io/football/teams/82.png
+"Saturday, October 22 10:00 AM",montpellier,lyon,2 - 1,L,home,1666450800,https://media-1.api-sports.io/football/teams/82.png
+"Sunday, October 30 09:00 AM",montpellier,rennes,0 - 3,L,away,1667138400,https://media-1.api-sports.io/football/teams/82.png
+"Sunday, November 06 08:00 AM",montpellier,clermont foot,1 - 1,tie,away,1667743200,https://media-2.api-sports.io/football/teams/82.png
+"Sunday, November 13 08:00 AM",montpellier,reims,1 - 1,tie,home,1668348000,https://media-1.api-sports.io/football/teams/82.png
+"Thursday, December 29 10:00 AM",montpellier,lorient,2 - 0,W,away,1672329600,https://media-1.api-sports.io/football/teams/82.png
+"Monday, January 02 12:00 PM",montpellier,marseille,2 - 1,L,home,1672682400,https://media-2.api-sports.io/football/teams/82.png
+"Wednesday, January 11 02:00 PM",montpellier,nice,,,away,1673467200,https://media-3.api-sports.io/football/teams/82.png
+"Sunday, January 15 08:00 AM",montpellier,nantes,,,home,1673791200,https://media-1.api-sports.io/football/teams/82.png
+"Sunday, January 29 08:00 AM",montpellier,auxerre,,,away,1675000800,https://media-1.api-sports.io/football/teams/82.png
+"Wednesday, February 01 02:00 PM",montpellier,paris saint germain,,,home,1675281600,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, February 04 06:00 PM",montpellier,strasbourg,,,away,1675555200,https://media-2.api-sports.io/football/teams/82.png
+"Saturday, February 11 06:00 PM",montpellier,stade brestois 29,,,home,1676160000,https://media-2.api-sports.io/football/teams/82.png
+"Saturday, February 18 06:00 PM",montpellier,estac troyes,,,away,1676764800,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, February 25 06:00 PM",montpellier,lens,,,home,1677369600,https://media-3.api-sports.io/football/teams/82.png
+"Saturday, March 04 06:00 PM",montpellier,angers,,,home,1677974400,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, March 11 06:00 PM",montpellier,ajaccio,,,away,1678579200,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, March 18 07:00 PM",montpellier,clermont foot,,,home,1679184000,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, April 01 07:00 PM",montpellier,marseille,,,away,1680393600,https://media-2.api-sports.io/football/teams/82.png
+"Saturday, April 08 07:00 PM",montpellier,toulouse,,,home,1680998400,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, April 15 07:00 PM",montpellier,lille,,,away,1681603200,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, April 22 07:00 PM",montpellier,rennes,,,home,1682208000,https://media-2.api-sports.io/football/teams/82.png
+"Saturday, April 29 07:00 PM",montpellier,monaco,,,away,1682812800,https://media-3.api-sports.io/football/teams/82.png
+"Saturday, May 06 07:00 PM",montpellier,lyon,,,away,1683417600,https://media-3.api-sports.io/football/teams/82.png
+"Saturday, May 13 07:00 PM",montpellier,lorient,,,home,1684022400,https://media-1.api-sports.io/football/teams/82.png
+"Saturday, May 20 07:00 PM",montpellier,nantes,,,away,1684627200,https://media-3.api-sports.io/football/teams/82.png
+"Friday, May 26 07:00 PM",montpellier,nice,,,home,1685145600,https://media-1.api-sports.io/football/teams/82.png
+"Friday, June 02 07:00 PM",montpellier,reims,,,away,1685750400,https://media-1.api-sports.io/football/teams/82.png

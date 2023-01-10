@@ -1,0 +1,26 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-10T00:00:00+00:00,marist,american university,69 - 73,W,home,1668038400,https://media-1.api-sports.io/basketball/teams/1982.png
+2022-11-13T00:00:00+00:00,marist,binghamton,78 - 75,L,home,1668297600,https://media-3.api-sports.io/basketball/teams/1982.png
+2022-11-17T00:00:00+00:00,marist,lehigh,54 - 64,L,away,1668643200,https://media-3.api-sports.io/basketball/teams/1982.png
+2022-11-20T00:00:00+00:00,marist,princeton,62 - 55,L,home,1668902400,https://media-3.api-sports.io/basketball/teams/1982.png
+2022-11-23T01:00:00+00:00,marist,md.-east. shore,59 - 70,L,away,1669165200,https://media-3.api-sports.io/basketball/teams/1982.png
+2022-11-26T19:00:00+00:00,marist,bucknell,60 - 54,W,away,1669489200,https://media-2.api-sports.io/basketball/teams/1982.png
+2022-11-29T00:00:00+00:00,marist,columbia,39 - 52,W,home,1669680000,https://media-2.api-sports.io/basketball/teams/1982.png
+2022-12-04T15:30:00+00:00,marist,maine black bears,61 - 62,W,home,1670167800,https://media-1.api-sports.io/basketball/teams/1982.png
+2022-12-11T00:00:00+00:00,marist,boston university,72 - 70,L,home,1670716800,https://media-3.api-sports.io/basketball/teams/1982.png
+2022-12-20T00:00:00+00:00,marist,manhattan,80 - 69,L,home,1671494400,https://media-2.api-sports.io/basketball/teams/1982.png
+2022-12-23T00:00:00+00:00,marist,rider,71 - 77,L,away,1671753600,https://media-1.api-sports.io/basketball/teams/1982.png
+2022-12-31T00:00:00+00:00,marist,fairfield,54 - 73,L,away,1672444800,https://media-1.api-sports.io/basketball/teams/1982.png
+2023-01-07T00:00:00+00:00,marist,iona,84 - 57,L,home,1673049600,https://media-2.api-sports.io/basketball/teams/1982.png
+2023-01-08T19:00:00+00:00,marist,mount st. mary's,56 - 63,W,home,1673204400,https://media-1.api-sports.io/basketball/teams/1982.png
+2023-01-14T00:00:00+00:00,marist,canisius,,,away,1673654400,https://media-2.api-sports.io/basketball/teams/1982.png
+2023-01-15T18:00:00+00:00,marist,niagara,,,away,1673805600,https://media-3.api-sports.io/basketball/teams/1982.png
+2023-01-21T00:00:00+00:00,marist,st. peters,,,home,1674259200,https://media-1.api-sports.io/basketball/teams/1982.png
+2023-01-22T19:00:00+00:00,marist,mount st. mary's,,,away,1674414000,https://media-1.api-sports.io/basketball/teams/1982.png
+2023-01-28T00:00:00+00:00,marist,rider,,,home,1674864000,https://media-1.api-sports.io/basketball/teams/1982.png
+2023-01-29T19:00:00+00:00,marist,siena,,,home,1675018800,https://media-1.api-sports.io/basketball/teams/1982.png
+2023-02-01T00:00:00+00:00,marist,quinnipiac,,,away,1675209600,https://media-2.api-sports.io/basketball/teams/1982.png
+2023-02-05T19:00:00+00:00,marist,canisius,,,home,1675623600,https://media-2.api-sports.io/basketball/teams/1982.png
+2023-02-11T00:00:00+00:00,marist,st. peters,,,away,1676073600,https://media-3.api-sports.io/basketball/teams/1982.png
+2023-02-12T19:00:00+00:00,marist,siena,,,away,1676228400,https://media-2.api-sports.io/basketball/teams/1982.png
+2023-02-18T00:00:00+00:00,marist,fairfield,,,home,1676678400,https://media-1.api-sports.io/basketball/teams/1982.png

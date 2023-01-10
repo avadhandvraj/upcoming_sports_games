@@ -1,0 +1,88 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-10-04T00:00:00+00:00,orlando magic,memphis grizzlies,97 - 109,L,away,1664841600,https://media-2.api-sports.io/basketball/teams/153.png
+2022-10-07T00:00:00+00:00,orlando magic,san antonio spurs,102 - 99,W,away,1665100800,https://media-2.api-sports.io/basketball/teams/153.png
+2022-10-08T00:30:00+00:00,orlando magic,dallas mavericks,110 - 105,W,away,1665189000,https://media-2.api-sports.io/basketball/teams/153.png
+2022-10-11T23:00:00+00:00,orlando magic,memphis grizzlies,105 - 109,W,home,1665529200,https://media-3.api-sports.io/basketball/teams/153.png
+2022-10-14T23:00:00+00:00,orlando magic,cleveland cavaliers,108 - 114,W,home,1665788400,https://media-3.api-sports.io/basketball/teams/153.png
+2022-10-19T23:00:00+00:00,orlando magic,detroit pistons,109 - 113,L,away,1666220400,https://media-2.api-sports.io/basketball/teams/153.png
+2022-10-21T23:30:00+00:00,orlando magic,atlanta hawks,98 - 108,L,away,1666395000,https://media-3.api-sports.io/basketball/teams/153.png
+2022-10-22T23:00:00+00:00,orlando magic,boston celtics,126 - 120,L,home,1666479600,https://media-3.api-sports.io/basketball/teams/153.png
+2022-10-24T23:30:00+00:00,orlando magic,new york knicks,102 - 115,L,away,1666654200,https://media-2.api-sports.io/basketball/teams/153.png
+2022-10-26T23:00:00+00:00,orlando magic,cleveland cavaliers,92 - 103,L,away,1666825200,https://media-3.api-sports.io/basketball/teams/153.png
+2022-10-28T23:00:00+00:00,orlando magic,charlotte hornets,93 - 113,W,home,1666998000,https://media-2.api-sports.io/basketball/teams/153.png
+2022-10-30T23:30:00+00:00,orlando magic,dallas mavericks,105 - 114,L,away,1667172600,https://media-1.api-sports.io/basketball/teams/153.png
+2022-11-02T00:00:00+00:00,orlando magic,oklahoma city thunder,108 - 116,L,away,1667347200,https://media-1.api-sports.io/basketball/teams/153.png
+2022-11-03T23:00:00+00:00,orlando magic,golden state warriors,129 - 130,W,home,1667516400,https://media-3.api-sports.io/basketball/teams/153.png
+2022-11-05T21:00:00+00:00,orlando magic,sacramento kings,126 - 123,L,home,1667682000,https://media-2.api-sports.io/basketball/teams/153.png
+2022-11-08T00:15:00+00:00,orlando magic,houston rockets,134 - 127,L,home,1667866500,https://media-1.api-sports.io/basketball/teams/153.png
+2022-11-09T22:30:00+00:00,orlando magic,dallas mavericks,87 - 94,W,home,1668033000,https://media-3.api-sports.io/basketball/teams/153.png
+2022-11-12T00:00:00+00:00,orlando magic,phoenix suns,97 - 114,W,home,1668211200,https://media-3.api-sports.io/basketball/teams/153.png
+2022-11-15T00:00:00+00:00,orlando magic,charlotte hornets,112 - 105,L,home,1668470400,https://media-2.api-sports.io/basketball/teams/153.png
+2022-11-17T00:00:00+00:00,orlando magic,minnesota timberwolves,126 - 108,L,home,1668643200,https://media-2.api-sports.io/basketball/teams/153.png
+2022-11-19T01:00:00+00:00,orlando magic,chicago bulls,108 - 107,W,away,1668819600,https://media-1.api-sports.io/basketball/teams/153.png
+2022-11-20T00:00:00+00:00,orlando magic,indiana pacers,113 - 114,L,away,1668902400,https://media-1.api-sports.io/basketball/teams/153.png
+2022-11-22T00:00:00+00:00,orlando magic,indiana pacers,102 - 123,L,away,1669075200,https://media-2.api-sports.io/basketball/teams/153.png
+2022-11-26T00:00:00+00:00,orlando magic,philadelphia 76ers,107 - 99,L,home,1669420800,https://media-2.api-sports.io/basketball/teams/153.png
+2022-11-27T23:00:00+00:00,orlando magic,philadelphia 76ers,133 - 103,L,home,1669590000,https://media-2.api-sports.io/basketball/teams/153.png
+2022-11-29T00:30:00+00:00,orlando magic,brooklyn nets,102 - 109,L,away,1669681800,https://media-3.api-sports.io/basketball/teams/153.png
+2022-12-01T00:00:00+00:00,orlando magic,atlanta hawks,125 - 108,L,home,1669852800,https://media-1.api-sports.io/basketball/teams/153.png
+2022-12-03T00:30:00+00:00,orlando magic,cleveland cavaliers,96 - 107,L,away,1670027400,https://media-2.api-sports.io/basketball/teams/153.png
+2022-12-04T01:00:00+00:00,orlando magic,toronto raptors,108 - 121,L,away,1670115600,https://media-2.api-sports.io/basketball/teams/153.png
+2022-12-06T00:00:00+00:00,orlando magic,milwaukee bucks,109 - 102,L,home,1670284800,https://media-3.api-sports.io/basketball/teams/153.png
+2022-12-08T00:00:00+00:00,orlando magic,los angeles clippers,111 - 116,W,home,1670457600,https://media-3.api-sports.io/basketball/teams/153.png
+2022-12-10T00:00:00+00:00,orlando magic,toronto raptors,109 - 113,W,home,1670630400,https://media-3.api-sports.io/basketball/teams/153.png
+2022-12-11T23:00:00+00:00,orlando magic,toronto raptors,99 - 111,W,home,1670799600,https://media-1.api-sports.io/basketball/teams/153.png
+2022-12-15T00:00:00+00:00,orlando magic,atlanta hawks,124 - 135,W,home,1671062400,https://media-2.api-sports.io/basketball/teams/153.png
+2022-12-17T00:30:00+00:00,orlando magic,boston celtics,117 - 109,W,away,1671237000,https://media-3.api-sports.io/basketball/teams/153.png
+2022-12-18T20:00:00+00:00,orlando magic,boston celtics,95 - 92,W,away,1671393600,https://media-2.api-sports.io/basketball/teams/153.png
+2022-12-20T00:30:00+00:00,orlando magic,atlanta hawks,125 - 126,L,away,1671496200,https://media-2.api-sports.io/basketball/teams/153.png
+2022-12-22T01:00:00+00:00,orlando magic,houston rockets,116 - 110,W,away,1671670800,https://media-3.api-sports.io/basketball/teams/153.png
+2022-12-24T00:00:00+00:00,orlando magic,san antonio spurs,113 - 133,W,home,1671840000,https://media-2.api-sports.io/basketball/teams/153.png
+2022-12-28T00:00:00+00:00,orlando magic,los angeles lakers,129 - 110,L,home,1672185600,https://media-3.api-sports.io/basketball/teams/153.png
+2022-12-29T00:00:00+00:00,orlando magic,detroit pistons,101 - 121,L,away,1672272000,https://media-1.api-sports.io/basketball/teams/153.png
+2022-12-31T00:00:00+00:00,orlando magic,washington wizards,119 - 100,L,home,1672444800,https://media-2.api-sports.io/basketball/teams/153.png
+2023-01-05T00:00:00+00:00,orlando magic,oklahoma city thunder,115 - 126,W,home,1672876800,https://media-1.api-sports.io/basketball/teams/153.png
+2023-01-06T00:00:00+00:00,orlando magic,memphis grizzlies,123 - 115,L,home,1672963200,https://media-1.api-sports.io/basketball/teams/153.png
+2023-01-08T01:30:00+00:00,orlando magic,golden state warriors,115 - 101,W,away,1673141400,https://media-1.api-sports.io/basketball/teams/153.png
+2023-01-10T03:00:00+00:00,orlando magic,sacramento kings,,,away,1673319600,https://media-3.api-sports.io/basketball/teams/153.png
+2023-01-11T03:00:00+00:00,orlando magic,portland trail blazers,,,away,1673406000,https://media-3.api-sports.io/basketball/teams/153.png
+2023-01-14T02:00:00+00:00,orlando magic,utah jazz,,,away,1673661600,https://media-2.api-sports.io/basketball/teams/153.png
+2023-01-16T01:00:00+00:00,orlando magic,denver nuggets,,,away,1673830800,https://media-3.api-sports.io/basketball/teams/153.png
+2023-01-21T00:00:00+00:00,orlando magic,new orleans pelicans,,,home,1674259200,https://media-1.api-sports.io/basketball/teams/153.png
+2023-01-22T00:00:00+00:00,orlando magic,washington wizards,,,away,1674345600,https://media-3.api-sports.io/basketball/teams/153.png
+2023-01-24T00:00:00+00:00,orlando magic,boston celtics,,,home,1674518400,https://media-2.api-sports.io/basketball/teams/153.png
+2023-01-26T00:00:00+00:00,orlando magic,indiana pacers,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/153.png
+2023-01-28T01:00:00+00:00,orlando magic,miami heat,,,away,1674867600,https://media-1.api-sports.io/basketball/teams/153.png
+2023-01-29T00:00:00+00:00,orlando magic,chicago bulls,,,home,1674950400,https://media-3.api-sports.io/basketball/teams/153.png
+2023-01-31T00:00:00+00:00,orlando magic,philadelphia 76ers,,,away,1675123200,https://media-1.api-sports.io/basketball/teams/153.png
+2023-02-02T00:00:00+00:00,orlando magic,philadelphia 76ers,,,away,1675296000,https://media-1.api-sports.io/basketball/teams/153.png
+2023-02-04T01:00:00+00:00,orlando magic,minnesota timberwolves,,,away,1675472400,https://media-3.api-sports.io/basketball/teams/153.png
+2023-02-05T18:00:00+00:00,orlando magic,charlotte hornets,,,away,1675620000,https://media-3.api-sports.io/basketball/teams/153.png
+2023-02-08T00:00:00+00:00,orlando magic,new york knicks,,,home,1675814400,https://media-3.api-sports.io/basketball/teams/153.png
+2023-02-10T00:00:00+00:00,orlando magic,denver nuggets,,,home,1675987200,https://media-3.api-sports.io/basketball/teams/153.png
+2023-02-12T00:00:00+00:00,orlando magic,miami heat,,,home,1676160000,https://media-2.api-sports.io/basketball/teams/153.png
+2023-02-14T01:00:00+00:00,orlando magic,chicago bulls,,,away,1676336400,https://media-3.api-sports.io/basketball/teams/153.png
+2023-02-15T00:30:00+00:00,orlando magic,toronto raptors,,,away,1676421000,https://media-2.api-sports.io/basketball/teams/153.png
+2023-02-24T00:00:00+00:00,orlando magic,detroit pistons,,,home,1677196800,https://media-2.api-sports.io/basketball/teams/153.png
+2023-02-26T00:00:00+00:00,orlando magic,indiana pacers,,,home,1677369600,https://media-3.api-sports.io/basketball/teams/153.png
+2023-02-28T01:00:00+00:00,orlando magic,new orleans pelicans,,,away,1677546000,https://media-2.api-sports.io/basketball/teams/153.png
+2023-03-02T01:00:00+00:00,orlando magic,milwaukee bucks,,,away,1677718800,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-04T00:00:00+00:00,orlando magic,charlotte hornets,,,away,1677888000,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-05T23:00:00+00:00,orlando magic,portland trail blazers,,,home,1678057200,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-08T00:00:00+00:00,orlando magic,milwaukee bucks,,,home,1678233600,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-10T00:00:00+00:00,orlando magic,utah jazz,,,home,1678406400,https://media-2.api-sports.io/basketball/teams/153.png
+2023-03-12T00:00:00+00:00,orlando magic,miami heat,,,home,1678579200,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-15T00:00:00+00:00,orlando magic,san antonio spurs,,,away,1678838400,https://media-3.api-sports.io/basketball/teams/153.png
+2023-03-17T02:00:00+00:00,orlando magic,phoenix suns,,,away,1679018400,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-18T19:00:00+00:00,orlando magic,los angeles clippers,,,away,1679166000,https://media-2.api-sports.io/basketball/teams/153.png
+2023-03-20T01:30:00+00:00,orlando magic,los angeles lakers,,,away,1679275800,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-21T23:00:00+00:00,orlando magic,washington wizards,,,home,1679439600,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-23T23:00:00+00:00,orlando magic,new york knicks,,,home,1679612400,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-26T22:00:00+00:00,orlando magic,brooklyn nets,,,home,1679868000,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-29T00:00:00+00:00,orlando magic,memphis grizzlies,,,away,1680048000,https://media-1.api-sports.io/basketball/teams/153.png
+2023-03-31T23:00:00+00:00,orlando magic,washington wizards,,,away,1680303600,https://media-2.api-sports.io/basketball/teams/153.png
+2023-04-02T22:00:00+00:00,orlando magic,detroit pistons,,,home,1680472800,https://media-1.api-sports.io/basketball/teams/153.png
+2023-04-04T23:00:00+00:00,orlando magic,cleveland cavaliers,,,home,1680649200,https://media-2.api-sports.io/basketball/teams/153.png
+2023-04-06T23:00:00+00:00,orlando magic,cleveland cavaliers,,,home,1680822000,https://media-1.api-sports.io/basketball/teams/153.png
+2023-04-07T23:30:00+00:00,orlando magic,brooklyn nets,,,away,1680910200,https://media-3.api-sports.io/basketball/teams/153.png
+2023-04-09T17:00:00+00:00,orlando magic,miami heat,None - None,tie,away,1681059600,https://media-3.api-sports.io/basketball/teams/153.png

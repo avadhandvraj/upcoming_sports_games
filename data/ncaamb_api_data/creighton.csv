@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:30:00+00:00,creighton,st. thomas (minn.),60 - 72,W,home,1667871000,https://media-2.api-sports.io/basketball/teams/182.png
+2022-11-11T02:00:00+00:00,creighton,north dakota,61 - 96,W,home,1668132000,https://media-2.api-sports.io/basketball/teams/182.png
+2022-11-15T02:00:00+00:00,creighton,holy cross,65 - 94,W,home,1668477600,https://media-3.api-sports.io/basketball/teams/182.png
+2022-11-18T01:30:00+00:00,creighton,uc riverside,51 - 80,W,home,1668735000,https://media-1.api-sports.io/basketball/teams/182.png
+2022-11-21T19:30:00+00:00,creighton,texas tech,65 - 76,W,home,1669059000,https://media-2.api-sports.io/basketball/teams/182.png
+2022-11-23T01:00:00+00:00,creighton,arkansas,90 - 87,W,away,1669165200,https://media-1.api-sports.io/basketball/teams/182.png
+2022-11-23T22:00:00+00:00,creighton,arizona,79 - 81,L,away,1669240800,https://media-3.api-sports.io/basketball/teams/182.png
+2022-12-02T00:00:00+00:00,creighton,texas,67 - 72,L,away,1669939200,https://media-1.api-sports.io/basketball/teams/182.png
+2022-12-04T21:30:00+00:00,creighton,nebraska,63 - 53,L,home,1670189400,https://media-2.api-sports.io/basketball/teams/182.png
+2022-12-11T03:00:00+00:00,creighton,brigham young,80 - 83,L,away,1670727600,https://media-1.api-sports.io/basketball/teams/182.png
+2022-12-13T02:00:00+00:00,creighton,arizona state,73 - 71,L,home,1670896800,https://media-1.api-sports.io/basketball/teams/182.png
+2022-12-17T01:30:00+00:00,creighton,marquette,58 - 69,L,away,1671240600,https://media-2.api-sports.io/basketball/teams/182.png
+2022-12-23T01:00:00+00:00,creighton,butler,56 - 78,W,home,1671757200,https://media-2.api-sports.io/basketball/teams/182.png
+2022-12-25T21:30:00+00:00,creighton,depaul,65 - 80,W,home,1672003800,https://media-3.api-sports.io/basketball/teams/182.png
+2023-01-04T01:30:00+00:00,creighton,seton hall,61 - 83,W,home,1672795800,https://media-3.api-sports.io/basketball/teams/182.png
+2023-01-07T17:00:00+00:00,creighton,uconn,60 - 69,L,away,1673110800,https://media-1.api-sports.io/basketball/teams/182.png
+2023-01-12T00:00:00+00:00,creighton,xavier,,,away,1673481600,https://media-2.api-sports.io/basketball/teams/182.png
+2023-01-14T19:00:00+00:00,creighton,providence,,,home,1673722800,https://media-2.api-sports.io/basketball/teams/182.png
+2023-01-18T00:00:00+00:00,creighton,butler,,,away,1674000000,https://media-3.api-sports.io/basketball/teams/182.png
+2023-01-26T02:00:00+00:00,creighton,st. john's (n.y.),,,home,1674698400,https://media-2.api-sports.io/basketball/teams/182.png
+2023-01-28T17:15:00+00:00,creighton,xavier,,,home,1674926100,https://media-3.api-sports.io/basketball/teams/182.png
+2023-02-01T23:30:00+00:00,creighton,georgetown,,,away,1675294200,https://media-3.api-sports.io/basketball/teams/182.png
+2023-02-05T00:30:00+00:00,creighton,villanova,,,home,1675557000,https://media-2.api-sports.io/basketball/teams/182.png
+2023-02-08T23:30:00+00:00,creighton,seton hall,,,away,1675899000,https://media-2.api-sports.io/basketball/teams/182.png
+2023-02-11T19:00:00+00:00,creighton,uconn,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/182.png
+2023-02-14T21:00:00+00:00,creighton,providence,,,away,1676408400,https://media-3.api-sports.io/basketball/teams/182.png

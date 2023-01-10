@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T23:00:00+00:00,coppin state,charlotte,59 - 82,L,away,1667862000,https://media-2.api-sports.io/basketball/teams/1878.png
+2022-11-09T01:30:00+00:00,coppin state,georgetown,89 - 99,L,away,1667957400,https://media-1.api-sports.io/basketball/teams/1878.png
+2022-11-12T00:00:00+00:00,coppin state,mount st. mary's,78 - 83,W,home,1668211200,https://media-2.api-sports.io/basketball/teams/1878.png
+2022-11-15T00:00:00+00:00,coppin state,navy,68 - 75,W,home,1668470400,https://media-2.api-sports.io/basketball/teams/1878.png
+2022-11-18T01:30:00+00:00,coppin state,tennessee tech,90 - 85,W,away,1668735000,https://media-1.api-sports.io/basketball/teams/1878.png
+2022-11-20T00:00:00+00:00,coppin state,marshall,67 - 86,L,away,1668902400,https://media-1.api-sports.io/basketball/teams/1878.png
+2022-11-23T00:00:00+00:00,coppin state,towson,67 - 83,L,away,1669161600,https://media-3.api-sports.io/basketball/teams/1878.png
+2022-11-25T21:00:00+00:00,coppin state,maryland,79 - 95,L,away,1669410000,https://media-2.api-sports.io/basketball/teams/1878.png
+2022-12-01T00:00:00+00:00,coppin state,umbc retrievers,82 - 109,L,away,1669852800,https://media-2.api-sports.io/basketball/teams/1878.png
+2022-12-03T22:00:00+00:00,coppin state,loyola maryland,74 - 71,W,away,1670104800,https://media-2.api-sports.io/basketball/teams/1878.png
+2022-12-07T00:00:00+00:00,coppin state,nc state,72 - 94,L,away,1670371200,https://media-3.api-sports.io/basketball/teams/1878.png
+2022-12-11T19:00:00+00:00,coppin state,east carolina,75 - 84,L,away,1670785200,https://media-1.api-sports.io/basketball/teams/1878.png
+2022-12-13T23:00:00+00:00,coppin state,george washington,71 - 83,L,away,1670972400,https://media-3.api-sports.io/basketball/teams/1878.png
+2022-12-21T16:00:00+00:00,coppin state,james madison,100 - 107,W,home,1671638400,https://media-1.api-sports.io/basketball/teams/1878.png
+2022-12-23T21:00:00+00:00,coppin state,george mason,53 - 91,L,away,1671829200,https://media-2.api-sports.io/basketball/teams/1878.png
+2022-12-29T00:00:00+00:00,coppin state,richmond,65 - 83,L,away,1672272000,https://media-1.api-sports.io/basketball/teams/1878.png
+2022-12-31T01:00:00+00:00,coppin state,rutgers,57 - 90,L,away,1672448400,https://media-1.api-sports.io/basketball/teams/1878.png
+2023-01-07T21:00:00+00:00,coppin state,south carolina st,73 - 85,W,home,1673125200,https://media-3.api-sports.io/basketball/teams/1878.png
+2023-01-10T00:30:00+00:00,coppin state,n. carolina central,,,home,1673310600,https://media-2.api-sports.io/basketball/teams/1878.png
+2023-01-14T21:00:00+00:00,coppin state,morgan state,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/1878.png
+2023-01-21T21:00:00+00:00,coppin state,norfolk state,,,home,1674334800,https://media-3.api-sports.io/basketball/teams/1878.png
+2023-01-24T00:30:00+00:00,coppin state,howard,,,away,1674520200,https://media-1.api-sports.io/basketball/teams/1878.png
+2023-01-28T21:00:00+00:00,coppin state,md.-east. shore,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/1878.png
+2023-01-31T00:30:00+00:00,coppin state,delaware state,,,home,1675125000,https://media-2.api-sports.io/basketball/teams/1878.png
+2023-02-11T21:00:00+00:00,coppin state,south carolina st,,,away,1676149200,https://media-1.api-sports.io/basketball/teams/1878.png
+2023-02-14T00:30:00+00:00,coppin state,n. carolina central,,,away,1676334600,https://media-3.api-sports.io/basketball/teams/1878.png
+2023-02-18T21:00:00+00:00,coppin state,howard,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/1878.png

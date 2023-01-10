@@ -1,0 +1,29 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T02:00:00+00:00,gardner webb,colorado state,63 - 65,L,away,1667872800,https://media-1.api-sports.io/basketball/teams/5755.png
+2022-11-11T00:30:00+00:00,gardner webb,stephen f. austin,71 - 86,L,away,1668126600,https://media-3.api-sports.io/basketball/teams/5755.png
+2022-11-16T01:00:00+00:00,gardner webb,north carolina,66 - 72,L,away,1668560400,https://media-3.api-sports.io/basketball/teams/5755.png
+2022-11-19T00:00:00+00:00,gardner webb,wofford,58 - 60,L,away,1668816000,https://media-2.api-sports.io/basketball/teams/5755.png
+2022-11-19T22:00:00+00:00,gardner webb,n. carolina a&t,66 - 64,W,away,1668895200,https://media-2.api-sports.io/basketball/teams/5755.png
+2022-11-26T20:30:00+00:00,gardner webb,n. carolina central,53 - 58,L,away,1669494600,https://media-2.api-sports.io/basketball/teams/5755.png
+2022-12-01T00:00:00+00:00,gardner webb,western carolina,71 - 55,W,away,1669852800,https://media-2.api-sports.io/basketball/teams/5755.png
+2022-12-03T17:00:00+00:00,gardner webb,chattanooga mocs,82 - 71,L,home,1670086800,https://media-3.api-sports.io/basketball/teams/5755.png
+2022-12-11T01:00:00+00:00,gardner webb,old dominion,43 - 44,L,away,1670720400,https://media-1.api-sports.io/basketball/teams/5755.png
+2022-12-15T00:00:00+00:00,gardner webb,carolina university,44 - 120,W,home,1671062400,https://media-3.api-sports.io/basketball/teams/5755.png
+2022-12-17T19:00:00+00:00,gardner webb,n. carolina central,70 - 72,W,home,1671303600,https://media-3.api-sports.io/basketball/teams/5755.png
+2022-12-19T16:00:00+00:00,gardner webb,bob jones,55 - 116,W,home,1671465600,https://media-2.api-sports.io/basketball/teams/5755.png
+2022-12-29T22:00:00+00:00,gardner webb,charleston southern,63 - 83,W,home,1672351200,https://media-2.api-sports.io/basketball/teams/5755.png
+2022-12-31T19:00:00+00:00,gardner webb,high point,80 - 73,W,away,1672513200,https://media-2.api-sports.io/basketball/teams/5755.png
+2023-01-05T00:00:00+00:00,gardner webb,campbell,58 - 63,L,away,1672876800,https://media-3.api-sports.io/basketball/teams/5755.png
+2023-01-07T19:00:00+00:00,gardner webb,radford,63 - 59,L,home,1673118000,https://media-2.api-sports.io/basketball/teams/5755.png
+2023-01-12T00:00:00+00:00,gardner webb,presbyterian,,,away,1673481600,https://media-3.api-sports.io/basketball/teams/5755.png
+2023-01-14T19:00:00+00:00,gardner webb,unc asheville,,,home,1673722800,https://media-2.api-sports.io/basketball/teams/5755.png
+2023-01-19T00:00:00+00:00,gardner webb,longwood,,,away,1674086400,https://media-1.api-sports.io/basketball/teams/5755.png
+2023-01-21T19:00:00+00:00,gardner webb,winthrop,,,away,1674327600,https://media-3.api-sports.io/basketball/teams/5755.png
+2023-01-26T00:00:00+00:00,gardner webb,usc upstate,,,home,1674691200,https://media-1.api-sports.io/basketball/teams/5755.png
+2023-01-28T19:00:00+00:00,gardner webb,high point,,,home,1674932400,https://media-2.api-sports.io/basketball/teams/5755.png
+2023-02-02T00:00:00+00:00,gardner webb,charleston southern,,,away,1675296000,https://media-1.api-sports.io/basketball/teams/5755.png
+2023-02-04T19:00:00+00:00,gardner webb,presbyterian,,,home,1675537200,https://media-2.api-sports.io/basketball/teams/5755.png
+2023-02-09T00:00:00+00:00,gardner webb,radford,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/5755.png
+2023-02-11T19:00:00+00:00,gardner webb,campbell,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/5755.png
+2023-02-16T00:00:00+00:00,gardner webb,winthrop,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/5755.png
+2023-02-18T20:00:00+00:00,gardner webb,unc asheville,,,away,1676750400,https://media-2.api-sports.io/basketball/teams/5755.png

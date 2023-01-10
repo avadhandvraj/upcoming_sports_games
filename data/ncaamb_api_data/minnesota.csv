@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T02:00:00+00:00,minnesota,western michigan,60 - 61,W,home,1667872800,https://media-1.api-sports.io/basketball/teams/2003.png
+2022-11-12T00:00:00+00:00,minnesota,st. francis brooklyn,54 - 72,W,home,1668211200,https://media-1.api-sports.io/basketball/teams/2003.png
+2022-11-15T00:00:00+00:00,minnesota,depaul,69 - 53,L,home,1668470400,https://media-3.api-sports.io/basketball/teams/2003.png
+2022-11-18T02:00:00+00:00,minnesota,central michigan,60 - 68,W,home,1668736800,https://media-3.api-sports.io/basketball/teams/2003.png
+2022-11-22T03:30:00+00:00,minnesota,california baptist,61 - 62,W,home,1669087800,https://media-1.api-sports.io/basketball/teams/2003.png
+2022-11-24T03:30:00+00:00,minnesota,unlv,71 - 62,L,home,1669260600,https://media-2.api-sports.io/basketball/teams/2003.png
+2022-11-29T00:00:00+00:00,minnesota,virginia tech,57 - 67,L,away,1669680000,https://media-2.api-sports.io/basketball/teams/2003.png
+2022-12-04T22:00:00+00:00,minnesota,purdue,70 - 89,L,away,1670191200,https://media-3.api-sports.io/basketball/teams/2003.png
+2022-12-09T02:00:00+00:00,minnesota,michigan,90 - 75,L,home,1670551200,https://media-2.api-sports.io/basketball/teams/2003.png
+2022-12-12T01:30:00+00:00,minnesota,mississippi st.,69 - 51,L,home,1670808600,https://media-2.api-sports.io/basketball/teams/2003.png
+2022-12-15T01:00:00+00:00,minnesota,arkansas-pine bluff,56 - 72,W,home,1671066000,https://media-3.api-sports.io/basketball/teams/2003.png
+2022-12-22T18:00:00+00:00,minnesota,chicago state,55 - 58,W,home,1671732000,https://media-1.api-sports.io/basketball/teams/2003.png
+2022-12-30T01:00:00+00:00,minnesota,alcorn state,None - None,tie,home,1672362000,https://media-1.api-sports.io/basketball/teams/2003.png
+2023-01-04T02:00:00+00:00,minnesota,wisconsin,60 - 63,L,away,1672797600,https://media-1.api-sports.io/basketball/teams/2003.png
+2023-01-07T17:00:00+00:00,minnesota,nebraska,81 - 79,L,home,1673110800,https://media-1.api-sports.io/basketball/teams/2003.png
+2023-01-12T23:30:00+00:00,minnesota,ohio state,,,away,1673566200,https://media-1.api-sports.io/basketball/teams/2003.png
+2023-01-16T23:00:00+00:00,minnesota,illinois,,,home,1673910000,https://media-3.api-sports.io/basketball/teams/2003.png
+2023-01-20T00:00:00+00:00,minnesota,purdue,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/2003.png
+2023-01-22T21:00:00+00:00,minnesota,michigan,,,away,1674421200,https://media-3.api-sports.io/basketball/teams/2003.png
+2023-01-26T02:00:00+00:00,minnesota,indiana,,,home,1674698400,https://media-2.api-sports.io/basketball/teams/2003.png
+2023-01-28T17:00:00+00:00,minnesota,northwestern,,,away,1674925200,https://media-3.api-sports.io/basketball/teams/2003.png
+2023-02-02T01:30:00+00:00,minnesota,rutgers,,,away,1675301400,https://media-1.api-sports.io/basketball/teams/2003.png
+2023-02-05T02:00:00+00:00,minnesota,maryland,,,home,1675562400,https://media-3.api-sports.io/basketball/teams/2003.png
+2023-02-08T01:30:00+00:00,minnesota,illinois,,,away,1675819800,https://media-1.api-sports.io/basketball/teams/2003.png
+2023-02-12T18:00:00+00:00,minnesota,iowa,,,home,1676224800,https://media-1.api-sports.io/basketball/teams/2003.png
+2023-02-16T00:00:00+00:00,minnesota,michigan state,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/2003.png

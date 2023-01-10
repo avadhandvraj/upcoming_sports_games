@@ -1,0 +1,87 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-10-05T01:30:00+00:00,chicago bulls,new orleans pelicans,129 - 125,L,home,1664933400,https://media-3.api-sports.io/basketball/teams/136.png
+2022-10-08T00:00:00+00:00,chicago bulls,denver nuggets,113 - 131,W,home,1665187200,https://media-1.api-sports.io/basketball/teams/136.png
+2022-10-09T22:00:00+00:00,chicago bulls,toronto raptors,115 - 98,W,away,1665352800,https://media-2.api-sports.io/basketball/teams/136.png
+2022-10-12T00:00:00+00:00,chicago bulls,milwaukee bucks,104 - 127,W,home,1665532800,https://media-3.api-sports.io/basketball/teams/136.png
+2022-10-19T23:30:00+00:00,chicago bulls,miami heat,116 - 108,W,away,1666222200,https://media-3.api-sports.io/basketball/teams/136.png
+2022-10-21T23:00:00+00:00,chicago bulls,washington wizards,100 - 102,L,away,1666393200,https://media-2.api-sports.io/basketball/teams/136.png
+2022-10-23T00:00:00+00:00,chicago bulls,cleveland cavaliers,128 - 96,L,home,1666483200,https://media-3.api-sports.io/basketball/teams/136.png
+2022-10-25T00:00:00+00:00,chicago bulls,boston celtics,102 - 120,W,home,1666656000,https://media-2.api-sports.io/basketball/teams/136.png
+2022-10-27T00:00:00+00:00,chicago bulls,indiana pacers,109 - 124,W,home,1666828800,https://media-2.api-sports.io/basketball/teams/136.png
+2022-10-29T00:30:00+00:00,chicago bulls,san antonio spurs,124 - 129,L,away,1667003400,https://media-2.api-sports.io/basketball/teams/136.png
+2022-10-30T01:00:00+00:00,chicago bulls,philadelphia 76ers,114 - 109,L,home,1667091600,https://media-2.api-sports.io/basketball/teams/136.png
+2022-11-01T23:30:00+00:00,chicago bulls,brooklyn nets,108 - 99,W,away,1667345400,https://media-1.api-sports.io/basketball/teams/136.png
+2022-11-03T00:00:00+00:00,chicago bulls,charlotte hornets,88 - 106,W,home,1667433600,https://media-3.api-sports.io/basketball/teams/136.png
+2022-11-04T23:30:00+00:00,chicago bulls,boston celtics,119 - 123,L,away,1667604600,https://media-2.api-sports.io/basketball/teams/136.png
+2022-11-06T23:00:00+00:00,chicago bulls,toronto raptors,104 - 113,L,away,1667775600,https://media-3.api-sports.io/basketball/teams/136.png
+2022-11-08T01:45:00+00:00,chicago bulls,toronto raptors,97 - 111,W,home,1667871900,https://media-2.api-sports.io/basketball/teams/136.png
+2022-11-10T01:00:00+00:00,chicago bulls,new orleans pelicans,115 - 111,L,home,1668042000,https://media-2.api-sports.io/basketball/teams/136.png
+2022-11-14T01:00:00+00:00,chicago bulls,denver nuggets,126 - 103,L,home,1668387600,https://media-3.api-sports.io/basketball/teams/136.png
+2022-11-17T01:00:00+00:00,chicago bulls,new orleans pelicans,110 - 124,L,away,1668646800,https://media-3.api-sports.io/basketball/teams/136.png
+2022-11-19T01:00:00+00:00,chicago bulls,orlando magic,108 - 107,L,home,1668819600,https://media-2.api-sports.io/basketball/teams/136.png
+2022-11-22T01:00:00+00:00,chicago bulls,boston celtics,107 - 121,W,home,1669078800,https://media-3.api-sports.io/basketball/teams/136.png
+2022-11-24T01:00:00+00:00,chicago bulls,milwaukee bucks,118 - 113,W,away,1669251600,https://media-1.api-sports.io/basketball/teams/136.png
+2022-11-26T01:00:00+00:00,chicago bulls,oklahoma city thunder,119 - 123,L,away,1669424400,https://media-3.api-sports.io/basketball/teams/136.png
+2022-11-29T02:00:00+00:00,chicago bulls,utah jazz,114 - 107,W,away,1669687200,https://media-2.api-sports.io/basketball/teams/136.png
+2022-12-01T02:00:00+00:00,chicago bulls,phoenix suns,113 - 132,L,away,1669860000,https://media-1.api-sports.io/basketball/teams/136.png
+2022-12-03T03:00:00+00:00,chicago bulls,golden state warriors,111 - 119,L,away,1670036400,https://media-2.api-sports.io/basketball/teams/136.png
+2022-12-04T23:00:00+00:00,chicago bulls,sacramento kings,101 - 110,L,away,1670194800,https://media-3.api-sports.io/basketball/teams/136.png
+2022-12-08T01:00:00+00:00,chicago bulls,washington wizards,111 - 115,W,home,1670461200,https://media-2.api-sports.io/basketball/teams/136.png
+2022-12-11T01:00:00+00:00,chicago bulls,dallas mavericks,115 - 144,W,home,1670720400,https://media-3.api-sports.io/basketball/teams/136.png
+2022-12-11T23:30:00+00:00,chicago bulls,atlanta hawks,122 - 123,L,away,1670801400,https://media-3.api-sports.io/basketball/teams/136.png
+2022-12-15T00:30:00+00:00,chicago bulls,new york knicks,128 - 120,L,home,1671064200,https://media-3.api-sports.io/basketball/teams/136.png
+2022-12-17T01:00:00+00:00,chicago bulls,new york knicks,114 - 91,L,home,1671238800,https://media-2.api-sports.io/basketball/teams/136.png
+2022-12-19T00:00:00+00:00,chicago bulls,minnesota timberwolves,126 - 150,L,away,1671408000,https://media-1.api-sports.io/basketball/teams/136.png
+2022-12-21T00:30:00+00:00,chicago bulls,miami heat,113 - 103,W,away,1671582600,https://media-3.api-sports.io/basketball/teams/136.png
+2022-12-22T00:30:00+00:00,chicago bulls,atlanta hawks,110 - 108,W,away,1671669000,https://media-1.api-sports.io/basketball/teams/136.png
+2022-12-24T00:30:00+00:00,chicago bulls,new york knicks,118 - 117,W,away,1671841800,https://media-2.api-sports.io/basketball/teams/136.png
+2022-12-27T01:00:00+00:00,chicago bulls,houston rockets,133 - 118,L,home,1672102800,https://media-3.api-sports.io/basketball/teams/136.png
+2022-12-29T01:00:00+00:00,chicago bulls,milwaukee bucks,113 - 119,W,home,1672275600,https://media-1.api-sports.io/basketball/teams/136.png
+2022-12-31T01:00:00+00:00,chicago bulls,detroit pistons,118 - 132,W,home,1672448400,https://media-2.api-sports.io/basketball/teams/136.png
+2023-01-01T00:00:00+00:00,chicago bulls,cleveland cavaliers,103 - 102,L,home,1672531200,https://media-1.api-sports.io/basketball/teams/136.png
+2023-01-03T00:00:00+00:00,chicago bulls,cleveland cavaliers,134 - 145,L,away,1672704000,https://media-3.api-sports.io/basketball/teams/136.png
+2023-01-05T01:00:00+00:00,chicago bulls,brooklyn nets,112 - 121,W,home,1672880400,https://media-2.api-sports.io/basketball/teams/136.png
+2023-01-07T00:00:00+00:00,chicago bulls,philadelphia 76ers,126 - 112,W,away,1673049600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-01-08T01:00:00+00:00,chicago bulls,utah jazz,118 - 126,W,home,1673139600,https://media-3.api-sports.io/basketball/teams/136.png
+2023-01-10T00:30:00+00:00,chicago bulls,boston celtics,99 - 107,L,away,1673310600,https://media-3.api-sports.io/basketball/teams/136.png
+2023-01-12T00:00:00+00:00,chicago bulls,washington wizards,,,away,1673481600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-01-14T01:00:00+00:00,chicago bulls,oklahoma city thunder,,,home,1673658000,https://media-3.api-sports.io/basketball/teams/136.png
+2023-01-15T20:30:00+00:00,chicago bulls,golden state warriors,,,home,1673814600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-01-19T20:00:00+00:00,chicago bulls,detroit pistons,,,away,1674158400,https://media-2.api-sports.io/basketball/teams/136.png
+2023-01-24T01:00:00+00:00,chicago bulls,atlanta hawks,,,home,1674522000,https://media-1.api-sports.io/basketball/teams/136.png
+2023-01-25T00:00:00+00:00,chicago bulls,indiana pacers,,,away,1674604800,https://media-2.api-sports.io/basketball/teams/136.png
+2023-01-27T00:30:00+00:00,chicago bulls,charlotte hornets,,,away,1674779400,https://media-3.api-sports.io/basketball/teams/136.png
+2023-01-29T00:00:00+00:00,chicago bulls,orlando magic,,,away,1674950400,https://media-3.api-sports.io/basketball/teams/136.png
+2023-02-01T01:00:00+00:00,chicago bulls,los angeles clippers,,,home,1675213200,https://media-3.api-sports.io/basketball/teams/136.png
+2023-02-03T01:00:00+00:00,chicago bulls,charlotte hornets,,,home,1675386000,https://media-3.api-sports.io/basketball/teams/136.png
+2023-02-05T01:00:00+00:00,chicago bulls,portland trail blazers,,,home,1675558800,https://media-2.api-sports.io/basketball/teams/136.png
+2023-02-07T01:00:00+00:00,chicago bulls,san antonio spurs,,,home,1675731600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-02-08T01:00:00+00:00,chicago bulls,memphis grizzlies,,,away,1675818000,https://media-2.api-sports.io/basketball/teams/136.png
+2023-02-10T00:30:00+00:00,chicago bulls,brooklyn nets,,,away,1675989000,https://media-2.api-sports.io/basketball/teams/136.png
+2023-02-12T01:00:00+00:00,chicago bulls,cleveland cavaliers,,,away,1676163600,https://media-3.api-sports.io/basketball/teams/136.png
+2023-02-14T01:00:00+00:00,chicago bulls,orlando magic,,,home,1676336400,https://media-1.api-sports.io/basketball/teams/136.png
+2023-02-16T00:00:00+00:00,chicago bulls,indiana pacers,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/136.png
+2023-02-17T00:30:00+00:00,chicago bulls,milwaukee bucks,,,home,1676593800,https://media-2.api-sports.io/basketball/teams/136.png
+2023-02-25T03:00:00+00:00,chicago bulls,brooklyn nets,,,home,1677294000,https://media-1.api-sports.io/basketball/teams/136.png
+2023-02-26T20:30:00+00:00,chicago bulls,washington wizards,,,home,1677443400,https://media-3.api-sports.io/basketball/teams/136.png
+2023-03-01T00:30:00+00:00,chicago bulls,toronto raptors,,,away,1677630600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-03-02T00:00:00+00:00,chicago bulls,detroit pistons,,,away,1677715200,https://media-2.api-sports.io/basketball/teams/136.png
+2023-03-04T01:00:00+00:00,chicago bulls,phoenix suns,,,home,1677891600,https://media-2.api-sports.io/basketball/teams/136.png
+2023-03-05T20:30:00+00:00,chicago bulls,indiana pacers,,,home,1678048200,https://media-2.api-sports.io/basketball/teams/136.png
+2023-03-09T02:00:00+00:00,chicago bulls,denver nuggets,,,away,1678327200,https://media-2.api-sports.io/basketball/teams/136.png
+2023-03-12T01:00:00+00:00,chicago bulls,houston rockets,,,away,1678582800,https://media-2.api-sports.io/basketball/teams/136.png
+2023-03-16T00:00:00+00:00,chicago bulls,sacramento kings,,,home,1678924800,https://media-1.api-sports.io/basketball/teams/136.png
+2023-03-18T00:00:00+00:00,chicago bulls,minnesota timberwolves,,,home,1679097600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-03-19T00:00:00+00:00,chicago bulls,miami heat,,,home,1679184000,https://media-2.api-sports.io/basketball/teams/136.png
+2023-03-20T23:00:00+00:00,chicago bulls,philadelphia 76ers,,,away,1679353200,https://media-2.api-sports.io/basketball/teams/136.png
+2023-03-23T00:00:00+00:00,chicago bulls,philadelphia 76ers,,,home,1679529600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-03-25T02:00:00+00:00,chicago bulls,portland trail blazers,,,away,1679709600,https://media-2.api-sports.io/basketball/teams/136.png
+2023-03-26T19:30:00+00:00,chicago bulls,los angeles lakers,,,away,1679859000,https://media-1.api-sports.io/basketball/teams/136.png
+2023-03-28T02:30:00+00:00,chicago bulls,los angeles clippers,,,away,1679970600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-03-30T00:00:00+00:00,chicago bulls,los angeles lakers,,,home,1680134400,https://media-1.api-sports.io/basketball/teams/136.png
+2023-03-31T23:00:00+00:00,chicago bulls,charlotte hornets,,,away,1680303600,https://media-1.api-sports.io/basketball/teams/136.png
+2023-04-02T19:30:00+00:00,chicago bulls,memphis grizzlies,,,home,1680463800,https://media-1.api-sports.io/basketball/teams/136.png
+2023-04-05T00:00:00+00:00,chicago bulls,atlanta hawks,,,home,1680652800,https://media-1.api-sports.io/basketball/teams/136.png
+2023-04-05T23:30:00+00:00,chicago bulls,milwaukee bucks,,,away,1680737400,https://media-2.api-sports.io/basketball/teams/136.png
+2023-04-08T00:30:00+00:00,chicago bulls,dallas mavericks,None - None,tie,away,1680913800,https://media-2.api-sports.io/basketball/teams/136.png
+2023-04-09T17:00:00+00:00,chicago bulls,detroit pistons,None - None,tie,home,1681059600,https://media-3.api-sports.io/basketball/teams/136.png

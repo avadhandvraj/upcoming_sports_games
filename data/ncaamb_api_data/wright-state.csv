@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-10T00:00:00+00:00,wright state,davidson,102 - 97,L,home,1668038400,https://media-2.api-sports.io/basketball/teams/206.png
+2022-11-12T18:00:00+00:00,wright state,louisville,73 - 72,W,away,1668276000,https://media-3.api-sports.io/basketball/teams/206.png
+2022-11-16T00:00:00+00:00,wright state,bowling green,71 - 80,W,home,1668556800,https://media-2.api-sports.io/basketball/teams/206.png
+2022-11-18T00:00:00+00:00,wright state,defiance college,56 - 99,W,home,1668729600,https://media-3.api-sports.io/basketball/teams/206.png
+2022-11-22T00:30:00+00:00,wright state,abilene christian,77 - 61,W,away,1669077000,https://media-1.api-sports.io/basketball/teams/206.png
+2022-11-23T03:00:00+00:00,wright state,uc riverside,70 - 65,L,home,1669172400,https://media-1.api-sports.io/basketball/teams/206.png
+2022-11-23T21:00:00+00:00,wright state,weber state,87 - 65,W,away,1669237200,https://media-3.api-sports.io/basketball/teams/206.png
+2022-12-02T00:00:00+00:00,wright state,robert morris,80 - 59,L,home,1669939200,https://media-3.api-sports.io/basketball/teams/206.png
+2022-12-04T18:00:00+00:00,wright state,youngstown state,88 - 77,L,home,1670176800,https://media-2.api-sports.io/basketball/teams/206.png
+2022-12-11T00:00:00+00:00,wright state,western kentucky,60 - 64,L,away,1670716800,https://media-2.api-sports.io/basketball/teams/206.png
+2022-12-15T00:00:00+00:00,wright state,akron,54 - 66,L,away,1671062400,https://media-1.api-sports.io/basketball/teams/206.png
+2022-12-17T20:00:00+00:00,wright state,northwestern ohio,59 - 111,W,home,1671307200,https://media-3.api-sports.io/basketball/teams/206.png
+2022-12-23T00:00:00+00:00,wright state,miami (ohio),88 - 80,W,away,1671753600,https://media-1.api-sports.io/basketball/teams/206.png
+2022-12-30T00:00:00+00:00,wright state,northern kentucky,64 - 78,L,away,1672358400,https://media-2.api-sports.io/basketball/teams/206.png
+2023-01-02T19:00:00+00:00,wright state,iupui,82 - 68,W,away,1672686000,https://media-2.api-sports.io/basketball/teams/206.png
+2023-01-07T00:00:00+00:00,wright state,detroit,85 - 90,W,home,1673049600,https://media-3.api-sports.io/basketball/teams/206.png
+2023-01-08T18:00:00+00:00,wright state,oakland,75 - 73,L,home,1673200800,https://media-2.api-sports.io/basketball/teams/206.png
+2023-01-13T01:00:00+00:00,wright state,wisc. green bay,,,away,1673571600,https://media-2.api-sports.io/basketball/teams/206.png
+2023-01-15T00:00:00+00:00,wright state,wisc. milwaukee,,,away,1673740800,https://media-3.api-sports.io/basketball/teams/206.png
+2023-01-20T00:00:00+00:00,wright state,ipfw,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/206.png
+2023-01-22T00:00:00+00:00,wright state,cleveland state,,,home,1674345600,https://media-1.api-sports.io/basketball/teams/206.png
+2023-01-27T00:00:00+00:00,wright state,wisc. milwaukee,,,home,1674777600,https://media-2.api-sports.io/basketball/teams/206.png
+2023-01-29T00:00:00+00:00,wright state,wisc. green bay,,,home,1674950400,https://media-1.api-sports.io/basketball/teams/206.png
+2023-02-03T00:00:00+00:00,wright state,youngstown state,,,away,1675382400,https://media-2.api-sports.io/basketball/teams/206.png
+2023-02-05T00:00:00+00:00,wright state,robert morris,,,away,1675555200,https://media-2.api-sports.io/basketball/teams/206.png
+2023-02-09T00:00:00+00:00,wright state,iupui,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/206.png
+2023-02-11T00:00:00+00:00,wright state,northern kentucky,,,home,1676073600,https://media-1.api-sports.io/basketball/teams/206.png
+2023-02-18T00:00:00+00:00,wright state,cleveland state,,,away,1676678400,https://media-2.api-sports.io/basketball/teams/206.png
+2023-02-19T21:00:00+00:00,wright state,ipfw,None - None,tie,away,1676840400,https://media-2.api-sports.io/basketball/teams/206.png
+2023-02-23T21:00:00+00:00,wright state,oakland,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/206.png
+2023-02-25T21:00:00+00:00,wright state,detroit,None - None,tie,away,1677358800,https://media-2.api-sports.io/basketball/teams/206.png

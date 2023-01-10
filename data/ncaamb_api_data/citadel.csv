@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,citadel,clemson,69 - 80,L,away,1667865600,https://media-2.api-sports.io/basketball/teams/1866.png
+2022-11-11T00:00:00+00:00,citadel,presbyterian,58 - 70,W,home,1668124800,https://media-2.api-sports.io/basketball/teams/1866.png
+2022-11-16T00:00:00+00:00,citadel,morris college,66 - 109,W,home,1668556800,https://media-3.api-sports.io/basketball/teams/1866.png
+2022-11-20T00:00:00+00:00,citadel,butler,42 - 89,L,away,1668902400,https://media-2.api-sports.io/basketball/teams/1866.png
+2022-11-23T20:00:00+00:00,citadel,new orleans,72 - 65,W,away,1669233600,https://media-3.api-sports.io/basketball/teams/1866.png
+2022-11-24T23:00:00+00:00,citadel,denver,74 - 71,L,home,1669330800,https://media-3.api-sports.io/basketball/teams/1866.png
+2022-11-25T21:00:00+00:00,citadel,iupui,74 - 53,W,away,1669410000,https://media-1.api-sports.io/basketball/teams/1866.png
+2022-12-01T00:00:00+00:00,citadel,charleston southern,76 - 73,W,away,1669852800,https://media-3.api-sports.io/basketball/teams/1866.png
+2022-12-03T18:00:00+00:00,citadel,charleston,79 - 57,L,home,1670090400,https://media-2.api-sports.io/basketball/teams/1866.png
+2022-12-14T00:00:00+00:00,citadel,north carolina,67 - 100,L,away,1670976000,https://media-1.api-sports.io/basketball/teams/1866.png
+2022-12-17T18:00:00+00:00,citadel,longwood,75 - 70,L,home,1671300000,https://media-1.api-sports.io/basketball/teams/1866.png
+2022-12-21T00:00:00+00:00,citadel,n. carolina central,74 - 81,L,away,1671580800,https://media-1.api-sports.io/basketball/teams/1866.png
+2022-12-30T00:00:00+00:00,citadel,chattanooga mocs,68 - 76,W,home,1672358400,https://media-2.api-sports.io/basketball/teams/1866.png
+2022-12-31T18:00:00+00:00,citadel,samford,75 - 63,L,home,1672509600,https://media-1.api-sports.io/basketball/teams/1866.png
+2023-01-05T00:00:00+00:00,citadel,furman,72 - 97,L,away,1672876800,https://media-3.api-sports.io/basketball/teams/1866.png
+2023-01-08T00:00:00+00:00,citadel,wofford,57 - 77,L,away,1673136000,https://media-1.api-sports.io/basketball/teams/1866.png
+2023-01-12T00:00:00+00:00,citadel,east tennessee st,,,home,1673481600,https://media-2.api-sports.io/basketball/teams/1866.png
+2023-01-14T18:00:00+00:00,citadel,western carolina,,,home,1673719200,https://media-2.api-sports.io/basketball/teams/1866.png
+2023-01-20T00:00:00+00:00,citadel,nc greensboro,,,away,1674172800,https://media-2.api-sports.io/basketball/teams/1866.png
+2023-01-21T18:00:00+00:00,citadel,vmi,,,away,1674324000,https://media-1.api-sports.io/basketball/teams/1866.png
+2023-01-26T00:00:00+00:00,citadel,western carolina,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/1866.png
+2023-01-28T18:00:00+00:00,citadel,mercer,,,home,1674928800,https://media-1.api-sports.io/basketball/teams/1866.png
+2023-01-31T00:00:00+00:00,citadel,chicago state,,,home,1675123200,https://media-3.api-sports.io/basketball/teams/1866.png
+2023-02-03T00:00:00+00:00,citadel,vmi,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/1866.png
+2023-02-04T18:00:00+00:00,citadel,nc greensboro,,,home,1675533600,https://media-3.api-sports.io/basketball/teams/1866.png
+2023-02-09T00:00:00+00:00,citadel,chattanooga mocs,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/1866.png
+2023-02-11T20:00:00+00:00,citadel,samford,,,away,1676145600,https://media-2.api-sports.io/basketball/teams/1866.png
+2023-02-16T00:00:00+00:00,citadel,furman,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/1866.png
+2023-02-18T18:00:00+00:00,citadel,wofford,,,home,1676743200,https://media-2.api-sports.io/basketball/teams/1866.png

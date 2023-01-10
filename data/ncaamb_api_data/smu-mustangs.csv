@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:30:00+00:00,smu mustangs,tx a&m commerce,60 - 77,W,home,1667871000,https://media-2.api-sports.io/basketball/teams/5843.png
+2022-11-12T00:00:00+00:00,smu mustangs,dayton,62 - 74,L,away,1668211200,https://media-1.api-sports.io/basketball/teams/5843.png
+2022-11-16T01:00:00+00:00,smu mustangs,new mexico,84 - 63,L,home,1668560400,https://media-2.api-sports.io/basketball/teams/5843.png
+2022-11-19T20:00:00+00:00,smu mustangs,evansville,47 - 55,W,home,1668888000,https://media-1.api-sports.io/basketball/teams/5843.png
+2022-11-23T01:30:00+00:00,smu mustangs,louisiana lafayette,76 - 72,L,home,1669167000,https://media-2.api-sports.io/basketball/teams/5843.png
+2022-11-27T20:00:00+00:00,smu mustangs,lamar,50 - 75,W,home,1669579200,https://media-1.api-sports.io/basketball/teams/5843.png
+2022-12-01T01:00:00+00:00,smu mustangs,texas a&m,64 - 83,L,away,1669856400,https://media-2.api-sports.io/basketball/teams/5843.png
+2022-12-03T20:00:00+00:00,smu mustangs,jackson state,69 - 68,L,home,1670097600,https://media-1.api-sports.io/basketball/teams/5843.png
+2022-12-08T02:00:00+00:00,smu mustangs,arizona state,75 - 57,L,home,1670464800,https://media-2.api-sports.io/basketball/teams/5843.png
+2022-12-11T03:00:00+00:00,smu mustangs,tcu,83 - 75,L,home,1670727600,https://media-3.api-sports.io/basketball/teams/5843.png
+2022-12-22T20:00:00+00:00,smu mustangs,iona,81 - 85,W,home,1671739200,https://media-2.api-sports.io/basketball/teams/5843.png
+2022-12-24T00:00:00+00:00,smu mustangs,utah state,77 - 74,W,away,1671840000,https://media-3.api-sports.io/basketball/teams/5843.png
+2022-12-26T01:30:00+00:00,smu mustangs,hawaii,57 - 58,L,away,1672018200,https://media-3.api-sports.io/basketball/teams/5843.png
+2023-01-01T20:00:00+00:00,smu mustangs,tulsa,67 - 92,W,home,1672603200,https://media-1.api-sports.io/basketball/teams/5843.png
+2023-01-06T00:00:00+00:00,smu mustangs,houston,53 - 87,L,away,1672963200,https://media-1.api-sports.io/basketball/teams/5843.png
+2023-01-08T19:00:00+00:00,smu mustangs,ucf knights,53 - 85,L,away,1673204400,https://media-3.api-sports.io/basketball/teams/5843.png
+2023-01-12T01:00:00+00:00,smu mustangs,tulane,,,home,1673485200,https://media-1.api-sports.io/basketball/teams/5843.png
+2023-01-14T21:00:00+00:00,smu mustangs,cincinnati,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/5843.png
+2023-01-19T01:00:00+00:00,smu mustangs,tulsa,,,away,1674090000,https://media-2.api-sports.io/basketball/teams/5843.png
+2023-01-22T20:00:00+00:00,smu mustangs,wichita state,,,home,1674417600,https://media-1.api-sports.io/basketball/teams/5843.png
+2023-01-27T00:00:00+00:00,smu mustangs,memphis,,,away,1674777600,https://media-3.api-sports.io/basketball/teams/5843.png
+2023-01-29T21:00:00+00:00,smu mustangs,south florida,,,home,1675026000,https://media-2.api-sports.io/basketball/teams/5843.png
+2023-02-02T02:00:00+00:00,smu mustangs,tulane,,,away,1675303200,https://media-2.api-sports.io/basketball/teams/5843.png
+2023-02-04T21:00:00+00:00,smu mustangs,east carolina,,,away,1675544400,https://media-2.api-sports.io/basketball/teams/5843.png
+2023-02-09T01:00:00+00:00,smu mustangs,temple,,,home,1675904400,https://media-1.api-sports.io/basketball/teams/5843.png
+2023-02-12T21:00:00+00:00,smu mustangs,wichita state,,,away,1676235600,https://media-3.api-sports.io/basketball/teams/5843.png
+2023-02-17T00:00:00+00:00,smu mustangs,houston,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/5843.png

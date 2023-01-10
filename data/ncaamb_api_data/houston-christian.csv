@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,houston christian,florida international,66 - 77,L,away,1667865600,https://media-2.api-sports.io/basketball/teams/5765.png
+2022-11-11T02:00:00+00:00,houston christian,texas,31 - 82,L,away,1668132000,https://media-1.api-sports.io/basketball/teams/5765.png
+2022-11-15T01:00:00+00:00,houston christian,champion christian tigers,97 - 119,W,home,1668474000,https://media-2.api-sports.io/basketball/teams/5765.png
+2022-11-19T01:00:00+00:00,houston christian,western michigan,90 - 84,L,home,1668819600,https://media-1.api-sports.io/basketball/teams/5765.png
+2022-11-20T01:00:00+00:00,houston christian,georgia southern,84 - 77,L,home,1668906000,https://media-2.api-sports.io/basketball/teams/5765.png
+2022-11-22T01:00:00+00:00,houston christian,rice,67 - 76,L,away,1669078800,https://media-2.api-sports.io/basketball/teams/5765.png
+2022-11-26T17:00:00+00:00,houston christian,missouri,69 - 105,L,away,1669482000,https://media-3.api-sports.io/basketball/teams/5765.png
+2022-12-02T01:00:00+00:00,houston christian,denver,93 - 83,L,home,1669942800,https://media-1.api-sports.io/basketball/teams/5765.png
+2022-12-04T20:00:00+00:00,houston christian,southwest adventist,62 - 94,W,home,1670184000,https://media-2.api-sports.io/basketball/teams/5765.png
+2022-12-07T01:00:00+00:00,houston christian,maine-fort kent,33 - 100,W,home,1670374800,https://media-3.api-sports.io/basketball/teams/5765.png
+2022-12-11T01:00:00+00:00,houston christian,utrgv,95 - 82,L,home,1670720400,https://media-2.api-sports.io/basketball/teams/5765.png
+2022-12-19T00:00:00+00:00,houston christian,utrgv,90 - 100,L,away,1671408000,https://media-2.api-sports.io/basketball/teams/5765.png
+2022-12-21T19:00:00+00:00,houston christian,texas tech,67 - 111,L,away,1671649200,https://media-3.api-sports.io/basketball/teams/5765.png
+2022-12-31T01:00:00+00:00,houston christian,new orleans,96 - 101,W,home,1672448400,https://media-2.api-sports.io/basketball/teams/5765.png
+2023-01-06T01:30:00+00:00,houston christian,se louisiana,59 - 71,L,away,1672968600,https://media-2.api-sports.io/basketball/teams/5765.png
+2023-01-07T22:00:00+00:00,houston christian,new orleans,59 - 82,L,away,1673128800,https://media-2.api-sports.io/basketball/teams/5765.png
+2023-01-13T01:00:00+00:00,houston christian,tx a&m commerce,,,home,1673571600,https://media-2.api-sports.io/basketball/teams/5765.png
+2023-01-14T21:30:00+00:00,houston christian,mcneese state,,,away,1673731800,https://media-3.api-sports.io/basketball/teams/5765.png
+2023-01-20T01:00:00+00:00,houston christian,incarnate word,,,home,1674176400,https://media-1.api-sports.io/basketball/teams/5765.png
+2023-01-22T01:00:00+00:00,houston christian,texas a&m-cc,,,home,1674349200,https://media-1.api-sports.io/basketball/teams/5765.png
+2023-01-27T02:00:00+00:00,houston christian,northwestern st.,,,away,1674784800,https://media-3.api-sports.io/basketball/teams/5765.png
+2023-01-28T22:30:00+00:00,houston christian,tx a&m commerce,,,away,1674945000,https://media-1.api-sports.io/basketball/teams/5765.png
+2023-02-03T01:00:00+00:00,houston christian,northwestern st.,,,home,1675386000,https://media-1.api-sports.io/basketball/teams/5765.png
+2023-02-05T01:00:00+00:00,houston christian,nicholls state,,,home,1675558800,https://media-1.api-sports.io/basketball/teams/5765.png
+2023-02-10T01:30:00+00:00,houston christian,texas a&m-cc,,,away,1675992600,https://media-3.api-sports.io/basketball/teams/5765.png
+2023-02-11T22:00:00+00:00,houston christian,incarnate word,,,away,1676152800,https://media-2.api-sports.io/basketball/teams/5765.png
+2023-02-17T01:00:00+00:00,houston christian,lamar,,,away,1676595600,https://media-1.api-sports.io/basketball/teams/5765.png

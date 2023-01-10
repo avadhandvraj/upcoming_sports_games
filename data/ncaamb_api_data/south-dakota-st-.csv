@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,south dakota st.,akron,80 - 81,L,away,1667865600,https://media-1.api-sports.io/basketball/teams/5854.png
+2022-11-10T02:00:00+00:00,south dakota st.,boise state,68 - 66,W,away,1668045600,https://media-1.api-sports.io/basketball/teams/5854.png
+2022-11-16T01:00:00+00:00,south dakota st.,st. bonaventure,62 - 66,W,home,1668560400,https://media-3.api-sports.io/basketball/teams/5854.png
+2022-11-17T01:00:00+00:00,south dakota st.,arkansas,56 - 71,L,away,1668646800,https://media-2.api-sports.io/basketball/teams/5854.png
+2022-11-20T00:00:00+00:00,south dakota st.,stephen f. austin,93 - 82,L,home,1668902400,https://media-2.api-sports.io/basketball/teams/5854.png
+2022-11-25T18:30:00+00:00,south dakota st.,valparaiso,61 - 50,W,away,1669401000,https://media-1.api-sports.io/basketball/teams/5854.png
+2022-11-26T17:00:00+00:00,south dakota st.,james madison,79 - 60,L,home,1669482000,https://media-3.api-sports.io/basketball/teams/5854.png
+2022-12-03T00:00:00+00:00,south dakota st.,kent state,68 - 83,L,away,1670025600,https://media-3.api-sports.io/basketball/teams/5854.png
+2022-12-04T01:30:00+00:00,south dakota st.,alabama,65 - 78,L,away,1670117400,https://media-3.api-sports.io/basketball/teams/5854.png
+2022-12-07T02:00:00+00:00,south dakota st.,montana,56 - 81,L,away,1670378400,https://media-3.api-sports.io/basketball/teams/5854.png
+2022-12-10T22:00:00+00:00,south dakota st.,east. washington,76 - 77,W,home,1670709600,https://media-2.api-sports.io/basketball/teams/5854.png
+2022-12-13T02:15:00+00:00,south dakota st.,mount marty,56 - 85,W,home,1670897700,https://media-3.api-sports.io/basketball/teams/5854.png
+2022-12-15T01:00:00+00:00,south dakota st.,bellevue,None - None,tie,home,1671066000,https://media-1.api-sports.io/basketball/teams/5854.png
+2022-12-20T01:00:00+00:00,south dakota st.,oral roberts,40 - 79,L,away,1671498000,https://media-1.api-sports.io/basketball/teams/5854.png
+2022-12-22T01:00:00+00:00,south dakota st.,umkc,None - None,tie,away,1671670800,https://media-1.api-sports.io/basketball/teams/5854.png
+2022-12-30T01:00:00+00:00,south dakota st.,western illinois,64 - 71,W,home,1672362000,https://media-2.api-sports.io/basketball/teams/5854.png
+2022-12-31T20:00:00+00:00,south dakota st.,st. thomas (minn.),64 - 71,W,home,1672516800,https://media-3.api-sports.io/basketball/teams/5854.png
+2023-01-06T01:00:00+00:00,south dakota st.,north dakota st,59 - 65,L,away,1672966800,https://media-3.api-sports.io/basketball/teams/5854.png
+2023-01-07T19:00:00+00:00,south dakota st.,north dakota,60 - 59,W,away,1673118000,https://media-1.api-sports.io/basketball/teams/5854.png
+2023-01-15T00:00:00+00:00,south dakota st.,south dakota coyotes,,,away,1673740800,https://media-1.api-sports.io/basketball/teams/5854.png
+2023-01-20T01:00:00+00:00,south dakota st.,nebraska o.,,,home,1674176400,https://media-3.api-sports.io/basketball/teams/5854.png
+2023-01-21T20:00:00+00:00,south dakota st.,denver,,,home,1674331200,https://media-1.api-sports.io/basketball/teams/5854.png
+2023-01-27T01:00:00+00:00,south dakota st.,st. thomas (minn.),,,away,1674781200,https://media-2.api-sports.io/basketball/teams/5854.png
+2023-01-28T20:00:00+00:00,south dakota st.,western illinois,,,away,1674936000,https://media-1.api-sports.io/basketball/teams/5854.png
+2023-02-03T01:00:00+00:00,south dakota st.,north dakota,,,home,1675386000,https://media-2.api-sports.io/basketball/teams/5854.png
+2023-02-04T20:00:00+00:00,south dakota st.,north dakota st,,,home,1675540800,https://media-2.api-sports.io/basketball/teams/5854.png
+2023-02-12T00:00:00+00:00,south dakota st.,south dakota coyotes,,,home,1676160000,https://media-2.api-sports.io/basketball/teams/5854.png
+2023-02-17T02:00:00+00:00,south dakota st.,denver,,,away,1676599200,https://media-1.api-sports.io/basketball/teams/5854.png
+2023-02-18T21:00:00+00:00,south dakota st.,nebraska o.,None - None,tie,away,1676754000,https://media-2.api-sports.io/basketball/teams/200.png
+2023-02-23T21:00:00+00:00,south dakota st.,umkc,None - None,tie,home,1677186000,https://media-1.api-sports.io/basketball/teams/200.png
+2023-02-25T21:00:00+00:00,south dakota st.,oral roberts,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/200.png

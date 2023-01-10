@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,st. francis (pa),st. bonaventure,58 - 71,L,away,1667865600,https://media-2.api-sports.io/basketball/teams/5858.png
+2022-11-13T00:00:00+00:00,st. francis (pa),hartford,53 - 77,W,home,1668297600,https://media-3.api-sports.io/basketball/teams/5858.png
+2022-11-15T00:00:00+00:00,st. francis (pa),cornell,80 - 77,L,home,1668470400,https://media-3.api-sports.io/basketball/teams/5858.png
+2022-11-17T23:30:00+00:00,st. francis (pa),butler,67 - 95,L,away,1668727800,https://media-3.api-sports.io/basketball/teams/5858.png
+2022-11-22T00:00:00+00:00,st. francis (pa),lehigh,82 - 76,L,home,1669075200,https://media-1.api-sports.io/basketball/teams/5858.png
+2022-11-24T00:00:00+00:00,st. francis (pa),franciscan university,53 - 120,W,home,1669248000,https://media-1.api-sports.io/basketball/teams/5858.png
+2022-11-27T00:00:00+00:00,st. francis (pa),american university,66 - 55,L,home,1669507200,https://media-3.api-sports.io/basketball/teams/5858.png
+2022-12-01T00:00:00+00:00,st. francis (pa),bucknell,65 - 89,L,away,1669852800,https://media-2.api-sports.io/basketball/teams/5858.png
+2022-12-03T17:00:00+00:00,st. francis (pa),ohio state,59 - 96,L,away,1670086800,https://media-1.api-sports.io/basketball/teams/5858.png
+2022-12-09T00:30:00+00:00,st. francis (pa),st. vincent,58 - 88,W,home,1670545800,https://media-2.api-sports.io/basketball/teams/5858.png
+2022-12-12T03:00:00+00:00,st. francis (pa),hawaii,66 - 90,L,away,1670814000,https://media-1.api-sports.io/basketball/teams/5858.png
+2022-12-17T17:00:00+00:00,st. francis (pa),miami (fl),76 - 91,L,away,1671296400,https://media-1.api-sports.io/basketball/teams/5858.png
+2022-12-22T00:00:00+00:00,st. francis (pa),robert morris,66 - 77,L,away,1671667200,https://media-1.api-sports.io/basketball/teams/5858.png
+2022-12-30T00:00:00+00:00,st. francis (pa),central connecticut state,72 - 80,W,home,1672358400,https://media-3.api-sports.io/basketball/teams/5858.png
+2022-12-31T21:00:00+00:00,st. francis (pa),stonehill,72 - 73,W,home,1672520400,https://media-1.api-sports.io/basketball/teams/5858.png
+2023-01-07T21:00:00+00:00,st. francis (pa),wagner,68 - 63,W,away,1673125200,https://media-3.api-sports.io/basketball/teams/5858.png
+2023-01-14T21:00:00+00:00,st. francis (pa),liu sharks,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/5858.png
+2023-01-16T19:00:00+00:00,st. francis (pa),sacred heart,,,away,1673895600,https://media-2.api-sports.io/basketball/teams/5858.png
+2023-01-21T00:00:00+00:00,st. francis (pa),st. francis brooklyn,,,home,1674259200,https://media-2.api-sports.io/basketball/teams/5858.png
+2023-01-27T00:00:00+00:00,st. francis (pa),fairleigh dickinson,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/5858.png
+2023-01-28T18:00:00+00:00,st. francis (pa),central connecticut state,,,away,1674928800,https://media-1.api-sports.io/basketball/teams/5858.png
+2023-02-03T00:00:00+00:00,st. francis (pa),stonehill,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/5858.png
+2023-02-04T20:00:00+00:00,st. francis (pa),merrimack warriors,,,away,1675540800,https://media-1.api-sports.io/basketball/teams/5858.png
+2023-02-09T22:00:00+00:00,st. francis (pa),sacred heart,,,home,1675980000,https://media-2.api-sports.io/basketball/teams/5858.png
+2023-02-11T21:00:00+00:00,st. francis (pa),merrimack warriors,,,home,1676149200,https://media-2.api-sports.io/basketball/teams/5858.png
+2023-02-16T19:00:00+00:00,st. francis (pa),st. francis brooklyn,,,away,1676574000,https://media-1.api-sports.io/basketball/teams/5858.png
+2023-02-18T18:00:00+00:00,st. francis (pa),liu sharks,,,away,1676743200,https://media-3.api-sports.io/basketball/teams/5858.png

@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,unc asheville,ucf knights,98 - 95,W,away,1667869200,https://media-3.api-sports.io/basketball/teams/5877.png
+2022-11-12T20:00:00+00:00,unc asheville,brevard college,46 - 94,W,home,1668283200,https://media-1.api-sports.io/basketball/teams/5877.png
+2022-11-19T01:30:00+00:00,unc asheville,tx a&m commerce,64 - 72,W,home,1668821400,https://media-1.api-sports.io/basketball/teams/5877.png
+2022-11-19T22:30:00+00:00,unc asheville,eastern kentucky,77 - 75,L,home,1668897000,https://media-1.api-sports.io/basketball/teams/5877.png
+2022-11-20T20:30:00+00:00,unc asheville,georgia state,68 - 74,L,away,1668976200,https://media-3.api-sports.io/basketball/teams/5877.png
+2022-11-26T19:00:00+00:00,unc asheville,western carolina,61 - 73,W,home,1669489200,https://media-3.api-sports.io/basketball/teams/5877.png
+2022-11-30T00:00:00+00:00,unc asheville,n. carolina central,66 - 79,L,away,1669766400,https://media-3.api-sports.io/basketball/teams/5877.png
+2022-12-03T19:00:00+00:00,unc asheville,ut martin,83 - 90,W,home,1670094000,https://media-1.api-sports.io/basketball/teams/5877.png
+2022-12-07T21:30:00+00:00,unc asheville,warren wilson,70 - 122,W,home,1670448600,https://media-2.api-sports.io/basketball/teams/5877.png
+2022-12-10T19:00:00+00:00,unc asheville,dayton,56 - 79,L,away,1670698800,https://media-1.api-sports.io/basketball/teams/5877.png
+2022-12-14T00:00:00+00:00,unc asheville,south carolina st,94 - 84,W,away,1670976000,https://media-2.api-sports.io/basketball/teams/5877.png
+2022-12-17T21:00:00+00:00,unc asheville,east tennessee st,74 - 73,W,away,1671310800,https://media-2.api-sports.io/basketball/teams/5877.png
+2022-12-22T02:00:00+00:00,unc asheville,arkansas,51 - 85,L,away,1671674400,https://media-2.api-sports.io/basketball/teams/5877.png
+2022-12-29T21:00:00+00:00,unc asheville,radford,58 - 62,W,home,1672347600,https://media-1.api-sports.io/basketball/teams/5877.png
+2022-12-31T19:00:00+00:00,unc asheville,winthrop,60 - 62,L,away,1672513200,https://media-3.api-sports.io/basketball/teams/5877.png
+2023-01-05T00:00:00+00:00,unc asheville,high point,76 - 72,W,away,1672876800,https://media-1.api-sports.io/basketball/teams/5877.png
+2023-01-07T19:00:00+00:00,unc asheville,campbell,55 - 58,W,home,1673118000,https://media-3.api-sports.io/basketball/teams/5877.png
+2023-01-11T23:30:00+00:00,unc asheville,longwood,,,home,1673479800,https://media-3.api-sports.io/basketball/teams/5877.png
+2023-01-14T19:00:00+00:00,unc asheville,gardner webb,,,away,1673722800,https://media-2.api-sports.io/basketball/teams/5877.png
+2023-01-19T00:00:00+00:00,unc asheville,charleston southern,,,away,1674086400,https://media-3.api-sports.io/basketball/teams/5877.png
+2023-01-21T19:00:00+00:00,unc asheville,usc upstate,,,home,1674327600,https://media-1.api-sports.io/basketball/teams/5877.png
+2023-01-25T23:30:00+00:00,unc asheville,presbyterian,,,home,1674689400,https://media-1.api-sports.io/basketball/teams/5877.png
+2023-01-28T19:00:00+00:00,unc asheville,campbell,,,away,1674932400,https://media-2.api-sports.io/basketball/teams/5877.png
+2023-02-01T23:30:00+00:00,unc asheville,high point,,,home,1675294200,https://media-1.api-sports.io/basketball/teams/5877.png
+2023-02-04T21:00:00+00:00,unc asheville,usc upstate,,,away,1675544400,https://media-2.api-sports.io/basketball/teams/5877.png
+2023-02-08T23:30:00+00:00,unc asheville,winthrop,,,home,1675899000,https://media-3.api-sports.io/basketball/teams/5877.png
+2023-02-11T19:00:00+00:00,unc asheville,presbyterian,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/5877.png
+2023-02-16T00:00:00+00:00,unc asheville,radford,,,away,1676505600,https://media-2.api-sports.io/basketball/teams/5877.png
+2023-02-18T20:00:00+00:00,unc asheville,gardner webb,,,home,1676750400,https://media-1.api-sports.io/basketball/teams/5877.png

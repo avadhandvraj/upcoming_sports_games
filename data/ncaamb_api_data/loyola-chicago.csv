@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,loyola chicago,fairleigh dickinson,82 - 88,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/191.png
+2022-11-12T01:00:00+00:00,loyola chicago,illinois (chi.),70 - 63,W,away,1668214800,https://media-1.api-sports.io/basketball/teams/191.png
+2022-11-18T02:30:00+00:00,loyola chicago,tulsa,66 - 85,L,away,1668738600,https://media-1.api-sports.io/basketball/teams/191.png
+2022-11-19T02:30:00+00:00,loyola chicago,boise state,70 - 48,L,home,1668825000,https://media-1.api-sports.io/basketball/teams/191.png
+2022-11-20T21:30:00+00:00,loyola chicago,texas a&m,67 - 51,L,home,1668979800,https://media-1.api-sports.io/basketball/teams/191.png
+2022-11-25T19:00:00+00:00,loyola chicago,harvard,55 - 61,L,away,1669402800,https://media-3.api-sports.io/basketball/teams/191.png
+2022-12-01T02:00:00+00:00,loyola chicago,central arkansas,70 - 85,W,home,1669860000,https://media-2.api-sports.io/basketball/teams/191.png
+2022-12-03T21:00:00+00:00,loyola chicago,depaul,78 - 72,L,home,1670101200,https://media-2.api-sports.io/basketball/teams/191.png
+2022-12-07T01:00:00+00:00,loyola chicago,wisc. green bay,46 - 70,W,home,1670374800,https://media-1.api-sports.io/basketball/teams/191.png
+2022-12-11T00:30:00+00:00,loyola chicago,clemson,76 - 58,W,away,1670718600,https://media-2.api-sports.io/basketball/teams/191.png
+2022-12-18T19:00:00+00:00,loyola chicago,albany,56 - 68,W,home,1671390000,https://media-2.api-sports.io/basketball/teams/191.png
+2022-12-23T03:00:00+00:00,loyola chicago,stanford,62 - 75,L,away,1671764400,https://media-3.api-sports.io/basketball/teams/191.png
+2022-12-31T21:00:00+00:00,loyola chicago,george washington,97 - 87,L,home,1672520400,https://media-1.api-sports.io/basketball/teams/191.png
+2023-01-05T00:00:00+00:00,loyola chicago,davidson,57 - 80,L,away,1672876800,https://media-3.api-sports.io/basketball/teams/191.png
+2023-01-07T19:00:00+00:00,loyola chicago,george mason,75 - 86,L,away,1673118000,https://media-3.api-sports.io/basketball/teams/191.png
+2023-01-11T00:00:00+00:00,loyola chicago,vcu rams,,,home,1673395200,https://media-1.api-sports.io/basketball/teams/191.png
+2023-01-14T17:30:00+00:00,loyola chicago,saint josephs,,,away,1673717400,https://media-3.api-sports.io/basketball/teams/191.png
+2023-01-19T00:00:00+00:00,loyola chicago,st. louis,,,home,1674086400,https://media-1.api-sports.io/basketball/teams/191.png
+2023-01-21T21:00:00+00:00,loyola chicago,st. bonaventure,,,home,1674334800,https://media-2.api-sports.io/basketball/teams/191.png
+2023-01-26T00:00:00+00:00,loyola chicago,duquesne,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/191.png
+2023-02-01T02:00:00+00:00,loyola chicago,dayton,,,away,1675216800,https://media-1.api-sports.io/basketball/teams/191.png
+2023-02-04T19:30:00+00:00,loyola chicago,george mason,,,home,1675539000,https://media-3.api-sports.io/basketball/teams/191.png
+2023-02-09T02:00:00+00:00,loyola chicago,saint josephs,,,home,1675908000,https://media-3.api-sports.io/basketball/teams/191.png
+2023-02-11T21:00:00+00:00,loyola chicago,richmond,,,away,1676149200,https://media-2.api-sports.io/basketball/teams/191.png
+2023-02-15T00:00:00+00:00,loyola chicago,umass,,,away,1676419200,https://media-1.api-sports.io/basketball/teams/191.png
+2023-02-18T00:00:00+00:00,loyola chicago,dayton,,,home,1676678400,https://media-2.api-sports.io/basketball/teams/191.png

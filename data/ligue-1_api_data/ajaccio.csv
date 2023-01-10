@@ -1,0 +1,39 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+"Friday, August 05 02:00 PM",ajaccio,lyon,1 - 2,L,away,1659726000,https://media-3.api-sports.io/football/teams/98.png
+"Sunday, August 14 08:00 AM",ajaccio,lens,0 - 0,tie,home,1660482000,https://media-1.api-sports.io/football/teams/98.png
+"Sunday, August 21 10:05 AM",ajaccio,rennes,1 - 2,L,away,1661094300,https://media-2.api-sports.io/football/teams/98.png
+"Friday, August 26 02:00 PM",ajaccio,lille,3 - 1,L,home,1661540400,https://media-3.api-sports.io/football/teams/98.png
+"Wednesday, August 31 12:00 PM",ajaccio,montpellier,0 - 2,L,away,1661965200,https://media-2.api-sports.io/football/teams/98.png
+"Sunday, September 04 08:00 AM",ajaccio,lorient,1 - 0,L,home,1662296400,https://media-2.api-sports.io/football/teams/98.png
+"Sunday, September 11 08:00 AM",ajaccio,nice,1 - 0,L,home,1662901200,https://media-3.api-sports.io/football/teams/98.png
+"Sunday, September 18 08:00 AM",ajaccio,stade brestois 29,1 - 0,W,away,1663506000,https://media-1.api-sports.io/football/teams/98.png
+"Sunday, October 02 08:00 AM",ajaccio,clermont foot,3 - 1,L,home,1664715600,https://media-2.api-sports.io/football/teams/98.png
+"Saturday, October 08 10:00 AM",ajaccio,marseille,2 - 1,W,away,1665241200,https://media-1.api-sports.io/football/teams/98.png
+"Sunday, October 16 08:00 AM",ajaccio,estac troyes,1 - 1,tie,away,1665925200,https://media-2.api-sports.io/football/teams/98.png
+"Friday, October 21 02:00 PM",ajaccio,paris saint germain,3 - 0,L,home,1666378800,https://media-1.api-sports.io/football/teams/98.png
+"Sunday, October 30 07:00 AM",ajaccio,auxerre,0 - 1,L,away,1667131200,https://media-1.api-sports.io/football/teams/98.png
+"Saturday, November 05 11:00 AM",ajaccio,strasbourg,2 - 4,W,home,1667664000,https://media-2.api-sports.io/football/teams/98.png
+"Sunday, November 13 08:00 AM",ajaccio,nantes,2 - 2,tie,away,1668348000,https://media-3.api-sports.io/football/teams/98.png
+"Wednesday, December 28 08:00 AM",ajaccio,angers,0 - 1,W,home,1672236000,https://media-1.api-sports.io/football/teams/98.png
+"Sunday, January 01 08:00 AM",ajaccio,toulouse,0 - 2,L,away,1672581600,https://media-3.api-sports.io/football/teams/98.png
+"Wednesday, January 11 12:00 PM",ajaccio,reims,,,home,1673460000,https://media-3.api-sports.io/football/teams/98.png
+"Sunday, January 15 10:05 AM",ajaccio,monaco,,,away,1673798700,https://media-2.api-sports.io/football/teams/98.png
+"Sunday, January 29 10:05 AM",ajaccio,lyon,,,home,1675008300,https://media-3.api-sports.io/football/teams/98.png
+"Wednesday, February 01 12:00 PM",ajaccio,angers,,,away,1675274400,https://media-2.api-sports.io/football/teams/98.png
+"Saturday, February 04 06:00 PM",ajaccio,nantes,,,home,1675555200,https://media-3.api-sports.io/football/teams/98.png
+"Saturday, February 11 06:00 PM",ajaccio,nice,,,away,1676160000,https://media-3.api-sports.io/football/teams/98.png
+"Saturday, February 18 06:00 PM",ajaccio,lorient,,,away,1676764800,https://media-1.api-sports.io/football/teams/98.png
+"Saturday, February 25 06:00 PM",ajaccio,estac troyes,,,home,1677369600,https://media-1.api-sports.io/football/teams/98.png
+"Saturday, March 04 06:00 PM",ajaccio,reims,,,away,1677974400,https://media-1.api-sports.io/football/teams/98.png
+"Saturday, March 11 06:00 PM",ajaccio,montpellier,,,home,1678579200,https://media-3.api-sports.io/football/teams/98.png
+"Saturday, March 18 07:00 PM",ajaccio,monaco,,,home,1679184000,https://media-1.api-sports.io/football/teams/98.png
+"Saturday, April 01 07:00 PM",ajaccio,clermont foot,,,away,1680393600,https://media-2.api-sports.io/football/teams/98.png
+"Saturday, April 08 07:00 PM",ajaccio,auxerre,,,home,1680998400,https://media-3.api-sports.io/football/teams/98.png
+"Saturday, April 15 07:00 PM",ajaccio,strasbourg,,,away,1681603200,https://media-3.api-sports.io/football/teams/98.png
+"Saturday, April 22 07:00 PM",ajaccio,stade brestois 29,,,home,1682208000,https://media-1.api-sports.io/football/teams/98.png
+"Saturday, April 29 07:00 PM",ajaccio,lille,,,away,1682812800,https://media-3.api-sports.io/football/teams/98.png
+"Saturday, May 06 07:00 PM",ajaccio,toulouse,,,home,1683417600,https://media-1.api-sports.io/football/teams/98.png
+"Saturday, May 13 07:00 PM",ajaccio,paris saint germain,,,away,1684022400,https://media-3.api-sports.io/football/teams/98.png
+"Saturday, May 20 07:00 PM",ajaccio,rennes,,,home,1684627200,https://media-2.api-sports.io/football/teams/98.png
+"Friday, May 26 07:00 PM",ajaccio,lens,,,away,1685145600,https://media-1.api-sports.io/football/teams/98.png
+"Friday, June 02 07:00 PM",ajaccio,marseille,,,home,1685750400,https://media-3.api-sports.io/football/teams/98.png

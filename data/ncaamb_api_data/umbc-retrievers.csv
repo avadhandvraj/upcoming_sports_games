@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:30:00+00:00,umbc retrievers,tulane,67 - 89,L,away,1667871000,https://media-3.api-sports.io/basketball/teams/5876.png
+2022-11-11T00:00:00+00:00,umbc retrievers,penn state-york,65 - 92,W,home,1668124800,https://media-3.api-sports.io/basketball/teams/5876.png
+2022-11-14T23:00:00+00:00,umbc retrievers,princeton,94 - 64,L,home,1668466800,https://media-1.api-sports.io/basketball/teams/5876.png
+2022-11-18T19:00:00+00:00,umbc retrievers,lafayette,63 - 71,W,home,1668798000,https://media-2.api-sports.io/basketball/teams/5876.png
+2022-11-20T18:00:00+00:00,umbc retrievers,central connecticut state,76 - 78,W,home,1668967200,https://media-1.api-sports.io/basketball/teams/5876.png
+2022-11-23T00:00:00+00:00,umbc retrievers,nc greensboro,72 - 76,L,away,1669161600,https://media-1.api-sports.io/basketball/teams/5876.png
+2022-11-26T17:00:00+00:00,umbc retrievers,georgetown,70 - 79,L,away,1669482000,https://media-1.api-sports.io/basketball/teams/5876.png
+2022-12-01T00:00:00+00:00,umbc retrievers,coppin state,82 - 109,W,home,1669852800,https://media-1.api-sports.io/basketball/teams/5876.png
+2022-12-03T19:00:00+00:00,umbc retrievers,lehigh,88 - 62,W,away,1670094000,https://media-1.api-sports.io/basketball/teams/5876.png
+2022-12-07T00:00:00+00:00,umbc retrievers,columbia,73 - 66,W,away,1670371200,https://media-3.api-sports.io/basketball/teams/5876.png
+2022-12-10T22:30:00+00:00,umbc retrievers,morgan state,63 - 75,W,home,1670711400,https://media-1.api-sports.io/basketball/teams/5876.png
+2022-12-14T00:00:00+00:00,umbc retrievers,loyola maryland,72 - 69,W,away,1670976000,https://media-1.api-sports.io/basketball/teams/5876.png
+2022-12-18T18:00:00+00:00,umbc retrievers,william & mary,62 - 78,W,home,1671386400,https://media-2.api-sports.io/basketball/teams/5876.png
+2022-12-30T00:00:00+00:00,umbc retrievers,maryland,64 - 80,L,away,1672358400,https://media-1.api-sports.io/basketball/teams/5876.png
+2023-01-01T18:00:00+00:00,umbc retrievers,vermont,74 - 61,L,home,1672596000,https://media-1.api-sports.io/basketball/teams/5876.png
+2023-01-06T00:00:00+00:00,umbc retrievers,albany,83 - 92,W,home,1672963200,https://media-1.api-sports.io/basketball/teams/5876.png
+2023-01-08T18:00:00+00:00,umbc retrievers,bryant university,81 - 73,W,away,1673200800,https://media-1.api-sports.io/basketball/teams/5876.png
+2023-01-14T18:00:00+00:00,umbc retrievers,maine black bears,,,home,1673719200,https://media-3.api-sports.io/basketball/teams/5876.png
+2023-01-16T22:00:00+00:00,umbc retrievers,hartford,,,home,1673906400,https://media-1.api-sports.io/basketball/teams/5876.png
+2023-01-18T23:00:00+00:00,umbc retrievers,umass lowell,,,away,1674082800,https://media-2.api-sports.io/basketball/teams/5876.png
+2023-01-21T18:00:00+00:00,umbc retrievers,new hampshire,,,home,1674324000,https://media-3.api-sports.io/basketball/teams/5876.png
+2023-01-26T00:00:00+00:00,umbc retrievers,njit,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/5876.png
+2023-01-28T18:00:00+00:00,umbc retrievers,vermont,,,away,1674928800,https://media-2.api-sports.io/basketball/teams/5876.png
+2023-02-02T00:00:00+00:00,umbc retrievers,binghamton,,,home,1675296000,https://media-2.api-sports.io/basketball/teams/5876.png
+2023-02-04T19:00:00+00:00,umbc retrievers,maine black bears,,,away,1675537200,https://media-3.api-sports.io/basketball/teams/5876.png
+2023-02-09T00:00:00+00:00,umbc retrievers,njit,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/5876.png
+2023-02-11T18:00:00+00:00,umbc retrievers,bryant university,,,home,1676138400,https://media-3.api-sports.io/basketball/teams/5876.png
+2023-02-16T00:00:00+00:00,umbc retrievers,albany,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/5876.png
+2023-02-18T18:00:00+00:00,umbc retrievers,new hampshire,,,away,1676743200,https://media-3.api-sports.io/basketball/teams/5876.png

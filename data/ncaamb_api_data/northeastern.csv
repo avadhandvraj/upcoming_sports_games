@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:30:00+00:00,northeastern,boston university,63 - 72,L,away,1667867400,https://media-1.api-sports.io/basketball/teams/2045.png
+2022-11-13T01:00:00+00:00,northeastern,providence,65 - 89,L,away,1668301200,https://media-2.api-sports.io/basketball/teams/2045.png
+2022-11-17T00:00:00+00:00,northeastern,harvard,70 - 69,L,home,1668643200,https://media-1.api-sports.io/basketball/teams/2045.png
+2022-11-19T22:00:00+00:00,northeastern,syracuse,48 - 76,L,away,1668895200,https://media-3.api-sports.io/basketball/teams/2045.png
+2022-11-24T17:00:00+00:00,northeastern,manhattan,67 - 69,W,home,1669309200,https://media-3.api-sports.io/basketball/teams/2045.png
+2022-11-26T17:00:00+00:00,northeastern,princeton,54 - 56,L,away,1669482000,https://media-3.api-sports.io/basketball/teams/2045.png
+2022-12-03T00:30:00+00:00,northeastern,georgia tech,63 - 81,L,away,1670027400,https://media-3.api-sports.io/basketball/teams/2045.png
+2022-12-04T19:00:00+00:00,northeastern,georgia state,46 - 66,W,home,1670180400,https://media-3.api-sports.io/basketball/teams/2045.png
+2022-12-10T19:00:00+00:00,northeastern,holy cross,58 - 59,W,home,1670698800,https://media-2.api-sports.io/basketball/teams/2045.png
+2022-12-18T19:00:00+00:00,northeastern,illinois (chi.),73 - 81,L,away,1671390000,https://media-1.api-sports.io/basketball/teams/2045.png
+2022-12-21T18:00:00+00:00,northeastern,davidson,73 - 70,W,away,1671645600,https://media-2.api-sports.io/basketball/teams/2045.png
+2022-12-30T00:00:00+00:00,northeastern,n. carolina a&t,76 - 88,W,home,1672358400,https://media-3.api-sports.io/basketball/teams/2045.png
+2022-12-31T17:00:00+00:00,northeastern,stony brook,65 - 61,L,home,1672506000,https://media-1.api-sports.io/basketball/teams/2045.png
+2023-01-06T00:00:00+00:00,northeastern,william & mary,66 - 69,L,away,1672963200,https://media-2.api-sports.io/basketball/teams/2045.png
+2023-01-07T21:00:00+00:00,northeastern,hampton,79 - 63,W,away,1673125200,https://media-3.api-sports.io/basketball/teams/2045.png
+2023-01-14T17:00:00+00:00,northeastern,drexel,,,home,1673715600,https://media-1.api-sports.io/basketball/teams/2045.png
+2023-01-16T23:00:00+00:00,northeastern,delaware,,,home,1673910000,https://media-2.api-sports.io/basketball/teams/2045.png
+2023-01-20T00:00:00+00:00,northeastern,stony brook,,,away,1674172800,https://media-2.api-sports.io/basketball/teams/2045.png
+2023-01-21T17:00:00+00:00,northeastern,charleston,,,home,1674320400,https://media-1.api-sports.io/basketball/teams/2045.png
+2023-01-27T00:00:00+00:00,northeastern,towson,,,away,1674777600,https://media-1.api-sports.io/basketball/teams/2045.png
+2023-01-28T17:00:00+00:00,northeastern,delaware,,,away,1674925200,https://media-3.api-sports.io/basketball/teams/2045.png
+2023-02-04T19:00:00+00:00,northeastern,elon,,,home,1675537200,https://media-2.api-sports.io/basketball/teams/2045.png
+2023-02-08T23:00:00+00:00,northeastern,hofstra,,,home,1675897200,https://media-2.api-sports.io/basketball/teams/2045.png
+2023-02-12T00:00:00+00:00,northeastern,nc wilmington,,,away,1676160000,https://media-2.api-sports.io/basketball/teams/2045.png
+2023-02-14T00:00:00+00:00,northeastern,charleston,,,away,1676332800,https://media-3.api-sports.io/basketball/teams/2045.png
+2023-02-17T00:00:00+00:00,northeastern,monmouth,,,home,1676592000,https://media-1.api-sports.io/basketball/teams/2045.png
+2023-02-18T17:00:00+00:00,northeastern,william & mary,,,home,1676739600,https://media-3.api-sports.io/basketball/teams/2045.png
+2023-02-23T21:00:00+00:00,northeastern,drexel,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/2045.png
+2023-02-25T21:00:00+00:00,northeastern,hofstra,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/2045.png

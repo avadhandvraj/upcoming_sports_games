@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,wake forest,fairfield,59 - 71,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/2192.png
+2022-11-12T01:30:00+00:00,wake forest,georgia,71 - 81,W,home,1668216600,https://media-3.api-sports.io/basketball/teams/2192.png
+2022-11-16T00:00:00+00:00,wake forest,utah valley state,65 - 68,W,home,1668556800,https://media-1.api-sports.io/basketball/teams/2192.png
+2022-11-18T19:00:00+00:00,wake forest,la salle,63 - 75,W,home,1668798000,https://media-3.api-sports.io/basketball/teams/2192.png
+2022-11-20T19:30:00+00:00,wake forest,loyola marymount,75 - 77,L,away,1668972600,https://media-3.api-sports.io/basketball/teams/2192.png
+2022-11-24T01:30:00+00:00,wake forest,south carolina st,74 - 105,W,home,1669253400,https://media-1.api-sports.io/basketball/teams/2192.png
+2022-11-26T17:30:00+00:00,wake forest,hampton,70 - 97,W,home,1669483800,https://media-1.api-sports.io/basketball/teams/2192.png
+2022-11-30T02:00:00+00:00,wake forest,wisconsin,78 - 75,W,away,1669773600,https://media-1.api-sports.io/basketball/teams/2192.png
+2022-12-03T00:00:00+00:00,wake forest,clemson,57 - 77,L,away,1670025600,https://media-2.api-sports.io/basketball/teams/2192.png
+2022-12-10T19:00:00+00:00,wake forest,lsu,72 - 70,L,home,1670698800,https://media-2.api-sports.io/basketball/teams/2192.png
+2022-12-15T00:00:00+00:00,wake forest,appalachian state,66 - 67,W,home,1671062400,https://media-2.api-sports.io/basketball/teams/2192.png
+2022-12-17T17:00:00+00:00,wake forest,rutgers,57 - 81,L,away,1671296400,https://media-2.api-sports.io/basketball/teams/2192.png
+2022-12-20T23:30:00+00:00,wake forest,duke,70 - 81,W,home,1671579000,https://media-2.api-sports.io/basketball/teams/2192.png
+2022-12-31T17:00:00+00:00,wake forest,virginia tech,75 - 77,W,home,1672506000,https://media-1.api-sports.io/basketball/teams/2192.png
+2023-01-05T02:00:00+00:00,wake forest,north carolina,79 - 88,L,away,1672884000,https://media-1.api-sports.io/basketball/teams/2192.png
+2023-01-07T20:00:00+00:00,wake forest,louisville,80 - 72,W,away,1673121600,https://media-1.api-sports.io/basketball/teams/2192.png
+2023-01-12T02:00:00+00:00,wake forest,florida state,,,home,1673488800,https://media-1.api-sports.io/basketball/teams/2192.png
+2023-01-15T01:00:00+00:00,wake forest,boston college,,,away,1673744400,https://media-3.api-sports.io/basketball/teams/2192.png
+2023-01-18T02:00:00+00:00,wake forest,clemson,,,home,1674007200,https://media-2.api-sports.io/basketball/teams/2192.png
+2023-01-21T19:00:00+00:00,wake forest,virginia,,,home,1674327600,https://media-2.api-sports.io/basketball/teams/2192.png
+2023-01-26T00:00:00+00:00,wake forest,pittsburgh,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/2192.png
+2023-01-28T18:00:00+00:00,wake forest,nc state,,,home,1674928800,https://media-3.api-sports.io/basketball/teams/2192.png
+2023-02-01T00:00:00+00:00,wake forest,duke,,,away,1675209600,https://media-3.api-sports.io/basketball/teams/2192.png
+2023-02-04T18:00:00+00:00,wake forest,notre dame,,,away,1675533600,https://media-3.api-sports.io/basketball/teams/2192.png
+2023-02-08T00:00:00+00:00,wake forest,north carolina,,,home,1675814400,https://media-2.api-sports.io/basketball/teams/2192.png
+2023-02-11T22:00:00+00:00,wake forest,georgia tech,,,home,1676152800,https://media-3.api-sports.io/basketball/teams/2192.png
+2023-02-18T19:00:00+00:00,wake forest,miami (fl),,,away,1676746800,https://media-1.api-sports.io/basketball/teams/2192.png

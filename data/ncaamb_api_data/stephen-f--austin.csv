@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T02:00:00+00:00,stephen f. austin,le tourneau,40 - 93,W,home,1667872800,https://media-1.api-sports.io/basketball/teams/2134.png
+2022-11-11T00:30:00+00:00,stephen f. austin,gardner webb,71 - 86,W,home,1668126600,https://media-1.api-sports.io/basketball/teams/2134.png
+2022-11-16T00:30:00+00:00,stephen f. austin,alcorn state,69 - 60,L,home,1668558600,https://media-2.api-sports.io/basketball/teams/2134.png
+2022-11-20T00:00:00+00:00,stephen f. austin,south dakota st.,93 - 82,W,away,1668902400,https://media-1.api-sports.io/basketball/teams/2134.png
+2022-11-25T19:00:00+00:00,stephen f. austin,quinnipiac,44 - 58,W,home,1669402800,https://media-2.api-sports.io/basketball/teams/2134.png
+2022-11-26T21:30:00+00:00,stephen f. austin,middle tenn. st.,63 - 75,L,away,1669498200,https://media-2.api-sports.io/basketball/teams/2134.png
+2022-11-27T16:00:00+00:00,stephen f. austin,nc greensboro,75 - 58,W,away,1669564800,https://media-2.api-sports.io/basketball/teams/2134.png
+2022-12-02T02:00:00+00:00,stephen f. austin,northwestern st.,102 - 96,L,home,1669946400,https://media-1.api-sports.io/basketball/teams/2134.png
+2022-12-11T19:00:00+00:00,stephen f. austin,paul quinn,40 - 103,W,home,1670785200,https://media-2.api-sports.io/basketball/teams/2134.png
+2022-12-15T00:00:00+00:00,stephen f. austin,louisiana tech,80 - 79,W,away,1671062400,https://media-2.api-sports.io/basketball/teams/2134.png
+2022-12-17T21:30:00+00:00,stephen f. austin,furman,70 - 72,L,away,1671312600,https://media-3.api-sports.io/basketball/teams/2134.png
+2022-12-20T00:30:00+00:00,stephen f. austin,north american stallions,51 - 83,W,home,1671496200,https://media-1.api-sports.io/basketball/teams/2134.png
+2022-12-22T20:00:00+00:00,stephen f. austin,jackson state,69 - 80,W,home,1671739200,https://media-3.api-sports.io/basketball/teams/2134.png
+2022-12-30T00:30:00+00:00,stephen f. austin,abilene christian,68 - 75,W,home,1672360200,https://media-3.api-sports.io/basketball/teams/2134.png
+2022-12-31T19:00:00+00:00,stephen f. austin,ut arlington,66 - 62,W,away,1672513200,https://media-3.api-sports.io/basketball/teams/2134.png
+2023-01-05T00:30:00+00:00,stephen f. austin,new mexico state,60 - 69,W,home,1672878600,https://media-1.api-sports.io/basketball/teams/2134.png
+2023-01-07T20:00:00+00:00,stephen f. austin,grand canyon,68 - 73,W,home,1673121600,https://media-1.api-sports.io/basketball/teams/2134.png
+2023-01-13T02:00:00+00:00,stephen f. austin,utah tech,,,away,1673575200,https://media-2.api-sports.io/basketball/teams/2134.png
+2023-01-14T20:00:00+00:00,stephen f. austin,southern utah,,,away,1673726400,https://media-2.api-sports.io/basketball/teams/2134.png
+2023-01-20T00:30:00+00:00,stephen f. austin,sam houston st.,,,away,1674174600,https://media-3.api-sports.io/basketball/teams/2134.png
+2023-01-26T00:30:00+00:00,stephen f. austin,utrgv,,,home,1674693000,https://media-2.api-sports.io/basketball/teams/2134.png
+2023-01-28T22:30:00+00:00,stephen f. austin,seattle,,,home,1674945000,https://media-2.api-sports.io/basketball/teams/2134.png
+2023-02-03T02:00:00+00:00,stephen f. austin,new mexico state,,,away,1675389600,https://media-3.api-sports.io/basketball/teams/2134.png
+2023-02-05T01:00:00+00:00,stephen f. austin,grand canyon,,,away,1675558800,https://media-3.api-sports.io/basketball/teams/2134.png
+2023-02-12T00:30:00+00:00,stephen f. austin,utrgv,,,away,1676161800,https://media-1.api-sports.io/basketball/teams/2134.png
+2023-02-17T00:30:00+00:00,stephen f. austin,tarleton,,,home,1676593800,https://media-1.api-sports.io/basketball/teams/2134.png
+2023-02-18T20:00:00+00:00,stephen f. austin,ut arlington,,,home,1676750400,https://media-3.api-sports.io/basketball/teams/2134.png

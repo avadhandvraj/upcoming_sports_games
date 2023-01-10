@@ -1,0 +1,30 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T23:45:00+00:00,merrimack warriors,st. john's (n.y.),72 - 97,L,away,1667864700,https://media-2.api-sports.io/basketball/teams/5797.png
+2022-11-11T00:00:00+00:00,merrimack warriors,clark massachusetts,48 - 64,W,home,1668124800,https://media-3.api-sports.io/basketball/teams/5797.png
+2022-11-17T22:00:00+00:00,merrimack warriors,troy,54 - 73,L,away,1668722400,https://media-1.api-sports.io/basketball/teams/5797.png
+2022-11-19T02:30:00+00:00,merrimack warriors,montana,51 - 62,L,away,1668825000,https://media-3.api-sports.io/basketball/teams/5797.png
+2022-11-20T00:00:00+00:00,merrimack warriors,st. thomas (minn.),61 - 72,L,away,1668902400,https://media-2.api-sports.io/basketball/teams/5797.png
+2022-11-24T00:00:00+00:00,merrimack warriors,providence,57 - 71,L,away,1669248000,https://media-1.api-sports.io/basketball/teams/5797.png
+2022-11-26T21:00:00+00:00,merrimack warriors,bradley,41 - 83,L,away,1669496400,https://media-3.api-sports.io/basketball/teams/5797.png
+2022-11-30T23:00:00+00:00,merrimack warriors,umass lowell,51 - 77,L,away,1669849200,https://media-1.api-sports.io/basketball/teams/5797.png
+2022-12-03T00:00:00+00:00,merrimack warriors,boston university,68 - 54,L,home,1670025600,https://media-2.api-sports.io/basketball/teams/5797.png
+2022-12-04T19:00:00+00:00,merrimack warriors,vermont,66 - 43,L,home,1670180400,https://media-1.api-sports.io/basketball/teams/5797.png
+2022-12-08T03:30:00+00:00,merrimack warriors,san francisco,51 - 69,L,away,1670470200,https://media-1.api-sports.io/basketball/teams/5797.png
+2022-12-10T00:00:00+00:00,merrimack warriors,new england noreasters,23 - 82,W,home,1670630400,https://media-2.api-sports.io/basketball/teams/5797.png
+2022-12-11T18:00:00+00:00,merrimack warriors,maine black bears,50 - 47,L,home,1670781600,https://media-3.api-sports.io/basketball/teams/5797.png
+2022-12-18T19:00:00+00:00,merrimack warriors,bucknell,55 - 61,L,away,1671390000,https://media-1.api-sports.io/basketball/teams/5797.png
+2022-12-30T00:00:00+00:00,merrimack warriors,fairleigh dickinson,63 - 71,L,away,1672358400,https://media-2.api-sports.io/basketball/teams/5797.png
+2022-12-31T18:00:00+00:00,merrimack warriors,wagner,58 - 48,W,away,1672509600,https://media-2.api-sports.io/basketball/teams/5797.png
+2023-01-06T00:00:00+00:00,merrimack warriors,sacred heart,59 - 55,L,home,1672963200,https://media-3.api-sports.io/basketball/teams/5797.png
+2023-01-07T20:00:00+00:00,merrimack warriors,st. francis brooklyn,53 - 65,W,home,1673121600,https://media-1.api-sports.io/basketball/teams/5797.png
+2023-01-14T19:00:00+00:00,merrimack warriors,stonehill,,,away,1673722800,https://media-2.api-sports.io/basketball/teams/5797.png
+2023-01-17T00:00:00+00:00,merrimack warriors,wagner,,,home,1673913600,https://media-2.api-sports.io/basketball/teams/5797.png
+2023-01-22T18:00:00+00:00,merrimack warriors,st. francis brooklyn,,,away,1674410400,https://media-3.api-sports.io/basketball/teams/5797.png
+2023-01-27T00:00:00+00:00,merrimack warriors,central connecticut state,,,away,1674777600,https://media-3.api-sports.io/basketball/teams/5797.png
+2023-01-28T20:00:00+00:00,merrimack warriors,fairleigh dickinson,,,home,1674936000,https://media-2.api-sports.io/basketball/teams/5797.png
+2023-02-03T00:00:00+00:00,merrimack warriors,liu sharks,,,home,1675382400,https://media-2.api-sports.io/basketball/teams/5797.png
+2023-02-04T20:00:00+00:00,merrimack warriors,st. francis (pa),,,home,1675540800,https://media-3.api-sports.io/basketball/teams/5797.png
+2023-02-10T00:00:00+00:00,merrimack warriors,stonehill,,,home,1675987200,https://media-1.api-sports.io/basketball/teams/5797.png
+2023-02-11T21:00:00+00:00,merrimack warriors,st. francis (pa),,,away,1676149200,https://media-1.api-sports.io/basketball/teams/5797.png
+2023-02-17T00:00:00+00:00,merrimack warriors,hartford,,,away,1676592000,https://media-1.api-sports.io/basketball/teams/5797.png
+2023-02-18T19:00:00+00:00,merrimack warriors,sacred heart,,,away,1676746800,https://media-2.api-sports.io/basketball/teams/5797.png

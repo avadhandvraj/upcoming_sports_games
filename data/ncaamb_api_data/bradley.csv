@@ -1,0 +1,29 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,bradley,wis.-parkside,59 - 93,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/1839.png
+2022-11-12T02:00:00+00:00,bradley,utah state,62 - 84,L,away,1668218400,https://media-2.api-sports.io/basketball/teams/1839.png
+2022-11-16T01:00:00+00:00,bradley,eastern michigan,61 - 89,W,home,1668560400,https://media-3.api-sports.io/basketball/teams/1839.png
+2022-11-19T21:00:00+00:00,bradley,southeast missouri state,60 - 73,W,home,1668891600,https://media-2.api-sports.io/basketball/teams/1839.png
+2022-11-22T23:00:00+00:00,bradley,auburn,85 - 64,L,home,1669158000,https://media-2.api-sports.io/basketball/teams/1839.png
+2022-11-23T23:00:00+00:00,bradley,liberty,44 - 55,L,away,1669244400,https://media-1.api-sports.io/basketball/teams/1839.png
+2022-11-26T21:00:00+00:00,bradley,merrimack warriors,41 - 83,W,home,1669496400,https://media-1.api-sports.io/basketball/teams/1839.png
+2022-12-01T01:00:00+00:00,bradley,northern iowa,53 - 68,W,home,1669856400,https://media-1.api-sports.io/basketball/teams/1839.png
+2022-12-04T01:00:00+00:00,bradley,missouri state,58 - 40,W,away,1670115600,https://media-1.api-sports.io/basketball/teams/1839.png
+2022-12-07T01:00:00+00:00,bradley,siu edwardsville,56 - 54,W,away,1670374800,https://media-3.api-sports.io/basketball/teams/1839.png
+2022-12-17T21:00:00+00:00,bradley,arkansas,57 - 76,L,away,1671310800,https://media-2.api-sports.io/basketball/teams/1839.png
+2022-12-20T01:00:00+00:00,bradley,stonehill,50 - 79,W,home,1671498000,https://media-3.api-sports.io/basketball/teams/1839.png
+2022-12-22T22:00:00+00:00,bradley,akron,55 - 74,W,home,1671746400,https://media-1.api-sports.io/basketball/teams/1839.png
+2022-12-29T01:00:00+00:00,bradley,belmont,60 - 63,L,away,1672275600,https://media-1.api-sports.io/basketball/teams/1839.png
+2022-12-31T19:00:00+00:00,bradley,illinois (chi.),45 - 79,W,home,1672513200,https://media-2.api-sports.io/basketball/teams/1839.png
+2023-01-05T01:00:00+00:00,bradley,murray state,58 - 67,L,away,1672880400,https://media-3.api-sports.io/basketball/teams/1839.png
+2023-01-07T20:00:00+00:00,bradley,valparaiso,66 - 88,W,home,1673121600,https://media-1.api-sports.io/basketball/teams/1839.png
+2023-01-12T01:00:00+00:00,bradley,evansville,,,home,1673485200,https://media-1.api-sports.io/basketball/teams/1839.png
+2023-01-15T01:00:00+00:00,bradley,drake,,,away,1673744400,https://media-2.api-sports.io/basketball/teams/1839.png
+2023-01-19T00:00:00+00:00,bradley,indiana state,,,away,1674086400,https://media-2.api-sports.io/basketball/teams/1839.png
+2023-01-21T21:00:00+00:00,bradley,belmont,,,home,1674334800,https://media-3.api-sports.io/basketball/teams/1839.png
+2023-01-26T01:00:00+00:00,bradley,illinois state,,,home,1674694800,https://media-1.api-sports.io/basketball/teams/1839.png
+2023-01-29T19:00:00+00:00,bradley,illinois (chi.),,,away,1675018800,https://media-2.api-sports.io/basketball/teams/1839.png
+2023-02-02T01:00:00+00:00,bradley,southern illinois,,,home,1675299600,https://media-3.api-sports.io/basketball/teams/1839.png
+2023-02-05T01:00:00+00:00,bradley,northern iowa,,,away,1675558800,https://media-3.api-sports.io/basketball/teams/1839.png
+2023-02-09T01:00:00+00:00,bradley,illinois state,,,away,1675904400,https://media-1.api-sports.io/basketball/teams/1839.png
+2023-02-11T19:00:00+00:00,bradley,murray state,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/1839.png
+2023-02-16T01:00:00+00:00,bradley,missouri state,,,home,1676509200,https://media-3.api-sports.io/basketball/teams/1839.png

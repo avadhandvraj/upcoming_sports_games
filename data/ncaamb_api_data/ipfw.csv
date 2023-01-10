@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T23:30:00+00:00,ipfw,michigan,56 - 75,L,away,1667863800,https://media-3.api-sports.io/basketball/teams/257.png
+2022-11-12T18:00:00+00:00,ipfw,siu edwardsville,76 - 81,W,home,1668276000,https://media-2.api-sports.io/basketball/teams/257.png
+2022-11-15T00:00:00+00:00,ipfw,manchester college,31 - 111,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/257.png
+2022-11-19T01:00:00+00:00,ipfw,northwestern,52 - 60,L,away,1668819600,https://media-2.api-sports.io/basketball/teams/257.png
+2022-11-22T17:30:00+00:00,ipfw,eastern michigan,74 - 67,W,away,1669138200,https://media-3.api-sports.io/basketball/teams/257.png
+2022-11-23T20:00:00+00:00,ipfw,southern miss,58 - 70,L,away,1669233600,https://media-3.api-sports.io/basketball/teams/257.png
+2022-11-27T19:00:00+00:00,ipfw,bluffton,41 - 106,W,home,1669575600,https://media-3.api-sports.io/basketball/teams/257.png
+2022-12-02T00:00:00+00:00,ipfw,detroit,75 - 66,L,home,1669939200,https://media-2.api-sports.io/basketball/teams/257.png
+2022-12-03T20:00:00+00:00,ipfw,oakland,73 - 79,W,home,1670097600,https://media-2.api-sports.io/basketball/teams/257.png
+2022-12-08T01:00:00+00:00,ipfw,southeast missouri state,89 - 68,W,away,1670461200,https://media-3.api-sports.io/basketball/teams/257.png
+2022-12-11T01:00:00+00:00,ipfw,missouri state,65 - 61,W,away,1670720400,https://media-2.api-sports.io/basketball/teams/257.png
+2022-12-20T00:00:00+00:00,ipfw,tx a&m commerce,68 - 85,W,home,1671494400,https://media-2.api-sports.io/basketball/teams/257.png
+2022-12-21T00:00:00+00:00,ipfw,southern indiana,59 - 83,W,home,1671580800,https://media-2.api-sports.io/basketball/teams/257.png
+2022-12-30T00:00:00+00:00,ipfw,robert morris,70 - 75,L,away,1672358400,https://media-2.api-sports.io/basketball/teams/257.png
+2022-12-31T19:45:00+00:00,ipfw,youngstown state,76 - 71,W,away,1672515900,https://media-1.api-sports.io/basketball/teams/257.png
+2023-01-06T00:00:00+00:00,ipfw,wisc. green bay,69 - 79,W,home,1672963200,https://media-2.api-sports.io/basketball/teams/257.png
+2023-01-07T18:00:00+00:00,ipfw,wisc. milwaukee,74 - 70,L,home,1673114400,https://media-1.api-sports.io/basketball/teams/257.png
+2023-01-13T00:00:00+00:00,ipfw,iupui,,,away,1673568000,https://media-1.api-sports.io/basketball/teams/257.png
+2023-01-17T00:00:00+00:00,ipfw,cleveland state,,,home,1673913600,https://media-2.api-sports.io/basketball/teams/257.png
+2023-01-20T00:00:00+00:00,ipfw,wright state,,,away,1674172800,https://media-2.api-sports.io/basketball/teams/257.png
+2023-01-21T23:00:00+00:00,ipfw,northern kentucky,,,away,1674342000,https://media-1.api-sports.io/basketball/teams/257.png
+2023-01-26T00:00:00+00:00,ipfw,iupui,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/257.png
+2023-01-28T00:00:00+00:00,ipfw,cleveland state,,,away,1674864000,https://media-2.api-sports.io/basketball/teams/257.png
+2023-02-03T00:00:00+00:00,ipfw,oakland,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/257.png
+2023-02-04T18:00:00+00:00,ipfw,detroit,,,away,1675533600,https://media-1.api-sports.io/basketball/teams/257.png
+2023-02-11T00:00:00+00:00,ipfw,youngstown state,,,home,1676073600,https://media-3.api-sports.io/basketball/teams/257.png
+2023-02-12T18:00:00+00:00,ipfw,robert morris,,,home,1676224800,https://media-1.api-sports.io/basketball/teams/257.png
+2023-02-18T00:00:00+00:00,ipfw,northern kentucky,,,home,1676678400,https://media-1.api-sports.io/basketball/teams/257.png
+2023-02-19T21:00:00+00:00,ipfw,wright state,None - None,tie,home,1676840400,https://media-3.api-sports.io/basketball/teams/257.png
+2023-02-23T21:00:00+00:00,ipfw,wisc. milwaukee,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/257.png
+2023-02-25T21:00:00+00:00,ipfw,wisc. green bay,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/257.png

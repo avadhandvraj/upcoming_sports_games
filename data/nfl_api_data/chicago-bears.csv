@@ -1,0 +1,21 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-08-13,chicago bears,kansas city chiefs,14 - 19,W,home,1660410000,https://media-2.api-sports.io/american-football/teams/16.png
+2022-08-18,chicago bears,seattle seahawks,27 - 11,W,away,1660780800,https://media-3.api-sports.io/american-football/teams/16.png
+2022-08-27,chicago bears,cleveland browns,21 - 20,W,away,1661641200,https://media-1.api-sports.io/american-football/teams/16.png
+2022-09-11,chicago bears,san francisco 49ers,10 - 19,W,home,1662915600,https://media-2.api-sports.io/american-football/teams/16.png
+2022-09-18,chicago bears,green bay packers,10 - 27,L,away,1663460400,https://media-3.api-sports.io/american-football/teams/16.png
+2022-09-25,chicago bears,houston texans,20 - 23,W,home,1664125200,https://media-3.api-sports.io/american-football/teams/16.png
+2022-10-02,chicago bears,new york giants,12 - 20,L,away,1664730000,https://media-3.api-sports.io/american-football/teams/16.png
+2022-10-09,chicago bears,minnesota vikings,22 - 29,L,away,1665334800,https://media-2.api-sports.io/american-football/teams/16.png
+2022-10-13,chicago bears,washington commanders,12 - 7,L,home,1665620100,https://media-3.api-sports.io/american-football/teams/16.png
+2022-10-24,chicago bears,new england patriots,33 - 14,W,away,1666570500,https://media-3.api-sports.io/american-football/teams/16.png
+2022-10-30,chicago bears,dallas cowboys,29 - 49,L,away,1667149200,https://media-2.api-sports.io/american-football/teams/16.png
+2022-11-06,chicago bears,miami dolphins,35 - 32,L,home,1667757600,https://media-2.api-sports.io/american-football/teams/16.png
+2022-11-13,chicago bears,detroit lions,31 - 30,L,home,1668362400,https://media-1.api-sports.io/american-football/teams/16.png
+2022-11-20,chicago bears,atlanta falcons,24 - 27,L,away,1668967200,https://media-2.api-sports.io/american-football/teams/16.png
+2022-11-27,chicago bears,new york jets,10 - 31,L,away,1669572000,https://media-3.api-sports.io/american-football/teams/16.png
+2022-12-04,chicago bears,green bay packers,28 - 19,L,home,1670176800,https://media-3.api-sports.io/american-football/teams/16.png
+2022-12-18,chicago bears,philadelphia eagles,25 - 20,L,home,1671386400,https://media-3.api-sports.io/american-football/teams/16.png
+2022-12-24,chicago bears,buffalo bills,35 - 13,L,home,1671904800,https://media-3.api-sports.io/american-football/teams/16.png
+2023-01-01,chicago bears,detroit lions,10 - 41,L,away,1672596000,https://media-3.api-sports.io/american-football/teams/16.png
+2023-01-08,chicago bears,minnesota vikings,29 - 13,L,home,1673200800,https://media-1.api-sports.io/american-football/teams/16.png

@@ -1,0 +1,21 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-08-13,pittsburgh steelers,seattle seahawks,25 - 32,W,home,1660431600,https://media-2.api-sports.io/american-football/teams/22.png
+2022-08-20,pittsburgh steelers,jacksonville jaguars,16 - 15,W,away,1661036400,https://media-2.api-sports.io/american-football/teams/22.png
+2022-08-28,pittsburgh steelers,detroit lions,9 - 19,W,home,1661718600,https://media-1.api-sports.io/american-football/teams/22.png
+2022-09-11,pittsburgh steelers,cincinnati bengals,23 - 20,W,away,1662915600,https://media-1.api-sports.io/american-football/teams/22.png
+2022-09-18,pittsburgh steelers,new england patriots,17 - 14,L,home,1663520400,https://media-3.api-sports.io/american-football/teams/22.png
+2022-09-22,pittsburgh steelers,cleveland browns,17 - 29,L,away,1663805700,https://media-1.api-sports.io/american-football/teams/22.png
+2022-10-02,pittsburgh steelers,new york jets,24 - 20,L,home,1664730000,https://media-1.api-sports.io/american-football/teams/22.png
+2022-10-09,pittsburgh steelers,buffalo bills,3 - 38,L,away,1665334800,https://media-1.api-sports.io/american-football/teams/22.png
+2022-10-16,pittsburgh steelers,tampa bay buccaneers,18 - 20,W,home,1665939600,https://media-2.api-sports.io/american-football/teams/22.png
+2022-10-23,pittsburgh steelers,miami dolphins,10 - 16,L,away,1666484400,https://media-2.api-sports.io/american-football/teams/22.png
+2022-10-30,pittsburgh steelers,philadelphia eagles,13 - 35,L,away,1667149200,https://media-2.api-sports.io/american-football/teams/22.png
+2022-11-13,pittsburgh steelers,new orleans saints,10 - 20,W,home,1668362400,https://media-3.api-sports.io/american-football/teams/22.png
+2022-11-20,pittsburgh steelers,cincinnati bengals,37 - 30,L,home,1668979500,https://media-1.api-sports.io/american-football/teams/22.png
+2022-11-28,pittsburgh steelers,indianapolis colts,24 - 17,W,away,1669598100,https://media-2.api-sports.io/american-football/teams/22.png
+2022-12-04,pittsburgh steelers,atlanta falcons,19 - 16,W,away,1670176800,https://media-3.api-sports.io/american-football/teams/22.png
+2022-12-11,pittsburgh steelers,baltimore ravens,16 - 14,L,home,1670781600,https://media-2.api-sports.io/american-football/teams/22.png
+2022-12-18,pittsburgh steelers,carolina panthers,24 - 16,W,away,1671386400,https://media-3.api-sports.io/american-football/teams/22.png
+2022-12-24,pittsburgh steelers,las vegas raiders,10 - 13,W,home,1671844500,https://media-3.api-sports.io/american-football/teams/22.png
+2023-01-01,pittsburgh steelers,baltimore ravens,16 - 13,W,away,1672536000,https://media-2.api-sports.io/american-football/teams/22.png
+2023-01-08,pittsburgh steelers,cleveland browns,14 - 28,W,home,1673200800,https://media-3.api-sports.io/american-football/teams/22.png

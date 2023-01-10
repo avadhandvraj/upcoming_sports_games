@@ -1,0 +1,83 @@
+Date,Team,Score,Result,Home or Away,Unix Timestamp
+"Thu, Oct 20",Philadelphia,`90-88,W,Away,
+"Sat, Oct 22",Houston,`125-105,W,Home,
+"Wed, Oct 26",Brooklyn,`110-99,W,Home,
+"Fri, Oct 28",New York,`119-108,W,Home,
+"Sat, Oct 29",Atlanta,`123-115,W,Home,
+"Mon, Oct 31",Detroit,`110-108,W,Home,
+"Wed, Nov 2",Detroit,`116-91,W,Home,
+"Fri, Nov 4",Minnesota,`115-102,W,Away,
+"Sat, Nov 5",Oklahoma City,`108-94,W,Home,
+"Mon, Nov 7",Atlanta,`117-98,L,Away,
+"Wed, Nov 9",Oklahoma City,`136-132 2OT,W,Away,
+"Fri, Nov 11",San Antonio,`111-93,L,Away,
+"Mon, Nov 14",Atlanta,`121-106,L,Home,
+"Wed, Nov 16",Cleveland,`113-98,W,Home,
+"Fri, Nov 18",Philadelphia,`110-102,L,Away,
+"Mon, Nov 21",Portland,`119-111,W,Home,
+"Wed, Nov 23",Chicago,`118-113,L,Home,
+"Fri, Nov 25",Cleveland,`117-102,W,Home,
+"Sun, Nov 27",Dallas,`124-115,W,Home,
+"Wed, Nov 30",New York,`109-103,W,Away,
+"Fri, Dec 2",Los Angeles,`133-129,L,Home,
+"Sat, Dec 3",Charlotte,`105-96,W,Away,
+"Mon, Dec 5",Orlando,`109-102,W,Away,
+"Wed, Dec 7",Sacramento,`126-113,W,Home,
+"Fri, Dec 9",Dallas,`106-105,W,Away,
+"Sun, Dec 11",Houston,`97-92,L,Away,
+"Tue, Dec 13",Golden State,`128-111,W,Home,
+"Thu, Dec 15",Memphis,`142-101,L,Away,
+"Sat, Dec 17",Utah,`123-97,W,Home,
+"Mon, Dec 19",New Orleans,`128-119,W,Away,
+"Wed, Dec 21",Cleveland,`114-106,L,Away,
+"Fri, Dec 23 2022 6:30 PM",Brooklyn,,,Away,1671841800.0
+"Sun, Dec 25 2022 4:00 PM",Boston,,,Away,1672005600.0
+"Wed, Dec 28 2022 7:00 PM",Chicago,,,Away,1672275600.0
+"Fri, Dec 30 2022 7:00 PM",Minnesota,,,Home,1672448400.0
+"Sun, Jan 1 2023 7:00 PM",Washington,,,Home,1672621200.0
+"Tue, Jan 3 2023 7:00 PM",Washington,,,Home,1672794000.0
+"Wed, Jan 4 2023 6:30 PM",Toronto,,,Away,1672878600.0
+"Fri, Jan 6 2023 7:00 PM",Charlotte,,,Home,1673053200.0
+"Mon, Jan 9 2023 6:30 PM",New York,,,Away,1673310600.0
+"Wed, Jan 11 2023 6:30 PM",Atlanta,,,Away,1673483400.0
+"Thu, Jan 12 2023 6:30 PM",Miami,,,Away,1673569800.0
+"Sat, Jan 14 2023 12:00 PM",Miami,,,Away,1673719200.0
+"Mon, Jan 16 2023 1:30 PM",Indiana,,,Home,1673897400.0
+"Tue, Jan 17 2023 6:30 PM",Toronto,,,Home,1674001800.0
+"Sat, Jan 21 2023 6:30 PM",Cleveland,,,Away,1674347400.0
+"Mon, Jan 23 2023 6:00 PM",Detroit,,,Away,1674518400.0
+"Wed, Jan 25 2023 7:00 PM",Denver,,,Home,1674694800.0
+"Fri, Jan 27 2023 6:00 PM",Indiana,,,Away,1674864000.0
+"Sun, Jan 29 2023 7:00 PM",New Orleans,,,Home,1675040400.0
+"Tue, Jan 31 2023 7:00 PM",Charlotte,,,Home,1675213200.0
+"Thu, Feb 2 2023 9:00 PM",LA,,,Home,1675393200.0
+"Sat, Feb 4 2023 7:00 PM",Miami,,,Home,1675558800.0
+"Mon, Feb 6 2023 9:00 PM",Portland,,,Away,1675738800.0
+"Thu, Feb 9 2023 9:00 PM",Los Angeles,,,Away,1675998000.0
+"Fri, Feb 10 2023 9:30 PM",LA,,,Away,1676086200.0
+"Tue, Feb 14 2023 6:30 PM",Boston,,,Home,1676421000.0
+"Thu, Feb 16 2023 6:30 PM",Chicago,,,Away,1676593800.0
+"Fri, Feb 24 2023 6:30 PM",Miami,,,Home,1677285000.0
+"Sun, Feb 26 2023 12:00 PM",Phoenix,,,Home,1677434400.0
+"Tue, Feb 28 2023 6:30 PM",Brooklyn,,,Away,1677630600.0
+"Wed, Mar 1 2023 7:00 PM",Orlando,,,Home,1677718800.0
+"Sat, Mar 4 2023 7:30 PM",Philadelphia,,,Home,1677979800.0
+"Mon, Mar 6 2023 6:00 PM",Washington,,,Away,1678147200.0
+"Tue, Mar 7 2023 6:00 PM",Orlando,,,Away,1678233600.0
+"Thu, Mar 9 2023 6:30 PM",Brooklyn,,,Home,1678408200.0
+"Sat, Mar 11 2023 7:30 PM",Golden State,,,Away,1678584600.0
+"Mon, Mar 13 2023 9:00 PM",Sacramento,,,Away,1678759200.0
+"Tue, Mar 14 2023 9:00 PM",Phoenix,,,Away,1678845600.0
+"Thu, Mar 16 2023 7:00 PM",Indiana,,,Home,1679011200.0
+"Sun, Mar 19 2023 7:00 PM",Toronto,,,Home,1679270400.0
+"Wed, Mar 22 2023 7:00 PM",San Antonio,,,Home,1679529600.0
+"Fri, Mar 24 2023 8:00 PM",Utah,,,Away,1679706000.0
+"Sat, Mar 25 2023 8:00 PM",Denver,,,Away,1679792400.0
+"Mon, Mar 27 2023 6:00 PM",Detroit,,,Away,1679958000.0
+"Wed, Mar 29 2023 6:00 PM",Indiana,,,Away,1680130800.0
+"Thu, Mar 30 2023 6:30 PM",Boston,,,Home,1680219000.0
+"Sun, Apr 2 2023 7:00 PM",Philadelphia,,,Home,1680480000.0
+"Tue, Apr 4 2023 6:00 PM",Washington,,,Away,1680649200.0
+"Wed, Apr 5 2023 6:30 PM",Chicago,,,Home,1680737400.0
+"Fri, Apr 7 2023 7:00 PM",Memphis,,,Home,1680912000.0
+"Sun, Apr 9 2023 12:00 PM",Toronto,,,Away,1681059600.0

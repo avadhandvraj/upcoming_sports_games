@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T21:00:00+00:00,james madison,valley forge,38 - 123,W,home,1667854800,https://media-1.api-sports.io/basketball/teams/1954.png
+2022-11-10T00:00:00+00:00,james madison,hampton,58 - 106,W,home,1668038400,https://media-2.api-sports.io/basketball/teams/1954.png
+2022-11-12T18:00:00+00:00,james madison,buffalo,97 - 62,W,away,1668276000,https://media-1.api-sports.io/basketball/teams/1954.png
+2022-11-16T00:00:00+00:00,james madison,howard,95 - 69,W,away,1668556800,https://media-1.api-sports.io/basketball/teams/1954.png
+2022-11-20T17:00:00+00:00,james madison,north carolina,64 - 80,L,away,1668963600,https://media-1.api-sports.io/basketball/teams/1954.png
+2022-11-25T16:00:00+00:00,james madison,coastal georgia,54 - 100,W,home,1669392000,https://media-3.api-sports.io/basketball/teams/1954.png
+2022-11-26T17:00:00+00:00,james madison,south dakota st.,79 - 60,W,away,1669482000,https://media-3.api-sports.io/basketball/teams/1954.png
+2022-11-27T17:00:00+00:00,james madison,valparaiso,79 - 81,L,away,1669568400,https://media-1.api-sports.io/basketball/teams/1954.png
+2022-12-03T00:00:00+00:00,james madison,eastern kentucky,80 - 97,W,home,1670025600,https://media-3.api-sports.io/basketball/teams/1954.png
+2022-12-07T01:00:00+00:00,james madison,virginia,50 - 55,L,away,1670374800,https://media-2.api-sports.io/basketball/teams/1954.png
+2022-12-11T00:00:00+00:00,james madison,gallaudet univ.,43 - 106,W,home,1670716800,https://media-2.api-sports.io/basketball/teams/1954.png
+2022-12-18T19:00:00+00:00,james madison,liu sharks,79 - 115,W,home,1671390000,https://media-1.api-sports.io/basketball/teams/1954.png
+2022-12-21T16:00:00+00:00,james madison,coppin state,100 - 107,L,away,1671638400,https://media-2.api-sports.io/basketball/teams/1954.png
+2022-12-30T00:00:00+00:00,james madison,georgia state,63 - 47,W,away,1672358400,https://media-3.api-sports.io/basketball/teams/1954.png
+2022-12-31T19:00:00+00:00,james madison,marshall,72 - 66,W,away,1672513200,https://media-3.api-sports.io/basketball/teams/1954.png
+2023-01-06T00:00:00+00:00,james madison,texas state,63 - 62,L,home,1672963200,https://media-1.api-sports.io/basketball/teams/1954.png
+2023-01-08T01:00:00+00:00,james madison,appalachian state,71 - 62,L,home,1673139600,https://media-1.api-sports.io/basketball/teams/1954.png
+2023-01-13T01:00:00+00:00,james madison,south alabama,,,away,1673571600,https://media-2.api-sports.io/basketball/teams/1954.png
+2023-01-15T00:00:00+00:00,james madison,georgia southern,,,home,1673740800,https://media-2.api-sports.io/basketball/teams/1954.png
+2023-01-20T00:00:00+00:00,james madison,troy,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/1954.png
+2023-01-21T20:00:00+00:00,james madison,southern miss,,,away,1674331200,https://media-1.api-sports.io/basketball/teams/1954.png
+2023-01-27T00:00:00+00:00,james madison,coastal carolina,,,home,1674777600,https://media-1.api-sports.io/basketball/teams/1954.png
+2023-01-28T21:00:00+00:00,james madison,louisiana monroe,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/1954.png
+2023-02-03T00:00:00+00:00,james madison,old dominion,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/1954.png
+2023-02-04T21:00:00+00:00,james madison,appalachian state,,,away,1675544400,https://media-3.api-sports.io/basketball/teams/1954.png
+2023-02-10T00:00:00+00:00,james madison,georgia southern,,,away,1675987200,https://media-2.api-sports.io/basketball/teams/1954.png
+2023-02-11T19:00:00+00:00,james madison,coastal carolina,,,away,1676142000,https://media-3.api-sports.io/basketball/teams/1954.png
+2023-02-17T00:00:00+00:00,james madison,old dominion,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/1954.png
+2023-02-18T21:00:00+00:00,james madison,louisiana lafayette,None - None,tie,home,1676754000,https://media-3.api-sports.io/basketball/teams/1954.png
+2023-02-22T21:00:00+00:00,james madison,marshall,None - None,tie,home,1677099600,https://media-2.api-sports.io/basketball/teams/1954.png
+2023-02-24T21:00:00+00:00,james madison,georgia state,None - None,tie,home,1677272400,https://media-3.api-sports.io/basketball/teams/1954.png

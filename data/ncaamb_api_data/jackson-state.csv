@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,jackson state,abilene christian,56 - 65,L,away,1667869200,https://media-2.api-sports.io/basketball/teams/1952.png
+2022-11-12T20:00:00+00:00,jackson state,tulsa,79 - 85,L,away,1668283200,https://media-1.api-sports.io/basketball/teams/1952.png
+2022-11-21T00:30:00+00:00,jackson state,ualr,91 - 94,L,away,1668990600,https://media-1.api-sports.io/basketball/teams/1952.png
+2022-11-24T01:30:00+00:00,jackson state,michigan,68 - 78,L,away,1669253400,https://media-1.api-sports.io/basketball/teams/1952.png
+2022-11-25T17:30:00+00:00,jackson state,indiana,51 - 90,L,away,1669397400,https://media-1.api-sports.io/basketball/teams/1952.png
+2022-11-30T00:00:00+00:00,jackson state,miami (ohio),78 - 95,L,away,1669766400,https://media-1.api-sports.io/basketball/teams/1952.png
+2022-12-03T20:00:00+00:00,jackson state,smu mustangs,69 - 68,W,away,1670097600,https://media-2.api-sports.io/basketball/teams/1952.png
+2022-12-07T01:00:00+00:00,jackson state,tcu,51 - 78,L,away,1670374800,https://media-3.api-sports.io/basketball/teams/1952.png
+2022-12-11T19:00:00+00:00,jackson state,akron,72 - 85,L,away,1670785200,https://media-2.api-sports.io/basketball/teams/1952.png
+2022-12-15T00:30:00+00:00,jackson state,mississippi st.,69 - 59,L,home,1671064200,https://media-1.api-sports.io/basketball/teams/1952.png
+2022-12-17T20:45:00+00:00,jackson state,texas tech,52 - 102,L,away,1671309900,https://media-3.api-sports.io/basketball/teams/1952.png
+2022-12-21T00:00:00+00:00,jackson state,alabama,64 - 84,L,away,1671580800,https://media-3.api-sports.io/basketball/teams/1952.png
+2022-12-22T20:00:00+00:00,jackson state,stephen f. austin,69 - 80,L,away,1671739200,https://media-1.api-sports.io/basketball/teams/1952.png
+2023-01-02T22:00:00+00:00,jackson state,alcorn state,67 - 66,W,away,1672696800,https://media-3.api-sports.io/basketball/teams/1952.png
+2023-01-07T23:00:00+00:00,jackson state,alabama state,58 - 61,W,home,1673132400,https://media-3.api-sports.io/basketball/teams/1952.png
+2023-01-10T01:30:00+00:00,jackson state,alabama a&m,,,home,1673314200,https://media-3.api-sports.io/basketball/teams/1952.png
+2023-01-15T02:00:00+00:00,jackson state,prairie view a&m,,,away,1673748000,https://media-1.api-sports.io/basketball/teams/1952.png
+2023-01-16T21:00:00+00:00,jackson state,texas southern,,,away,1673902800,https://media-1.api-sports.io/basketball/teams/1952.png
+2023-01-21T21:30:00+00:00,jackson state,bethune-cookman,,,home,1674336600,https://media-3.api-sports.io/basketball/teams/1952.png
+2023-01-24T01:30:00+00:00,jackson state,florida a&m,,,home,1674523800,https://media-1.api-sports.io/basketball/teams/1952.png
+2023-01-28T23:30:00+00:00,jackson state,grambling st.,,,away,1674948600,https://media-1.api-sports.io/basketball/teams/1952.png
+2023-01-31T02:00:00+00:00,jackson state,southern univ.,,,away,1675130400,https://media-2.api-sports.io/basketball/teams/1952.png
+2023-02-04T23:30:00+00:00,jackson state,miss. valley st.,,,home,1675553400,https://media-2.api-sports.io/basketball/teams/1952.png
+2023-02-07T01:30:00+00:00,jackson state,arkansas-pine bluff,,,home,1675733400,https://media-2.api-sports.io/basketball/teams/1952.png
+2023-02-11T21:00:00+00:00,jackson state,florida a&m,,,away,1676149200,https://media-2.api-sports.io/basketball/teams/1952.png
+2023-02-14T00:30:00+00:00,jackson state,bethune-cookman,,,away,1676334600,https://media-3.api-sports.io/basketball/teams/1952.png
+2023-02-18T21:30:00+00:00,jackson state,alcorn state,,,home,1676755800,https://media-2.api-sports.io/basketball/teams/1952.png

@@ -1,0 +1,29 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T02:00:00+00:00,new mexico,southern utah,81 - 89,W,home,1667872800,https://media-3.api-sports.io/basketball/teams/2034.png
+2022-11-12T02:00:00+00:00,new mexico,south alabama,74 - 80,W,home,1668218400,https://media-3.api-sports.io/basketball/teams/2034.png
+2022-11-16T01:00:00+00:00,new mexico,smu mustangs,84 - 63,W,away,1668560400,https://media-1.api-sports.io/basketball/teams/2034.png
+2022-11-20T00:00:00+00:00,new mexico,new mexico state,None - None,tie,home,1668902400,https://media-1.api-sports.io/basketball/teams/2034.png
+2022-11-26T00:00:00+00:00,new mexico,jacksonville state,61 - 79,W,home,1669420800,https://media-3.api-sports.io/basketball/teams/2034.png
+2022-11-27T00:00:00+00:00,new mexico,north dakota st,55 - 76,W,home,1669507200,https://media-2.api-sports.io/basketball/teams/2034.png
+2022-11-28T00:30:00+00:00,new mexico,northern colorado,74 - 98,W,home,1669595400,https://media-1.api-sports.io/basketball/teams/2034.png
+2022-12-01T03:00:00+00:00,new mexico,st. marys (ca),69 - 65,W,away,1669863600,https://media-1.api-sports.io/basketball/teams/2034.png
+2022-12-04T02:00:00+00:00,new mexico,new mexico state,None - None,tie,away,1670119200,https://media-1.api-sports.io/basketball/teams/2034.png
+2022-12-07T02:00:00+00:00,new mexico,western n. m.,63 - 102,W,home,1670378400,https://media-2.api-sports.io/basketball/teams/2034.png
+2022-12-10T21:00:00+00:00,new mexico,utsa roadrunners,76 - 94,W,home,1670706000,https://media-2.api-sports.io/basketball/teams/2034.png
+2022-12-13T04:30:00+00:00,new mexico,san francisco,67 - 64,W,away,1670905800,https://media-1.api-sports.io/basketball/teams/2034.png
+2022-12-18T23:30:00+00:00,new mexico,iona,74 - 82,W,home,1671406200,https://media-3.api-sports.io/basketball/teams/2034.png
+2022-12-21T02:00:00+00:00,new mexico,prairie view a&m,63 - 94,W,home,1671588000,https://media-3.api-sports.io/basketball/teams/2034.png
+2022-12-29T02:00:00+00:00,new mexico,colorado state,69 - 88,W,home,1672279200,https://media-3.api-sports.io/basketball/teams/2034.png
+2022-12-31T21:00:00+00:00,new mexico,wyoming,76 - 75,W,away,1672520400,https://media-1.api-sports.io/basketball/teams/2034.png
+2023-01-04T04:00:00+00:00,new mexico,fresno state,67 - 71,L,away,1672804800,https://media-3.api-sports.io/basketball/teams/2034.png
+2023-01-08T02:30:00+00:00,new mexico,unlv,84 - 77,L,home,1673145000,https://media-1.api-sports.io/basketball/teams/2034.png
+2023-01-15T02:00:00+00:00,new mexico,san diego state,,,away,1673748000,https://media-2.api-sports.io/basketball/teams/2034.png
+2023-01-18T02:00:00+00:00,new mexico,san jose state,,,home,1674007200,https://media-3.api-sports.io/basketball/teams/2034.png
+2023-01-21T04:00:00+00:00,new mexico,boise state,,,home,1674273600,https://media-1.api-sports.io/basketball/teams/2034.png
+2023-01-24T02:00:00+00:00,new mexico,nevada,,,away,1674525600,https://media-3.api-sports.io/basketball/teams/2034.png
+2023-01-28T03:30:00+00:00,new mexico,air force,,,home,1674876600,https://media-2.api-sports.io/basketball/teams/2034.png
+2023-02-02T03:30:00+00:00,new mexico,utah state,,,away,1675308600,https://media-2.api-sports.io/basketball/teams/2034.png
+2023-02-08T03:30:00+00:00,new mexico,nevada,,,home,1675827000,https://media-2.api-sports.io/basketball/teams/2034.png
+2023-02-11T02:00:00+00:00,new mexico,air force,,,away,1676080800,https://media-1.api-sports.io/basketball/teams/2034.png
+2023-02-15T03:00:00+00:00,new mexico,wyoming,,,home,1676430000,https://media-3.api-sports.io/basketball/teams/2034.png
+2023-02-18T03:30:00+00:00,new mexico,san jose state,,,away,1676691000,https://media-1.api-sports.io/basketball/teams/2034.png

@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,arkansas,north dakota st,58 - 76,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/177.png
+2022-11-12T01:00:00+00:00,arkansas,fordham,48 - 74,W,home,1668214800,https://media-2.api-sports.io/basketball/teams/177.png
+2022-11-17T01:00:00+00:00,arkansas,south dakota st.,56 - 71,W,home,1668646800,https://media-1.api-sports.io/basketball/teams/177.png
+2022-11-21T22:00:00+00:00,arkansas,louisville,54 - 80,W,home,1669068000,https://media-1.api-sports.io/basketball/teams/177.png
+2022-11-23T01:00:00+00:00,arkansas,creighton,90 - 87,L,home,1669165200,https://media-3.api-sports.io/basketball/teams/177.png
+2022-11-24T03:00:00+00:00,arkansas,san diego state,78 - 74,W,away,1669258800,https://media-2.api-sports.io/basketball/teams/177.png
+2022-11-29T01:00:00+00:00,arkansas,troy,61 - 74,W,home,1669683600,https://media-2.api-sports.io/basketball/teams/177.png
+2022-12-03T21:00:00+00:00,arkansas,san jose state,58 - 99,W,home,1670101200,https://media-3.api-sports.io/basketball/teams/177.png
+2022-12-07T00:00:00+00:00,arkansas,nc greensboro,58 - 65,W,home,1670371200,https://media-1.api-sports.io/basketball/teams/177.png
+2022-12-10T18:00:00+00:00,arkansas,oklahoma,78 - 88,W,home,1670695200,https://media-1.api-sports.io/basketball/teams/177.png
+2022-12-17T21:00:00+00:00,arkansas,bradley,57 - 76,W,home,1671310800,https://media-1.api-sports.io/basketball/teams/177.png
+2022-12-22T02:00:00+00:00,arkansas,unc asheville,51 - 85,W,home,1671674400,https://media-1.api-sports.io/basketball/teams/177.png
+2022-12-29T02:00:00+00:00,arkansas,lsu,57 - 60,L,away,1672279200,https://media-2.api-sports.io/basketball/teams/177.png
+2023-01-05T01:30:00+00:00,arkansas,missouri,68 - 74,W,home,1672882200,https://media-2.api-sports.io/basketball/teams/177.png
+2023-01-08T01:30:00+00:00,arkansas,auburn,59 - 72,L,away,1673141400,https://media-3.api-sports.io/basketball/teams/177.png
+2023-01-12T00:00:00+00:00,arkansas,alabama,,,home,1673481600,https://media-2.api-sports.io/basketball/teams/177.png
+2023-01-14T19:00:00+00:00,arkansas,vanderbilt,,,away,1673722800,https://media-1.api-sports.io/basketball/teams/177.png
+2023-01-19T02:00:00+00:00,arkansas,missouri,,,away,1674093600,https://media-2.api-sports.io/basketball/teams/177.png
+2023-01-21T17:00:00+00:00,arkansas,ole miss,,,home,1674320400,https://media-3.api-sports.io/basketball/teams/177.png
+2023-01-25T00:00:00+00:00,arkansas,lsu,,,home,1674604800,https://media-1.api-sports.io/basketball/teams/177.png
+2023-01-28T21:00:00+00:00,arkansas,baylor,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/177.png
+2023-02-01T00:00:00+00:00,arkansas,texas a&m,,,home,1675209600,https://media-2.api-sports.io/basketball/teams/177.png
+2023-02-04T20:30:00+00:00,arkansas,south carolina,,,away,1675542600,https://media-3.api-sports.io/basketball/teams/177.png
+2023-02-08T02:00:00+00:00,arkansas,kentucky,,,away,1675821600,https://media-2.api-sports.io/basketball/teams/177.png
+2023-02-11T23:00:00+00:00,arkansas,mississippi st.,,,home,1676156400,https://media-1.api-sports.io/basketball/teams/177.png
+2023-02-16T02:00:00+00:00,arkansas,texas a&m,,,away,1676512800,https://media-2.api-sports.io/basketball/teams/177.png
+2023-02-18T19:00:00+00:00,arkansas,florida,,,home,1676746800,https://media-1.api-sports.io/basketball/teams/177.png

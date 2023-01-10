@@ -1,0 +1,87 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-10-05T23:00:00+00:00,indiana pacers,charlotte hornets,122 - 97,W,away,1665010800,https://media-2.api-sports.io/basketball/teams/143.png
+2022-10-07T23:30:00+00:00,indiana pacers,new york knicks,114 - 131,L,away,1665185400,https://media-3.api-sports.io/basketball/teams/143.png
+2022-10-12T23:00:00+00:00,indiana pacers,new york knicks,100 - 109,W,home,1665615600,https://media-2.api-sports.io/basketball/teams/143.png
+2022-10-14T23:00:00+00:00,indiana pacers,houston rockets,122 - 114,L,home,1665788400,https://media-3.api-sports.io/basketball/teams/143.png
+2022-10-19T23:00:00+00:00,indiana pacers,washington wizards,114 - 107,L,home,1666220400,https://media-2.api-sports.io/basketball/teams/143.png
+2022-10-21T23:00:00+00:00,indiana pacers,san antonio spurs,137 - 134,L,home,1666393200,https://media-1.api-sports.io/basketball/teams/143.png
+2022-10-22T23:00:00+00:00,indiana pacers,detroit pistons,115 - 124,W,home,1666479600,https://media-1.api-sports.io/basketball/teams/143.png
+2022-10-24T23:00:00+00:00,indiana pacers,philadelphia 76ers,106 - 120,L,away,1666652400,https://media-2.api-sports.io/basketball/teams/143.png
+2022-10-27T00:00:00+00:00,indiana pacers,chicago bulls,109 - 124,L,away,1666828800,https://media-3.api-sports.io/basketball/teams/143.png
+2022-10-28T23:30:00+00:00,indiana pacers,washington wizards,127 - 117,W,away,1666999800,https://media-2.api-sports.io/basketball/teams/143.png
+2022-10-29T23:30:00+00:00,indiana pacers,brooklyn nets,125 - 116,W,away,1667086200,https://media-2.api-sports.io/basketball/teams/143.png
+2022-10-31T23:30:00+00:00,indiana pacers,brooklyn nets,109 - 116,L,away,1667259000,https://media-1.api-sports.io/basketball/teams/143.png
+2022-11-04T23:00:00+00:00,indiana pacers,miami heat,99 - 101,W,home,1667602800,https://media-1.api-sports.io/basketball/teams/143.png
+2022-11-08T00:45:00+00:00,indiana pacers,new orleans pelicans,122 - 129,W,home,1667868300,https://media-3.api-sports.io/basketball/teams/143.png
+2022-11-10T00:00:00+00:00,indiana pacers,denver nuggets,122 - 119,L,home,1668038400,https://media-3.api-sports.io/basketball/teams/143.png
+2022-11-13T00:00:00+00:00,indiana pacers,toronto raptors,104 - 118,W,home,1668297600,https://media-3.api-sports.io/basketball/teams/143.png
+2022-11-17T00:00:00+00:00,indiana pacers,charlotte hornets,125 - 113,W,away,1668643200,https://media-3.api-sports.io/basketball/teams/143.png
+2022-11-19T01:00:00+00:00,indiana pacers,houston rockets,99 - 91,W,away,1668819600,https://media-3.api-sports.io/basketball/teams/143.png
+2022-11-20T00:00:00+00:00,indiana pacers,orlando magic,113 - 114,W,home,1668902400,https://media-2.api-sports.io/basketball/teams/143.png
+2022-11-22T00:00:00+00:00,indiana pacers,orlando magic,102 - 123,W,home,1669075200,https://media-3.api-sports.io/basketball/teams/143.png
+2022-11-24T00:00:00+00:00,indiana pacers,minnesota timberwolves,115 - 101,L,home,1669248000,https://media-2.api-sports.io/basketball/teams/143.png
+2022-11-26T01:00:00+00:00,indiana pacers,brooklyn nets,117 - 128,W,home,1669424400,https://media-1.api-sports.io/basketball/teams/143.png
+2022-11-27T21:00:00+00:00,indiana pacers,los angeles clippers,100 - 114,L,away,1669582800,https://media-3.api-sports.io/basketball/teams/143.png
+2022-11-29T03:30:00+00:00,indiana pacers,los angeles lakers,116 - 115,W,away,1669692600,https://media-1.api-sports.io/basketball/teams/143.png
+2022-12-01T03:00:00+00:00,indiana pacers,sacramento kings,114 - 137,L,away,1669863600,https://media-3.api-sports.io/basketball/teams/143.png
+2022-12-03T02:00:00+00:00,indiana pacers,utah jazz,119 - 139,L,away,1670032800,https://media-1.api-sports.io/basketball/teams/143.png
+2022-12-05T02:00:00+00:00,indiana pacers,portland trail blazers,100 - 116,L,away,1670205600,https://media-3.api-sports.io/basketball/teams/143.png
+2022-12-06T03:00:00+00:00,indiana pacers,golden state warriors,112 - 104,W,away,1670295600,https://media-2.api-sports.io/basketball/teams/143.png
+2022-12-08T01:00:00+00:00,indiana pacers,minnesota timberwolves,115 - 121,L,away,1670461200,https://media-1.api-sports.io/basketball/teams/143.png
+2022-12-10T00:00:00+00:00,indiana pacers,washington wizards,111 - 121,W,home,1670630400,https://media-3.api-sports.io/basketball/teams/143.png
+2022-12-11T00:00:00+00:00,indiana pacers,brooklyn nets,136 - 133,L,home,1670716800,https://media-2.api-sports.io/basketball/teams/143.png
+2022-12-13T00:00:00+00:00,indiana pacers,miami heat,87 - 82,L,home,1670889600,https://media-3.api-sports.io/basketball/teams/143.png
+2022-12-15T00:00:00+00:00,indiana pacers,golden state warriors,119 - 125,W,home,1671062400,https://media-3.api-sports.io/basketball/teams/143.png
+2022-12-17T00:30:00+00:00,indiana pacers,cleveland cavaliers,112 - 118,L,away,1671237000,https://media-3.api-sports.io/basketball/teams/143.png
+2022-12-18T22:00:00+00:00,indiana pacers,new york knicks,109 - 106,L,home,1671400800,https://media-3.api-sports.io/basketball/teams/143.png
+2022-12-22T00:30:00+00:00,indiana pacers,boston celtics,117 - 112,W,away,1671669000,https://media-2.api-sports.io/basketball/teams/143.png
+2022-12-24T01:00:00+00:00,indiana pacers,miami heat,111 - 108,W,away,1671843600,https://media-2.api-sports.io/basketball/teams/143.png
+2022-12-27T01:00:00+00:00,indiana pacers,new orleans pelicans,93 - 113,L,away,1672102800,https://media-2.api-sports.io/basketball/teams/143.png
+2022-12-28T00:30:00+00:00,indiana pacers,atlanta hawks,114 - 129,W,home,1672187400,https://media-1.api-sports.io/basketball/teams/143.png
+2022-12-30T00:00:00+00:00,indiana pacers,cleveland cavaliers,126 - 135,W,home,1672358400,https://media-2.api-sports.io/basketball/teams/143.png
+2022-12-31T20:00:00+00:00,indiana pacers,los angeles clippers,130 - 131,W,home,1672516800,https://media-1.api-sports.io/basketball/teams/143.png
+2023-01-03T00:00:00+00:00,indiana pacers,toronto raptors,114 - 122,W,home,1672704000,https://media-2.api-sports.io/basketball/teams/143.png
+2023-01-05T00:00:00+00:00,indiana pacers,philadelphia 76ers,126 - 129,L,away,1672876800,https://media-2.api-sports.io/basketball/teams/143.png
+2023-01-07T00:00:00+00:00,indiana pacers,portland trail blazers,99 - 108,W,home,1673049600,https://media-2.api-sports.io/basketball/teams/143.png
+2023-01-08T22:00:00+00:00,indiana pacers,charlotte hornets,111 - 116,W,home,1673215200,https://media-1.api-sports.io/basketball/teams/143.png
+2023-01-12T00:30:00+00:00,indiana pacers,new york knicks,,,away,1673483400,https://media-2.api-sports.io/basketball/teams/143.png
+2023-01-14T00:00:00+00:00,indiana pacers,atlanta hawks,,,home,1673654400,https://media-3.api-sports.io/basketball/teams/143.png
+2023-01-15T00:00:00+00:00,indiana pacers,memphis grizzlies,,,home,1673740800,https://media-1.api-sports.io/basketball/teams/143.png
+2023-01-16T19:30:00+00:00,indiana pacers,milwaukee bucks,,,away,1673897400,https://media-2.api-sports.io/basketball/teams/143.png
+2023-01-19T01:00:00+00:00,indiana pacers,oklahoma city thunder,,,away,1674090000,https://media-3.api-sports.io/basketball/teams/143.png
+2023-01-21T02:00:00+00:00,indiana pacers,denver nuggets,,,away,1674266400,https://media-3.api-sports.io/basketball/teams/143.png
+2023-01-22T02:00:00+00:00,indiana pacers,phoenix suns,,,away,1674352800,https://media-1.api-sports.io/basketball/teams/143.png
+2023-01-25T00:00:00+00:00,indiana pacers,chicago bulls,,,home,1674604800,https://media-1.api-sports.io/basketball/teams/143.png
+2023-01-26T00:00:00+00:00,indiana pacers,orlando magic,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/143.png
+2023-01-28T00:00:00+00:00,indiana pacers,milwaukee bucks,,,home,1674864000,https://media-3.api-sports.io/basketball/teams/143.png
+2023-01-29T23:00:00+00:00,indiana pacers,memphis grizzlies,,,away,1675033200,https://media-2.api-sports.io/basketball/teams/143.png
+2023-02-03T00:00:00+00:00,indiana pacers,los angeles lakers,,,home,1675382400,https://media-1.api-sports.io/basketball/teams/143.png
+2023-02-04T00:00:00+00:00,indiana pacers,sacramento kings,,,home,1675468800,https://media-2.api-sports.io/basketball/teams/143.png
+2023-02-05T22:00:00+00:00,indiana pacers,cleveland cavaliers,,,home,1675634400,https://media-1.api-sports.io/basketball/teams/143.png
+2023-02-09T00:30:00+00:00,indiana pacers,miami heat,,,away,1675902600,https://media-2.api-sports.io/basketball/teams/143.png
+2023-02-11T00:00:00+00:00,indiana pacers,phoenix suns,,,home,1676073600,https://media-3.api-sports.io/basketball/teams/143.png
+2023-02-12T00:00:00+00:00,indiana pacers,washington wizards,,,away,1676160000,https://media-1.api-sports.io/basketball/teams/143.png
+2023-02-14T00:00:00+00:00,indiana pacers,utah jazz,,,home,1676332800,https://media-1.api-sports.io/basketball/teams/143.png
+2023-02-16T00:00:00+00:00,indiana pacers,chicago bulls,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/143.png
+2023-02-24T00:00:00+00:00,indiana pacers,boston celtics,,,home,1677196800,https://media-3.api-sports.io/basketball/teams/143.png
+2023-02-26T00:00:00+00:00,indiana pacers,orlando magic,,,away,1677369600,https://media-1.api-sports.io/basketball/teams/143.png
+2023-03-01T01:30:00+00:00,indiana pacers,dallas mavericks,,,away,1677634200,https://media-2.api-sports.io/basketball/teams/143.png
+2023-03-03T01:30:00+00:00,indiana pacers,san antonio spurs,,,away,1677807000,https://media-2.api-sports.io/basketball/teams/143.png
+2023-03-05T20:30:00+00:00,indiana pacers,chicago bulls,,,away,1678048200,https://media-3.api-sports.io/basketball/teams/143.png
+2023-03-07T00:00:00+00:00,indiana pacers,philadelphia 76ers,,,home,1678147200,https://media-3.api-sports.io/basketball/teams/143.png
+2023-03-10T00:00:00+00:00,indiana pacers,houston rockets,,,home,1678406400,https://media-1.api-sports.io/basketball/teams/143.png
+2023-03-12T00:00:00+00:00,indiana pacers,detroit pistons,,,away,1678579200,https://media-3.api-sports.io/basketball/teams/143.png
+2023-03-13T23:00:00+00:00,indiana pacers,detroit pistons,,,away,1678748400,https://media-1.api-sports.io/basketball/teams/143.png
+2023-03-17T00:00:00+00:00,indiana pacers,milwaukee bucks,,,away,1679011200,https://media-3.api-sports.io/basketball/teams/143.png
+2023-03-18T23:00:00+00:00,indiana pacers,philadelphia 76ers,,,home,1679180400,https://media-3.api-sports.io/basketball/teams/143.png
+2023-03-20T23:00:00+00:00,indiana pacers,charlotte hornets,,,away,1679353200,https://media-2.api-sports.io/basketball/teams/143.png
+2023-03-22T23:30:00+00:00,indiana pacers,toronto raptors,,,away,1679527800,https://media-3.api-sports.io/basketball/teams/143.png
+2023-03-24T23:00:00+00:00,indiana pacers,boston celtics,,,away,1679698800,https://media-2.api-sports.io/basketball/teams/143.png
+2023-03-25T21:00:00+00:00,indiana pacers,atlanta hawks,,,away,1679778000,https://media-2.api-sports.io/basketball/teams/143.png
+2023-03-27T23:00:00+00:00,indiana pacers,dallas mavericks,,,home,1679958000,https://media-2.api-sports.io/basketball/teams/143.png
+2023-03-29T23:00:00+00:00,indiana pacers,milwaukee bucks,,,home,1680130800,https://media-2.api-sports.io/basketball/teams/143.png
+2023-03-31T23:00:00+00:00,indiana pacers,oklahoma city thunder,,,home,1680303600,https://media-1.api-sports.io/basketball/teams/143.png
+2023-04-03T00:00:00+00:00,indiana pacers,cleveland cavaliers,,,away,1680480000,https://media-3.api-sports.io/basketball/teams/143.png
+2023-04-05T23:00:00+00:00,indiana pacers,new york knicks,,,home,1680735600,https://media-2.api-sports.io/basketball/teams/143.png
+2023-04-07T23:00:00+00:00,indiana pacers,detroit pistons,,,home,1680908400,https://media-1.api-sports.io/basketball/teams/143.png
+2023-04-09T17:00:00+00:00,indiana pacers,new york knicks,None - None,tie,away,1681059600,https://media-1.api-sports.io/basketball/teams/143.png

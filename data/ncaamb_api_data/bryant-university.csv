@@ -1,0 +1,29 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,bryant university,thomas college,39 - 147,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/1843.png
+2022-11-12T00:00:00+00:00,bryant university,dartmouth,89 - 70,W,away,1668211200,https://media-1.api-sports.io/basketball/teams/1843.png
+2022-11-15T00:00:00+00:00,bryant university,maine-fort kent,None - None,tie,home,1668470400,https://media-3.api-sports.io/basketball/teams/1843.png
+2022-11-18T00:00:00+00:00,bryant university,florida atlantic,74 - 85,L,away,1668729600,https://media-3.api-sports.io/basketball/teams/1843.png
+2022-11-20T00:00:00+00:00,bryant university,florida international,91 - 85,W,away,1668902400,https://media-3.api-sports.io/basketball/teams/1843.png
+2022-11-21T17:00:00+00:00,bryant university,detroit,88 - 98,W,home,1669050000,https://media-2.api-sports.io/basketball/teams/1843.png
+2022-11-26T21:00:00+00:00,bryant university,syracuse,73 - 72,W,away,1669496400,https://media-1.api-sports.io/basketball/teams/1843.png
+2022-11-29T00:00:00+00:00,bryant university,framingham state,44 - 98,W,home,1669680000,https://media-1.api-sports.io/basketball/teams/1843.png
+2022-12-02T23:00:00+00:00,bryant university,brown,72 - 60,L,home,1670022000,https://media-2.api-sports.io/basketball/teams/1843.png
+2022-12-04T17:00:00+00:00,bryant university,cincinnati,71 - 97,L,away,1670173200,https://media-1.api-sports.io/basketball/teams/1843.png
+2022-12-07T00:00:00+00:00,bryant university,tulane,None - None,tie,away,1670371200,https://media-1.api-sports.io/basketball/teams/1843.png
+2022-12-09T23:00:00+00:00,bryant university,stony brook,60 - 79,W,home,1670626800,https://media-2.api-sports.io/basketball/teams/1843.png
+2022-12-11T19:00:00+00:00,bryant university,manhattan,104 - 97,W,away,1670785200,https://media-3.api-sports.io/basketball/teams/1843.png
+2022-12-17T17:30:00+00:00,bryant university,liberty,62 - 82,L,away,1671298200,https://media-2.api-sports.io/basketball/teams/1843.png
+2022-12-22T17:00:00+00:00,bryant university,towson,59 - 69,W,home,1671728400,https://media-2.api-sports.io/basketball/teams/1843.png
+2022-12-31T18:00:00+00:00,bryant university,binghamton,78 - 82,W,home,1672509600,https://media-2.api-sports.io/basketball/teams/1843.png
+2023-01-06T00:00:00+00:00,bryant university,vermont,64 - 74,L,away,1672963200,https://media-3.api-sports.io/basketball/teams/1843.png
+2023-01-08T18:00:00+00:00,bryant university,umbc retrievers,81 - 73,L,home,1673200800,https://media-1.api-sports.io/basketball/teams/1843.png
+2023-01-12T00:00:00+00:00,bryant university,albany,,,home,1673481600,https://media-1.api-sports.io/basketball/teams/1843.png
+2023-01-14T18:00:00+00:00,bryant university,new hampshire,,,away,1673719200,https://media-2.api-sports.io/basketball/teams/1843.png
+2023-01-20T00:00:00+00:00,bryant university,njit,,,home,1674172800,https://media-3.api-sports.io/basketball/teams/1843.png
+2023-01-22T18:00:00+00:00,bryant university,umass lowell,,,away,1674410400,https://media-1.api-sports.io/basketball/teams/1843.png
+2023-01-28T19:00:00+00:00,bryant university,binghamton,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/1843.png
+2023-02-02T00:00:00+00:00,bryant university,maine black bears,,,home,1675296000,https://media-2.api-sports.io/basketball/teams/1843.png
+2023-02-04T18:00:00+00:00,bryant university,new hampshire,,,home,1675533600,https://media-1.api-sports.io/basketball/teams/1843.png
+2023-02-09T00:00:00+00:00,bryant university,albany,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/1843.png
+2023-02-11T18:00:00+00:00,bryant university,umbc retrievers,,,away,1676138400,https://media-2.api-sports.io/basketball/teams/1843.png
+2023-02-16T00:00:00+00:00,bryant university,umass lowell,,,home,1676505600,https://media-3.api-sports.io/basketball/teams/1843.png

@@ -1,0 +1,31 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T04:30:00+00:00,sacramento state,ucla,50 - 76,L,away,1667881800,https://media-2.api-sports.io/basketball/teams/2101.png
+2022-11-13T03:00:00+00:00,sacramento state,uc san diego,65 - 55,W,away,1668308400,https://media-2.api-sports.io/basketball/teams/2101.png
+2022-11-15T02:00:00+00:00,sacramento state,denver,73 - 69,W,away,1668477600,https://media-2.api-sports.io/basketball/teams/2101.png
+2022-11-18T20:00:00+00:00,sacramento state,california merced,43 - 58,W,home,1668801600,https://media-1.api-sports.io/basketball/teams/2101.png
+2022-11-23T03:30:00+00:00,sacramento state,uc davis,71 - 82,L,away,1669174200,https://media-3.api-sports.io/basketball/teams/2101.png
+2022-11-26T01:30:00+00:00,sacramento state,hawaii,61 - 74,L,away,1669426200,https://media-1.api-sports.io/basketball/teams/2101.png
+2022-11-27T02:30:00+00:00,sacramento state,southern utah,91 - 87,L,home,1669516200,https://media-2.api-sports.io/basketball/teams/2101.png
+2022-12-03T22:00:00+00:00,sacramento state,santa clara,65 - 72,L,away,1670104800,https://media-2.api-sports.io/basketball/teams/2101.png
+2022-12-08T03:00:00+00:00,sacramento state,denver,85 - 87,W,home,1670468400,https://media-3.api-sports.io/basketball/teams/2101.png
+2022-12-10T23:30:00+00:00,sacramento state,long beach state,74 - 76,W,home,1670715000,https://media-2.api-sports.io/basketball/teams/2101.png
+2022-12-18T00:00:00+00:00,sacramento state,fresno state,59 - 53,W,away,1671321600,https://media-3.api-sports.io/basketball/teams/2101.png
+2022-12-22T02:00:00+00:00,sacramento state,cs fullerton,49 - 59,L,away,1671674400,https://media-2.api-sports.io/basketball/teams/2101.png
+2022-12-29T02:00:00+00:00,sacramento state,california state-stanislaus warriors,51 - 72,W,home,1672279200,https://media-3.api-sports.io/basketball/teams/2101.png
+2022-12-31T22:00:00+00:00,sacramento state,portland state,63 - 74,W,home,1672524000,https://media-3.api-sports.io/basketball/teams/2101.png
+2023-01-06T02:00:00+00:00,sacramento state,idaho,85 - 83,W,away,1672970400,https://media-2.api-sports.io/basketball/teams/2101.png
+2023-01-07T22:00:00+00:00,sacramento state,east. washington,75 - 78,L,away,1673128800,https://media-1.api-sports.io/basketball/teams/2101.png
+2023-01-13T03:00:00+00:00,sacramento state,northern colorado,,,home,1673578800,https://media-3.api-sports.io/basketball/teams/2101.png
+2023-01-14T22:00:00+00:00,sacramento state,northern arizona,,,home,1673733600,https://media-3.api-sports.io/basketball/teams/2101.png
+2023-01-20T02:00:00+00:00,sacramento state,idaho state,,,away,1674180000,https://media-1.api-sports.io/basketball/teams/2101.png
+2023-01-22T02:00:00+00:00,sacramento state,weber state,,,away,1674352800,https://media-2.api-sports.io/basketball/teams/2101.png
+2023-01-27T03:00:00+00:00,sacramento state,montana,,,home,1674788400,https://media-3.api-sports.io/basketball/teams/2101.png
+2023-01-29T03:00:00+00:00,sacramento state,montana state,,,home,1674961200,https://media-1.api-sports.io/basketball/teams/2101.png
+2023-02-03T03:00:00+00:00,sacramento state,east. washington,,,home,1675393200,https://media-1.api-sports.io/basketball/teams/2101.png
+2023-02-04T22:00:00+00:00,sacramento state,idaho,,,home,1675548000,https://media-2.api-sports.io/basketball/teams/2101.png
+2023-02-10T01:00:00+00:00,sacramento state,northern arizona,,,away,1675990800,https://media-2.api-sports.io/basketball/teams/2101.png
+2023-02-12T01:00:00+00:00,sacramento state,northern colorado,,,away,1676163600,https://media-2.api-sports.io/basketball/teams/2101.png
+2023-02-17T03:00:00+00:00,sacramento state,weber state,,,home,1676602800,https://media-3.api-sports.io/basketball/teams/2101.png
+2023-02-18T21:00:00+00:00,sacramento state,idaho state,None - None,tie,home,1676754000,https://media-2.api-sports.io/basketball/teams/2101.png
+2023-02-23T21:00:00+00:00,sacramento state,montana state,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/2101.png
+2023-02-25T21:00:00+00:00,sacramento state,montana,None - None,tie,away,1677358800,https://media-2.api-sports.io/basketball/teams/2101.png

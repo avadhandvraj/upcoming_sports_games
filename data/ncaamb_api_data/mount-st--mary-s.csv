@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,mount st. mary's,west virginia,59 - 76,L,away,1667865600,https://media-2.api-sports.io/basketball/teams/2020.png
+2022-11-12T00:00:00+00:00,mount st. mary's,coppin state,78 - 83,L,away,1668211200,https://media-3.api-sports.io/basketball/teams/2020.png
+2022-11-16T00:00:00+00:00,mount st. mary's,mcdaniel,38 - 60,W,home,1668556800,https://media-3.api-sports.io/basketball/teams/2020.png
+2022-11-19T04:00:00+00:00,mount st. mary's,usc,74 - 83,L,away,1668830400,https://media-3.api-sports.io/basketball/teams/2020.png
+2022-11-21T03:00:00+00:00,mount st. mary's,cal poly,73 - 68,W,away,1668999600,https://media-3.api-sports.io/basketball/teams/2020.png
+2022-11-23T03:00:00+00:00,mount st. mary's,pacific,69 - 65,W,away,1669172400,https://media-1.api-sports.io/basketball/teams/2020.png
+2022-11-26T16:00:00+00:00,mount st. mary's,navy,59 - 75,L,away,1669478400,https://media-3.api-sports.io/basketball/teams/2020.png
+2022-12-02T00:00:00+00:00,mount st. mary's,st. peters,73 - 58,W,away,1669939200,https://media-2.api-sports.io/basketball/teams/2020.png
+2022-12-03T21:00:00+00:00,mount st. mary's,rider,68 - 65,L,home,1670101200,https://media-1.api-sports.io/basketball/teams/2020.png
+2022-12-07T00:00:00+00:00,mount st. mary's,american university,69 - 61,L,home,1670371200,https://media-1.api-sports.io/basketball/teams/2020.png
+2022-12-11T00:00:00+00:00,mount st. mary's,loyola maryland,34 - 51,W,home,1670716800,https://media-1.api-sports.io/basketball/teams/2020.png
+2022-12-18T19:00:00+00:00,mount st. mary's,robert morris,68 - 59,L,home,1671390000,https://media-2.api-sports.io/basketball/teams/2020.png
+2022-12-21T19:00:00+00:00,mount st. mary's,howard,62 - 63,L,away,1671649200,https://media-3.api-sports.io/basketball/teams/2020.png
+2022-12-31T17:00:00+00:00,mount st. mary's,niagara,55 - 67,L,away,1672506000,https://media-1.api-sports.io/basketball/teams/2020.png
+2023-01-02T20:00:00+00:00,mount st. mary's,canisius,64 - 60,W,away,1672689600,https://media-2.api-sports.io/basketball/teams/2020.png
+2023-01-08T19:00:00+00:00,mount st. mary's,marist,56 - 63,L,away,1673204400,https://media-1.api-sports.io/basketball/teams/2020.png
+2023-01-14T00:00:00+00:00,mount st. mary's,manhattan,,,home,1673654400,https://media-2.api-sports.io/basketball/teams/2020.png
+2023-01-15T19:00:00+00:00,mount st. mary's,quinnipiac,,,home,1673809200,https://media-1.api-sports.io/basketball/teams/2020.png
+2023-01-21T00:00:00+00:00,mount st. mary's,siena,,,away,1674259200,https://media-3.api-sports.io/basketball/teams/2020.png
+2023-01-22T19:00:00+00:00,mount st. mary's,marist,,,home,1674414000,https://media-1.api-sports.io/basketball/teams/2020.png
+2023-01-27T00:00:00+00:00,mount st. mary's,fairfield,,,home,1674777600,https://media-3.api-sports.io/basketball/teams/2020.png
+2023-01-28T22:00:00+00:00,mount st. mary's,st. peters,,,home,1674943200,https://media-2.api-sports.io/basketball/teams/2020.png
+2023-02-04T00:00:00+00:00,mount st. mary's,iona,,,away,1675468800,https://media-2.api-sports.io/basketball/teams/2020.png
+2023-02-05T19:00:00+00:00,mount st. mary's,quinnipiac,,,away,1675623600,https://media-1.api-sports.io/basketball/teams/2020.png
+2023-02-11T00:00:00+00:00,mount st. mary's,siena,,,home,1676073600,https://media-2.api-sports.io/basketball/teams/2020.png
+2023-02-12T19:00:00+00:00,mount st. mary's,fairfield,,,away,1676228400,https://media-3.api-sports.io/basketball/teams/2020.png
+2023-02-18T00:00:00+00:00,mount st. mary's,niagara,,,home,1676678400,https://media-1.api-sports.io/basketball/teams/2020.png

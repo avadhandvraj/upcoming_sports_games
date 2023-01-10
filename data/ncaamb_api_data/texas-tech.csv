@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T02:00:00+00:00,texas tech,northwestern st.,49 - 73,W,home,1667872800,https://media-2.api-sports.io/basketball/teams/2146.png
+2022-11-11T01:00:00+00:00,texas tech,texas southern,54 - 78,W,home,1668128400,https://media-2.api-sports.io/basketball/teams/2146.png
+2022-11-15T01:00:00+00:00,texas tech,louisiana tech,55 - 64,W,home,1668474000,https://media-3.api-sports.io/basketball/teams/2146.png
+2022-11-21T19:30:00+00:00,texas tech,creighton,65 - 76,L,away,1669059000,https://media-3.api-sports.io/basketball/teams/2146.png
+2022-11-22T19:30:00+00:00,texas tech,louisville,70 - 38,W,away,1669145400,https://media-3.api-sports.io/basketball/teams/2146.png
+2022-11-23T19:30:00+00:00,texas tech,ohio state,73 - 80,L,away,1669231800,https://media-1.api-sports.io/basketball/teams/2146.png
+2022-12-01T01:00:00+00:00,texas tech,georgetown,65 - 79,W,home,1669856400,https://media-2.api-sports.io/basketball/teams/2146.png
+2022-12-08T01:00:00+00:00,texas tech,nicholls state,71 - 78,W,home,1670461200,https://media-3.api-sports.io/basketball/teams/2146.png
+2022-12-14T01:00:00+00:00,texas tech,east. washington,70 - 77,W,home,1670979600,https://media-1.api-sports.io/basketball/teams/2146.png
+2022-12-17T20:45:00+00:00,texas tech,jackson state,52 - 102,W,home,1671309900,https://media-2.api-sports.io/basketball/teams/2146.png
+2022-12-21T19:00:00+00:00,texas tech,houston christian,67 - 111,W,home,1671649200,https://media-2.api-sports.io/basketball/teams/2146.png
+2022-12-28T01:00:00+00:00,texas tech,south carolina st,71 - 110,W,home,1672189200,https://media-1.api-sports.io/basketball/teams/2146.png
+2022-12-31T17:00:00+00:00,texas tech,tcu,61 - 67,L,away,1672506000,https://media-1.api-sports.io/basketball/teams/2146.png
+2023-01-04T02:00:00+00:00,texas tech,kansas,75 - 72,L,home,1672797600,https://media-3.api-sports.io/basketball/teams/2146.png
+2023-01-08T00:00:00+00:00,texas tech,oklahoma,68 - 63,L,home,1673136000,https://media-1.api-sports.io/basketball/teams/2146.png
+2023-01-11T01:00:00+00:00,texas tech,iowa state,,,away,1673398800,https://media-1.api-sports.io/basketball/teams/2146.png
+2023-01-15T01:00:00+00:00,texas tech,texas,,,away,1673744400,https://media-3.api-sports.io/basketball/teams/2146.png
+2023-01-18T02:00:00+00:00,texas tech,baylor,,,home,1674007200,https://media-2.api-sports.io/basketball/teams/2146.png
+2023-01-21T19:00:00+00:00,texas tech,kansas state,,,away,1674327600,https://media-3.api-sports.io/basketball/teams/2146.png
+2023-01-26T00:00:00+00:00,texas tech,west virginia,,,home,1674691200,https://media-1.api-sports.io/basketball/teams/2146.png
+2023-01-28T19:00:00+00:00,texas tech,lsu,,,away,1674932400,https://media-3.api-sports.io/basketball/teams/2146.png
+2023-01-31T02:00:00+00:00,texas tech,iowa state,,,home,1675130400,https://media-2.api-sports.io/basketball/teams/2146.png
+2023-02-04T18:00:00+00:00,texas tech,baylor,,,away,1675533600,https://media-2.api-sports.io/basketball/teams/2146.png
+2023-02-09T01:00:00+00:00,texas tech,oklahoma state,,,away,1675904400,https://media-1.api-sports.io/basketball/teams/2146.png
+2023-02-12T00:00:00+00:00,texas tech,kansas state,,,home,1676160000,https://media-2.api-sports.io/basketball/teams/2146.png
+2023-02-14T02:00:00+00:00,texas tech,texas,,,home,1676340000,https://media-2.api-sports.io/basketball/teams/2146.png
+2023-02-18T17:00:00+00:00,texas tech,west virginia,,,away,1676739600,https://media-3.api-sports.io/basketball/teams/2146.png

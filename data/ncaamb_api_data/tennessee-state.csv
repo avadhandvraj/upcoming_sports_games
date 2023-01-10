@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T02:00:00+00:00,tennessee state,fisk,75 - 85,W,home,1667872800,https://media-3.api-sports.io/basketball/teams/2142.png
+2022-11-12T17:00:00+00:00,tennessee state,south carolina st,61 - 80,W,home,1668272400,https://media-2.api-sports.io/basketball/teams/2142.png
+2022-11-15T02:00:00+00:00,tennessee state,alabama a&m,76 - 87,W,home,1668477600,https://media-2.api-sports.io/basketball/teams/2142.png
+2022-11-18T01:00:00+00:00,tennessee state,southern illinois,44 - 57,L,away,1668733200,https://media-1.api-sports.io/basketball/teams/2142.png
+2022-11-21T20:00:00+00:00,tennessee state,cs northridge,73 - 74,W,home,1669060800,https://media-3.api-sports.io/basketball/teams/2142.png
+2022-11-23T22:00:00+00:00,tennessee state,high point,77 - 72,L,home,1669240800,https://media-3.api-sports.io/basketball/teams/2142.png
+2022-12-01T02:00:00+00:00,tennessee state,st. louis,63 - 80,L,away,1669860000,https://media-2.api-sports.io/basketball/teams/2142.png
+2022-12-03T21:00:00+00:00,tennessee state,austin peay,61 - 77,L,away,1670101200,https://media-1.api-sports.io/basketball/teams/2142.png
+2022-12-07T01:00:00+00:00,tennessee state,boyce,49 - 103,W,home,1670374800,https://media-1.api-sports.io/basketball/teams/2142.png
+2022-12-11T20:30:00+00:00,tennessee state,lipscomb,85 - 90,W,home,1670790600,https://media-3.api-sports.io/basketball/teams/2142.png
+2022-12-15T01:00:00+00:00,tennessee state,charleston southern,91 - 87,L,home,1671066000,https://media-3.api-sports.io/basketball/teams/2142.png
+2022-12-17T20:00:00+00:00,tennessee state,bryan,78 - 99,W,home,1671307200,https://media-2.api-sports.io/basketball/teams/2142.png
+2022-12-20T20:00:00+00:00,tennessee state,brescia,83 - 98,W,home,1671566400,https://media-3.api-sports.io/basketball/teams/2142.png
+2022-12-30T02:00:00+00:00,tennessee state,morehead state,83 - 75,L,home,1672365600,https://media-1.api-sports.io/basketball/teams/2142.png
+2022-12-31T21:30:00+00:00,tennessee state,ualr,69 - 94,W,home,1672522200,https://media-3.api-sports.io/basketball/teams/2142.png
+2023-01-06T00:00:00+00:00,tennessee state,siu edwardsville,72 - 81,L,away,1672963200,https://media-2.api-sports.io/basketball/teams/2142.png
+2023-01-07T21:30:00+00:00,tennessee state,lindenwood,60 - 57,W,away,1673127000,https://media-1.api-sports.io/basketball/teams/2142.png
+2023-01-13T02:00:00+00:00,tennessee state,ut martin,,,home,1673575200,https://media-2.api-sports.io/basketball/teams/2142.png
+2023-01-14T21:00:00+00:00,tennessee state,tennessee tech,,,away,1673730000,https://media-2.api-sports.io/basketball/teams/2142.png
+2023-01-20T02:00:00+00:00,tennessee state,eastern illinois,,,home,1674180000,https://media-1.api-sports.io/basketball/teams/2142.png
+2023-01-21T21:30:00+00:00,tennessee state,ualr,,,away,1674336600,https://media-3.api-sports.io/basketball/teams/2142.png
+2023-01-27T01:00:00+00:00,tennessee state,southeast missouri state,,,away,1674781200,https://media-2.api-sports.io/basketball/teams/2142.png
+2023-01-28T21:30:00+00:00,tennessee state,lindenwood,,,home,1674941400,https://media-1.api-sports.io/basketball/teams/2142.png
+2023-02-03T01:30:00+00:00,tennessee state,southern indiana,,,away,1675387800,https://media-2.api-sports.io/basketball/teams/2142.png
+2023-02-04T21:30:00+00:00,tennessee state,eastern illinois,,,away,1675546200,https://media-3.api-sports.io/basketball/teams/2142.png
+2023-02-10T02:00:00+00:00,tennessee state,southeast missouri state,,,home,1675994400,https://media-2.api-sports.io/basketball/teams/2142.png
+2023-02-11T21:30:00+00:00,tennessee state,tennessee tech,,,home,1676151000,https://media-1.api-sports.io/basketball/teams/2142.png
+2023-02-17T00:00:00+00:00,tennessee state,morehead state,,,away,1676592000,https://media-2.api-sports.io/basketball/teams/2142.png
+2023-02-18T21:30:00+00:00,tennessee state,siu edwardsville,,,home,1676755800,https://media-3.api-sports.io/basketball/teams/2142.png
+2023-02-23T21:00:00+00:00,tennessee state,ut martin,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/2142.png
+2023-02-25T21:00:00+00:00,tennessee state,southern indiana,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/2142.png

@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-07T23:45:00+00:00,st. john's (n.y.),merrimack warriors,72 - 97,W,home,1667864700,https://media-3.api-sports.io/basketball/teams/5859.png
+2022-11-12T23:00:00+00:00,st. john's (n.y.),lafayette,68 - 83,W,home,1668294000,https://media-3.api-sports.io/basketball/teams/5859.png
+2022-11-16T00:00:00+00:00,st. john's (n.y.),central connecticut state,74 - 91,W,home,1668556800,https://media-2.api-sports.io/basketball/teams/5859.png
+2022-11-17T23:30:00+00:00,st. john's (n.y.),nebraska,50 - 70,W,home,1668727800,https://media-3.api-sports.io/basketball/teams/5859.png
+2022-11-22T02:30:00+00:00,st. john's (n.y.),temple,78 - 72,W,away,1669084200,https://media-2.api-sports.io/basketball/teams/5859.png
+2022-11-23T02:30:00+00:00,st. john's (n.y.),syracuse,69 - 76,W,home,1669170600,https://media-3.api-sports.io/basketball/teams/5859.png
+2022-11-26T19:00:00+00:00,st. john's (n.y.),niagara,70 - 78,W,home,1669489200,https://media-3.api-sports.io/basketball/teams/5859.png
+2022-11-29T23:30:00+00:00,st. john's (n.y.),liu sharks,68 - 95,W,home,1669764600,https://media-1.api-sports.io/basketball/teams/5859.png
+2022-12-04T20:00:00+00:00,st. john's (n.y.),iowa state,60 - 71,L,away,1670184000,https://media-2.api-sports.io/basketball/teams/5859.png
+2022-12-07T23:30:00+00:00,st. john's (n.y.),depaul,67 - 86,W,home,1670455800,https://media-3.api-sports.io/basketball/teams/5859.png
+2022-12-10T23:00:00+00:00,st. john's (n.y.),new hampshire,51 - 64,W,home,1670713200,https://media-1.api-sports.io/basketball/teams/5859.png
+2022-12-17T19:30:00+00:00,st. john's (n.y.),florida state,93 - 79,W,away,1671305400,https://media-1.api-sports.io/basketball/teams/5859.png
+2022-12-21T23:30:00+00:00,st. john's (n.y.),villanova,63 - 78,L,away,1671665400,https://media-1.api-sports.io/basketball/teams/5859.png
+2022-12-29T02:00:00+00:00,st. john's (n.y.),xavier,84 - 79,L,home,1672279200,https://media-2.api-sports.io/basketball/teams/5859.png
+2022-12-31T17:00:00+00:00,st. john's (n.y.),seton hall,66 - 88,L,away,1672506000,https://media-2.api-sports.io/basketball/teams/5859.png
+2023-01-03T23:30:00+00:00,st. john's (n.y.),marquette,96 - 85,L,home,1672788600,https://media-1.api-sports.io/basketball/teams/5859.png
+2023-01-07T17:00:00+00:00,st. john's (n.y.),providence,80 - 83,L,away,1673110800,https://media-1.api-sports.io/basketball/teams/5859.png
+2023-01-10T23:30:00+00:00,st. john's (n.y.),butler,,,home,1673393400,https://media-2.api-sports.io/basketball/teams/5859.png
+2023-01-15T17:00:00+00:00,st. john's (n.y.),uconn,,,away,1673802000,https://media-3.api-sports.io/basketball/teams/5859.png
+2023-01-21T00:00:00+00:00,st. john's (n.y.),villanova,,,home,1674259200,https://media-2.api-sports.io/basketball/teams/5859.png
+2023-01-26T02:00:00+00:00,st. john's (n.y.),creighton,,,away,1674698400,https://media-1.api-sports.io/basketball/teams/5859.png
+2023-01-29T19:00:00+00:00,st. john's (n.y.),georgetown,,,home,1675018800,https://media-1.api-sports.io/basketball/teams/5859.png
+2023-02-02T01:30:00+00:00,st. john's (n.y.),seton hall,,,home,1675301400,https://media-1.api-sports.io/basketball/teams/5859.png
+2023-02-04T22:00:00+00:00,st. john's (n.y.),xavier,,,away,1675548000,https://media-1.api-sports.io/basketball/teams/5859.png
+2023-02-08T01:30:00+00:00,st. john's (n.y.),butler,,,away,1675819800,https://media-3.api-sports.io/basketball/teams/5859.png
+2023-02-11T17:00:00+00:00,st. john's (n.y.),providence,,,home,1676134800,https://media-2.api-sports.io/basketball/teams/5859.png
+2023-02-14T21:00:00+00:00,st. john's (n.y.),depaul,,,away,1676408400,https://media-2.api-sports.io/basketball/teams/5859.png

@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T00:00:00+00:00,ball state,earlham,39 - 109,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/1824.png
+2022-11-12T19:00:00+00:00,ball state,indiana state,71 - 83,L,away,1668279600,https://media-3.api-sports.io/basketball/teams/1824.png
+2022-11-17T01:30:00+00:00,ball state,nebraska o.,71 - 61,W,away,1668648600,https://media-2.api-sports.io/basketball/teams/1824.png
+2022-11-19T19:00:00+00:00,ball state,indiana south bend,72 - 86,W,home,1668884400,https://media-1.api-sports.io/basketball/teams/1824.png
+2022-11-25T17:00:00+00:00,ball state,vermont,78 - 73,L,home,1669395600,https://media-3.api-sports.io/basketball/teams/1824.png
+2022-11-26T17:00:00+00:00,ball state,missouri state,64 - 67,W,home,1669482000,https://media-1.api-sports.io/basketball/teams/1824.png
+2022-11-27T19:30:00+00:00,ball state,san jose state,65 - 67,L,away,1669577400,https://media-1.api-sports.io/basketball/teams/1824.png
+2022-12-03T19:00:00+00:00,ball state,duquesne,77 - 78,L,away,1670094000,https://media-1.api-sports.io/basketball/teams/1824.png
+2022-12-08T01:00:00+00:00,ball state,eastern illinois,76 - 59,W,away,1670461200,https://media-1.api-sports.io/basketball/teams/1824.png
+2022-12-10T19:00:00+00:00,ball state,evansville,69 - 88,W,home,1670698800,https://media-1.api-sports.io/basketball/teams/1824.png
+2022-12-17T20:30:00+00:00,ball state,illinois state,69 - 83,W,home,1671309000,https://media-1.api-sports.io/basketball/teams/1824.png
+2022-12-22T00:00:00+00:00,ball state,georgia southern,54 - 58,W,home,1671667200,https://media-1.api-sports.io/basketball/teams/1824.png
+2022-12-29T00:00:00+00:00,ball state,chicago state,63 - 70,W,home,1672272000,https://media-2.api-sports.io/basketball/teams/1824.png
+2023-01-04T00:00:00+00:00,ball state,toledo,90 - 83,W,away,1672790400,https://media-3.api-sports.io/basketball/teams/1824.png
+2023-01-07T01:30:00+00:00,ball state,akron,63 - 70,W,home,1673055000,https://media-1.api-sports.io/basketball/teams/1824.png
+2023-01-11T00:00:00+00:00,ball state,ohio,,,away,1673395200,https://media-1.api-sports.io/basketball/teams/1824.png
+2023-01-14T19:00:00+00:00,ball state,miami (ohio),,,home,1673722800,https://media-3.api-sports.io/basketball/teams/1824.png
+2023-01-18T00:00:00+00:00,ball state,western michigan,,,home,1674000000,https://media-3.api-sports.io/basketball/teams/1824.png
+2023-01-20T23:30:00+00:00,ball state,kent state,,,away,1674257400,https://media-1.api-sports.io/basketball/teams/1824.png
+2023-01-25T00:00:00+00:00,ball state,buffalo,,,home,1674604800,https://media-3.api-sports.io/basketball/teams/1824.png
+2023-01-28T21:30:00+00:00,ball state,northern illinois,,,away,1674941400,https://media-2.api-sports.io/basketball/teams/1824.png
+2023-02-01T00:00:00+00:00,ball state,bowling green,,,away,1675209600,https://media-1.api-sports.io/basketball/teams/1824.png
+2023-02-04T19:00:00+00:00,ball state,eastern michigan,,,home,1675537200,https://media-1.api-sports.io/basketball/teams/1824.png
+2023-02-08T00:00:00+00:00,ball state,central michigan,,,away,1675814400,https://media-2.api-sports.io/basketball/teams/1824.png
+2023-02-11T19:00:00+00:00,ball state,bowling green,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/1824.png
+2023-02-15T00:00:00+00:00,ball state,northern illinois,,,home,1676419200,https://media-2.api-sports.io/basketball/teams/1824.png
+2023-02-18T19:30:00+00:00,ball state,western michigan,,,away,1676748600,https://media-2.api-sports.io/basketball/teams/1824.png

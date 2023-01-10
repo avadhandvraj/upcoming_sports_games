@@ -1,0 +1,29 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:30:00+00:00,incarnate word,north dakota,65 - 57,L,home,1667871000,https://media-2.api-sports.io/basketball/teams/1946.png
+2022-11-12T23:00:00+00:00,incarnate word,unlv,63 - 88,L,away,1668294000,https://media-1.api-sports.io/basketball/teams/1946.png
+2022-11-16T00:30:00+00:00,incarnate word,texas lutheran,47 - 84,W,home,1668558600,https://media-3.api-sports.io/basketball/teams/1946.png
+2022-11-20T01:00:00+00:00,incarnate word,valparaiso,64 - 68,L,away,1668906000,https://media-3.api-sports.io/basketball/teams/1946.png
+2022-11-23T00:30:00+00:00,incarnate word,our lady of the lake,76 - 85,W,home,1669163400,https://media-3.api-sports.io/basketball/teams/1946.png
+2022-11-25T23:00:00+00:00,incarnate word,dartmouth,64 - 69,W,home,1669417200,https://media-2.api-sports.io/basketball/teams/1946.png
+2022-11-27T23:00:00+00:00,incarnate word,grambling st.,63 - 61,W,away,1669590000,https://media-2.api-sports.io/basketball/teams/1946.png
+2022-11-29T00:30:00+00:00,incarnate word,utsa roadrunners,62 - 68,L,away,1669681800,https://media-2.api-sports.io/basketball/teams/1946.png
+2022-12-01T00:30:00+00:00,incarnate word,dallas christian,64 - 112,W,home,1669854600,https://media-3.api-sports.io/basketball/teams/1946.png
+2022-12-03T22:00:00+00:00,incarnate word,grambling st.,39 - 72,L,away,1670104800,https://media-3.api-sports.io/basketball/teams/1946.png
+2022-12-11T20:00:00+00:00,incarnate word,kansas state,50 - 98,L,away,1670788800,https://media-2.api-sports.io/basketball/teams/1946.png
+2022-12-16T23:30:00+00:00,incarnate word,bethune-cookman,65 - 77,W,home,1671233400,https://media-1.api-sports.io/basketball/teams/1946.png
+2022-12-22T00:00:00+00:00,incarnate word,florida international,74 - 79,L,away,1671667200,https://media-3.api-sports.io/basketball/teams/1946.png
+2022-12-31T22:30:00+00:00,incarnate word,tx a&m commerce,74 - 82,L,away,1672525800,https://media-2.api-sports.io/basketball/teams/1946.png
+2023-01-05T01:30:00+00:00,incarnate word,texas a&m-cc,61 - 91,L,away,1672882200,https://media-3.api-sports.io/basketball/teams/1946.png
+2023-01-07T22:00:00+00:00,incarnate word,texas a&m-cc,80 - 71,L,home,1673128800,https://media-2.api-sports.io/basketball/teams/1946.png
+2023-01-13T01:30:00+00:00,incarnate word,new orleans,,,home,1673573400,https://media-2.api-sports.io/basketball/teams/1946.png
+2023-01-14T22:00:00+00:00,incarnate word,se louisiana,,,home,1673733600,https://media-3.api-sports.io/basketball/teams/1946.png
+2023-01-20T01:00:00+00:00,incarnate word,houston christian,,,away,1674176400,https://media-1.api-sports.io/basketball/teams/1946.png
+2023-01-22T00:00:00+00:00,incarnate word,lamar,,,away,1674345600,https://media-3.api-sports.io/basketball/teams/1946.png
+2023-01-27T01:30:00+00:00,incarnate word,mcneese state,,,home,1674783000,https://media-2.api-sports.io/basketball/teams/1946.png
+2023-01-28T22:00:00+00:00,incarnate word,nicholls state,,,home,1674943200,https://media-1.api-sports.io/basketball/teams/1946.png
+2023-02-03T01:30:00+00:00,incarnate word,se louisiana,,,away,1675387800,https://media-3.api-sports.io/basketball/teams/1946.png
+2023-02-04T22:00:00+00:00,incarnate word,new orleans,,,away,1675548000,https://media-3.api-sports.io/basketball/teams/1946.png
+2023-02-10T01:30:00+00:00,incarnate word,lamar,,,home,1675992600,https://media-2.api-sports.io/basketball/teams/1946.png
+2023-02-11T22:00:00+00:00,incarnate word,houston christian,,,home,1676152800,https://media-2.api-sports.io/basketball/teams/1946.png
+2023-02-17T01:30:00+00:00,incarnate word,mcneese state,,,away,1676597400,https://media-3.api-sports.io/basketball/teams/1946.png
+2023-02-18T21:00:00+00:00,incarnate word,nicholls state,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/1946.png

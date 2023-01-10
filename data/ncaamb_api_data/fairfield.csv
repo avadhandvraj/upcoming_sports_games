@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,fairfield,wake forest,59 - 71,L,away,1667869200,https://media-3.api-sports.io/basketball/teams/1906.png
+2022-11-11T18:00:00+00:00,fairfield,new hampshire,71 - 83,L,away,1668189600,https://media-1.api-sports.io/basketball/teams/1906.png
+2022-11-16T02:00:00+00:00,fairfield,xavier,65 - 78,L,away,1668564000,https://media-3.api-sports.io/basketball/teams/1906.png
+2022-11-19T00:00:00+00:00,fairfield,wagner,52 - 68,L,away,1668816000,https://media-1.api-sports.io/basketball/teams/1906.png
+2022-11-25T21:00:00+00:00,fairfield,towson,74 - 69,W,away,1669410000,https://media-1.api-sports.io/basketball/teams/1906.png
+2022-11-27T00:30:00+00:00,fairfield,mercer,58 - 60,L,away,1669509000,https://media-2.api-sports.io/basketball/teams/1906.png
+2022-11-28T00:30:00+00:00,fairfield,evansville,63 - 56,W,away,1669595400,https://media-3.api-sports.io/basketball/teams/1906.png
+2022-12-02T00:00:00+00:00,fairfield,manhattan,53 - 56,L,away,1669939200,https://media-2.api-sports.io/basketball/teams/1906.png
+2022-12-04T00:00:00+00:00,fairfield,st. peters,55 - 67,W,home,1670112000,https://media-3.api-sports.io/basketball/teams/1906.png
+2022-12-08T00:00:00+00:00,fairfield,sacred heart,59 - 61,W,home,1670457600,https://media-3.api-sports.io/basketball/teams/1906.png
+2022-12-13T00:00:00+00:00,fairfield,yale,77 - 64,L,home,1670889600,https://media-3.api-sports.io/basketball/teams/1906.png
+2022-12-18T19:00:00+00:00,fairfield,coast guard,45 - 86,W,home,1671390000,https://media-1.api-sports.io/basketball/teams/1906.png
+2022-12-23T00:00:00+00:00,fairfield,drexel,None - None,tie,home,1671753600,https://media-1.api-sports.io/basketball/teams/1906.png
+2022-12-31T00:00:00+00:00,fairfield,marist,54 - 73,W,home,1672444800,https://media-2.api-sports.io/basketball/teams/1906.png
+2023-01-01T19:00:00+00:00,fairfield,siena,70 - 61,L,home,1672599600,https://media-2.api-sports.io/basketball/teams/1906.png
+2023-01-07T00:00:00+00:00,fairfield,niagara,77 - 69,L,home,1673049600,https://media-3.api-sports.io/basketball/teams/1906.png
+2023-01-14T00:00:00+00:00,fairfield,iona,,,away,1673654400,https://media-1.api-sports.io/basketball/teams/1906.png
+2023-01-15T19:00:00+00:00,fairfield,st. peters,,,away,1673809200,https://media-1.api-sports.io/basketball/teams/1906.png
+2023-01-21T00:00:00+00:00,fairfield,canisius,,,home,1674259200,https://media-1.api-sports.io/basketball/teams/1906.png
+2023-01-22T19:00:00+00:00,fairfield,siena,,,away,1674414000,https://media-3.api-sports.io/basketball/teams/1906.png
+2023-01-27T00:00:00+00:00,fairfield,mount st. mary's,,,away,1674777600,https://media-3.api-sports.io/basketball/teams/1906.png
+2023-01-29T19:00:00+00:00,fairfield,rider,,,home,1675018800,https://media-1.api-sports.io/basketball/teams/1906.png
+2023-02-04T00:00:00+00:00,fairfield,quinnipiac,,,away,1675468800,https://media-3.api-sports.io/basketball/teams/1906.png
+2023-02-05T19:00:00+00:00,fairfield,iona,,,home,1675623600,https://media-1.api-sports.io/basketball/teams/1906.png
+2023-02-11T00:00:00+00:00,fairfield,rider,,,away,1676073600,https://media-3.api-sports.io/basketball/teams/1906.png
+2023-02-12T19:00:00+00:00,fairfield,mount st. mary's,,,home,1676228400,https://media-1.api-sports.io/basketball/teams/1906.png
+2023-02-18T00:00:00+00:00,fairfield,marist,,,away,1676678400,https://media-2.api-sports.io/basketball/teams/1906.png

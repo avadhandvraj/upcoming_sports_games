@@ -1,0 +1,28 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-09T01:30:00+00:00,georgetown,coppin state,89 - 99,W,home,1667957400,https://media-3.api-sports.io/basketball/teams/186.png
+2022-11-12T16:00:00+00:00,georgetown,wisc. green bay,58 - 92,W,home,1668268800,https://media-3.api-sports.io/basketball/teams/186.png
+2022-11-15T23:30:00+00:00,georgetown,northwestern,75 - 63,L,home,1668555000,https://media-2.api-sports.io/basketball/teams/186.png
+2022-11-18T21:30:00+00:00,georgetown,loyola marymount,84 - 66,L,home,1668807000,https://media-2.api-sports.io/basketball/teams/186.png
+2022-11-20T17:00:00+00:00,georgetown,la salle,62 - 69,W,home,1668963600,https://media-1.api-sports.io/basketball/teams/186.png
+2022-11-23T16:30:00+00:00,georgetown,american university,74 - 70,L,home,1669221000,https://media-1.api-sports.io/basketball/teams/186.png
+2022-11-26T17:00:00+00:00,georgetown,umbc retrievers,70 - 79,W,home,1669482000,https://media-1.api-sports.io/basketball/teams/186.png
+2022-12-01T01:00:00+00:00,georgetown,texas tech,65 - 79,L,away,1669856400,https://media-1.api-sports.io/basketball/teams/186.png
+2022-12-03T17:00:00+00:00,georgetown,south carolina,74 - 71,L,home,1670086800,https://media-2.api-sports.io/basketball/teams/186.png
+2022-12-07T23:30:00+00:00,georgetown,siena,68 - 75,W,home,1670455800,https://media-2.api-sports.io/basketball/teams/186.png
+2022-12-10T18:00:00+00:00,georgetown,syracuse,64 - 83,L,away,1670695200,https://media-2.api-sports.io/basketball/teams/186.png
+2022-12-16T23:30:00+00:00,georgetown,xavier,102 - 89,L,home,1671233400,https://media-3.api-sports.io/basketball/teams/186.png
+2022-12-20T23:30:00+00:00,georgetown,uconn,73 - 84,L,away,1671579000,https://media-1.api-sports.io/basketball/teams/186.png
+2022-12-30T01:00:00+00:00,georgetown,depaul,76 - 83,L,away,1672362000,https://media-3.api-sports.io/basketball/teams/186.png
+2023-01-01T23:30:00+00:00,georgetown,butler,80 - 51,L,home,1672615800,https://media-3.api-sports.io/basketball/teams/186.png
+2023-01-04T23:30:00+00:00,georgetown,villanova,73 - 57,L,home,1672875000,https://media-3.api-sports.io/basketball/teams/186.png
+2023-01-07T19:00:00+00:00,georgetown,marquette,73 - 95,L,away,1673118000,https://media-3.api-sports.io/basketball/teams/186.png
+2023-01-11T01:30:00+00:00,georgetown,seton hall,,,home,1673400600,https://media-2.api-sports.io/basketball/teams/186.png
+2023-01-16T17:00:00+00:00,georgetown,villanova,,,away,1673888400,https://media-3.api-sports.io/basketball/teams/186.png
+2023-01-21T17:00:00+00:00,georgetown,xavier,,,away,1674320400,https://media-2.api-sports.io/basketball/teams/186.png
+2023-01-25T00:00:00+00:00,georgetown,depaul,,,home,1674604800,https://media-1.api-sports.io/basketball/teams/186.png
+2023-01-29T19:00:00+00:00,georgetown,st. john's (n.y.),,,away,1675018800,https://media-2.api-sports.io/basketball/teams/186.png
+2023-02-01T23:30:00+00:00,georgetown,creighton,,,home,1675294200,https://media-3.api-sports.io/basketball/teams/186.png
+2023-02-04T17:00:00+00:00,georgetown,uconn,,,home,1675530000,https://media-1.api-sports.io/basketball/teams/186.png
+2023-02-09T00:00:00+00:00,georgetown,providence,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/186.png
+2023-02-11T17:00:00+00:00,georgetown,marquette,,,home,1676134800,https://media-2.api-sports.io/basketball/teams/186.png
+2023-02-14T23:00:00+00:00,georgetown,seton hall,,,away,1676415600,https://media-3.api-sports.io/basketball/teams/186.png

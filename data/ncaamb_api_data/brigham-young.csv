@@ -1,0 +1,32 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T02:00:00+00:00,brigham young,idaho state,56 - 60,W,home,1667872800,https://media-3.api-sports.io/basketball/teams/1841.png
+2022-11-12T03:30:00+00:00,brigham young,san diego state,75 - 82,L,away,1668223800,https://media-2.api-sports.io/basketball/teams/1841.png
+2022-11-17T02:00:00+00:00,brigham young,missouri state,64 - 66,W,home,1668650400,https://media-1.api-sports.io/basketball/teams/1841.png
+2022-11-20T02:00:00+00:00,brigham young,nicholls state,73 - 87,W,home,1668909600,https://media-1.api-sports.io/basketball/teams/1841.png
+2022-11-23T22:00:00+00:00,brigham young,usc,82 - 76,L,home,1669240800,https://media-3.api-sports.io/basketball/teams/1841.png
+2022-11-24T23:30:00+00:00,brigham young,butler,75 - 70,L,home,1669332600,https://media-3.api-sports.io/basketball/teams/1841.png
+2022-11-25T20:30:00+00:00,brigham young,dayton,79 - 75,W,away,1669408200,https://media-2.api-sports.io/basketball/teams/1841.png
+2022-11-30T02:00:00+00:00,brigham young,westminster ut,70 - 100,W,home,1669773600,https://media-2.api-sports.io/basketball/teams/1841.png
+2022-12-03T20:30:00+00:00,brigham young,south dakota coyotes,69 - 68,L,home,1670099400,https://media-3.api-sports.io/basketball/teams/1841.png
+2022-12-08T02:00:00+00:00,brigham young,utah valley state,75 - 60,L,home,1670464800,https://media-3.api-sports.io/basketball/teams/1841.png
+2022-12-11T03:00:00+00:00,brigham young,creighton,80 - 83,W,home,1670727600,https://media-1.api-sports.io/basketball/teams/1841.png
+2022-12-16T02:00:00+00:00,brigham young,western oregon,64 - 97,W,home,1671156000,https://media-3.api-sports.io/basketball/teams/1841.png
+2022-12-17T23:00:00+00:00,brigham young,utah utes,66 - 75,W,home,1671318000,https://media-1.api-sports.io/basketball/teams/1841.png
+2022-12-21T02:00:00+00:00,brigham young,lindenwood,61 - 90,W,home,1671588000,https://media-2.api-sports.io/basketball/teams/1841.png
+2022-12-23T02:00:00+00:00,brigham young,weber state,57 - 63,W,home,1671760800,https://media-3.api-sports.io/basketball/teams/1841.png
+2022-12-30T02:00:00+00:00,brigham young,pacific,69 - 49,W,away,1672365600,https://media-2.api-sports.io/basketball/teams/1841.png
+2023-01-01T02:00:00+00:00,brigham young,portland,58 - 71,W,home,1672538400,https://media-2.api-sports.io/basketball/teams/1841.png
+2023-01-06T04:00:00+00:00,brigham young,loyola marymount,59 - 64,L,away,1672977600,https://media-3.api-sports.io/basketball/teams/1841.png
+2023-01-08T01:00:00+00:00,brigham young,san diego toreros,68 - 48,W,away,1673139600,https://media-2.api-sports.io/basketball/teams/1841.png
+2023-01-13T02:30:00+00:00,brigham young,gonzaga,,,home,1673577000,https://media-2.api-sports.io/basketball/teams/1841.png
+2023-01-15T02:00:00+00:00,brigham young,pepperdine,,,home,1673748000,https://media-1.api-sports.io/basketball/teams/1841.png
+2023-01-20T04:00:00+00:00,brigham young,santa clara,,,away,1674187200,https://media-2.api-sports.io/basketball/teams/1841.png
+2023-01-22T01:00:00+00:00,brigham young,san francisco,,,away,1674349200,https://media-2.api-sports.io/basketball/teams/1841.png
+2023-01-29T03:00:00+00:00,brigham young,st. marys (ca),,,home,1674961200,https://media-1.api-sports.io/basketball/teams/1841.png
+2023-02-03T02:00:00+00:00,brigham young,loyola marymount,,,home,1675389600,https://media-2.api-sports.io/basketball/teams/1841.png
+2023-02-05T02:00:00+00:00,brigham young,pacific,,,home,1675562400,https://media-2.api-sports.io/basketball/teams/1841.png
+2023-02-10T03:00:00+00:00,brigham young,pepperdine,,,away,1675998000,https://media-3.api-sports.io/basketball/teams/1841.png
+2023-02-12T03:00:00+00:00,brigham young,gonzaga,,,away,1676170800,https://media-3.api-sports.io/basketball/teams/1841.png
+2023-02-17T02:00:00+00:00,brigham young,santa clara,,,home,1676599200,https://media-1.api-sports.io/basketball/teams/1841.png
+2023-02-18T21:00:00+00:00,brigham young,st. marys (ca),None - None,tie,away,1676754000,https://media-3.api-sports.io/basketball/teams/1841.png
+2023-02-25T21:00:00+00:00,brigham young,san francisco,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/1841.png

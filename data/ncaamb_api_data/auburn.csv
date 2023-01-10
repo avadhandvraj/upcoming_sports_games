@@ -1,0 +1,27 @@
+Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
+2022-11-08T01:00:00+00:00,auburn,george mason,52 - 70,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/1822.png
+2022-11-12T01:00:00+00:00,auburn,south florida,59 - 67,W,home,1668214800,https://media-1.api-sports.io/basketball/teams/1822.png
+2022-11-16T00:00:00+00:00,auburn,winthrop,65 - 89,W,home,1668556800,https://media-1.api-sports.io/basketball/teams/1822.png
+2022-11-19T01:00:00+00:00,auburn,texas southern,56 - 72,W,home,1668819600,https://media-3.api-sports.io/basketball/teams/1822.png
+2022-11-22T23:00:00+00:00,auburn,bradley,85 - 64,W,away,1669158000,https://media-1.api-sports.io/basketball/teams/1822.png
+2022-11-24T01:30:00+00:00,auburn,northwestern,43 - 42,W,away,1669253400,https://media-3.api-sports.io/basketball/teams/1822.png
+2022-11-27T20:00:00+00:00,auburn,st. louis,60 - 65,W,home,1669579200,https://media-3.api-sports.io/basketball/teams/1822.png
+2022-12-03T01:00:00+00:00,auburn,colgate,66 - 93,W,home,1670029200,https://media-1.api-sports.io/basketball/teams/1822.png
+2022-12-10T22:00:00+00:00,auburn,memphis,73 - 82,L,away,1670709600,https://media-2.api-sports.io/basketball/teams/1822.png
+2022-12-15T01:00:00+00:00,auburn,georgia state,64 - 72,W,home,1671066000,https://media-3.api-sports.io/basketball/teams/1822.png
+2022-12-18T22:30:00+00:00,auburn,usc,71 - 74,L,away,1671402600,https://media-2.api-sports.io/basketball/teams/1822.png
+2022-12-22T02:00:00+00:00,auburn,washington,84 - 61,W,away,1671674400,https://media-2.api-sports.io/basketball/teams/1822.png
+2022-12-29T00:00:00+00:00,auburn,florida,58 - 61,W,home,1672272000,https://media-1.api-sports.io/basketball/teams/1822.png
+2023-01-04T23:30:00+00:00,auburn,georgia,64 - 76,L,away,1672875000,https://media-2.api-sports.io/basketball/teams/1822.png
+2023-01-08T01:30:00+00:00,auburn,arkansas,59 - 72,W,home,1673141400,https://media-2.api-sports.io/basketball/teams/1822.png
+2023-01-11T02:00:00+00:00,auburn,ole miss,,,away,1673402400,https://media-3.api-sports.io/basketball/teams/1822.png
+2023-01-15T01:30:00+00:00,auburn,mississippi st.,,,home,1673746200,https://media-3.api-sports.io/basketball/teams/1822.png
+2023-01-19T00:00:00+00:00,auburn,lsu,,,away,1674086400,https://media-2.api-sports.io/basketball/teams/1822.png
+2023-01-21T20:30:00+00:00,auburn,south carolina,,,away,1674333000,https://media-3.api-sports.io/basketball/teams/1822.png
+2023-01-26T02:00:00+00:00,auburn,texas a&m,,,home,1674698400,https://media-2.api-sports.io/basketball/teams/1822.png
+2023-01-28T17:00:00+00:00,auburn,west virginia,,,away,1674925200,https://media-1.api-sports.io/basketball/teams/1822.png
+2023-02-02T00:00:00+00:00,auburn,georgia,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/1822.png
+2023-02-04T19:00:00+00:00,auburn,tennessee,,,away,1675537200,https://media-1.api-sports.io/basketball/teams/1822.png
+2023-02-08T00:00:00+00:00,auburn,texas a&m,,,away,1675814400,https://media-2.api-sports.io/basketball/teams/1822.png
+2023-02-11T19:00:00+00:00,auburn,alabama,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/1822.png
+2023-02-15T00:00:00+00:00,auburn,missouri,,,home,1676419200,https://media-1.api-sports.io/basketball/teams/1822.png
