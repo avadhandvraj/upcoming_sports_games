@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,lamar,st. thomas (tx),61 - 63,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/1970.png
+2022-11-08T01:00:00+00:00,lamar,st. thomas (tx),61 - 63,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/1970.png
 2022-11-12T01:00:00+00:00,lamar,tcu,66 - 77,L,away,1668214800,https://media-3.api-sports.io/basketball/teams/1970.png
-2022-11-15T01:00:00+00:00,lamar,huston tillotson,69 - 98,W,home,1668474000,https://media-2.api-sports.io/basketball/teams/1970.png
-2022-11-18T20:00:00+00:00,lamar,lindenwood,73 - 71,W,away,1668801600,https://media-1.api-sports.io/basketball/teams/1970.png
+2022-11-15T01:00:00+00:00,lamar,huston tillotson,69 - 98,W,home,1668474000,https://media-1.api-sports.io/basketball/teams/1970.png
+2022-11-18T20:00:00+00:00,lamar,lindenwood,73 - 71,W,away,1668801600,https://media-3.api-sports.io/basketball/teams/1970.png
 2022-11-19T17:00:00+00:00,lamar,western carolina,91 - 98,L,away,1668877200,https://media-1.api-sports.io/basketball/teams/1970.png
-2022-11-20T19:30:00+00:00,lamar,mcneese state,57 - 66,L,away,1668972600,https://media-1.api-sports.io/basketball/teams/1970.png
+2022-11-20T19:30:00+00:00,lamar,mcneese state,57 - 66,L,away,1668972600,https://media-3.api-sports.io/basketball/teams/1970.png
 2022-11-27T20:00:00+00:00,lamar,smu mustangs,50 - 75,L,away,1669579200,https://media-2.api-sports.io/basketball/teams/1970.png
-2022-12-02T01:30:00+00:00,lamar,texas state,65 - 55,L,home,1669944600,https://media-3.api-sports.io/basketball/teams/1970.png
+2022-12-02T01:30:00+00:00,lamar,texas state,65 - 55,L,home,1669944600,https://media-2.api-sports.io/basketball/teams/1970.png
 2022-12-06T00:00:00+00:00,lamar,our lady of the lake,56 - 91,W,home,1670284800,https://media-2.api-sports.io/basketball/teams/1970.png
-2022-12-10T20:00:00+00:00,lamar,southern miss,59 - 95,L,away,1670702400,https://media-1.api-sports.io/basketball/teams/1970.png
-2022-12-14T01:00:00+00:00,lamar,southern miss,91 - 65,L,home,1670979600,https://media-3.api-sports.io/basketball/teams/1970.png
-2022-12-17T20:00:00+00:00,lamar,louisiana monroe,59 - 83,L,away,1671307200,https://media-1.api-sports.io/basketball/teams/1970.png
-2022-12-21T01:00:00+00:00,lamar,pacific,74 - 65,L,home,1671584400,https://media-3.api-sports.io/basketball/teams/1970.png
-2022-12-31T22:00:00+00:00,lamar,mcneese state,81 - 62,L,home,1672524000,https://media-3.api-sports.io/basketball/teams/1970.png
-2023-01-06T01:00:00+00:00,lamar,new orleans,55 - 81,L,away,1672966800,https://media-1.api-sports.io/basketball/teams/1970.png
-2023-01-07T21:30:00+00:00,lamar,se louisiana,84 - 89,L,away,1673127000,https://media-3.api-sports.io/basketball/teams/1970.png
-2023-01-13T01:00:00+00:00,lamar,nicholls state,,,home,1673571600,https://media-2.api-sports.io/basketball/teams/1970.png
+2022-12-10T20:00:00+00:00,lamar,southern miss,59 - 95,L,away,1670702400,https://media-2.api-sports.io/basketball/teams/1970.png
+2022-12-14T01:00:00+00:00,lamar,southern miss,91 - 65,L,home,1670979600,https://media-2.api-sports.io/basketball/teams/1970.png
+2022-12-17T20:00:00+00:00,lamar,louisiana monroe,59 - 83,L,away,1671307200,https://media-2.api-sports.io/basketball/teams/1970.png
+2022-12-21T01:00:00+00:00,lamar,pacific,74 - 65,L,home,1671584400,https://media-2.api-sports.io/basketball/teams/1970.png
+2022-12-31T22:00:00+00:00,lamar,mcneese state,81 - 62,L,home,1672524000,https://media-2.api-sports.io/basketball/teams/1970.png
+2023-01-06T01:00:00+00:00,lamar,new orleans,55 - 81,L,away,1672966800,https://media-3.api-sports.io/basketball/teams/1970.png
+2023-01-07T21:30:00+00:00,lamar,se louisiana,84 - 89,L,away,1673127000,https://media-1.api-sports.io/basketball/teams/1970.png
+2023-01-13T01:00:00+00:00,lamar,nicholls state,,,home,1673571600,https://media-1.api-sports.io/basketball/teams/1970.png
 2023-01-14T22:30:00+00:00,lamar,tx a&m commerce,,,away,1673735400,https://media-1.api-sports.io/basketball/teams/1970.png
-2023-01-20T01:00:00+00:00,lamar,texas a&m-cc,,,home,1674176400,https://media-3.api-sports.io/basketball/teams/1970.png
-2023-01-22T00:00:00+00:00,lamar,incarnate word,,,home,1674345600,https://media-3.api-sports.io/basketball/teams/1970.png
-2023-01-27T01:00:00+00:00,lamar,tx a&m commerce,,,home,1674781200,https://media-1.api-sports.io/basketball/teams/1970.png
+2023-01-20T01:00:00+00:00,lamar,texas a&m-cc,,,home,1674176400,https://media-2.api-sports.io/basketball/teams/1970.png
+2023-01-22T00:00:00+00:00,lamar,incarnate word,,,home,1674345600,https://media-1.api-sports.io/basketball/teams/1970.png
+2023-01-27T01:00:00+00:00,lamar,tx a&m commerce,,,home,1674781200,https://media-3.api-sports.io/basketball/teams/1970.png
 2023-01-28T21:30:00+00:00,lamar,northwestern st.,,,away,1674941400,https://media-2.api-sports.io/basketball/teams/1970.png
-2023-02-03T01:30:00+00:00,lamar,mcneese state,,,away,1675387800,https://media-1.api-sports.io/basketball/teams/1970.png
-2023-02-05T00:00:00+00:00,lamar,northwestern st.,,,home,1675555200,https://media-1.api-sports.io/basketball/teams/1970.png
-2023-02-10T01:30:00+00:00,lamar,incarnate word,,,away,1675992600,https://media-3.api-sports.io/basketball/teams/1970.png
-2023-02-11T21:30:00+00:00,lamar,texas a&m-cc,,,away,1676151000,https://media-2.api-sports.io/basketball/teams/1970.png
-2023-02-17T01:00:00+00:00,lamar,houston christian,,,home,1676595600,https://media-2.api-sports.io/basketball/teams/1970.png
+2023-02-03T01:30:00+00:00,lamar,mcneese state,,,away,1675387800,https://media-2.api-sports.io/basketball/teams/1970.png
+2023-02-05T00:00:00+00:00,lamar,northwestern st.,,,home,1675555200,https://media-2.api-sports.io/basketball/teams/1970.png
+2023-02-10T01:30:00+00:00,lamar,incarnate word,,,away,1675992600,https://media-1.api-sports.io/basketball/teams/1970.png
+2023-02-11T21:30:00+00:00,lamar,texas a&m-cc,,,away,1676151000,https://media-1.api-sports.io/basketball/teams/1970.png
+2023-02-17T01:00:00+00:00,lamar,houston christian,,,home,1676595600,https://media-1.api-sports.io/basketball/teams/1970.png

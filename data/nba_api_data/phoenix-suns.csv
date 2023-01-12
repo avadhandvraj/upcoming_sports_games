@@ -1,86 +1,86 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-10-06T02:00:00+00:00,phoenix suns,los angeles lakers,119 - 115,W,away,1665021600,https://media-2.api-sports.io/basketball/teams/155.png
-2022-10-11T01:00:00+00:00,phoenix suns,denver nuggets,105 - 107,L,away,1665450000,https://media-3.api-sports.io/basketball/teams/155.png
-2022-10-13T02:00:00+00:00,phoenix suns,sacramento kings,105 - 104,L,home,1665626400,https://media-1.api-sports.io/basketball/teams/155.png
-2022-10-20T02:00:00+00:00,phoenix suns,dallas mavericks,105 - 107,W,home,1666231200,https://media-3.api-sports.io/basketball/teams/155.png
+2022-10-11T01:00:00+00:00,phoenix suns,denver nuggets,105 - 107,L,away,1665450000,https://media-2.api-sports.io/basketball/teams/155.png
+2022-10-13T02:00:00+00:00,phoenix suns,sacramento kings,105 - 104,L,home,1665626400,https://media-3.api-sports.io/basketball/teams/155.png
+2022-10-20T02:00:00+00:00,phoenix suns,dallas mavericks,105 - 107,W,home,1666231200,https://media-2.api-sports.io/basketball/teams/155.png
 2022-10-22T02:00:00+00:00,phoenix suns,portland trail blazers,111 - 113,L,away,1666404000,https://media-1.api-sports.io/basketball/teams/155.png
 2022-10-24T02:00:00+00:00,phoenix suns,los angeles clippers,112 - 95,W,away,1666576800,https://media-1.api-sports.io/basketball/teams/155.png
 2022-10-26T02:00:00+00:00,phoenix suns,golden state warriors,105 - 134,W,home,1666749600,https://media-3.api-sports.io/basketball/teams/155.png
-2022-10-29T02:00:00+00:00,phoenix suns,new orleans pelicans,111 - 124,W,home,1667008800,https://media-3.api-sports.io/basketball/teams/155.png
-2022-10-31T01:00:00+00:00,phoenix suns,houston rockets,109 - 124,W,home,1667178000,https://media-2.api-sports.io/basketball/teams/155.png
-2022-11-02T02:00:00+00:00,phoenix suns,minnesota timberwolves,107 - 116,W,home,1667354400,https://media-1.api-sports.io/basketball/teams/155.png
-2022-11-05T02:00:00+00:00,phoenix suns,portland trail blazers,108 - 106,L,home,1667613600,https://media-1.api-sports.io/basketball/teams/155.png
+2022-10-29T02:00:00+00:00,phoenix suns,new orleans pelicans,111 - 124,W,home,1667008800,https://media-1.api-sports.io/basketball/teams/155.png
+2022-10-31T01:00:00+00:00,phoenix suns,houston rockets,109 - 124,W,home,1667178000,https://media-3.api-sports.io/basketball/teams/155.png
+2022-11-02T02:00:00+00:00,phoenix suns,minnesota timberwolves,107 - 116,W,home,1667354400,https://media-2.api-sports.io/basketball/teams/155.png
+2022-11-05T02:00:00+00:00,phoenix suns,portland trail blazers,108 - 106,L,home,1667613600,https://media-2.api-sports.io/basketball/teams/155.png
 2022-11-06T02:00:00+00:00,phoenix suns,portland trail blazers,82 - 102,W,home,1667700000,https://media-3.api-sports.io/basketball/teams/155.png
 2022-11-08T01:00:00+00:00,phoenix suns,philadelphia 76ers,88 - 100,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/155.png
 2022-11-10T01:00:00+00:00,phoenix suns,minnesota timberwolves,129 - 117,W,away,1668042000,https://media-3.api-sports.io/basketball/teams/155.png
 2022-11-12T00:00:00+00:00,phoenix suns,orlando magic,97 - 114,L,away,1668211200,https://media-3.api-sports.io/basketball/teams/155.png
 2022-11-15T00:30:00+00:00,phoenix suns,miami heat,112 - 113,L,away,1668472200,https://media-3.api-sports.io/basketball/teams/155.png
-2022-11-17T03:00:00+00:00,phoenix suns,golden state warriors,119 - 130,W,home,1668654000,https://media-2.api-sports.io/basketball/teams/155.png
+2022-11-17T03:00:00+00:00,phoenix suns,golden state warriors,119 - 130,W,home,1668654000,https://media-1.api-sports.io/basketball/teams/155.png
 2022-11-19T02:00:00+00:00,phoenix suns,utah jazz,133 - 134,L,away,1668823200,https://media-1.api-sports.io/basketball/teams/155.png
-2022-11-20T20:30:00+00:00,phoenix suns,new york knicks,95 - 116,W,home,1668976200,https://media-2.api-sports.io/basketball/teams/155.png
-2022-11-23T03:00:00+00:00,phoenix suns,los angeles lakers,105 - 115,W,home,1669172400,https://media-1.api-sports.io/basketball/teams/155.png
-2022-11-26T02:00:00+00:00,phoenix suns,detroit pistons,102 - 108,W,home,1669428000,https://media-2.api-sports.io/basketball/teams/155.png
-2022-11-27T02:00:00+00:00,phoenix suns,utah jazz,112 - 113,W,home,1669514400,https://media-1.api-sports.io/basketball/teams/155.png
-2022-11-29T03:00:00+00:00,phoenix suns,sacramento kings,122 - 117,W,away,1669690800,https://media-2.api-sports.io/basketball/teams/155.png
+2022-11-20T20:30:00+00:00,phoenix suns,new york knicks,95 - 116,W,home,1668976200,https://media-3.api-sports.io/basketball/teams/155.png
+2022-11-23T03:00:00+00:00,phoenix suns,los angeles lakers,105 - 115,W,home,1669172400,https://media-2.api-sports.io/basketball/teams/155.png
+2022-11-26T02:00:00+00:00,phoenix suns,detroit pistons,102 - 108,W,home,1669428000,https://media-1.api-sports.io/basketball/teams/155.png
+2022-11-27T02:00:00+00:00,phoenix suns,utah jazz,112 - 113,W,home,1669514400,https://media-3.api-sports.io/basketball/teams/155.png
+2022-11-29T03:00:00+00:00,phoenix suns,sacramento kings,122 - 117,W,away,1669690800,https://media-1.api-sports.io/basketball/teams/155.png
 2022-12-01T02:00:00+00:00,phoenix suns,chicago bulls,113 - 132,W,home,1669860000,https://media-3.api-sports.io/basketball/teams/155.png
-2022-12-03T02:00:00+00:00,phoenix suns,houston rockets,122 - 121,L,home,1670032800,https://media-3.api-sports.io/basketball/teams/155.png
-2022-12-04T21:00:00+00:00,phoenix suns,san antonio spurs,133 - 95,W,away,1670187600,https://media-2.api-sports.io/basketball/teams/155.png
+2022-12-03T02:00:00+00:00,phoenix suns,houston rockets,122 - 121,L,home,1670032800,https://media-1.api-sports.io/basketball/teams/155.png
+2022-12-04T21:00:00+00:00,phoenix suns,san antonio spurs,133 - 95,W,away,1670187600,https://media-3.api-sports.io/basketball/teams/155.png
 2022-12-06T01:30:00+00:00,phoenix suns,dallas mavericks,111 - 130,L,away,1670290200,https://media-1.api-sports.io/basketball/teams/155.png
 2022-12-08T03:00:00+00:00,phoenix suns,boston celtics,125 - 98,L,home,1670468400,https://media-1.api-sports.io/basketball/teams/155.png
-2022-12-10T01:30:00+00:00,phoenix suns,new orleans pelicans,117 - 128,L,away,1670635800,https://media-3.api-sports.io/basketball/teams/155.png
-2022-12-11T20:30:00+00:00,phoenix suns,new orleans pelicans,124 - 129,L,away,1670790600,https://media-3.api-sports.io/basketball/teams/155.png
+2022-12-10T01:30:00+00:00,phoenix suns,new orleans pelicans,117 - 128,L,away,1670635800,https://media-1.api-sports.io/basketball/teams/155.png
+2022-12-11T20:30:00+00:00,phoenix suns,new orleans pelicans,124 - 129,L,away,1670790600,https://media-2.api-sports.io/basketball/teams/155.png
 2022-12-14T01:00:00+00:00,phoenix suns,houston rockets,97 - 111,L,away,1670979600,https://media-2.api-sports.io/basketball/teams/155.png
-2022-12-16T03:30:00+00:00,phoenix suns,los angeles clippers,111 - 95,W,away,1671161400,https://media-1.api-sports.io/basketball/teams/155.png
-2022-12-18T02:00:00+00:00,phoenix suns,new orleans pelicans,114 - 118,W,home,1671328800,https://media-3.api-sports.io/basketball/teams/155.png
-2022-12-20T02:00:00+00:00,phoenix suns,los angeles lakers,104 - 130,W,home,1671501600,https://media-1.api-sports.io/basketball/teams/155.png
-2022-12-21T02:00:00+00:00,phoenix suns,washington wizards,113 - 110,L,home,1671588000,https://media-2.api-sports.io/basketball/teams/155.png
+2022-12-16T03:30:00+00:00,phoenix suns,los angeles clippers,111 - 95,W,away,1671161400,https://media-2.api-sports.io/basketball/teams/155.png
+2022-12-18T02:00:00+00:00,phoenix suns,new orleans pelicans,114 - 118,W,home,1671328800,https://media-1.api-sports.io/basketball/teams/155.png
+2022-12-20T02:00:00+00:00,phoenix suns,los angeles lakers,104 - 130,W,home,1671501600,https://media-2.api-sports.io/basketball/teams/155.png
+2022-12-21T02:00:00+00:00,phoenix suns,washington wizards,113 - 110,L,home,1671588000,https://media-3.api-sports.io/basketball/teams/155.png
 2022-12-24T03:00:00+00:00,phoenix suns,memphis grizzlies,125 - 100,L,home,1671850800,https://media-2.api-sports.io/basketball/teams/155.png
-2022-12-26T03:30:00+00:00,phoenix suns,denver nuggets,125 - 128,L,away,1672025400,https://media-2.api-sports.io/basketball/teams/155.png
+2022-12-26T03:30:00+00:00,phoenix suns,denver nuggets,125 - 128,L,away,1672025400,https://media-1.api-sports.io/basketball/teams/155.png
 2022-12-28T01:00:00+00:00,phoenix suns,memphis grizzlies,125 - 108,W,away,1672189200,https://media-2.api-sports.io/basketball/teams/155.png
 2022-12-29T00:00:00+00:00,phoenix suns,washington wizards,102 - 127,L,away,1672272000,https://media-3.api-sports.io/basketball/teams/155.png
-2022-12-31T00:30:00+00:00,phoenix suns,toronto raptors,104 - 113,L,away,1672446600,https://media-2.api-sports.io/basketball/teams/155.png
+2022-12-31T00:30:00+00:00,phoenix suns,toronto raptors,104 - 113,L,away,1672446600,https://media-3.api-sports.io/basketball/teams/155.png
 2023-01-02T20:00:00+00:00,phoenix suns,new york knicks,83 - 102,L,away,1672689600,https://media-3.api-sports.io/basketball/teams/155.png
-2023-01-05T00:00:00+00:00,phoenix suns,cleveland cavaliers,88 - 90,L,away,1672876800,https://media-2.api-sports.io/basketball/teams/155.png
-2023-01-07T03:00:00+00:00,phoenix suns,miami heat,104 - 96,L,home,1673060400,https://media-3.api-sports.io/basketball/teams/155.png
+2023-01-05T00:00:00+00:00,phoenix suns,cleveland cavaliers,88 - 90,L,away,1672876800,https://media-3.api-sports.io/basketball/teams/155.png
+2023-01-07T03:00:00+00:00,phoenix suns,miami heat,104 - 96,L,home,1673060400,https://media-1.api-sports.io/basketball/teams/155.png
 2023-01-09T01:00:00+00:00,phoenix suns,cleveland cavaliers,112 - 98,L,home,1673226000,https://media-1.api-sports.io/basketball/teams/155.png
 2023-01-11T03:00:00+00:00,phoenix suns,golden state warriors,125 - 113,W,away,1673406000,https://media-2.api-sports.io/basketball/teams/155.png
-2023-01-12T03:00:00+00:00,phoenix suns,denver nuggets,97 - 126,L,away,1673492400,https://media-3.api-sports.io/basketball/teams/155.png
-2023-01-14T01:00:00+00:00,phoenix suns,minnesota timberwolves,,,away,1673658000,https://media-1.api-sports.io/basketball/teams/155.png
+2023-01-12T03:00:00+00:00,phoenix suns,denver nuggets,97 - 126,L,away,1673492400,https://media-2.api-sports.io/basketball/teams/155.png
+2023-01-14T01:00:00+00:00,phoenix suns,minnesota timberwolves,,,away,1673658000,https://media-3.api-sports.io/basketball/teams/155.png
 2023-01-16T23:00:00+00:00,phoenix suns,memphis grizzlies,,,away,1673910000,https://media-2.api-sports.io/basketball/teams/155.png
-2023-01-20T03:00:00+00:00,phoenix suns,brooklyn nets,,,home,1674183600,https://media-3.api-sports.io/basketball/teams/155.png
-2023-01-22T02:00:00+00:00,phoenix suns,indiana pacers,,,home,1674352800,https://media-3.api-sports.io/basketball/teams/155.png
-2023-01-23T01:00:00+00:00,phoenix suns,memphis grizzlies,,,home,1674435600,https://media-1.api-sports.io/basketball/teams/155.png
-2023-01-25T02:00:00+00:00,phoenix suns,charlotte hornets,,,home,1674612000,https://media-2.api-sports.io/basketball/teams/155.png
-2023-01-27T03:00:00+00:00,phoenix suns,dallas mavericks,,,home,1674788400,https://media-2.api-sports.io/basketball/teams/155.png
+2023-01-20T03:00:00+00:00,phoenix suns,brooklyn nets,,,home,1674183600,https://media-2.api-sports.io/basketball/teams/155.png
+2023-01-22T02:00:00+00:00,phoenix suns,indiana pacers,,,home,1674352800,https://media-1.api-sports.io/basketball/teams/155.png
+2023-01-23T01:00:00+00:00,phoenix suns,memphis grizzlies,,,home,1674435600,https://media-3.api-sports.io/basketball/teams/155.png
+2023-01-25T02:00:00+00:00,phoenix suns,charlotte hornets,,,home,1674612000,https://media-1.api-sports.io/basketball/teams/155.png
+2023-01-27T03:00:00+00:00,phoenix suns,dallas mavericks,,,home,1674788400,https://media-1.api-sports.io/basketball/teams/155.png
 2023-01-29T01:00:00+00:00,phoenix suns,san antonio spurs,,,away,1674954000,https://media-3.api-sports.io/basketball/teams/155.png
-2023-01-31T02:00:00+00:00,phoenix suns,toronto raptors,,,home,1675130400,https://media-3.api-sports.io/basketball/teams/155.png
-2023-02-02T03:00:00+00:00,phoenix suns,atlanta hawks,,,home,1675306800,https://media-2.api-sports.io/basketball/teams/155.png
+2023-01-31T02:00:00+00:00,phoenix suns,toronto raptors,,,home,1675130400,https://media-1.api-sports.io/basketball/teams/155.png
+2023-02-02T03:00:00+00:00,phoenix suns,atlanta hawks,,,home,1675306800,https://media-1.api-sports.io/basketball/teams/155.png
 2023-02-04T00:30:00+00:00,phoenix suns,boston celtics,,,away,1675470600,https://media-1.api-sports.io/basketball/teams/155.png
-2023-02-05T00:00:00+00:00,phoenix suns,detroit pistons,,,away,1675555200,https://media-2.api-sports.io/basketball/teams/155.png
+2023-02-05T00:00:00+00:00,phoenix suns,detroit pistons,,,away,1675555200,https://media-3.api-sports.io/basketball/teams/155.png
 2023-02-08T00:30:00+00:00,phoenix suns,brooklyn nets,,,away,1675816200,https://media-2.api-sports.io/basketball/teams/155.png
-2023-02-10T00:30:00+00:00,phoenix suns,atlanta hawks,,,away,1675989000,https://media-1.api-sports.io/basketball/teams/155.png
-2023-02-11T00:00:00+00:00,phoenix suns,indiana pacers,,,away,1676073600,https://media-3.api-sports.io/basketball/teams/155.png
-2023-02-15T02:00:00+00:00,phoenix suns,sacramento kings,,,home,1676426400,https://media-3.api-sports.io/basketball/teams/155.png
-2023-02-17T03:00:00+00:00,phoenix suns,los angeles clippers,,,home,1676602800,https://media-3.api-sports.io/basketball/teams/155.png
-2023-02-25T02:00:00+00:00,phoenix suns,oklahoma city thunder,,,home,1677290400,https://media-3.api-sports.io/basketball/teams/155.png
-2023-02-26T18:00:00+00:00,phoenix suns,milwaukee bucks,,,away,1677434400,https://media-2.api-sports.io/basketball/teams/155.png
+2023-02-10T00:30:00+00:00,phoenix suns,atlanta hawks,,,away,1675989000,https://media-2.api-sports.io/basketball/teams/155.png
+2023-02-11T00:00:00+00:00,phoenix suns,indiana pacers,,,away,1676073600,https://media-1.api-sports.io/basketball/teams/155.png
+2023-02-15T02:00:00+00:00,phoenix suns,sacramento kings,,,home,1676426400,https://media-2.api-sports.io/basketball/teams/155.png
+2023-02-17T03:00:00+00:00,phoenix suns,los angeles clippers,,,home,1676602800,https://media-1.api-sports.io/basketball/teams/155.png
+2023-02-25T02:00:00+00:00,phoenix suns,oklahoma city thunder,,,home,1677290400,https://media-1.api-sports.io/basketball/teams/155.png
+2023-02-26T18:00:00+00:00,phoenix suns,milwaukee bucks,,,away,1677434400,https://media-3.api-sports.io/basketball/teams/155.png
 2023-03-02T00:00:00+00:00,phoenix suns,charlotte hornets,,,away,1677715200,https://media-1.api-sports.io/basketball/teams/155.png
-2023-03-04T01:00:00+00:00,phoenix suns,chicago bulls,,,away,1677891600,https://media-1.api-sports.io/basketball/teams/155.png
-2023-03-05T18:00:00+00:00,phoenix suns,dallas mavericks,,,away,1678039200,https://media-2.api-sports.io/basketball/teams/155.png
+2023-03-04T01:00:00+00:00,phoenix suns,chicago bulls,,,away,1677891600,https://media-3.api-sports.io/basketball/teams/155.png
+2023-03-05T18:00:00+00:00,phoenix suns,dallas mavericks,,,away,1678039200,https://media-3.api-sports.io/basketball/teams/155.png
 2023-03-09T02:00:00+00:00,phoenix suns,oklahoma city thunder,,,home,1678327200,https://media-3.api-sports.io/basketball/teams/155.png
-2023-03-12T02:00:00+00:00,phoenix suns,sacramento kings,,,home,1678586400,https://media-3.api-sports.io/basketball/teams/155.png
-2023-03-14T02:00:00+00:00,phoenix suns,golden state warriors,,,away,1678759200,https://media-3.api-sports.io/basketball/teams/155.png
-2023-03-15T02:00:00+00:00,phoenix suns,milwaukee bucks,,,home,1678845600,https://media-1.api-sports.io/basketball/teams/155.png
+2023-03-12T02:00:00+00:00,phoenix suns,sacramento kings,,,home,1678586400,https://media-2.api-sports.io/basketball/teams/155.png
+2023-03-14T02:00:00+00:00,phoenix suns,golden state warriors,,,away,1678759200,https://media-1.api-sports.io/basketball/teams/155.png
+2023-03-15T02:00:00+00:00,phoenix suns,milwaukee bucks,,,home,1678845600,https://media-3.api-sports.io/basketball/teams/155.png
 2023-03-17T02:00:00+00:00,phoenix suns,orlando magic,,,home,1679018400,https://media-1.api-sports.io/basketball/teams/155.png
-2023-03-19T19:30:00+00:00,phoenix suns,oklahoma city thunder,,,away,1679254200,https://media-1.api-sports.io/basketball/teams/155.png
+2023-03-19T19:30:00+00:00,phoenix suns,oklahoma city thunder,,,away,1679254200,https://media-3.api-sports.io/basketball/teams/155.png
 2023-03-23T02:00:00+00:00,phoenix suns,los angeles lakers,,,away,1679536800,https://media-3.api-sports.io/basketball/teams/155.png
 2023-03-25T02:00:00+00:00,phoenix suns,sacramento kings,,,away,1679709600,https://media-2.api-sports.io/basketball/teams/155.png
 2023-03-26T02:00:00+00:00,phoenix suns,philadelphia 76ers,,,home,1679796000,https://media-2.api-sports.io/basketball/teams/155.png
-2023-03-28T01:00:00+00:00,phoenix suns,utah jazz,,,away,1679965200,https://media-2.api-sports.io/basketball/teams/155.png
-2023-03-30T02:00:00+00:00,phoenix suns,minnesota timberwolves,,,home,1680141600,https://media-2.api-sports.io/basketball/teams/155.png
-2023-04-01T02:30:00+00:00,phoenix suns,denver nuggets,,,home,1680316200,https://media-3.api-sports.io/basketball/teams/155.png
-2023-04-02T23:00:00+00:00,phoenix suns,oklahoma city thunder,,,away,1680476400,https://media-2.api-sports.io/basketball/teams/155.png
-2023-04-05T02:00:00+00:00,phoenix suns,san antonio spurs,,,home,1680660000,https://media-3.api-sports.io/basketball/teams/155.png
-2023-04-07T02:00:00+00:00,phoenix suns,denver nuggets,,,home,1680832800,https://media-2.api-sports.io/basketball/teams/155.png
-2023-04-08T02:30:00+00:00,phoenix suns,los angeles lakers,,,away,1680921000,https://media-1.api-sports.io/basketball/teams/155.png
+2023-03-28T01:00:00+00:00,phoenix suns,utah jazz,,,away,1679965200,https://media-1.api-sports.io/basketball/teams/155.png
+2023-03-30T02:00:00+00:00,phoenix suns,minnesota timberwolves,,,home,1680141600,https://media-3.api-sports.io/basketball/teams/155.png
+2023-04-01T02:30:00+00:00,phoenix suns,denver nuggets,,,home,1680316200,https://media-2.api-sports.io/basketball/teams/155.png
+2023-04-02T23:00:00+00:00,phoenix suns,oklahoma city thunder,,,away,1680476400,https://media-1.api-sports.io/basketball/teams/155.png
+2023-04-05T02:00:00+00:00,phoenix suns,san antonio spurs,,,home,1680660000,https://media-1.api-sports.io/basketball/teams/155.png
+2023-04-07T02:00:00+00:00,phoenix suns,denver nuggets,,,home,1680832800,https://media-1.api-sports.io/basketball/teams/155.png
+2023-04-08T02:30:00+00:00,phoenix suns,los angeles lakers,,,away,1680921000,https://media-2.api-sports.io/basketball/teams/155.png
 2023-04-09T19:30:00+00:00,phoenix suns,los angeles clippers,,,home,1681068600,https://media-2.api-sports.io/basketball/teams/155.png

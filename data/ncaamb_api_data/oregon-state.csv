@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T04:59:00+00:00,oregon state,tulsa,70 - 73,W,home,1667883540,https://media-2.api-sports.io/basketball/teams/2066.png
-2022-11-12T02:00:00+00:00,oregon state,florida a&m,43 - 60,W,home,1668218400,https://media-1.api-sports.io/basketball/teams/2066.png
+2022-11-08T04:59:00+00:00,oregon state,tulsa,70 - 73,W,home,1667883540,https://media-1.api-sports.io/basketball/teams/2066.png
+2022-11-12T02:00:00+00:00,oregon state,florida a&m,43 - 60,W,home,1668218400,https://media-2.api-sports.io/basketball/teams/2066.png
 2022-11-16T04:00:00+00:00,oregon state,bushnell,66 - 83,W,home,1668571200,https://media-2.api-sports.io/basketball/teams/2066.png
-2022-11-20T03:00:00+00:00,oregon state,portland state,79 - 66,L,home,1668913200,https://media-2.api-sports.io/basketball/teams/2066.png
-2022-11-24T20:00:00+00:00,oregon state,duke,54 - 51,L,home,1669320000,https://media-3.api-sports.io/basketball/teams/2066.png
+2022-11-20T03:00:00+00:00,oregon state,portland state,79 - 66,L,home,1668913200,https://media-3.api-sports.io/basketball/teams/2066.png
+2022-11-24T20:00:00+00:00,oregon state,duke,54 - 51,L,home,1669320000,https://media-1.api-sports.io/basketball/teams/2066.png
 2022-11-25T23:00:00+00:00,oregon state,florida,68 - 81,L,away,1669417200,https://media-1.api-sports.io/basketball/teams/2066.png
-2022-11-28T04:00:00+00:00,oregon state,portland state,71 - 83,L,away,1669608000,https://media-3.api-sports.io/basketball/teams/2066.png
+2022-11-28T04:00:00+00:00,oregon state,portland state,71 - 83,L,away,1669608000,https://media-2.api-sports.io/basketball/teams/2066.png
 2022-12-02T03:00:00+00:00,oregon state,washington,65 - 66,W,home,1669950000,https://media-3.api-sports.io/basketball/teams/2066.png
 2022-12-05T00:00:00+00:00,oregon state,usc,62 - 63,L,away,1670198400,https://media-1.api-sports.io/basketball/teams/2066.png
-2022-12-11T23:00:00+00:00,oregon state,texas a&m,54 - 72,L,away,1670799600,https://media-2.api-sports.io/basketball/teams/2066.png
+2022-12-11T23:00:00+00:00,oregon state,texas a&m,54 - 72,L,away,1670799600,https://media-3.api-sports.io/basketball/teams/2066.png
 2022-12-16T03:30:00+00:00,oregon state,seattle,58 - 73,W,home,1671161400,https://media-1.api-sports.io/basketball/teams/2066.png
-2022-12-18T20:00:00+00:00,oregon state,wisc. green bay,56 - 65,W,home,1671393600,https://media-3.api-sports.io/basketball/teams/2066.png
-2022-12-22T03:00:00+00:00,oregon state,denver,52 - 57,W,home,1671678000,https://media-1.api-sports.io/basketball/teams/2066.png
+2022-12-18T20:00:00+00:00,oregon state,wisc. green bay,56 - 65,W,home,1671393600,https://media-2.api-sports.io/basketball/teams/2066.png
+2022-12-22T03:00:00+00:00,oregon state,denver,52 - 57,W,home,1671678000,https://media-2.api-sports.io/basketball/teams/2066.png
 2023-01-01T01:00:00+00:00,oregon state,oregon,68 - 77,L,away,1672534800,https://media-1.api-sports.io/basketball/teams/2066.png
 2023-01-06T03:00:00+00:00,oregon state,utah utes,60 - 79,L,away,1672974000,https://media-2.api-sports.io/basketball/teams/2066.png
 2023-01-08T02:30:00+00:00,oregon state,colorado,42 - 62,L,away,1673145000,https://media-2.api-sports.io/basketball/teams/2066.png
-2023-01-13T04:00:00+00:00,oregon state,arizona,,,home,1673582400,https://media-3.api-sports.io/basketball/teams/2066.png
-2023-01-14T21:00:00+00:00,oregon state,arizona state,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/2066.png
-2023-01-20T04:00:00+00:00,oregon state,stanford,,,away,1674187200,https://media-1.api-sports.io/basketball/teams/2066.png
+2023-01-13T04:00:00+00:00,oregon state,arizona,,,home,1673582400,https://media-1.api-sports.io/basketball/teams/2066.png
+2023-01-14T21:00:00+00:00,oregon state,arizona state,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/2066.png
+2023-01-20T04:00:00+00:00,oregon state,stanford,,,away,1674187200,https://media-3.api-sports.io/basketball/teams/2066.png
 2023-01-22T20:00:00+00:00,oregon state,california,,,away,1674417600,https://media-3.api-sports.io/basketball/teams/2066.png
-2023-01-27T04:00:00+00:00,oregon state,utah utes,,,home,1674792000,https://media-2.api-sports.io/basketball/teams/2066.png
-2023-01-29T03:30:00+00:00,oregon state,colorado,,,home,1674963000,https://media-3.api-sports.io/basketball/teams/2066.png
-2023-02-03T01:00:00+00:00,oregon state,arizona state,,,away,1675386000,https://media-3.api-sports.io/basketball/teams/2066.png
-2023-02-05T02:30:00+00:00,oregon state,arizona,,,away,1675564200,https://media-1.api-sports.io/basketball/teams/2066.png
+2023-01-27T04:00:00+00:00,oregon state,utah utes,,,home,1674792000,https://media-3.api-sports.io/basketball/teams/2066.png
+2023-01-29T03:30:00+00:00,oregon state,colorado,,,home,1674963000,https://media-2.api-sports.io/basketball/teams/2066.png
+2023-02-03T01:00:00+00:00,oregon state,arizona state,,,away,1675386000,https://media-1.api-sports.io/basketball/teams/2066.png
+2023-02-05T02:30:00+00:00,oregon state,arizona,,,away,1675564200,https://media-3.api-sports.io/basketball/teams/2066.png
 2023-02-10T02:00:00+00:00,oregon state,ucla,,,home,1675994400,https://media-2.api-sports.io/basketball/teams/2066.png
-2023-02-11T23:00:00+00:00,oregon state,usc,,,home,1676156400,https://media-2.api-sports.io/basketball/teams/2066.png
-2023-02-17T04:00:00+00:00,oregon state,washington state,,,away,1676606400,https://media-2.api-sports.io/basketball/teams/2066.png
+2023-02-11T23:00:00+00:00,oregon state,usc,,,home,1676156400,https://media-3.api-sports.io/basketball/teams/2066.png
+2023-02-17T04:00:00+00:00,oregon state,washington state,,,away,1676606400,https://media-3.api-sports.io/basketball/teams/2066.png

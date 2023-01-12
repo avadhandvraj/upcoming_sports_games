@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-07T23:30:00+00:00,appalachian state,warren wilson,74 - 142,W,home,1667863800,https://media-3.api-sports.io/basketball/teams/1813.png
-2022-11-10T23:30:00+00:00,appalachian state,n. carolina central,74 - 79,W,home,1668123000,https://media-3.api-sports.io/basketball/teams/1813.png
-2022-11-15T23:00:00+00:00,appalachian state,louisville,61 - 60,W,away,1668553200,https://media-2.api-sports.io/basketball/teams/1813.png
-2022-11-19T00:00:00+00:00,appalachian state,campbell,63 - 58,L,home,1668816000,https://media-1.api-sports.io/basketball/teams/1813.png
-2022-11-20T00:00:00+00:00,appalachian state,kennesaw state,71 - 67,L,home,1668902400,https://media-1.api-sports.io/basketball/teams/1813.png
+2022-11-07T23:30:00+00:00,appalachian state,warren wilson,74 - 142,W,home,1667863800,https://media-1.api-sports.io/basketball/teams/1813.png
+2022-11-10T23:30:00+00:00,appalachian state,n. carolina central,74 - 79,W,home,1668123000,https://media-1.api-sports.io/basketball/teams/1813.png
+2022-11-15T23:00:00+00:00,appalachian state,louisville,61 - 60,W,away,1668553200,https://media-1.api-sports.io/basketball/teams/1813.png
+2022-11-19T00:00:00+00:00,appalachian state,campbell,63 - 58,L,home,1668816000,https://media-2.api-sports.io/basketball/teams/1813.png
+2022-11-20T00:00:00+00:00,appalachian state,kennesaw state,71 - 67,L,home,1668902400,https://media-3.api-sports.io/basketball/teams/1813.png
 2022-11-20T19:30:00+00:00,appalachian state,se louisiana,74 - 83,W,home,1668972600,https://media-2.api-sports.io/basketball/teams/1813.png
-2022-11-24T00:00:00+00:00,appalachian state,east tennessee st,74 - 70,W,away,1669248000,https://media-3.api-sports.io/basketball/teams/1813.png
+2022-11-24T00:00:00+00:00,appalachian state,east tennessee st,74 - 70,W,away,1669248000,https://media-2.api-sports.io/basketball/teams/1813.png
 2022-11-29T23:30:00+00:00,appalachian state,furman,65 - 61,L,home,1669764600,https://media-2.api-sports.io/basketball/teams/1813.png
 2022-12-03T00:00:00+00:00,appalachian state,charlotte,62 - 71,L,away,1670025600,https://media-3.api-sports.io/basketball/teams/1813.png
 2022-12-06T23:30:00+00:00,appalachian state,carlow university,43 - 103,W,home,1670369400,https://media-3.api-sports.io/basketball/teams/1813.png
-2022-12-15T00:00:00+00:00,appalachian state,wake forest,66 - 67,L,away,1671062400,https://media-2.api-sports.io/basketball/teams/1813.png
-2022-12-17T21:00:00+00:00,appalachian state,regent university,32 - 100,W,home,1671310800,https://media-1.api-sports.io/basketball/teams/1813.png
+2022-12-15T00:00:00+00:00,appalachian state,wake forest,66 - 67,L,away,1671062400,https://media-1.api-sports.io/basketball/teams/1813.png
+2022-12-17T21:00:00+00:00,appalachian state,regent university,32 - 100,W,home,1671310800,https://media-3.api-sports.io/basketball/teams/1813.png
 2022-12-21T23:00:00+00:00,appalachian state,uc santa barbara,61 - 50,L,home,1671663600,https://media-1.api-sports.io/basketball/teams/1813.png
-2022-12-30T00:00:00+00:00,appalachian state,marshall,53 - 79,L,away,1672358400,https://media-1.api-sports.io/basketball/teams/1813.png
+2022-12-30T00:00:00+00:00,appalachian state,marshall,53 - 79,L,away,1672358400,https://media-2.api-sports.io/basketball/teams/1813.png
 2022-12-31T20:00:00+00:00,appalachian state,southern miss,70 - 76,L,away,1672516800,https://media-1.api-sports.io/basketball/teams/1813.png
 2023-01-05T23:30:00+00:00,appalachian state,coastal carolina,62 - 63,W,home,1672961400,https://media-3.api-sports.io/basketball/teams/1813.png
 2023-01-08T01:00:00+00:00,appalachian state,james madison,71 - 62,W,away,1673139600,https://media-2.api-sports.io/basketball/teams/1813.png
 2023-01-12T23:30:00+00:00,appalachian state,georgia southern,,,home,1673566200,https://media-1.api-sports.io/basketball/teams/1813.png
-2023-01-14T21:00:00+00:00,appalachian state,troy,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/1813.png
+2023-01-14T21:00:00+00:00,appalachian state,troy,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/1813.png
 2023-01-20T00:00:00+00:00,appalachian state,coastal carolina,,,away,1674172800,https://media-1.api-sports.io/basketball/teams/1813.png
 2023-01-22T00:00:00+00:00,appalachian state,old dominion,,,away,1674345600,https://media-1.api-sports.io/basketball/teams/1813.png
-2023-01-26T23:30:00+00:00,appalachian state,georgia state,,,home,1674775800,https://media-2.api-sports.io/basketball/teams/1813.png
+2023-01-26T23:30:00+00:00,appalachian state,georgia state,,,home,1674775800,https://media-1.api-sports.io/basketball/teams/1813.png
 2023-01-28T21:30:00+00:00,appalachian state,arkansas state,,,home,1674941400,https://media-2.api-sports.io/basketball/teams/1813.png
-2023-02-02T23:30:00+00:00,appalachian state,marshall,,,home,1675380600,https://media-3.api-sports.io/basketball/teams/1813.png
+2023-02-02T23:30:00+00:00,appalachian state,marshall,,,home,1675380600,https://media-1.api-sports.io/basketball/teams/1813.png
 2023-02-04T21:00:00+00:00,appalachian state,james madison,,,home,1675544400,https://media-2.api-sports.io/basketball/teams/1813.png
-2023-02-10T00:30:00+00:00,appalachian state,louisiana monroe,,,away,1675989000,https://media-1.api-sports.io/basketball/teams/1813.png
+2023-02-10T00:30:00+00:00,appalachian state,louisiana monroe,,,away,1675989000,https://media-3.api-sports.io/basketball/teams/1813.png
 2023-02-11T23:00:00+00:00,appalachian state,south alabama,,,away,1676156400,https://media-3.api-sports.io/basketball/teams/1813.png
-2023-02-16T23:30:00+00:00,appalachian state,texas state,,,home,1676590200,https://media-2.api-sports.io/basketball/teams/1813.png
+2023-02-16T23:30:00+00:00,appalachian state,texas state,,,home,1676590200,https://media-3.api-sports.io/basketball/teams/1813.png
 2023-02-18T21:00:00+00:00,appalachian state,old dominion,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/1813.png
-2023-02-22T21:00:00+00:00,appalachian state,georgia state,None - None,tie,away,1677099600,https://media-2.api-sports.io/basketball/teams/1813.png
-2023-02-24T21:00:00+00:00,appalachian state,georgia southern,None - None,tie,away,1677272400,https://media-3.api-sports.io/basketball/teams/1813.png
+2023-02-22T21:00:00+00:00,appalachian state,georgia state,None - None,tie,away,1677099600,https://media-3.api-sports.io/basketball/teams/1813.png
+2023-02-24T21:00:00+00:00,appalachian state,georgia southern,None - None,tie,away,1677272400,https://media-1.api-sports.io/basketball/teams/1813.png

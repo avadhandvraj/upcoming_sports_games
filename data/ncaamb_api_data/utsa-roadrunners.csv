@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,utsa roadrunners,trinity of texas,47 - 74,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/5881.png
-2022-11-12T01:00:00+00:00,utsa roadrunners,texas a&m-cc,55 - 75,L,away,1668214800,https://media-3.api-sports.io/basketball/teams/5881.png
+2022-11-08T01:00:00+00:00,utsa roadrunners,trinity of texas,47 - 74,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/5881.png
+2022-11-12T01:00:00+00:00,utsa roadrunners,texas a&m-cc,55 - 75,L,away,1668214800,https://media-1.api-sports.io/basketball/teams/5881.png
 2022-11-15T01:00:00+00:00,utsa roadrunners,st. mary's (tx),59 - 66,W,home,1668474000,https://media-2.api-sports.io/basketball/teams/5881.png
-2022-11-18T01:00:00+00:00,utsa roadrunners,texas state,56 - 61,W,home,1668733200,https://media-3.api-sports.io/basketball/teams/5881.png
-2022-11-23T01:00:00+00:00,utsa roadrunners,prairie view a&m,75 - 82,W,home,1669165200,https://media-3.api-sports.io/basketball/teams/5881.png
-2022-11-26T01:30:00+00:00,utsa roadrunners,grambling st.,75 - 55,L,home,1669426200,https://media-1.api-sports.io/basketball/teams/5881.png
+2022-11-18T01:00:00+00:00,utsa roadrunners,texas state,56 - 61,W,home,1668733200,https://media-2.api-sports.io/basketball/teams/5881.png
+2022-11-23T01:00:00+00:00,utsa roadrunners,prairie view a&m,75 - 82,W,home,1669165200,https://media-2.api-sports.io/basketball/teams/5881.png
+2022-11-26T01:30:00+00:00,utsa roadrunners,grambling st.,75 - 55,L,home,1669426200,https://media-3.api-sports.io/basketball/teams/5881.png
 2022-11-28T01:30:00+00:00,utsa roadrunners,dartmouth,78 - 77,L,home,1669599000,https://media-3.api-sports.io/basketball/teams/5881.png
-2022-11-29T00:30:00+00:00,utsa roadrunners,incarnate word,62 - 68,W,home,1669681800,https://media-3.api-sports.io/basketball/teams/5881.png
-2022-12-10T21:00:00+00:00,utsa roadrunners,new mexico,76 - 94,L,away,1670706000,https://media-2.api-sports.io/basketball/teams/5881.png
-2022-12-14T02:00:00+00:00,utsa roadrunners,utah utes,70 - 91,L,away,1670983200,https://media-3.api-sports.io/basketball/teams/5881.png
+2022-11-29T00:30:00+00:00,utsa roadrunners,incarnate word,62 - 68,W,home,1669681800,https://media-1.api-sports.io/basketball/teams/5881.png
+2022-12-10T21:00:00+00:00,utsa roadrunners,new mexico,76 - 94,L,away,1670706000,https://media-3.api-sports.io/basketball/teams/5881.png
+2022-12-14T02:00:00+00:00,utsa roadrunners,utah utes,70 - 91,L,away,1670983200,https://media-1.api-sports.io/basketball/teams/5881.png
 2022-12-18T21:00:00+00:00,utsa roadrunners,bethune-cookman,69 - 90,W,home,1671397200,https://media-1.api-sports.io/basketball/teams/5881.png
 2022-12-23T01:00:00+00:00,utsa roadrunners,north texas,78 - 54,L,home,1671757200,https://media-1.api-sports.io/basketball/teams/5881.png
-2022-12-30T00:00:00+00:00,utsa roadrunners,louisiana tech,69 - 91,L,away,1672358400,https://media-1.api-sports.io/basketball/teams/5881.png
-2022-12-31T21:00:00+00:00,utsa roadrunners,uab,67 - 90,L,away,1672520400,https://media-3.api-sports.io/basketball/teams/5881.png
-2023-01-06T01:00:00+00:00,utsa roadrunners,middle tenn. st.,72 - 75,W,home,1672966800,https://media-2.api-sports.io/basketball/teams/5881.png
-2023-01-07T21:00:00+00:00,utsa roadrunners,western kentucky,74 - 64,L,home,1673125200,https://media-3.api-sports.io/basketball/teams/5881.png
-2023-01-12T02:00:00+00:00,utsa roadrunners,utep,57 - 69,L,away,1673488800,https://media-2.api-sports.io/basketball/teams/5881.png
-2023-01-14T19:00:00+00:00,utsa roadrunners,charlotte,,,away,1673722800,https://media-3.api-sports.io/basketball/teams/5881.png
+2022-12-30T00:00:00+00:00,utsa roadrunners,louisiana tech,69 - 91,L,away,1672358400,https://media-3.api-sports.io/basketball/teams/5881.png
+2022-12-31T21:00:00+00:00,utsa roadrunners,uab,67 - 90,L,away,1672520400,https://media-1.api-sports.io/basketball/teams/5881.png
+2023-01-06T01:00:00+00:00,utsa roadrunners,middle tenn. st.,72 - 75,W,home,1672966800,https://media-3.api-sports.io/basketball/teams/5881.png
+2023-01-07T21:00:00+00:00,utsa roadrunners,western kentucky,74 - 64,L,home,1673125200,https://media-2.api-sports.io/basketball/teams/5881.png
+2023-01-12T02:00:00+00:00,utsa roadrunners,utep,57 - 69,L,away,1673488800,https://media-1.api-sports.io/basketball/teams/5881.png
+2023-01-14T19:00:00+00:00,utsa roadrunners,charlotte,,,away,1673722800,https://media-2.api-sports.io/basketball/teams/5881.png
 2023-01-17T01:00:00+00:00,utsa roadrunners,rice,,,home,1673917200,https://media-1.api-sports.io/basketball/teams/5881.png
 2023-01-20T01:00:00+00:00,utsa roadrunners,florida atlantic,,,home,1674176400,https://media-3.api-sports.io/basketball/teams/5881.png
 2023-01-21T21:00:00+00:00,utsa roadrunners,florida international,,,home,1674334800,https://media-2.api-sports.io/basketball/teams/5881.png
 2023-01-27T02:00:00+00:00,utsa roadrunners,north texas,,,away,1674784800,https://media-1.api-sports.io/basketball/teams/5881.png
-2023-01-28T21:00:00+00:00,utsa roadrunners,louisiana tech,,,home,1674939600,https://media-1.api-sports.io/basketball/teams/5881.png
-2023-02-03T01:00:00+00:00,utsa roadrunners,western kentucky,,,away,1675386000,https://media-3.api-sports.io/basketball/teams/5881.png
+2023-01-28T21:00:00+00:00,utsa roadrunners,louisiana tech,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/5881.png
+2023-02-03T01:00:00+00:00,utsa roadrunners,western kentucky,,,away,1675386000,https://media-2.api-sports.io/basketball/teams/5881.png
 2023-02-04T23:00:00+00:00,utsa roadrunners,middle tenn. st.,,,away,1675551600,https://media-2.api-sports.io/basketball/teams/5881.png
-2023-02-11T21:00:00+00:00,utsa roadrunners,utep,,,home,1676149200,https://media-2.api-sports.io/basketball/teams/5881.png
-2023-02-17T01:00:00+00:00,utsa roadrunners,rice,,,away,1676595600,https://media-1.api-sports.io/basketball/teams/5881.png
-2023-02-18T21:00:00+00:00,utsa roadrunners,uab,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/5881.png
+2023-02-11T21:00:00+00:00,utsa roadrunners,utep,,,home,1676149200,https://media-1.api-sports.io/basketball/teams/5881.png
+2023-02-17T01:00:00+00:00,utsa roadrunners,rice,,,away,1676595600,https://media-3.api-sports.io/basketball/teams/5881.png
+2023-02-18T21:00:00+00:00,utsa roadrunners,uab,,,home,1676754000,https://media-1.api-sports.io/basketball/teams/5881.png

@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,rhode island,quinnipiac,67 - 62,L,home,1667865600,https://media-1.api-sports.io/basketball/teams/2091.png
-2022-11-12T21:00:00+00:00,rhode island,texas state,70 - 66,L,home,1668286800,https://media-3.api-sports.io/basketball/teams/2091.png
-2022-11-16T00:00:00+00:00,rhode island,stony brook,64 - 74,W,home,1668556800,https://media-1.api-sports.io/basketball/teams/2091.png
-2022-11-22T00:30:00+00:00,rhode island,kansas state,57 - 77,L,away,1669077000,https://media-3.api-sports.io/basketball/teams/2091.png
-2022-11-22T22:00:00+00:00,rhode island,tulane,78 - 75,L,home,1669154400,https://media-1.api-sports.io/basketball/teams/2091.png
+2022-11-08T00:00:00+00:00,rhode island,quinnipiac,67 - 62,L,home,1667865600,https://media-2.api-sports.io/basketball/teams/2091.png
+2022-11-12T21:00:00+00:00,rhode island,texas state,70 - 66,L,home,1668286800,https://media-1.api-sports.io/basketball/teams/2091.png
+2022-11-16T00:00:00+00:00,rhode island,stony brook,64 - 74,W,home,1668556800,https://media-2.api-sports.io/basketball/teams/2091.png
+2022-11-22T00:30:00+00:00,rhode island,kansas state,57 - 77,L,away,1669077000,https://media-1.api-sports.io/basketball/teams/2091.png
+2022-11-22T22:00:00+00:00,rhode island,tulane,78 - 75,L,home,1669154400,https://media-2.api-sports.io/basketball/teams/2091.png
 2022-11-23T16:00:00+00:00,rhode island,illinois state,44 - 57,W,home,1669219200,https://media-1.api-sports.io/basketball/teams/2091.png
-2022-11-27T17:00:00+00:00,rhode island,boston college,49 - 53,L,away,1669568400,https://media-3.api-sports.io/basketball/teams/2091.png
+2022-11-27T17:00:00+00:00,rhode island,boston college,49 - 53,L,away,1669568400,https://media-2.api-sports.io/basketball/teams/2091.png
 2022-12-03T22:00:00+00:00,rhode island,providence,88 - 74,L,home,1670104800,https://media-2.api-sports.io/basketball/teams/2091.png
 2022-12-08T00:00:00+00:00,rhode island,brown,59 - 58,L,home,1670457600,https://media-3.api-sports.io/basketball/teams/2091.png
-2022-12-10T19:00:00+00:00,rhode island,army,67 - 77,W,home,1670698800,https://media-2.api-sports.io/basketball/teams/2091.png
+2022-12-10T19:00:00+00:00,rhode island,army,67 - 77,W,home,1670698800,https://media-3.api-sports.io/basketball/teams/2091.png
 2022-12-14T00:00:00+00:00,rhode island,umass lowell,75 - 77,W,home,1670976000,https://media-2.api-sports.io/basketball/teams/2091.png
-2022-12-18T19:00:00+00:00,rhode island,georgia state,66 - 75,L,away,1671390000,https://media-3.api-sports.io/basketball/teams/2091.png
-2022-12-23T00:00:00+00:00,rhode island,wisc. milwaukee,None - None,tie,home,1671753600,https://media-3.api-sports.io/basketball/teams/2091.png
-2022-12-31T18:00:00+00:00,rhode island,duquesne,61 - 72,L,away,1672509600,https://media-2.api-sports.io/basketball/teams/2091.png
-2023-01-05T00:00:00+00:00,rhode island,fordham,79 - 82,W,home,1672876800,https://media-2.api-sports.io/basketball/teams/2091.png
-2023-01-07T19:00:00+00:00,rhode island,la salle,75 - 77,L,away,1673118000,https://media-2.api-sports.io/basketball/teams/2091.png
-2023-01-12T00:00:00+00:00,rhode island,st. bonaventure,67 - 68,W,home,1673481600,https://media-2.api-sports.io/basketball/teams/2091.png
-2023-01-14T21:30:00+00:00,rhode island,umass,,,away,1673731800,https://media-1.api-sports.io/basketball/teams/2091.png
-2023-01-18T00:00:00+00:00,rhode island,richmond,,,away,1674000000,https://media-1.api-sports.io/basketball/teams/2091.png
-2023-01-21T17:00:00+00:00,rhode island,george mason,,,home,1674320400,https://media-1.api-sports.io/basketball/teams/2091.png
-2023-01-26T00:00:00+00:00,rhode island,dayton,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/2091.png
-2023-01-28T19:00:00+00:00,rhode island,la salle,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/2091.png
+2022-12-18T19:00:00+00:00,rhode island,georgia state,66 - 75,L,away,1671390000,https://media-2.api-sports.io/basketball/teams/2091.png
+2022-12-23T00:00:00+00:00,rhode island,wisc. milwaukee,None - None,tie,home,1671753600,https://media-1.api-sports.io/basketball/teams/2091.png
+2022-12-31T18:00:00+00:00,rhode island,duquesne,61 - 72,L,away,1672509600,https://media-1.api-sports.io/basketball/teams/2091.png
+2023-01-05T00:00:00+00:00,rhode island,fordham,79 - 82,W,home,1672876800,https://media-1.api-sports.io/basketball/teams/2091.png
+2023-01-07T19:00:00+00:00,rhode island,la salle,75 - 77,L,away,1673118000,https://media-3.api-sports.io/basketball/teams/2091.png
+2023-01-12T00:00:00+00:00,rhode island,st. bonaventure,67 - 68,W,home,1673481600,https://media-3.api-sports.io/basketball/teams/2091.png
+2023-01-14T21:30:00+00:00,rhode island,umass,,,away,1673731800,https://media-3.api-sports.io/basketball/teams/2091.png
+2023-01-18T00:00:00+00:00,rhode island,richmond,,,away,1674000000,https://media-3.api-sports.io/basketball/teams/2091.png
+2023-01-21T17:00:00+00:00,rhode island,george mason,,,home,1674320400,https://media-2.api-sports.io/basketball/teams/2091.png
+2023-01-26T00:00:00+00:00,rhode island,dayton,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/2091.png
+2023-01-28T19:00:00+00:00,rhode island,la salle,,,home,1674932400,https://media-3.api-sports.io/basketball/teams/2091.png
 2023-02-02T00:00:00+00:00,rhode island,saint josephs,,,away,1675296000,https://media-2.api-sports.io/basketball/teams/2091.png
-2023-02-08T02:00:00+00:00,rhode island,st. louis,,,away,1675821600,https://media-1.api-sports.io/basketball/teams/2091.png
-2023-02-11T19:00:00+00:00,rhode island,george mason,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/2091.png
-2023-02-16T00:00:00+00:00,rhode island,vcu rams,,,home,1676505600,https://media-3.api-sports.io/basketball/teams/2091.png
+2023-02-08T02:00:00+00:00,rhode island,st. louis,,,away,1675821600,https://media-2.api-sports.io/basketball/teams/2091.png
+2023-02-11T19:00:00+00:00,rhode island,george mason,,,away,1676142000,https://media-3.api-sports.io/basketball/teams/2091.png
+2023-02-16T00:00:00+00:00,rhode island,vcu rams,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/2091.png
 2023-02-18T19:00:00+00:00,rhode island,umass,,,home,1676746800,https://media-2.api-sports.io/basketball/teams/2091.png

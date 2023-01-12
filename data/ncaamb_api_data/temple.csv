@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,temple,wagner,76 - 73,L,home,1667865600,https://media-2.api-sports.io/basketball/teams/2140.png
+2022-11-08T00:00:00+00:00,temple,wagner,76 - 73,L,home,1667865600,https://media-1.api-sports.io/basketball/teams/2140.png
 2022-11-12T00:00:00+00:00,temple,villanova,64 - 68,W,home,1668211200,https://media-3.api-sports.io/basketball/teams/2140.png
-2022-11-16T00:00:00+00:00,temple,vanderbilt,89 - 87,L,home,1668556800,https://media-1.api-sports.io/basketball/teams/2140.png
-2022-11-18T22:00:00+00:00,temple,rutgers,72 - 66,W,away,1668808800,https://media-3.api-sports.io/basketball/teams/2140.png
-2022-11-22T02:30:00+00:00,temple,st. john's (n.y.),78 - 72,L,home,1669084200,https://media-2.api-sports.io/basketball/teams/2140.png
+2022-11-16T00:00:00+00:00,temple,vanderbilt,89 - 87,L,home,1668556800,https://media-2.api-sports.io/basketball/teams/2140.png
+2022-11-18T22:00:00+00:00,temple,rutgers,72 - 66,W,away,1668808800,https://media-1.api-sports.io/basketball/teams/2140.png
+2022-11-22T02:30:00+00:00,temple,st. john's (n.y.),78 - 72,L,home,1669084200,https://media-3.api-sports.io/basketball/teams/2140.png
 2022-11-23T00:00:00+00:00,temple,richmond,49 - 61,L,away,1669161600,https://media-3.api-sports.io/basketball/teams/2140.png
-2022-11-27T19:00:00+00:00,temple,drexel,61 - 73,W,home,1669575600,https://media-2.api-sports.io/basketball/teams/2140.png
-2022-11-30T23:00:00+00:00,temple,la salle,67 - 51,W,away,1669849200,https://media-3.api-sports.io/basketball/teams/2140.png
+2022-11-27T19:00:00+00:00,temple,drexel,61 - 73,W,home,1669575600,https://media-1.api-sports.io/basketball/teams/2140.png
+2022-11-30T23:00:00+00:00,temple,la salle,67 - 51,W,away,1669849200,https://media-1.api-sports.io/basketball/teams/2140.png
 2022-12-03T18:00:00+00:00,temple,vcu rams,73 - 83,W,home,1670090400,https://media-3.api-sports.io/basketball/teams/2140.png
 2022-12-07T00:00:00+00:00,temple,saint josephs,60 - 70,W,home,1670371200,https://media-3.api-sports.io/basketball/teams/2140.png
 2022-12-10T18:00:00+00:00,temple,penn,57 - 77,L,away,1670695200,https://media-3.api-sports.io/basketball/teams/2140.png
-2022-12-17T22:00:00+00:00,temple,ole miss,55 - 63,L,away,1671314400,https://media-3.api-sports.io/basketball/teams/2140.png
-2022-12-21T00:00:00+00:00,temple,md.-east. shore,86 - 78,L,home,1671580800,https://media-1.api-sports.io/basketball/teams/2140.png
-2022-12-29T00:00:00+00:00,temple,east carolina,59 - 57,W,away,1672272000,https://media-2.api-sports.io/basketball/teams/2140.png
-2023-01-01T20:00:00+00:00,temple,cincinnati,61 - 70,W,home,1672603200,https://media-1.api-sports.io/basketball/teams/2140.png
-2023-01-05T00:00:00+00:00,temple,south florida,68 - 64,W,away,1672876800,https://media-1.api-sports.io/basketball/teams/2140.png
-2023-01-07T19:00:00+00:00,temple,tulane,87 - 76,L,home,1673118000,https://media-3.api-sports.io/basketball/teams/2140.png
-2023-01-11T01:00:00+00:00,temple,tulsa,76 - 72,W,away,1673398800,https://media-1.api-sports.io/basketball/teams/2140.png
+2022-12-17T22:00:00+00:00,temple,ole miss,55 - 63,L,away,1671314400,https://media-2.api-sports.io/basketball/teams/2140.png
+2022-12-21T00:00:00+00:00,temple,md.-east. shore,86 - 78,L,home,1671580800,https://media-2.api-sports.io/basketball/teams/2140.png
+2022-12-29T00:00:00+00:00,temple,east carolina,59 - 57,W,away,1672272000,https://media-1.api-sports.io/basketball/teams/2140.png
+2023-01-01T20:00:00+00:00,temple,cincinnati,61 - 70,W,home,1672603200,https://media-2.api-sports.io/basketball/teams/2140.png
+2023-01-05T00:00:00+00:00,temple,south florida,68 - 64,W,away,1672876800,https://media-3.api-sports.io/basketball/teams/2140.png
+2023-01-07T19:00:00+00:00,temple,tulane,87 - 76,L,home,1673118000,https://media-1.api-sports.io/basketball/teams/2140.png
+2023-01-11T01:00:00+00:00,temple,tulsa,76 - 72,W,away,1673398800,https://media-2.api-sports.io/basketball/teams/2140.png
 2023-01-15T20:00:00+00:00,temple,memphis,,,home,1673812800,https://media-2.api-sports.io/basketball/teams/2140.png
-2023-01-19T00:00:00+00:00,temple,east carolina,,,home,1674086400,https://media-2.api-sports.io/basketball/teams/2140.png
+2023-01-19T00:00:00+00:00,temple,east carolina,,,home,1674086400,https://media-1.api-sports.io/basketball/teams/2140.png
 2023-01-22T20:00:00+00:00,temple,houston,,,away,1674417600,https://media-2.api-sports.io/basketball/teams/2140.png
-2023-01-26T00:00:00+00:00,temple,south florida,,,home,1674691200,https://media-1.api-sports.io/basketball/teams/2140.png
-2023-01-28T17:00:00+00:00,temple,ucf knights,,,away,1674925200,https://media-2.api-sports.io/basketball/teams/2140.png
+2023-01-26T00:00:00+00:00,temple,south florida,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/2140.png
+2023-01-28T17:00:00+00:00,temple,ucf knights,,,away,1674925200,https://media-3.api-sports.io/basketball/teams/2140.png
 2023-02-05T23:00:00+00:00,temple,houston,,,home,1675638000,https://media-3.api-sports.io/basketball/teams/2140.png
-2023-02-09T01:00:00+00:00,temple,smu mustangs,,,away,1675904400,https://media-1.api-sports.io/basketball/teams/2140.png
-2023-02-12T17:00:00+00:00,temple,memphis,,,away,1676221200,https://media-3.api-sports.io/basketball/teams/2140.png
-2023-02-17T00:00:00+00:00,temple,wichita state,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/2140.png
+2023-02-09T01:00:00+00:00,temple,smu mustangs,,,away,1675904400,https://media-2.api-sports.io/basketball/teams/2140.png
+2023-02-12T17:00:00+00:00,temple,memphis,,,away,1676221200,https://media-1.api-sports.io/basketball/teams/2140.png
+2023-02-17T00:00:00+00:00,temple,wichita state,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/2140.png

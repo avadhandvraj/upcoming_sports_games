@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,iupui,iowa state,39 - 88,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/234.png
-2022-11-10T01:00:00+00:00,iupui,drake,48 - 80,L,away,1668042000,https://media-3.api-sports.io/basketball/teams/234.png
-2022-11-15T01:00:00+00:00,iupui,chicago state,58 - 68,L,away,1668474000,https://media-1.api-sports.io/basketball/teams/234.png
-2022-11-19T17:00:00+00:00,iupui,franklin,45 - 59,W,home,1668877200,https://media-1.api-sports.io/basketball/teams/234.png
+2022-11-08T01:00:00+00:00,iupui,iowa state,39 - 88,L,away,1667869200,https://media-3.api-sports.io/basketball/teams/234.png
+2022-11-10T01:00:00+00:00,iupui,drake,48 - 80,L,away,1668042000,https://media-2.api-sports.io/basketball/teams/234.png
+2022-11-15T01:00:00+00:00,iupui,chicago state,58 - 68,L,away,1668474000,https://media-2.api-sports.io/basketball/teams/234.png
+2022-11-19T17:00:00+00:00,iupui,franklin,45 - 59,W,home,1668877200,https://media-2.api-sports.io/basketball/teams/234.png
 2022-11-23T22:00:00+00:00,iupui,denver,86 - 64,L,home,1669240800,https://media-2.api-sports.io/basketball/teams/234.png
-2022-11-24T20:00:00+00:00,iupui,new orleans,84 - 87,L,away,1669320000,https://media-2.api-sports.io/basketball/teams/234.png
-2022-11-25T21:00:00+00:00,iupui,citadel,74 - 53,L,home,1669410000,https://media-1.api-sports.io/basketball/teams/234.png
-2022-12-04T01:00:00+00:00,iupui,wisc. milwaukee,61 - 74,L,away,1670115600,https://media-1.api-sports.io/basketball/teams/234.png
-2022-12-05T17:00:00+00:00,iupui,wisc. green bay,61 - 68,L,away,1670259600,https://media-2.api-sports.io/basketball/teams/234.png
+2022-11-24T20:00:00+00:00,iupui,new orleans,84 - 87,L,away,1669320000,https://media-3.api-sports.io/basketball/teams/234.png
+2022-11-25T21:00:00+00:00,iupui,citadel,74 - 53,L,home,1669410000,https://media-2.api-sports.io/basketball/teams/234.png
+2022-12-04T01:00:00+00:00,iupui,wisc. milwaukee,61 - 74,L,away,1670115600,https://media-2.api-sports.io/basketball/teams/234.png
+2022-12-05T17:00:00+00:00,iupui,wisc. green bay,61 - 68,L,away,1670259600,https://media-1.api-sports.io/basketball/teams/234.png
 2022-12-12T16:00:00+00:00,iupui,spalding,53 - 75,W,home,1670860800,https://media-3.api-sports.io/basketball/teams/234.png
 2022-12-17T17:00:00+00:00,iupui,eastern illinois,70 - 59,L,home,1671296400,https://media-2.api-sports.io/basketball/teams/234.png
-2022-12-19T21:00:00+00:00,iupui,southern indiana,87 - 74,L,home,1671483600,https://media-1.api-sports.io/basketball/teams/234.png
-2022-12-20T21:00:00+00:00,iupui,tx a&m commerce,52 - 62,W,home,1671570000,https://media-2.api-sports.io/basketball/teams/234.png
+2022-12-19T21:00:00+00:00,iupui,southern indiana,87 - 74,L,home,1671483600,https://media-2.api-sports.io/basketball/teams/234.png
+2022-12-20T21:00:00+00:00,iupui,tx a&m commerce,52 - 62,W,home,1671570000,https://media-3.api-sports.io/basketball/teams/234.png
 2022-12-31T19:00:00+00:00,iupui,northern kentucky,55 - 42,L,home,1672513200,https://media-3.api-sports.io/basketball/teams/234.png
-2023-01-02T19:00:00+00:00,iupui,wright state,82 - 68,L,home,1672686000,https://media-2.api-sports.io/basketball/teams/234.png
+2023-01-02T19:00:00+00:00,iupui,wright state,82 - 68,L,home,1672686000,https://media-1.api-sports.io/basketball/teams/234.png
 2023-01-07T19:00:00+00:00,iupui,youngstown state,74 - 105,L,away,1673118000,https://media-3.api-sports.io/basketball/teams/234.png
-2023-01-10T00:00:00+00:00,iupui,robert morris,70 - 77,L,away,1673308800,https://media-2.api-sports.io/basketball/teams/234.png
-2023-01-13T00:00:00+00:00,iupui,ipfw,,,home,1673568000,https://media-2.api-sports.io/basketball/teams/234.png
-2023-01-14T17:00:00+00:00,iupui,cleveland state,,,home,1673715600,https://media-2.api-sports.io/basketball/teams/234.png
+2023-01-10T00:00:00+00:00,iupui,robert morris,70 - 77,L,away,1673308800,https://media-3.api-sports.io/basketball/teams/234.png
+2023-01-13T00:00:00+00:00,iupui,ipfw,,,home,1673568000,https://media-3.api-sports.io/basketball/teams/234.png
+2023-01-14T17:00:00+00:00,iupui,cleveland state,,,home,1673715600,https://media-3.api-sports.io/basketball/teams/234.png
 2023-01-20T00:00:00+00:00,iupui,oakland,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/234.png
 2023-01-21T17:00:00+00:00,iupui,detroit,,,home,1674320400,https://media-3.api-sports.io/basketball/teams/234.png
 2023-01-26T00:00:00+00:00,iupui,ipfw,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/234.png
-2023-01-29T20:00:00+00:00,iupui,cleveland state,,,away,1675022400,https://media-3.api-sports.io/basketball/teams/234.png
+2023-01-29T20:00:00+00:00,iupui,cleveland state,,,away,1675022400,https://media-2.api-sports.io/basketball/teams/234.png
 2023-02-02T21:00:00+00:00,iupui,wisc. milwaukee,,,home,1675371600,https://media-3.api-sports.io/basketball/teams/234.png
 2023-02-04T17:00:00+00:00,iupui,wisc. green bay,,,home,1675530000,https://media-2.api-sports.io/basketball/teams/234.png
-2023-02-09T00:00:00+00:00,iupui,wright state,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/234.png
+2023-02-09T00:00:00+00:00,iupui,wright state,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/234.png
 2023-02-12T18:00:00+00:00,iupui,northern kentucky,,,away,1676224800,https://media-3.api-sports.io/basketball/teams/234.png
-2023-02-16T00:00:00+00:00,iupui,oakland,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/234.png
+2023-02-16T00:00:00+00:00,iupui,oakland,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/234.png
 2023-02-19T21:00:00+00:00,iupui,detroit,None - None,tie,away,1676840400,https://media-3.api-sports.io/basketball/teams/234.png
 2023-02-23T21:00:00+00:00,iupui,robert morris,None - None,tie,home,1677186000,https://media-3.api-sports.io/basketball/teams/234.png
-2023-02-25T21:00:00+00:00,iupui,youngstown state,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/234.png
+2023-02-25T21:00:00+00:00,iupui,youngstown state,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/234.png

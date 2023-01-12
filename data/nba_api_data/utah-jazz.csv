@@ -1,87 +1,87 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-10-02T22:00:00+00:00,utah jazz,toronto raptors,82 - 114,L,away,1664748000,https://media-2.api-sports.io/basketball/teams/160.png
-2022-10-05T02:00:00+00:00,utah jazz,portland trail blazers,118 - 101,W,away,1664935200,https://media-2.api-sports.io/basketball/teams/160.png
+2022-10-05T02:00:00+00:00,utah jazz,portland trail blazers,118 - 101,W,away,1664935200,https://media-1.api-sports.io/basketball/teams/160.png
 2022-10-12T01:00:00+00:00,utah jazz,san antonio spurs,111 - 104,L,home,1665536400,https://media-1.api-sports.io/basketball/teams/160.png
 2022-10-15T01:00:00+00:00,utah jazz,dallas mavericks,115 - 101,L,home,1665795600,https://media-1.api-sports.io/basketball/teams/160.png
 2022-10-20T01:00:00+00:00,utah jazz,denver nuggets,102 - 123,W,home,1666227600,https://media-2.api-sports.io/basketball/teams/160.png
 2022-10-22T00:00:00+00:00,utah jazz,minnesota timberwolves,132 - 126,W,away,1666396800,https://media-2.api-sports.io/basketball/teams/160.png
 2022-10-23T23:00:00+00:00,utah jazz,new orleans pelicans,122 - 121,W,away,1666566000,https://media-3.api-sports.io/basketball/teams/160.png
 2022-10-25T00:00:00+00:00,utah jazz,houston rockets,108 - 114,L,away,1666656000,https://media-3.api-sports.io/basketball/teams/160.png
-2022-10-27T01:00:00+00:00,utah jazz,houston rockets,101 - 109,W,home,1666832400,https://media-1.api-sports.io/basketball/teams/160.png
-2022-10-29T01:00:00+00:00,utah jazz,denver nuggets,101 - 117,L,away,1667005200,https://media-1.api-sports.io/basketball/teams/160.png
-2022-10-30T01:00:00+00:00,utah jazz,memphis grizzlies,123 - 124,W,home,1667091600,https://media-1.api-sports.io/basketball/teams/160.png
-2022-11-01T01:00:00+00:00,utah jazz,memphis grizzlies,105 - 121,W,home,1667264400,https://media-3.api-sports.io/basketball/teams/160.png
-2022-11-03T00:30:00+00:00,utah jazz,dallas mavericks,100 - 103,L,away,1667435400,https://media-1.api-sports.io/basketball/teams/160.png
+2022-10-27T01:00:00+00:00,utah jazz,houston rockets,101 - 109,W,home,1666832400,https://media-3.api-sports.io/basketball/teams/160.png
+2022-10-29T01:00:00+00:00,utah jazz,denver nuggets,101 - 117,L,away,1667005200,https://media-2.api-sports.io/basketball/teams/160.png
+2022-10-30T01:00:00+00:00,utah jazz,memphis grizzlies,123 - 124,W,home,1667091600,https://media-3.api-sports.io/basketball/teams/160.png
+2022-11-01T01:00:00+00:00,utah jazz,memphis grizzlies,105 - 121,W,home,1667264400,https://media-2.api-sports.io/basketball/teams/160.png
+2022-11-03T00:30:00+00:00,utah jazz,dallas mavericks,100 - 103,L,away,1667435400,https://media-2.api-sports.io/basketball/teams/160.png
 2022-11-05T02:30:00+00:00,utah jazz,los angeles lakers,130 - 116,W,away,1667615400,https://media-2.api-sports.io/basketball/teams/160.png
-2022-11-07T03:00:00+00:00,utah jazz,los angeles clippers,110 - 102,W,away,1667790000,https://media-3.api-sports.io/basketball/teams/160.png
-2022-11-08T03:15:00+00:00,utah jazz,los angeles lakers,116 - 139,W,home,1667877300,https://media-3.api-sports.io/basketball/teams/160.png
-2022-11-10T00:30:00+00:00,utah jazz,atlanta hawks,125 - 119,W,away,1668040200,https://media-1.api-sports.io/basketball/teams/160.png
+2022-11-07T03:00:00+00:00,utah jazz,los angeles clippers,110 - 102,W,away,1667790000,https://media-2.api-sports.io/basketball/teams/160.png
+2022-11-08T03:15:00+00:00,utah jazz,los angeles lakers,116 - 139,W,home,1667877300,https://media-2.api-sports.io/basketball/teams/160.png
+2022-11-10T00:30:00+00:00,utah jazz,atlanta hawks,125 - 119,W,away,1668040200,https://media-3.api-sports.io/basketball/teams/160.png
 2022-11-12T23:00:00+00:00,utah jazz,washington wizards,112 - 121,L,away,1668294000,https://media-2.api-sports.io/basketball/teams/160.png
-2022-11-14T00:30:00+00:00,utah jazz,philadelphia 76ers,98 - 105,L,away,1668385800,https://media-1.api-sports.io/basketball/teams/160.png
-2022-11-16T02:00:00+00:00,utah jazz,new york knicks,118 - 111,L,home,1668564000,https://media-1.api-sports.io/basketball/teams/160.png
+2022-11-14T00:30:00+00:00,utah jazz,philadelphia 76ers,98 - 105,L,away,1668385800,https://media-3.api-sports.io/basketball/teams/160.png
+2022-11-16T02:00:00+00:00,utah jazz,new york knicks,118 - 111,L,home,1668564000,https://media-3.api-sports.io/basketball/teams/160.png
 2022-11-19T02:00:00+00:00,utah jazz,phoenix suns,133 - 134,W,home,1668823200,https://media-1.api-sports.io/basketball/teams/160.png
-2022-11-20T03:00:00+00:00,utah jazz,portland trail blazers,118 - 113,W,away,1668913200,https://media-3.api-sports.io/basketball/teams/160.png
-2022-11-22T03:30:00+00:00,utah jazz,los angeles clippers,114 - 121,L,away,1669087800,https://media-1.api-sports.io/basketball/teams/160.png
-2022-11-24T02:00:00+00:00,utah jazz,detroit pistons,125 - 116,L,home,1669255200,https://media-1.api-sports.io/basketball/teams/160.png
-2022-11-26T03:00:00+00:00,utah jazz,golden state warriors,118 - 129,L,away,1669431600,https://media-1.api-sports.io/basketball/teams/160.png
+2022-11-20T03:00:00+00:00,utah jazz,portland trail blazers,118 - 113,W,away,1668913200,https://media-1.api-sports.io/basketball/teams/160.png
+2022-11-22T03:30:00+00:00,utah jazz,los angeles clippers,114 - 121,L,away,1669087800,https://media-3.api-sports.io/basketball/teams/160.png
+2022-11-24T02:00:00+00:00,utah jazz,detroit pistons,125 - 116,L,home,1669255200,https://media-3.api-sports.io/basketball/teams/160.png
+2022-11-26T03:00:00+00:00,utah jazz,golden state warriors,118 - 129,L,away,1669431600,https://media-2.api-sports.io/basketball/teams/160.png
 2022-11-27T02:00:00+00:00,utah jazz,phoenix suns,112 - 113,L,away,1669514400,https://media-2.api-sports.io/basketball/teams/160.png
 2022-11-29T02:00:00+00:00,utah jazz,chicago bulls,114 - 107,L,home,1669687200,https://media-3.api-sports.io/basketball/teams/160.png
-2022-12-01T02:00:00+00:00,utah jazz,los angeles clippers,112 - 125,W,home,1669860000,https://media-3.api-sports.io/basketball/teams/160.png
-2022-12-03T02:00:00+00:00,utah jazz,indiana pacers,119 - 139,W,home,1670032800,https://media-3.api-sports.io/basketball/teams/160.png
+2022-12-01T02:00:00+00:00,utah jazz,los angeles clippers,112 - 125,W,home,1669860000,https://media-2.api-sports.io/basketball/teams/160.png
+2022-12-03T02:00:00+00:00,utah jazz,indiana pacers,119 - 139,W,home,1670032800,https://media-2.api-sports.io/basketball/teams/160.png
 2022-12-04T02:00:00+00:00,utah jazz,portland trail blazers,116 - 111,L,home,1670119200,https://media-2.api-sports.io/basketball/teams/160.png
-2022-12-08T02:00:00+00:00,utah jazz,golden state warriors,123 - 124,W,home,1670464800,https://media-3.api-sports.io/basketball/teams/160.png
-2022-12-10T02:00:00+00:00,utah jazz,minnesota timberwolves,118 - 108,L,home,1670637600,https://media-2.api-sports.io/basketball/teams/160.png
-2022-12-11T02:00:00+00:00,utah jazz,denver nuggets,110 - 115,L,away,1670724000,https://media-3.api-sports.io/basketball/teams/160.png
+2022-12-08T02:00:00+00:00,utah jazz,golden state warriors,123 - 124,W,home,1670464800,https://media-2.api-sports.io/basketball/teams/160.png
+2022-12-10T02:00:00+00:00,utah jazz,minnesota timberwolves,118 - 108,L,home,1670637600,https://media-1.api-sports.io/basketball/teams/160.png
+2022-12-11T02:00:00+00:00,utah jazz,denver nuggets,110 - 115,L,away,1670724000,https://media-1.api-sports.io/basketball/teams/160.png
 2022-12-14T02:00:00+00:00,utah jazz,new orleans pelicans,100 - 121,W,home,1670983200,https://media-3.api-sports.io/basketball/teams/160.png
 2022-12-16T02:00:00+00:00,utah jazz,new orleans pelicans,129 - 132,W,home,1671156000,https://media-1.api-sports.io/basketball/teams/160.png
-2022-12-18T01:00:00+00:00,utah jazz,milwaukee bucks,97 - 123,L,away,1671325200,https://media-2.api-sports.io/basketball/teams/160.png
+2022-12-18T01:00:00+00:00,utah jazz,milwaukee bucks,97 - 123,L,away,1671325200,https://media-1.api-sports.io/basketball/teams/160.png
 2022-12-20T00:00:00+00:00,utah jazz,cleveland cavaliers,99 - 122,L,away,1671494400,https://media-2.api-sports.io/basketball/teams/160.png
-2022-12-21T00:00:00+00:00,utah jazz,detroit pistons,126 - 111,W,away,1671580800,https://media-2.api-sports.io/basketball/teams/160.png
+2022-12-21T00:00:00+00:00,utah jazz,detroit pistons,126 - 111,W,away,1671580800,https://media-1.api-sports.io/basketball/teams/160.png
 2022-12-23T02:00:00+00:00,utah jazz,washington wizards,112 - 120,W,home,1671760800,https://media-3.api-sports.io/basketball/teams/160.png
-2022-12-27T01:00:00+00:00,utah jazz,san antonio spurs,122 - 126,L,away,1672102800,https://media-3.api-sports.io/basketball/teams/160.png
-2022-12-29T03:00:00+00:00,utah jazz,golden state warriors,107 - 112,L,away,1672282800,https://media-1.api-sports.io/basketball/teams/160.png
-2022-12-31T03:00:00+00:00,utah jazz,sacramento kings,125 - 126,L,away,1672455600,https://media-1.api-sports.io/basketball/teams/160.png
-2023-01-01T02:00:00+00:00,utah jazz,miami heat,126 - 123,L,home,1672538400,https://media-2.api-sports.io/basketball/teams/160.png
-2023-01-04T02:00:00+00:00,utah jazz,sacramento kings,117 - 115,L,home,1672797600,https://media-1.api-sports.io/basketball/teams/160.png
+2022-12-27T01:00:00+00:00,utah jazz,san antonio spurs,122 - 126,L,away,1672102800,https://media-1.api-sports.io/basketball/teams/160.png
+2022-12-29T03:00:00+00:00,utah jazz,golden state warriors,107 - 112,L,away,1672282800,https://media-2.api-sports.io/basketball/teams/160.png
+2022-12-31T03:00:00+00:00,utah jazz,sacramento kings,125 - 126,L,away,1672455600,https://media-3.api-sports.io/basketball/teams/160.png
+2023-01-01T02:00:00+00:00,utah jazz,miami heat,126 - 123,L,home,1672538400,https://media-1.api-sports.io/basketball/teams/160.png
+2023-01-04T02:00:00+00:00,utah jazz,sacramento kings,117 - 115,L,home,1672797600,https://media-3.api-sports.io/basketball/teams/160.png
 2023-01-06T01:00:00+00:00,utah jazz,houston rockets,131 - 114,W,away,1672966800,https://media-1.api-sports.io/basketball/teams/160.png
-2023-01-08T01:00:00+00:00,utah jazz,chicago bulls,118 - 126,L,away,1673139600,https://media-3.api-sports.io/basketball/teams/160.png
+2023-01-08T01:00:00+00:00,utah jazz,chicago bulls,118 - 126,L,away,1673139600,https://media-1.api-sports.io/basketball/teams/160.png
 2023-01-08T23:00:00+00:00,utah jazz,memphis grizzlies,118 - 123,L,away,1673218800,https://media-2.api-sports.io/basketball/teams/160.png
-2023-01-11T02:00:00+00:00,utah jazz,cleveland cavaliers,114 - 116,W,home,1673402400,https://media-3.api-sports.io/basketball/teams/160.png
-2023-01-14T02:00:00+00:00,utah jazz,orlando magic,,,home,1673661600,https://media-3.api-sports.io/basketball/teams/160.png
-2023-01-15T02:00:00+00:00,utah jazz,philadelphia 76ers,,,home,1673748000,https://media-2.api-sports.io/basketball/teams/160.png
+2023-01-11T02:00:00+00:00,utah jazz,cleveland cavaliers,114 - 116,W,home,1673402400,https://media-2.api-sports.io/basketball/teams/160.png
+2023-01-14T02:00:00+00:00,utah jazz,orlando magic,,,home,1673661600,https://media-2.api-sports.io/basketball/teams/160.png
+2023-01-15T02:00:00+00:00,utah jazz,philadelphia 76ers,,,home,1673748000,https://media-1.api-sports.io/basketball/teams/160.png
 2023-01-16T21:00:00+00:00,utah jazz,minnesota timberwolves,,,away,1673902800,https://media-1.api-sports.io/basketball/teams/160.png
 2023-01-19T02:00:00+00:00,utah jazz,los angeles clippers,,,home,1674093600,https://media-1.api-sports.io/basketball/teams/160.png
-2023-01-21T02:00:00+00:00,utah jazz,brooklyn nets,,,home,1674266400,https://media-1.api-sports.io/basketball/teams/160.png
-2023-01-24T02:00:00+00:00,utah jazz,charlotte hornets,,,home,1674525600,https://media-1.api-sports.io/basketball/teams/160.png
+2023-01-21T02:00:00+00:00,utah jazz,brooklyn nets,,,home,1674266400,https://media-3.api-sports.io/basketball/teams/160.png
+2023-01-24T02:00:00+00:00,utah jazz,charlotte hornets,,,home,1674525600,https://media-2.api-sports.io/basketball/teams/160.png
 2023-01-26T03:00:00+00:00,utah jazz,portland trail blazers,,,away,1674702000,https://media-3.api-sports.io/basketball/teams/160.png
-2023-01-29T02:00:00+00:00,utah jazz,dallas mavericks,,,home,1674957600,https://media-2.api-sports.io/basketball/teams/160.png
-2023-02-02T02:00:00+00:00,utah jazz,toronto raptors,,,home,1675303200,https://media-1.api-sports.io/basketball/teams/160.png
-2023-02-04T02:00:00+00:00,utah jazz,atlanta hawks,,,home,1675476000,https://media-3.api-sports.io/basketball/teams/160.png
-2023-02-07T02:00:00+00:00,utah jazz,dallas mavericks,,,home,1675735200,https://media-3.api-sports.io/basketball/teams/160.png
+2023-01-29T02:00:00+00:00,utah jazz,dallas mavericks,,,home,1674957600,https://media-3.api-sports.io/basketball/teams/160.png
+2023-02-02T02:00:00+00:00,utah jazz,toronto raptors,,,home,1675303200,https://media-2.api-sports.io/basketball/teams/160.png
+2023-02-04T02:00:00+00:00,utah jazz,atlanta hawks,,,home,1675476000,https://media-1.api-sports.io/basketball/teams/160.png
+2023-02-07T02:00:00+00:00,utah jazz,dallas mavericks,,,home,1675735200,https://media-2.api-sports.io/basketball/teams/160.png
 2023-02-09T02:00:00+00:00,utah jazz,minnesota timberwolves,,,home,1675908000,https://media-1.api-sports.io/basketball/teams/160.png
 2023-02-11T00:30:00+00:00,utah jazz,toronto raptors,,,away,1676075400,https://media-1.api-sports.io/basketball/teams/160.png
-2023-02-12T00:30:00+00:00,utah jazz,new york knicks,,,away,1676161800,https://media-2.api-sports.io/basketball/teams/160.png
-2023-02-14T00:00:00+00:00,utah jazz,indiana pacers,,,away,1676332800,https://media-2.api-sports.io/basketball/teams/160.png
+2023-02-12T00:30:00+00:00,utah jazz,new york knicks,,,away,1676161800,https://media-1.api-sports.io/basketball/teams/160.png
+2023-02-14T00:00:00+00:00,utah jazz,indiana pacers,,,away,1676332800,https://media-3.api-sports.io/basketball/teams/160.png
 2023-02-16T01:00:00+00:00,utah jazz,memphis grizzlies,,,away,1676509200,https://media-2.api-sports.io/basketball/teams/160.png
-2023-02-24T02:00:00+00:00,utah jazz,oklahoma city thunder,,,home,1677204000,https://media-2.api-sports.io/basketball/teams/160.png
-2023-02-26T02:00:00+00:00,utah jazz,san antonio spurs,,,home,1677376800,https://media-2.api-sports.io/basketball/teams/160.png
-2023-03-01T02:00:00+00:00,utah jazz,san antonio spurs,,,home,1677636000,https://media-2.api-sports.io/basketball/teams/160.png
-2023-03-04T01:00:00+00:00,utah jazz,oklahoma city thunder,,,away,1677891600,https://media-2.api-sports.io/basketball/teams/160.png
-2023-03-06T00:00:00+00:00,utah jazz,oklahoma city thunder,,,away,1678060800,https://media-3.api-sports.io/basketball/teams/160.png
-2023-03-08T01:30:00+00:00,utah jazz,dallas mavericks,,,away,1678239000,https://media-1.api-sports.io/basketball/teams/160.png
-2023-03-10T00:00:00+00:00,utah jazz,orlando magic,,,away,1678406400,https://media-3.api-sports.io/basketball/teams/160.png
-2023-03-12T00:00:00+00:00,utah jazz,charlotte hornets,,,away,1678579200,https://media-3.api-sports.io/basketball/teams/160.png
-2023-03-13T23:30:00+00:00,utah jazz,miami heat,,,away,1678750200,https://media-2.api-sports.io/basketball/teams/160.png
-2023-03-19T01:00:00+00:00,utah jazz,boston celtics,,,home,1679187600,https://media-2.api-sports.io/basketball/teams/160.png
+2023-02-24T02:00:00+00:00,utah jazz,oklahoma city thunder,,,home,1677204000,https://media-1.api-sports.io/basketball/teams/160.png
+2023-02-26T02:00:00+00:00,utah jazz,san antonio spurs,,,home,1677376800,https://media-3.api-sports.io/basketball/teams/160.png
+2023-03-01T02:00:00+00:00,utah jazz,san antonio spurs,,,home,1677636000,https://media-1.api-sports.io/basketball/teams/160.png
+2023-03-04T01:00:00+00:00,utah jazz,oklahoma city thunder,,,away,1677891600,https://media-1.api-sports.io/basketball/teams/160.png
+2023-03-06T00:00:00+00:00,utah jazz,oklahoma city thunder,,,away,1678060800,https://media-2.api-sports.io/basketball/teams/160.png
+2023-03-08T01:30:00+00:00,utah jazz,dallas mavericks,,,away,1678239000,https://media-2.api-sports.io/basketball/teams/160.png
+2023-03-10T00:00:00+00:00,utah jazz,orlando magic,,,away,1678406400,https://media-2.api-sports.io/basketball/teams/160.png
+2023-03-12T00:00:00+00:00,utah jazz,charlotte hornets,,,away,1678579200,https://media-2.api-sports.io/basketball/teams/160.png
+2023-03-13T23:30:00+00:00,utah jazz,miami heat,,,away,1678750200,https://media-3.api-sports.io/basketball/teams/160.png
+2023-03-19T01:00:00+00:00,utah jazz,boston celtics,,,home,1679187600,https://media-1.api-sports.io/basketball/teams/160.png
 2023-03-21T01:00:00+00:00,utah jazz,sacramento kings,,,home,1679360400,https://media-1.api-sports.io/basketball/teams/160.png
 2023-03-23T01:00:00+00:00,utah jazz,portland trail blazers,,,home,1679533200,https://media-1.api-sports.io/basketball/teams/160.png
-2023-03-25T01:00:00+00:00,utah jazz,milwaukee bucks,,,home,1679706000,https://media-3.api-sports.io/basketball/teams/160.png
+2023-03-25T01:00:00+00:00,utah jazz,milwaukee bucks,,,home,1679706000,https://media-2.api-sports.io/basketball/teams/160.png
 2023-03-26T02:00:00+00:00,utah jazz,sacramento kings,,,away,1679796000,https://media-1.api-sports.io/basketball/teams/160.png
-2023-03-28T01:00:00+00:00,utah jazz,phoenix suns,,,home,1679965200,https://media-1.api-sports.io/basketball/teams/160.png
-2023-03-30T00:00:00+00:00,utah jazz,san antonio spurs,,,away,1680134400,https://media-2.api-sports.io/basketball/teams/160.png
-2023-03-31T23:30:00+00:00,utah jazz,boston celtics,,,away,1680305400,https://media-1.api-sports.io/basketball/teams/160.png
-2023-04-02T19:30:00+00:00,utah jazz,brooklyn nets,,,away,1680463800,https://media-2.api-sports.io/basketball/teams/160.png
+2023-03-28T01:00:00+00:00,utah jazz,phoenix suns,,,home,1679965200,https://media-2.api-sports.io/basketball/teams/160.png
+2023-03-30T00:00:00+00:00,utah jazz,san antonio spurs,,,away,1680134400,https://media-3.api-sports.io/basketball/teams/160.png
+2023-03-31T23:30:00+00:00,utah jazz,boston celtics,,,away,1680305400,https://media-3.api-sports.io/basketball/teams/160.png
+2023-04-02T19:30:00+00:00,utah jazz,brooklyn nets,,,away,1680463800,https://media-3.api-sports.io/basketball/teams/160.png
 2023-04-05T01:00:00+00:00,utah jazz,los angeles lakers,,,home,1680656400,https://media-2.api-sports.io/basketball/teams/160.png
-2023-04-07T01:00:00+00:00,utah jazz,oklahoma city thunder,,,home,1680829200,https://media-1.api-sports.io/basketball/teams/160.png
+2023-04-07T01:00:00+00:00,utah jazz,oklahoma city thunder,,,home,1680829200,https://media-3.api-sports.io/basketball/teams/160.png
 2023-04-08T19:30:00+00:00,utah jazz,denver nuggets,,,home,1680982200,https://media-2.api-sports.io/basketball/teams/160.png
-2023-04-09T19:30:00+00:00,utah jazz,los angeles lakers,,,away,1681068600,https://media-2.api-sports.io/basketball/teams/160.png
+2023-04-09T19:30:00+00:00,utah jazz,los angeles lakers,,,away,1681068600,https://media-1.api-sports.io/basketball/teams/160.png

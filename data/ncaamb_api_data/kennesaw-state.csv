@@ -1,33 +1,33 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,kennesaw state,la grange,56 - 99,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/1963.png
+2022-11-08T00:00:00+00:00,kennesaw state,la grange,56 - 99,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/1963.png
 2022-11-12T00:00:00+00:00,kennesaw state,florida,78 - 88,L,away,1668211200,https://media-3.api-sports.io/basketball/teams/1963.png
-2022-11-15T00:00:00+00:00,kennesaw state,brewton parker,36 - 95,W,home,1668470400,https://media-3.api-sports.io/basketball/teams/1963.png
-2022-11-18T21:00:00+00:00,kennesaw state,se louisiana,72 - 68,W,away,1668805200,https://media-3.api-sports.io/basketball/teams/1963.png
+2022-11-15T00:00:00+00:00,kennesaw state,brewton parker,36 - 95,W,home,1668470400,https://media-2.api-sports.io/basketball/teams/1963.png
+2022-11-18T21:00:00+00:00,kennesaw state,se louisiana,72 - 68,W,away,1668805200,https://media-2.api-sports.io/basketball/teams/1963.png
 2022-11-20T00:00:00+00:00,kennesaw state,appalachian state,71 - 67,W,away,1668902400,https://media-3.api-sports.io/basketball/teams/1963.png
-2022-11-20T17:00:00+00:00,kennesaw state,campbell,61 - 85,L,away,1668963600,https://media-2.api-sports.io/basketball/teams/1963.png
-2022-11-26T21:00:00+00:00,kennesaw state,vcu rams,61 - 64,L,away,1669496400,https://media-3.api-sports.io/basketball/teams/1963.png
-2022-12-03T00:00:00+00:00,kennesaw state,mercer,66 - 63,W,away,1670025600,https://media-1.api-sports.io/basketball/teams/1963.png
+2022-11-20T17:00:00+00:00,kennesaw state,campbell,61 - 85,L,away,1668963600,https://media-1.api-sports.io/basketball/teams/1963.png
+2022-11-26T21:00:00+00:00,kennesaw state,vcu rams,61 - 64,L,away,1669496400,https://media-1.api-sports.io/basketball/teams/1963.png
+2022-12-03T00:00:00+00:00,kennesaw state,mercer,66 - 63,W,away,1670025600,https://media-3.api-sports.io/basketball/teams/1963.png
 2022-12-06T00:00:00+00:00,kennesaw state,charleston southern,76 - 65,W,away,1670284800,https://media-1.api-sports.io/basketball/teams/1963.png
-2022-12-06T00:00:00+00:00,kennesaw state,coastal carolina,None - None,tie,away,1670284800,https://media-1.api-sports.io/basketball/teams/1963.png
+2022-12-06T00:00:00+00:00,kennesaw state,coastal carolina,None - None,tie,away,1670284800,https://media-3.api-sports.io/basketball/teams/1963.png
 2022-12-13T03:00:00+00:00,kennesaw state,san diego state,54 - 88,L,away,1670900400,https://media-2.api-sports.io/basketball/teams/1963.png
-2022-12-17T19:00:00+00:00,kennesaw state,georgia college,55 - 79,W,home,1671303600,https://media-2.api-sports.io/basketball/teams/1963.png
+2022-12-17T19:00:00+00:00,kennesaw state,georgia college,55 - 79,W,home,1671303600,https://media-3.api-sports.io/basketball/teams/1963.png
 2022-12-21T00:00:00+00:00,kennesaw state,usc upstate,56 - 65,W,home,1671580800,https://media-2.api-sports.io/basketball/teams/1963.png
-2022-12-24T00:00:00+00:00,kennesaw state,indiana,55 - 69,L,away,1671840000,https://media-1.api-sports.io/basketball/teams/1963.png
+2022-12-24T00:00:00+00:00,kennesaw state,indiana,55 - 69,L,away,1671840000,https://media-3.api-sports.io/basketball/teams/1963.png
 2022-12-31T19:00:00+00:00,kennesaw state,central arkansas,66 - 82,W,home,1672513200,https://media-2.api-sports.io/basketball/teams/1963.png
-2023-01-02T23:30:00+00:00,kennesaw state,eastern kentucky,75 - 79,W,home,1672702200,https://media-2.api-sports.io/basketball/teams/1963.png
+2023-01-02T23:30:00+00:00,kennesaw state,eastern kentucky,75 - 79,W,home,1672702200,https://media-1.api-sports.io/basketball/teams/1963.png
 2023-01-06T00:00:00+00:00,kennesaw state,north florida,86 - 89,L,away,1672963200,https://media-3.api-sports.io/basketball/teams/1963.png
-2023-01-08T01:00:00+00:00,kennesaw state,queens royals,76 - 67,W,away,1673139600,https://media-1.api-sports.io/basketball/teams/1963.png
-2023-01-13T00:00:00+00:00,kennesaw state,jacksonville,,,home,1673568000,https://media-1.api-sports.io/basketball/teams/1963.png
-2023-01-14T19:00:00+00:00,kennesaw state,north florida,,,home,1673722800,https://media-3.api-sports.io/basketball/teams/1963.png
+2023-01-08T01:00:00+00:00,kennesaw state,queens royals,76 - 67,W,away,1673139600,https://media-2.api-sports.io/basketball/teams/1963.png
+2023-01-13T00:00:00+00:00,kennesaw state,jacksonville,,,home,1673568000,https://media-3.api-sports.io/basketball/teams/1963.png
+2023-01-14T19:00:00+00:00,kennesaw state,north florida,,,home,1673722800,https://media-1.api-sports.io/basketball/teams/1963.png
 2023-01-20T00:00:00+00:00,kennesaw state,stetson,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/1963.png
-2023-01-22T00:00:00+00:00,kennesaw state,florida gulf coast,,,away,1674345600,https://media-3.api-sports.io/basketball/teams/1963.png
-2023-01-27T00:30:00+00:00,kennesaw state,austin peay,,,home,1674779400,https://media-3.api-sports.io/basketball/teams/1963.png
-2023-01-28T22:00:00+00:00,kennesaw state,lipscomb,,,home,1674943200,https://media-3.api-sports.io/basketball/teams/1963.png
+2023-01-22T00:00:00+00:00,kennesaw state,florida gulf coast,,,away,1674345600,https://media-2.api-sports.io/basketball/teams/1963.png
+2023-01-27T00:30:00+00:00,kennesaw state,austin peay,,,home,1674779400,https://media-2.api-sports.io/basketball/teams/1963.png
+2023-01-28T22:00:00+00:00,kennesaw state,lipscomb,,,home,1674943200,https://media-1.api-sports.io/basketball/teams/1963.png
 2023-02-03T00:30:00+00:00,kennesaw state,bellarmine,,,away,1675384200,https://media-1.api-sports.io/basketball/teams/1963.png
-2023-02-05T00:00:00+00:00,kennesaw state,eastern kentucky,,,away,1675555200,https://media-2.api-sports.io/basketball/teams/1963.png
+2023-02-05T00:00:00+00:00,kennesaw state,eastern kentucky,,,away,1675555200,https://media-1.api-sports.io/basketball/teams/1963.png
 2023-02-10T00:30:00+00:00,kennesaw state,jacksonville state,,,away,1675989000,https://media-2.api-sports.io/basketball/teams/1963.png
-2023-02-11T22:00:00+00:00,kennesaw state,jacksonville state,,,home,1676152800,https://media-3.api-sports.io/basketball/teams/1963.png
-2023-02-17T00:00:00+00:00,kennesaw state,liberty,,,home,1676592000,https://media-1.api-sports.io/basketball/teams/1963.png
+2023-02-11T22:00:00+00:00,kennesaw state,jacksonville state,,,home,1676152800,https://media-1.api-sports.io/basketball/teams/1963.png
+2023-02-17T00:00:00+00:00,kennesaw state,liberty,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/1963.png
 2023-02-18T19:00:00+00:00,kennesaw state,queens royals,,,home,1676746800,https://media-2.api-sports.io/basketball/teams/1963.png
-2023-02-22T21:00:00+00:00,kennesaw state,north alabama,None - None,tie,away,1677099600,https://media-3.api-sports.io/basketball/teams/1963.png
+2023-02-22T21:00:00+00:00,kennesaw state,north alabama,None - None,tie,away,1677099600,https://media-1.api-sports.io/basketball/teams/1963.png
 2023-02-24T21:00:00+00:00,kennesaw state,central arkansas,None - None,tie,away,1677272400,https://media-2.api-sports.io/basketball/teams/1963.png

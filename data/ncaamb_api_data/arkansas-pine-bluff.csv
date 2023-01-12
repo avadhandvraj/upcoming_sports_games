@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,arkansas-pine bluff,tcu,72 - 73,L,away,1667869200,https://media-2.api-sports.io/basketball/teams/1818.png
-2022-11-10T01:00:00+00:00,arkansas-pine bluff,champion christian tigers,55 - 87,W,home,1668042000,https://media-2.api-sports.io/basketball/teams/1818.png
+2022-11-08T01:00:00+00:00,arkansas-pine bluff,tcu,72 - 73,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/1818.png
+2022-11-10T01:00:00+00:00,arkansas-pine bluff,champion christian tigers,55 - 87,W,home,1668042000,https://media-1.api-sports.io/basketball/teams/1818.png
 2022-11-12T01:00:00+00:00,arkansas-pine bluff,oklahoma,58 - 66,L,away,1668214800,https://media-2.api-sports.io/basketball/teams/1818.png
-2022-11-13T20:00:00+00:00,arkansas-pine bluff,mississippi st.,47 - 80,L,away,1668369600,https://media-2.api-sports.io/basketball/teams/1818.png
-2022-11-16T16:00:00+00:00,arkansas-pine bluff,kent state,68 - 94,L,away,1668614400,https://media-3.api-sports.io/basketball/teams/1818.png
+2022-11-13T20:00:00+00:00,arkansas-pine bluff,mississippi st.,47 - 80,L,away,1668369600,https://media-1.api-sports.io/basketball/teams/1818.png
+2022-11-16T16:00:00+00:00,arkansas-pine bluff,kent state,68 - 94,L,away,1668614400,https://media-1.api-sports.io/basketball/teams/1818.png
 2022-11-19T00:00:00+00:00,arkansas-pine bluff,cleveland state,58 - 67,L,away,1668816000,https://media-1.api-sports.io/basketball/teams/1818.png
-2022-11-20T20:30:00+00:00,arkansas-pine bluff,nebraska,58 - 82,L,away,1668976200,https://media-1.api-sports.io/basketball/teams/1818.png
+2022-11-20T20:30:00+00:00,arkansas-pine bluff,nebraska,58 - 82,L,away,1668976200,https://media-3.api-sports.io/basketball/teams/1818.png
 2022-11-23T01:00:00+00:00,arkansas-pine bluff,crowley's ridge,56 - 70,W,home,1669165200,https://media-2.api-sports.io/basketball/teams/1818.png
-2022-12-01T02:00:00+00:00,arkansas-pine bluff,air force,53 - 81,L,away,1669860000,https://media-2.api-sports.io/basketball/teams/1818.png
-2022-12-03T20:00:00+00:00,arkansas-pine bluff,arkansas baptist,41 - 59,W,home,1670097600,https://media-3.api-sports.io/basketball/teams/1818.png
-2022-12-10T18:00:00+00:00,arkansas-pine bluff,texas,43 - 88,L,away,1670695200,https://media-1.api-sports.io/basketball/teams/1818.png
-2022-12-15T01:00:00+00:00,arkansas-pine bluff,minnesota,56 - 72,L,away,1671066000,https://media-1.api-sports.io/basketball/teams/1818.png
-2022-12-17T19:00:00+00:00,arkansas-pine bluff,ecclesia,50 - 104,W,home,1671303600,https://media-3.api-sports.io/basketball/teams/1818.png
-2023-01-03T01:00:00+00:00,arkansas-pine bluff,alabama a&m,59 - 66,L,away,1672707600,https://media-3.api-sports.io/basketball/teams/1818.png
-2023-01-05T01:30:00+00:00,arkansas-pine bluff,alabama state,66 - 80,L,away,1672882200,https://media-3.api-sports.io/basketball/teams/1818.png
+2022-12-01T02:00:00+00:00,arkansas-pine bluff,air force,53 - 81,L,away,1669860000,https://media-1.api-sports.io/basketball/teams/1818.png
+2022-12-03T20:00:00+00:00,arkansas-pine bluff,arkansas baptist,41 - 59,W,home,1670097600,https://media-2.api-sports.io/basketball/teams/1818.png
+2022-12-10T18:00:00+00:00,arkansas-pine bluff,texas,43 - 88,L,away,1670695200,https://media-2.api-sports.io/basketball/teams/1818.png
+2022-12-15T01:00:00+00:00,arkansas-pine bluff,minnesota,56 - 72,L,away,1671066000,https://media-2.api-sports.io/basketball/teams/1818.png
+2022-12-17T19:00:00+00:00,arkansas-pine bluff,ecclesia,50 - 104,W,home,1671303600,https://media-2.api-sports.io/basketball/teams/1818.png
+2023-01-03T01:00:00+00:00,arkansas-pine bluff,alabama a&m,59 - 66,L,away,1672707600,https://media-2.api-sports.io/basketball/teams/1818.png
+2023-01-05T01:30:00+00:00,arkansas-pine bluff,alabama state,66 - 80,L,away,1672882200,https://media-1.api-sports.io/basketball/teams/1818.png
 2023-01-07T21:00:00+00:00,arkansas-pine bluff,texas southern,66 - 70,W,home,1673125200,https://media-3.api-sports.io/basketball/teams/1818.png
-2023-01-10T02:15:00+00:00,arkansas-pine bluff,prairie view a&m,55 - 63,W,home,1673316900,https://media-3.api-sports.io/basketball/teams/1818.png
+2023-01-10T02:15:00+00:00,arkansas-pine bluff,prairie view a&m,55 - 63,W,home,1673316900,https://media-1.api-sports.io/basketball/teams/1818.png
 2023-01-14T21:00:00+00:00,arkansas-pine bluff,florida a&m,,,away,1673730000,https://media-1.api-sports.io/basketball/teams/1818.png
-2023-01-17T00:30:00+00:00,arkansas-pine bluff,bethune-cookman,,,away,1673915400,https://media-3.api-sports.io/basketball/teams/1818.png
-2023-01-22T01:30:00+00:00,arkansas-pine bluff,southern univ.,,,home,1674351000,https://media-2.api-sports.io/basketball/teams/1818.png
-2023-01-24T01:30:00+00:00,arkansas-pine bluff,grambling st.,,,home,1674523800,https://media-2.api-sports.io/basketball/teams/1818.png
-2023-01-28T23:30:00+00:00,arkansas-pine bluff,miss. valley st.,,,home,1674948600,https://media-3.api-sports.io/basketball/teams/1818.png
+2023-01-17T00:30:00+00:00,arkansas-pine bluff,bethune-cookman,,,away,1673915400,https://media-2.api-sports.io/basketball/teams/1818.png
+2023-01-22T01:30:00+00:00,arkansas-pine bluff,southern univ.,,,home,1674351000,https://media-1.api-sports.io/basketball/teams/1818.png
+2023-01-24T01:30:00+00:00,arkansas-pine bluff,grambling st.,,,home,1674523800,https://media-1.api-sports.io/basketball/teams/1818.png
+2023-01-28T23:30:00+00:00,arkansas-pine bluff,miss. valley st.,,,home,1674948600,https://media-2.api-sports.io/basketball/teams/1818.png
 2023-02-04T22:00:00+00:00,arkansas-pine bluff,alcorn state,,,away,1675548000,https://media-1.api-sports.io/basketball/teams/1818.png
-2023-02-07T01:30:00+00:00,arkansas-pine bluff,jackson state,,,away,1675733400,https://media-2.api-sports.io/basketball/teams/1818.png
+2023-02-07T01:30:00+00:00,arkansas-pine bluff,jackson state,,,away,1675733400,https://media-3.api-sports.io/basketball/teams/1818.png
 2023-02-11T21:30:00+00:00,arkansas-pine bluff,alabama state,,,home,1676151000,https://media-2.api-sports.io/basketball/teams/1818.png
-2023-02-13T23:30:00+00:00,arkansas-pine bluff,alabama a&m,,,home,1676331000,https://media-1.api-sports.io/basketball/teams/1818.png
+2023-02-13T23:30:00+00:00,arkansas-pine bluff,alabama a&m,,,home,1676331000,https://media-2.api-sports.io/basketball/teams/1818.png
 2023-02-18T23:30:00+00:00,arkansas-pine bluff,prairie view a&m,,,away,1676763000,https://media-3.api-sports.io/basketball/teams/1818.png

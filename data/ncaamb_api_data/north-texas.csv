@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,north texas,southern nazarene,47 - 53,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/1496.png
-2022-11-14T01:00:00+00:00,north texas,st. marys (ca),33 - 63,L,away,1668387600,https://media-2.api-sports.io/basketball/teams/1496.png
-2022-11-19T23:00:00+00:00,north texas,fresno state,52 - 61,W,home,1668898800,https://media-3.api-sports.io/basketball/teams/1496.png
-2022-11-23T01:00:00+00:00,north texas,paul quinn,46 - 76,W,home,1669165200,https://media-1.api-sports.io/basketball/teams/1496.png
-2022-11-25T22:30:00+00:00,north texas,san jose state,69 - 54,W,away,1669415400,https://media-2.api-sports.io/basketball/teams/1496.png
+2022-11-08T01:00:00+00:00,north texas,southern nazarene,47 - 53,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/1496.png
+2022-11-14T01:00:00+00:00,north texas,st. marys (ca),33 - 63,L,away,1668387600,https://media-3.api-sports.io/basketball/teams/1496.png
+2022-11-19T23:00:00+00:00,north texas,fresno state,52 - 61,W,home,1668898800,https://media-2.api-sports.io/basketball/teams/1496.png
+2022-11-23T01:00:00+00:00,north texas,paul quinn,46 - 76,W,home,1669165200,https://media-3.api-sports.io/basketball/teams/1496.png
+2022-11-25T22:30:00+00:00,north texas,san jose state,69 - 54,W,away,1669415400,https://media-3.api-sports.io/basketball/teams/1496.png
 2022-11-27T01:00:00+00:00,north texas,long beach state,68 - 47,W,away,1669510800,https://media-3.api-sports.io/basketball/teams/1496.png
-2022-11-28T01:00:00+00:00,north texas,nc wilmington,55 - 51,L,home,1669597200,https://media-2.api-sports.io/basketball/teams/1496.png
-2022-12-03T23:00:00+00:00,north texas,nebraska o.,45 - 75,W,home,1670108400,https://media-2.api-sports.io/basketball/teams/1496.png
-2022-12-07T01:00:00+00:00,north texas,ut arlington,60 - 57,W,away,1670374800,https://media-3.api-sports.io/basketball/teams/1496.png
-2022-12-10T22:30:00+00:00,north texas,grand canyon,58 - 60,W,home,1670711400,https://media-1.api-sports.io/basketball/teams/1496.png
-2022-12-17T20:00:00+00:00,north texas,umass,44 - 62,W,home,1671307200,https://media-2.api-sports.io/basketball/teams/1496.png
+2022-11-28T01:00:00+00:00,north texas,nc wilmington,55 - 51,L,home,1669597200,https://media-3.api-sports.io/basketball/teams/1496.png
+2022-12-03T23:00:00+00:00,north texas,nebraska o.,45 - 75,W,home,1670108400,https://media-3.api-sports.io/basketball/teams/1496.png
+2022-12-07T01:00:00+00:00,north texas,ut arlington,60 - 57,W,away,1670374800,https://media-2.api-sports.io/basketball/teams/1496.png
+2022-12-10T22:30:00+00:00,north texas,grand canyon,58 - 60,W,home,1670711400,https://media-2.api-sports.io/basketball/teams/1496.png
+2022-12-17T20:00:00+00:00,north texas,umass,44 - 62,W,home,1671307200,https://media-1.api-sports.io/basketball/teams/1496.png
 2022-12-23T01:00:00+00:00,north texas,utsa roadrunners,78 - 54,W,away,1671757200,https://media-2.api-sports.io/basketball/teams/1496.png
 2022-12-30T01:00:00+00:00,north texas,florida atlantic,50 - 46,L,home,1672362000,https://media-3.api-sports.io/basketball/teams/1496.png
 2022-12-31T21:00:00+00:00,north texas,florida international,57 - 72,W,home,1672520400,https://media-1.api-sports.io/basketball/teams/1496.png
 2023-01-06T02:00:00+00:00,north texas,western kentucky,70 - 66,W,away,1672970400,https://media-1.api-sports.io/basketball/teams/1496.png
 2023-01-07T23:00:00+00:00,north texas,middle tenn. st.,56 - 51,W,away,1673132400,https://media-1.api-sports.io/basketball/teams/1496.png
-2023-01-12T01:00:00+00:00,north texas,louisiana tech,65 - 67,W,home,1673485200,https://media-2.api-sports.io/basketball/teams/1496.png
+2023-01-12T01:00:00+00:00,north texas,louisiana tech,65 - 67,W,home,1673485200,https://media-3.api-sports.io/basketball/teams/1496.png
 2023-01-14T19:00:00+00:00,north texas,florida atlantic,,,away,1673722800,https://media-1.api-sports.io/basketball/teams/1496.png
 2023-01-17T00:00:00+00:00,north texas,florida international,,,away,1673913600,https://media-3.api-sports.io/basketball/teams/1496.png
-2023-01-20T01:00:00+00:00,north texas,rice,,,home,1674176400,https://media-3.api-sports.io/basketball/teams/1496.png
+2023-01-20T01:00:00+00:00,north texas,rice,,,home,1674176400,https://media-2.api-sports.io/basketball/teams/1496.png
 2023-01-21T21:00:00+00:00,north texas,uab,,,away,1674334800,https://media-2.api-sports.io/basketball/teams/1496.png
 2023-01-27T02:00:00+00:00,north texas,utsa roadrunners,,,home,1674784800,https://media-1.api-sports.io/basketball/teams/1496.png
-2023-01-28T23:00:00+00:00,north texas,utep,,,home,1674946800,https://media-2.api-sports.io/basketball/teams/1496.png
-2023-02-05T01:00:00+00:00,north texas,rice,,,away,1675558800,https://media-3.api-sports.io/basketball/teams/1496.png
-2023-02-10T01:00:00+00:00,north texas,uab,,,home,1675990800,https://media-2.api-sports.io/basketball/teams/1496.png
+2023-01-28T23:00:00+00:00,north texas,utep,,,home,1674946800,https://media-1.api-sports.io/basketball/teams/1496.png
+2023-02-05T01:00:00+00:00,north texas,rice,,,away,1675558800,https://media-1.api-sports.io/basketball/teams/1496.png
+2023-02-10T01:00:00+00:00,north texas,uab,,,home,1675990800,https://media-3.api-sports.io/basketball/teams/1496.png
 2023-02-11T23:00:00+00:00,north texas,charlotte,,,home,1676156400,https://media-2.api-sports.io/basketball/teams/1496.png
 2023-02-17T00:00:00+00:00,north texas,louisiana tech,,,away,1676592000,https://media-2.api-sports.io/basketball/teams/1496.png

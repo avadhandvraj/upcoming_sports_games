@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:30:00+00:00,texas a&m-cc,mississippi st.,44 - 63,L,away,1667867400,https://media-3.api-sports.io/basketball/teams/2145.png
-2022-11-12T01:00:00+00:00,texas a&m-cc,utsa roadrunners,55 - 75,W,home,1668214800,https://media-1.api-sports.io/basketball/teams/2145.png
+2022-11-12T01:00:00+00:00,texas a&m-cc,utsa roadrunners,55 - 75,W,home,1668214800,https://media-3.api-sports.io/basketball/teams/2145.png
 2022-11-15T01:00:00+00:00,texas a&m-cc,trinity of texas,73 - 91,W,home,1668474000,https://media-1.api-sports.io/basketball/teams/2145.png
 2022-11-18T01:00:00+00:00,texas a&m-cc,utrgv,75 - 97,W,home,1668733200,https://media-3.api-sports.io/basketball/teams/2145.png
 2022-11-22T23:00:00+00:00,texas a&m-cc,csu bakersfield,73 - 63,L,home,1669158000,https://media-2.api-sports.io/basketball/teams/2145.png
-2022-11-23T23:00:00+00:00,texas a&m-cc,alcorn state,67 - 98,W,home,1669244400,https://media-1.api-sports.io/basketball/teams/2145.png
+2022-11-23T23:00:00+00:00,texas a&m-cc,alcorn state,67 - 98,W,home,1669244400,https://media-3.api-sports.io/basketball/teams/2145.png
 2022-11-25T21:00:00+00:00,texas a&m-cc,utep,67 - 72,L,away,1669410000,https://media-3.api-sports.io/basketball/teams/2145.png
-2022-12-01T00:30:00+00:00,texas a&m-cc,utrgv,82 - 89,L,away,1669854600,https://media-1.api-sports.io/basketball/teams/2145.png
+2022-12-01T00:30:00+00:00,texas a&m-cc,utrgv,82 - 89,L,away,1669854600,https://media-3.api-sports.io/basketball/teams/2145.png
 2022-12-08T01:00:00+00:00,texas a&m-cc,texas lutheran,63 - 100,W,home,1670461200,https://media-1.api-sports.io/basketball/teams/2145.png
-2022-12-14T01:30:00+00:00,texas a&m-cc,arizona,61 - 99,L,away,1670981400,https://media-1.api-sports.io/basketball/teams/2145.png
-2022-12-16T17:00:00+00:00,texas a&m-cc,schreiner mountaineers,69 - 104,W,home,1671210000,https://media-3.api-sports.io/basketball/teams/2145.png
-2022-12-20T20:00:00+00:00,texas a&m-cc,oklahoma state,58 - 81,L,away,1671566400,https://media-1.api-sports.io/basketball/teams/2145.png
+2022-12-14T01:30:00+00:00,texas a&m-cc,arizona,61 - 99,L,away,1670981400,https://media-2.api-sports.io/basketball/teams/2145.png
+2022-12-16T17:00:00+00:00,texas a&m-cc,schreiner mountaineers,69 - 104,W,home,1671210000,https://media-1.api-sports.io/basketball/teams/2145.png
+2022-12-20T20:00:00+00:00,texas a&m-cc,oklahoma state,58 - 81,L,away,1671566400,https://media-3.api-sports.io/basketball/teams/2145.png
 2022-12-28T22:00:00+00:00,texas a&m-cc,our lady of the lake,74 - 88,W,home,1672264800,https://media-2.api-sports.io/basketball/teams/2145.png
-2022-12-31T20:30:00+00:00,texas a&m-cc,northwestern st.,65 - 59,W,away,1672518600,https://media-3.api-sports.io/basketball/teams/2145.png
-2023-01-05T01:30:00+00:00,texas a&m-cc,incarnate word,61 - 91,W,home,1672882200,https://media-2.api-sports.io/basketball/teams/2145.png
-2023-01-07T22:00:00+00:00,texas a&m-cc,incarnate word,80 - 71,W,away,1673128800,https://media-2.api-sports.io/basketball/teams/2145.png
-2023-01-13T01:30:00+00:00,texas a&m-cc,se louisiana,,,home,1673573400,https://media-2.api-sports.io/basketball/teams/2145.png
+2022-12-31T20:30:00+00:00,texas a&m-cc,northwestern st.,65 - 59,W,away,1672518600,https://media-1.api-sports.io/basketball/teams/2145.png
+2023-01-05T01:30:00+00:00,texas a&m-cc,incarnate word,61 - 91,W,home,1672882200,https://media-1.api-sports.io/basketball/teams/2145.png
+2023-01-07T22:00:00+00:00,texas a&m-cc,incarnate word,80 - 71,W,away,1673128800,https://media-1.api-sports.io/basketball/teams/2145.png
+2023-01-13T01:30:00+00:00,texas a&m-cc,se louisiana,,,home,1673573400,https://media-3.api-sports.io/basketball/teams/2145.png
 2023-01-14T21:30:00+00:00,texas a&m-cc,new orleans,,,home,1673731800,https://media-1.api-sports.io/basketball/teams/2145.png
 2023-01-20T01:00:00+00:00,texas a&m-cc,lamar,,,away,1674176400,https://media-2.api-sports.io/basketball/teams/2145.png
 2023-01-22T01:00:00+00:00,texas a&m-cc,houston christian,,,away,1674349200,https://media-2.api-sports.io/basketball/teams/2145.png
 2023-01-27T01:30:00+00:00,texas a&m-cc,nicholls state,,,home,1674783000,https://media-3.api-sports.io/basketball/teams/2145.png
 2023-01-28T21:30:00+00:00,texas a&m-cc,mcneese state,,,home,1674941400,https://media-1.api-sports.io/basketball/teams/2145.png
-2023-02-03T01:00:00+00:00,texas a&m-cc,new orleans,,,away,1675386000,https://media-3.api-sports.io/basketball/teams/2145.png
-2023-02-04T21:30:00+00:00,texas a&m-cc,se louisiana,,,away,1675546200,https://media-2.api-sports.io/basketball/teams/2145.png
-2023-02-10T01:30:00+00:00,texas a&m-cc,houston christian,,,home,1675992600,https://media-2.api-sports.io/basketball/teams/2145.png
-2023-02-11T21:30:00+00:00,texas a&m-cc,lamar,,,home,1676151000,https://media-2.api-sports.io/basketball/teams/2145.png
-2023-02-17T01:00:00+00:00,texas a&m-cc,nicholls state,,,away,1676595600,https://media-3.api-sports.io/basketball/teams/2145.png
-2023-02-18T21:30:00+00:00,texas a&m-cc,mcneese state,,,away,1676755800,https://media-2.api-sports.io/basketball/teams/2145.png
+2023-02-03T01:00:00+00:00,texas a&m-cc,new orleans,,,away,1675386000,https://media-1.api-sports.io/basketball/teams/2145.png
+2023-02-04T21:30:00+00:00,texas a&m-cc,se louisiana,,,away,1675546200,https://media-1.api-sports.io/basketball/teams/2145.png
+2023-02-10T01:30:00+00:00,texas a&m-cc,houston christian,,,home,1675992600,https://media-1.api-sports.io/basketball/teams/2145.png
+2023-02-11T21:30:00+00:00,texas a&m-cc,lamar,,,home,1676151000,https://media-3.api-sports.io/basketball/teams/2145.png
+2023-02-17T01:00:00+00:00,texas a&m-cc,nicholls state,,,away,1676595600,https://media-2.api-sports.io/basketball/teams/2145.png
+2023-02-18T21:30:00+00:00,texas a&m-cc,mcneese state,,,away,1676755800,https://media-1.api-sports.io/basketball/teams/2145.png

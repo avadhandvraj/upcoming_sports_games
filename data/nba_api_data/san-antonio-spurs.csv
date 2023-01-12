@@ -1,88 +1,88 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-10-02T23:00:00+00:00,san antonio spurs,houston rockets,96 - 134,L,away,1664751600,https://media-3.api-sports.io/basketball/teams/158.png
-2022-10-07T00:00:00+00:00,san antonio spurs,orlando magic,102 - 99,L,home,1665100800,https://media-2.api-sports.io/basketball/teams/158.png
+2022-10-02T23:00:00+00:00,san antonio spurs,houston rockets,96 - 134,L,away,1664751600,https://media-2.api-sports.io/basketball/teams/158.png
+2022-10-07T00:00:00+00:00,san antonio spurs,orlando magic,102 - 99,L,home,1665100800,https://media-1.api-sports.io/basketball/teams/158.png
 2022-10-09T23:00:00+00:00,san antonio spurs,new orleans pelicans,111 - 97,L,home,1665356400,https://media-2.api-sports.io/basketball/teams/158.png
-2022-10-12T01:00:00+00:00,san antonio spurs,utah jazz,111 - 104,W,away,1665536400,https://media-2.api-sports.io/basketball/teams/158.png
+2022-10-12T01:00:00+00:00,san antonio spurs,utah jazz,111 - 104,W,away,1665536400,https://media-3.api-sports.io/basketball/teams/158.png
 2022-10-14T00:00:00+00:00,san antonio spurs,oklahoma city thunder,118 - 112,L,home,1665705600,https://media-3.api-sports.io/basketball/teams/158.png
-2022-10-20T00:00:00+00:00,san antonio spurs,charlotte hornets,129 - 102,L,home,1666224000,https://media-1.api-sports.io/basketball/teams/158.png
-2022-10-21T23:00:00+00:00,san antonio spurs,indiana pacers,137 - 134,W,away,1666393200,https://media-2.api-sports.io/basketball/teams/158.png
+2022-10-20T00:00:00+00:00,san antonio spurs,charlotte hornets,129 - 102,L,home,1666224000,https://media-2.api-sports.io/basketball/teams/158.png
+2022-10-21T23:00:00+00:00,san antonio spurs,indiana pacers,137 - 134,W,away,1666393200,https://media-3.api-sports.io/basketball/teams/158.png
 2022-10-22T22:00:00+00:00,san antonio spurs,philadelphia 76ers,114 - 105,W,away,1666476000,https://media-3.api-sports.io/basketball/teams/158.png
-2022-10-25T00:00:00+00:00,san antonio spurs,minnesota timberwolves,115 - 106,W,away,1666656000,https://media-1.api-sports.io/basketball/teams/158.png
+2022-10-25T00:00:00+00:00,san antonio spurs,minnesota timberwolves,115 - 106,W,away,1666656000,https://media-2.api-sports.io/basketball/teams/158.png
 2022-10-27T00:00:00+00:00,san antonio spurs,minnesota timberwolves,122 - 134,L,away,1666828800,https://media-2.api-sports.io/basketball/teams/158.png
-2022-10-29T00:30:00+00:00,san antonio spurs,chicago bulls,124 - 129,W,home,1667003400,https://media-1.api-sports.io/basketball/teams/158.png
-2022-10-30T23:00:00+00:00,san antonio spurs,minnesota timberwolves,98 - 107,W,home,1667170800,https://media-2.api-sports.io/basketball/teams/158.png
-2022-11-03T00:00:00+00:00,san antonio spurs,toronto raptors,143 - 100,L,home,1667433600,https://media-1.api-sports.io/basketball/teams/158.png
-2022-11-05T00:00:00+00:00,san antonio spurs,los angeles clippers,113 - 106,L,home,1667606400,https://media-1.api-sports.io/basketball/teams/158.png
-2022-11-06T01:00:00+00:00,san antonio spurs,denver nuggets,101 - 126,L,away,1667696400,https://media-3.api-sports.io/basketball/teams/158.png
+2022-10-29T00:30:00+00:00,san antonio spurs,chicago bulls,124 - 129,W,home,1667003400,https://media-3.api-sports.io/basketball/teams/158.png
+2022-10-30T23:00:00+00:00,san antonio spurs,minnesota timberwolves,98 - 107,W,home,1667170800,https://media-3.api-sports.io/basketball/teams/158.png
+2022-11-03T00:00:00+00:00,san antonio spurs,toronto raptors,143 - 100,L,home,1667433600,https://media-2.api-sports.io/basketball/teams/158.png
+2022-11-05T00:00:00+00:00,san antonio spurs,los angeles clippers,113 - 106,L,home,1667606400,https://media-2.api-sports.io/basketball/teams/158.png
+2022-11-06T01:00:00+00:00,san antonio spurs,denver nuggets,101 - 126,L,away,1667696400,https://media-1.api-sports.io/basketball/teams/158.png
 2022-11-08T02:30:00+00:00,san antonio spurs,denver nuggets,115 - 109,L,home,1667874600,https://media-3.api-sports.io/basketball/teams/158.png
-2022-11-10T01:00:00+00:00,san antonio spurs,memphis grizzlies,124 - 122,L,home,1668042000,https://media-1.api-sports.io/basketball/teams/158.png
+2022-11-10T01:00:00+00:00,san antonio spurs,memphis grizzlies,124 - 122,L,home,1668042000,https://media-2.api-sports.io/basketball/teams/158.png
 2022-11-12T01:00:00+00:00,san antonio spurs,milwaukee bucks,93 - 111,W,home,1668214800,https://media-2.api-sports.io/basketball/teams/158.png
-2022-11-15T03:00:00+00:00,san antonio spurs,golden state warriors,95 - 132,L,away,1668481200,https://media-3.api-sports.io/basketball/teams/158.png
-2022-11-16T03:00:00+00:00,san antonio spurs,portland trail blazers,110 - 117,L,away,1668567600,https://media-1.api-sports.io/basketball/teams/158.png
-2022-11-18T03:00:00+00:00,san antonio spurs,sacramento kings,112 - 130,L,away,1668740400,https://media-2.api-sports.io/basketball/teams/158.png
-2022-11-20T03:30:00+00:00,san antonio spurs,los angeles clippers,97 - 119,L,away,1668915000,https://media-1.api-sports.io/basketball/teams/158.png
-2022-11-21T02:30:00+00:00,san antonio spurs,los angeles lakers,92 - 123,L,away,1668997800,https://media-3.api-sports.io/basketball/teams/158.png
-2022-11-24T01:00:00+00:00,san antonio spurs,new orleans pelicans,129 - 110,L,home,1669251600,https://media-1.api-sports.io/basketball/teams/158.png
-2022-11-26T01:00:00+00:00,san antonio spurs,los angeles lakers,105 - 94,L,home,1669424400,https://media-1.api-sports.io/basketball/teams/158.png
+2022-11-15T03:00:00+00:00,san antonio spurs,golden state warriors,95 - 132,L,away,1668481200,https://media-2.api-sports.io/basketball/teams/158.png
+2022-11-16T03:00:00+00:00,san antonio spurs,portland trail blazers,110 - 117,L,away,1668567600,https://media-2.api-sports.io/basketball/teams/158.png
+2022-11-18T03:00:00+00:00,san antonio spurs,sacramento kings,112 - 130,L,away,1668740400,https://media-1.api-sports.io/basketball/teams/158.png
+2022-11-20T03:30:00+00:00,san antonio spurs,los angeles clippers,97 - 119,L,away,1668915000,https://media-3.api-sports.io/basketball/teams/158.png
+2022-11-21T02:30:00+00:00,san antonio spurs,los angeles lakers,92 - 123,L,away,1668997800,https://media-1.api-sports.io/basketball/teams/158.png
+2022-11-24T01:00:00+00:00,san antonio spurs,new orleans pelicans,129 - 110,L,home,1669251600,https://media-2.api-sports.io/basketball/teams/158.png
+2022-11-26T01:00:00+00:00,san antonio spurs,los angeles lakers,105 - 94,L,home,1669424400,https://media-2.api-sports.io/basketball/teams/158.png
 2022-11-27T01:00:00+00:00,san antonio spurs,los angeles lakers,143 - 138,L,home,1669510800,https://media-3.api-sports.io/basketball/teams/158.png
 2022-12-01T01:00:00+00:00,san antonio spurs,oklahoma city thunder,111 - 119,L,away,1669856400,https://media-1.api-sports.io/basketball/teams/158.png
-2022-12-03T01:00:00+00:00,san antonio spurs,new orleans pelicans,117 - 99,L,home,1670029200,https://media-2.api-sports.io/basketball/teams/158.png
-2022-12-04T21:00:00+00:00,san antonio spurs,phoenix suns,133 - 95,L,home,1670187600,https://media-3.api-sports.io/basketball/teams/158.png
+2022-12-03T01:00:00+00:00,san antonio spurs,new orleans pelicans,117 - 99,L,home,1670029200,https://media-3.api-sports.io/basketball/teams/158.png
+2022-12-04T21:00:00+00:00,san antonio spurs,phoenix suns,133 - 95,L,home,1670187600,https://media-2.api-sports.io/basketball/teams/158.png
 2022-12-09T01:30:00+00:00,san antonio spurs,houston rockets,109 - 118,W,home,1670549400,https://media-1.api-sports.io/basketball/teams/158.png
-2022-12-10T22:00:00+00:00,san antonio spurs,miami heat,115 - 111,W,away,1670709600,https://media-2.api-sports.io/basketball/teams/158.png
+2022-12-10T22:00:00+00:00,san antonio spurs,miami heat,115 - 111,W,away,1670709600,https://media-1.api-sports.io/basketball/teams/158.png
 2022-12-13T01:30:00+00:00,san antonio spurs,cleveland cavaliers,111 - 112,W,home,1670895000,https://media-3.api-sports.io/basketball/teams/158.png
-2022-12-15T01:00:00+00:00,san antonio spurs,portland trail blazers,128 - 112,L,home,1671066000,https://media-1.api-sports.io/basketball/teams/158.png
+2022-12-15T01:00:00+00:00,san antonio spurs,portland trail blazers,128 - 112,L,home,1671066000,https://media-3.api-sports.io/basketball/teams/158.png
 2022-12-17T22:00:00+00:00,san antonio spurs,miami heat,111 - 101,L,home,1671314400,https://media-2.api-sports.io/basketball/teams/158.png
 2022-12-20T01:00:00+00:00,san antonio spurs,houston rockets,124 - 105,W,away,1671498000,https://media-3.api-sports.io/basketball/teams/158.png
 2022-12-23T01:00:00+00:00,san antonio spurs,new orleans pelicans,117 - 126,L,away,1671757200,https://media-3.api-sports.io/basketball/teams/158.png
-2022-12-24T00:00:00+00:00,san antonio spurs,orlando magic,113 - 133,L,away,1671840000,https://media-2.api-sports.io/basketball/teams/158.png
+2022-12-24T00:00:00+00:00,san antonio spurs,orlando magic,113 - 133,L,away,1671840000,https://media-3.api-sports.io/basketball/teams/158.png
 2022-12-27T01:00:00+00:00,san antonio spurs,utah jazz,122 - 126,W,home,1672102800,https://media-2.api-sports.io/basketball/teams/158.png
-2022-12-28T01:00:00+00:00,san antonio spurs,oklahoma city thunder,114 - 130,L,away,1672189200,https://media-3.api-sports.io/basketball/teams/158.png
-2022-12-30T01:00:00+00:00,san antonio spurs,new york knicks,115 - 122,W,home,1672362000,https://media-2.api-sports.io/basketball/teams/158.png
-2023-01-01T00:00:00+00:00,san antonio spurs,dallas mavericks,126 - 125,L,home,1672531200,https://media-1.api-sports.io/basketball/teams/158.png
-2023-01-03T00:30:00+00:00,san antonio spurs,brooklyn nets,103 - 139,L,away,1672705800,https://media-1.api-sports.io/basketball/teams/158.png
-2023-01-05T00:30:00+00:00,san antonio spurs,new york knicks,114 - 117,L,away,1672878600,https://media-3.api-sports.io/basketball/teams/158.png
-2023-01-07T01:00:00+00:00,san antonio spurs,detroit pistons,109 - 121,W,home,1673053200,https://media-3.api-sports.io/basketball/teams/158.png
-2023-01-07T23:00:00+00:00,san antonio spurs,boston celtics,121 - 116,L,home,1673132400,https://media-2.api-sports.io/basketball/teams/158.png
-2023-01-10T01:00:00+00:00,san antonio spurs,memphis grizzlies,113 - 121,L,away,1673312400,https://media-2.api-sports.io/basketball/teams/158.png
-2023-01-12T01:00:00+00:00,san antonio spurs,memphis grizzlies,129 - 135,L,away,1673485200,https://media-2.api-sports.io/basketball/teams/158.png
-2023-01-14T00:30:00+00:00,san antonio spurs,golden state warriors,,,home,1673656200,https://media-1.api-sports.io/basketball/teams/158.png
-2023-01-16T00:00:00+00:00,san antonio spurs,sacramento kings,,,home,1673827200,https://media-1.api-sports.io/basketball/teams/158.png
-2023-01-18T01:00:00+00:00,san antonio spurs,brooklyn nets,,,home,1674003600,https://media-2.api-sports.io/basketball/teams/158.png
-2023-01-21T01:00:00+00:00,san antonio spurs,los angeles clippers,,,home,1674262800,https://media-2.api-sports.io/basketball/teams/158.png
+2022-12-28T01:00:00+00:00,san antonio spurs,oklahoma city thunder,114 - 130,L,away,1672189200,https://media-1.api-sports.io/basketball/teams/158.png
+2022-12-30T01:00:00+00:00,san antonio spurs,new york knicks,115 - 122,W,home,1672362000,https://media-1.api-sports.io/basketball/teams/158.png
+2023-01-01T00:00:00+00:00,san antonio spurs,dallas mavericks,126 - 125,L,home,1672531200,https://media-3.api-sports.io/basketball/teams/158.png
+2023-01-03T00:30:00+00:00,san antonio spurs,brooklyn nets,103 - 139,L,away,1672705800,https://media-2.api-sports.io/basketball/teams/158.png
+2023-01-05T00:30:00+00:00,san antonio spurs,new york knicks,114 - 117,L,away,1672878600,https://media-2.api-sports.io/basketball/teams/158.png
+2023-01-07T01:00:00+00:00,san antonio spurs,detroit pistons,109 - 121,W,home,1673053200,https://media-2.api-sports.io/basketball/teams/158.png
+2023-01-07T23:00:00+00:00,san antonio spurs,boston celtics,121 - 116,L,home,1673132400,https://media-1.api-sports.io/basketball/teams/158.png
+2023-01-10T01:00:00+00:00,san antonio spurs,memphis grizzlies,113 - 121,L,away,1673312400,https://media-1.api-sports.io/basketball/teams/158.png
+2023-01-12T01:00:00+00:00,san antonio spurs,memphis grizzlies,129 - 135,L,away,1673485200,https://media-3.api-sports.io/basketball/teams/158.png
+2023-01-14T00:30:00+00:00,san antonio spurs,golden state warriors,,,home,1673656200,https://media-2.api-sports.io/basketball/teams/158.png
+2023-01-16T00:00:00+00:00,san antonio spurs,sacramento kings,,,home,1673827200,https://media-3.api-sports.io/basketball/teams/158.png
+2023-01-18T01:00:00+00:00,san antonio spurs,brooklyn nets,,,home,1674003600,https://media-3.api-sports.io/basketball/teams/158.png
+2023-01-21T01:00:00+00:00,san antonio spurs,los angeles clippers,,,home,1674262800,https://media-1.api-sports.io/basketball/teams/158.png
 2023-01-24T03:00:00+00:00,san antonio spurs,portland trail blazers,,,away,1674529200,https://media-2.api-sports.io/basketball/teams/158.png
 2023-01-26T03:30:00+00:00,san antonio spurs,los angeles lakers,,,away,1674703800,https://media-1.api-sports.io/basketball/teams/158.png
 2023-01-27T03:30:00+00:00,san antonio spurs,los angeles clippers,,,away,1674790200,https://media-3.api-sports.io/basketball/teams/158.png
-2023-01-29T01:00:00+00:00,san antonio spurs,phoenix suns,,,home,1674954000,https://media-2.api-sports.io/basketball/teams/158.png
+2023-01-29T01:00:00+00:00,san antonio spurs,phoenix suns,,,home,1674954000,https://media-3.api-sports.io/basketball/teams/158.png
 2023-01-31T01:00:00+00:00,san antonio spurs,washington wizards,,,home,1675126800,https://media-3.api-sports.io/basketball/teams/158.png
 2023-02-02T01:00:00+00:00,san antonio spurs,sacramento kings,,,home,1675299600,https://media-2.api-sports.io/basketball/teams/158.png
 2023-02-04T01:00:00+00:00,san antonio spurs,philadelphia 76ers,,,home,1675472400,https://media-2.api-sports.io/basketball/teams/158.png
-2023-02-07T01:00:00+00:00,san antonio spurs,chicago bulls,,,away,1675731600,https://media-2.api-sports.io/basketball/teams/158.png
-2023-02-09T00:30:00+00:00,san antonio spurs,toronto raptors,,,away,1675902600,https://media-1.api-sports.io/basketball/teams/158.png
-2023-02-11T00:00:00+00:00,san antonio spurs,detroit pistons,,,away,1676073600,https://media-2.api-sports.io/basketball/teams/158.png
+2023-02-07T01:00:00+00:00,san antonio spurs,chicago bulls,,,away,1675731600,https://media-3.api-sports.io/basketball/teams/158.png
+2023-02-09T00:30:00+00:00,san antonio spurs,toronto raptors,,,away,1675902600,https://media-3.api-sports.io/basketball/teams/158.png
+2023-02-11T00:00:00+00:00,san antonio spurs,detroit pistons,,,away,1676073600,https://media-3.api-sports.io/basketball/teams/158.png
 2023-02-12T00:30:00+00:00,san antonio spurs,atlanta hawks,,,away,1676161800,https://media-1.api-sports.io/basketball/teams/158.png
 2023-02-14T00:00:00+00:00,san antonio spurs,cleveland cavaliers,,,away,1676332800,https://media-3.api-sports.io/basketball/teams/158.png
-2023-02-16T00:00:00+00:00,san antonio spurs,charlotte hornets,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/158.png
+2023-02-16T00:00:00+00:00,san antonio spurs,charlotte hornets,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/158.png
 2023-02-24T01:30:00+00:00,san antonio spurs,dallas mavericks,,,away,1677202200,https://media-3.api-sports.io/basketball/teams/158.png
 2023-02-26T02:00:00+00:00,san antonio spurs,utah jazz,,,away,1677376800,https://media-3.api-sports.io/basketball/teams/158.png
-2023-03-01T02:00:00+00:00,san antonio spurs,utah jazz,,,away,1677636000,https://media-1.api-sports.io/basketball/teams/158.png
-2023-03-03T01:30:00+00:00,san antonio spurs,indiana pacers,,,home,1677807000,https://media-2.api-sports.io/basketball/teams/158.png
+2023-03-01T02:00:00+00:00,san antonio spurs,utah jazz,,,away,1677636000,https://media-3.api-sports.io/basketball/teams/158.png
+2023-03-03T01:30:00+00:00,san antonio spurs,indiana pacers,,,home,1677807000,https://media-3.api-sports.io/basketball/teams/158.png
 2023-03-05T01:00:00+00:00,san antonio spurs,houston rockets,,,home,1677978000,https://media-3.api-sports.io/basketball/teams/158.png
 2023-03-06T00:00:00+00:00,san antonio spurs,houston rockets,,,away,1678060800,https://media-2.api-sports.io/basketball/teams/158.png
-2023-03-11T01:00:00+00:00,san antonio spurs,denver nuggets,,,home,1678496400,https://media-2.api-sports.io/basketball/teams/158.png
-2023-03-12T23:00:00+00:00,san antonio spurs,oklahoma city thunder,,,home,1678662000,https://media-2.api-sports.io/basketball/teams/158.png
+2023-03-11T01:00:00+00:00,san antonio spurs,denver nuggets,,,home,1678496400,https://media-1.api-sports.io/basketball/teams/158.png
+2023-03-12T23:00:00+00:00,san antonio spurs,oklahoma city thunder,,,home,1678662000,https://media-1.api-sports.io/basketball/teams/158.png
 2023-03-15T00:00:00+00:00,san antonio spurs,orlando magic,,,home,1678838400,https://media-1.api-sports.io/basketball/teams/158.png
 2023-03-16T00:30:00+00:00,san antonio spurs,dallas mavericks,,,home,1678926600,https://media-1.api-sports.io/basketball/teams/158.png
-2023-03-18T00:00:00+00:00,san antonio spurs,memphis grizzlies,,,home,1679097600,https://media-3.api-sports.io/basketball/teams/158.png
+2023-03-18T00:00:00+00:00,san antonio spurs,memphis grizzlies,,,home,1679097600,https://media-1.api-sports.io/basketball/teams/158.png
 2023-03-19T20:00:00+00:00,san antonio spurs,atlanta hawks,,,home,1679256000,https://media-3.api-sports.io/basketball/teams/158.png
-2023-03-22T00:00:00+00:00,san antonio spurs,new orleans pelicans,,,away,1679443200,https://media-3.api-sports.io/basketball/teams/158.png
-2023-03-23T00:00:00+00:00,san antonio spurs,milwaukee bucks,,,away,1679529600,https://media-2.api-sports.io/basketball/teams/158.png
-2023-03-24T23:00:00+00:00,san antonio spurs,washington wizards,,,away,1679698800,https://media-1.api-sports.io/basketball/teams/158.png
-2023-03-26T22:00:00+00:00,san antonio spurs,boston celtics,,,away,1679868000,https://media-1.api-sports.io/basketball/teams/158.png
-2023-03-30T00:00:00+00:00,san antonio spurs,utah jazz,,,home,1680134400,https://media-3.api-sports.io/basketball/teams/158.png
-2023-04-01T02:00:00+00:00,san antonio spurs,golden state warriors,,,away,1680314400,https://media-2.api-sports.io/basketball/teams/158.png
-2023-04-02T22:00:00+00:00,san antonio spurs,sacramento kings,,,away,1680472800,https://media-1.api-sports.io/basketball/teams/158.png
-2023-04-05T02:00:00+00:00,san antonio spurs,phoenix suns,,,away,1680660000,https://media-3.api-sports.io/basketball/teams/158.png
-2023-04-07T00:00:00+00:00,san antonio spurs,portland trail blazers,,,home,1680825600,https://media-3.api-sports.io/basketball/teams/158.png
+2023-03-22T00:00:00+00:00,san antonio spurs,new orleans pelicans,,,away,1679443200,https://media-1.api-sports.io/basketball/teams/158.png
+2023-03-23T00:00:00+00:00,san antonio spurs,milwaukee bucks,,,away,1679529600,https://media-1.api-sports.io/basketball/teams/158.png
+2023-03-24T23:00:00+00:00,san antonio spurs,washington wizards,,,away,1679698800,https://media-2.api-sports.io/basketball/teams/158.png
+2023-03-26T22:00:00+00:00,san antonio spurs,boston celtics,,,away,1679868000,https://media-2.api-sports.io/basketball/teams/158.png
+2023-03-30T00:00:00+00:00,san antonio spurs,utah jazz,,,home,1680134400,https://media-2.api-sports.io/basketball/teams/158.png
+2023-04-01T02:00:00+00:00,san antonio spurs,golden state warriors,,,away,1680314400,https://media-1.api-sports.io/basketball/teams/158.png
+2023-04-02T22:00:00+00:00,san antonio spurs,sacramento kings,,,away,1680472800,https://media-2.api-sports.io/basketball/teams/158.png
+2023-04-05T02:00:00+00:00,san antonio spurs,phoenix suns,,,away,1680660000,https://media-1.api-sports.io/basketball/teams/158.png
+2023-04-07T00:00:00+00:00,san antonio spurs,portland trail blazers,,,home,1680825600,https://media-2.api-sports.io/basketball/teams/158.png
 2023-04-08T20:00:00+00:00,san antonio spurs,minnesota timberwolves,,,home,1680984000,https://media-3.api-sports.io/basketball/teams/158.png
 2023-04-09T19:30:00+00:00,san antonio spurs,dallas mavericks,,,away,1681068600,https://media-3.api-sports.io/basketball/teams/158.png

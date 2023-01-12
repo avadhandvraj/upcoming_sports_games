@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Monday, August 15 12:30 PM",getafe,atletico madrid,3 - 0,L,home,1660584600,https://media-2.api-sports.io/football/teams/546.png
-"Monday, August 22 03:00 PM",getafe,girona,1 - 3,L,away,1661198400,https://media-3.api-sports.io/football/teams/546.png
+"Monday, August 15 12:30 PM",getafe,atletico madrid,3 - 0,L,home,1660584600,https://media-3.api-sports.io/football/teams/546.png
+"Monday, August 22 03:00 PM",getafe,girona,1 - 3,L,away,1661198400,https://media-1.api-sports.io/football/teams/546.png
 "Sunday, August 28 10:30 AM",getafe,villarreal,0 - 0,tie,home,1661700600,https://media-1.api-sports.io/football/teams/546.png
 "Sunday, September 04 02:00 PM",getafe,valencia,1 - 5,L,away,1662318000,https://media-3.api-sports.io/football/teams/546.png
-"Sunday, September 11 11:30 AM",getafe,real sociedad,1 - 2,W,home,1662913800,https://media-3.api-sports.io/football/teams/546.png
+"Sunday, September 11 11:30 AM",getafe,real sociedad,1 - 2,W,home,1662913800,https://media-2.api-sports.io/football/teams/546.png
 "Sunday, September 18 07:00 AM",getafe,osasuna,2 - 0,W,away,1663502400,https://media-3.api-sports.io/football/teams/546.png
 "Saturday, October 01 09:15 AM",getafe,valladolid,3 - 2,L,home,1664633700,https://media-1.api-sports.io/football/teams/546.png
 "Saturday, October 08 02:00 PM",getafe,real madrid,1 - 0,L,home,1665255600,https://media-2.api-sports.io/football/teams/546.png
 "Friday, October 14 02:00 PM",getafe,rayo vallecano,0 - 0,tie,away,1665774000,https://media-3.api-sports.io/football/teams/546.png
 "Tuesday, October 18 01:00 PM",getafe,athletic club,2 - 2,tie,home,1666116000,https://media-2.api-sports.io/football/teams/546.png
-"Monday, October 24 02:00 PM",getafe,celta vigo,1 - 1,tie,away,1666638000,https://media-3.api-sports.io/football/teams/546.png
+"Monday, October 24 02:00 PM",getafe,celta vigo,1 - 1,tie,away,1666638000,https://media-2.api-sports.io/football/teams/546.png
 "Monday, October 31 03:00 PM",getafe,elche,1 - 0,W,away,1667246400,https://media-1.api-sports.io/football/teams/546.png
-"Saturday, November 05 08:00 AM",getafe,cadiz,0 - 0,tie,home,1667653200,https://media-1.api-sports.io/football/teams/546.png
-"Wednesday, November 09 12:00 PM",getafe,almeria,0 - 1,L,away,1668016800,https://media-3.api-sports.io/football/teams/546.png
+"Saturday, November 05 08:00 AM",getafe,cadiz,0 - 0,tie,home,1667653200,https://media-3.api-sports.io/football/teams/546.png
+"Wednesday, November 09 12:00 PM",getafe,almeria,0 - 1,L,away,1668016800,https://media-2.api-sports.io/football/teams/546.png
 "Friday, December 30 10:00 AM",getafe,mallorca,0 - 2,W,home,1672416000,https://media-2.api-sports.io/football/teams/546.png
 "Sunday, January 08 11:30 AM",getafe,sevilla,1 - 2,L,away,1673199000,https://media-2.api-sports.io/football/teams/546.png
-"Sunday, January 15 07:00 AM",getafe,espanyol,,,home,1673787600,https://media-2.api-sports.io/football/teams/546.png
+"Sunday, January 15 07:00 AM",getafe,espanyol,,,home,1673787600,https://media-3.api-sports.io/football/teams/546.png
 "Saturday, January 21 06:00 PM",getafe,barcelona,,,away,1674345600,https://media-3.api-sports.io/football/teams/546.png
-"Saturday, January 28 06:00 PM",getafe,real betis,,,home,1674950400,https://media-2.api-sports.io/football/teams/546.png
-"Saturday, February 04 06:00 PM",getafe,atletico madrid,,,away,1675555200,https://media-3.api-sports.io/football/teams/546.png
-"Saturday, February 11 06:00 PM",getafe,rayo vallecano,,,home,1676160000,https://media-2.api-sports.io/football/teams/546.png
+"Saturday, January 28 06:00 PM",getafe,real betis,,,home,1674950400,https://media-1.api-sports.io/football/teams/546.png
+"Saturday, February 04 06:00 PM",getafe,atletico madrid,,,away,1675555200,https://media-2.api-sports.io/football/teams/546.png
+"Saturday, February 11 06:00 PM",getafe,rayo vallecano,,,home,1676160000,https://media-1.api-sports.io/football/teams/546.png
 "Saturday, February 18 06:00 PM",getafe,valencia,,,home,1676764800,https://media-2.api-sports.io/football/teams/546.png
-"Saturday, February 25 06:00 PM",getafe,villarreal,,,away,1677369600,https://media-3.api-sports.io/football/teams/546.png
-"Saturday, March 04 06:00 PM",getafe,girona,,,home,1677974400,https://media-2.api-sports.io/football/teams/546.png
-"Saturday, March 11 06:00 PM",getafe,cadiz,,,away,1678579200,https://media-1.api-sports.io/football/teams/546.png
-"Saturday, March 18 07:00 PM",getafe,sevilla,,,home,1679184000,https://media-2.api-sports.io/football/teams/546.png
-"Saturday, April 01 07:00 PM",getafe,athletic club,,,away,1680393600,https://media-2.api-sports.io/football/teams/546.png
+"Saturday, February 25 06:00 PM",getafe,villarreal,,,away,1677369600,https://media-2.api-sports.io/football/teams/546.png
+"Saturday, March 04 06:00 PM",getafe,girona,,,home,1677974400,https://media-1.api-sports.io/football/teams/546.png
+"Saturday, March 11 06:00 PM",getafe,cadiz,,,away,1678579200,https://media-3.api-sports.io/football/teams/546.png
+"Saturday, March 18 07:00 PM",getafe,sevilla,,,home,1679184000,https://media-3.api-sports.io/football/teams/546.png
+"Saturday, April 01 07:00 PM",getafe,athletic club,,,away,1680393600,https://media-3.api-sports.io/football/teams/546.png
 "Saturday, April 08 07:00 PM",getafe,real sociedad,,,away,1680998400,https://media-2.api-sports.io/football/teams/546.png
 "Saturday, April 15 07:00 PM",getafe,barcelona,,,home,1681603200,https://media-1.api-sports.io/football/teams/546.png
 "Saturday, April 22 07:00 PM",getafe,mallorca,,,away,1682208000,https://media-1.api-sports.io/football/teams/546.png
-"Tuesday, April 25 07:00 PM",getafe,almeria,,,home,1682467200,https://media-2.api-sports.io/football/teams/546.png
-"Saturday, April 29 07:00 PM",getafe,espanyol,,,away,1682812800,https://media-3.api-sports.io/football/teams/546.png
+"Tuesday, April 25 07:00 PM",getafe,almeria,,,home,1682467200,https://media-3.api-sports.io/football/teams/546.png
+"Saturday, April 29 07:00 PM",getafe,espanyol,,,away,1682812800,https://media-2.api-sports.io/football/teams/546.png
 "Tuesday, May 02 07:00 PM",getafe,celta vigo,,,home,1683072000,https://media-1.api-sports.io/football/teams/546.png
-"Saturday, May 13 07:00 PM",getafe,real madrid,,,away,1684022400,https://media-3.api-sports.io/football/teams/546.png
+"Saturday, May 13 07:00 PM",getafe,real madrid,,,away,1684022400,https://media-1.api-sports.io/football/teams/546.png
 "Saturday, May 20 07:00 PM",getafe,elche,,,home,1684627200,https://media-3.api-sports.io/football/teams/546.png
-"Tuesday, May 23 07:00 PM",getafe,real betis,,,away,1684886400,https://media-3.api-sports.io/football/teams/546.png
-"Saturday, May 27 07:00 PM",getafe,osasuna,,,home,1685232000,https://media-2.api-sports.io/football/teams/546.png
-"Saturday, June 03 07:00 PM",getafe,valladolid,,,away,1685836800,https://media-2.api-sports.io/football/teams/546.png
+"Tuesday, May 23 07:00 PM",getafe,real betis,,,away,1684886400,https://media-2.api-sports.io/football/teams/546.png
+"Saturday, May 27 07:00 PM",getafe,osasuna,,,home,1685232000,https://media-1.api-sports.io/football/teams/546.png
+"Saturday, June 03 07:00 PM",getafe,valladolid,,,away,1685836800,https://media-1.api-sports.io/football/teams/546.png

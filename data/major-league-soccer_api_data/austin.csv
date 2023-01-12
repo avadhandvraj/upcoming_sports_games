@@ -1,38 +1,38 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Saturday, February 26 05:00 PM",austin,fc cincinnati,0 - 5,W,home,1645916400,https://media-2.api-sports.io/football/teams/16489.png
-"Sunday, March 06 03:00 PM",austin,inter miami,1 - 5,W,home,1646600400,https://media-3.api-sports.io/football/teams/16489.png
-"Saturday, March 12 09:00 PM",austin,portland timbers,0 - 1,L,away,1647140400,https://media-1.api-sports.io/football/teams/16489.png
-"Sunday, March 20 03:30 PM",austin,seattle sounders,1 - 1,tie,home,1647808200,https://media-1.api-sports.io/football/teams/16489.png
-"Sunday, April 03 06:30 PM",austin,san jose earthquakes,2 - 2,tie,away,1649028600,https://media-3.api-sports.io/football/teams/16489.png
-"Sunday, April 10 06:30 PM",austin,minnesota united fc,0 - 1,W,home,1649633400,https://media-3.api-sports.io/football/teams/16489.png
+"Saturday, February 26 05:00 PM",austin,fc cincinnati,0 - 5,W,home,1645916400,https://media-3.api-sports.io/football/teams/16489.png
+"Sunday, March 06 03:00 PM",austin,inter miami,1 - 5,W,home,1646600400,https://media-1.api-sports.io/football/teams/16489.png
+"Saturday, March 12 09:00 PM",austin,portland timbers,0 - 1,L,away,1647140400,https://media-3.api-sports.io/football/teams/16489.png
+"Sunday, March 20 03:30 PM",austin,seattle sounders,1 - 1,tie,home,1647808200,https://media-3.api-sports.io/football/teams/16489.png
+"Sunday, April 03 06:30 PM",austin,san jose earthquakes,2 - 2,tie,away,1649028600,https://media-1.api-sports.io/football/teams/16489.png
+"Sunday, April 10 06:30 PM",austin,minnesota united fc,0 - 1,W,home,1649633400,https://media-2.api-sports.io/football/teams/16489.png
 "Saturday, April 16 06:30 PM",austin,dc united,3 - 2,W,away,1650151800,https://media-3.api-sports.io/football/teams/16489.png
-"Saturday, April 23 07:30 PM",austin,vancouver whitecaps,0 - 3,W,home,1650760200,https://media-1.api-sports.io/football/teams/16489.png
-"Saturday, April 30 12:30 PM",austin,houston dynamo,2 - 1,W,away,1651339800,https://media-1.api-sports.io/football/teams/16489.png
-"Sunday, May 08 06:00 PM",austin,los angeles galaxy,1 - 0,L,home,1652050800,https://media-3.api-sports.io/football/teams/16489.png
-"Saturday, May 14 08:30 PM",austin,real salt lake,1 - 2,L,away,1652578200,https://media-3.api-sports.io/football/teams/16489.png
-"Wednesday, May 18 09:30 PM",austin,los angeles fc,2 - 1,W,away,1652927400,https://media-2.api-sports.io/football/teams/16489.png
-"Sunday, May 22 07:00 PM",austin,orlando city sc,2 - 2,tie,home,1653264000,https://media-2.api-sports.io/football/teams/16489.png
+"Saturday, April 23 07:30 PM",austin,vancouver whitecaps,0 - 3,W,home,1650760200,https://media-2.api-sports.io/football/teams/16489.png
+"Saturday, April 30 12:30 PM",austin,houston dynamo,2 - 1,W,away,1651339800,https://media-2.api-sports.io/football/teams/16489.png
+"Sunday, May 08 06:00 PM",austin,los angeles galaxy,1 - 0,L,home,1652050800,https://media-2.api-sports.io/football/teams/16489.png
+"Saturday, May 14 08:30 PM",austin,real salt lake,1 - 2,L,away,1652578200,https://media-1.api-sports.io/football/teams/16489.png
+"Wednesday, May 18 09:30 PM",austin,los angeles fc,2 - 1,W,away,1652927400,https://media-1.api-sports.io/football/teams/16489.png
+"Sunday, May 22 07:00 PM",austin,orlando city sc,2 - 2,tie,home,1653264000,https://media-3.api-sports.io/football/teams/16489.png
 "Sunday, May 29 05:00 PM",austin,los angeles galaxy,1 - 4,L,away,1653861600,https://media-1.api-sports.io/football/teams/16489.png
 "Saturday, June 18 06:30 PM",austin,montreal impact,1 - 0,W,away,1655595000,https://media-3.api-sports.io/football/teams/16489.png
 "Saturday, June 25 08:00 PM",austin,fc dallas,2 - 2,tie,home,1656205200,https://media-2.api-sports.io/football/teams/16489.png
-"Thursday, June 30 06:00 PM",austin,charlotte,1 - 0,W,away,1656630000,https://media-3.api-sports.io/football/teams/16489.png
+"Thursday, June 30 06:00 PM",austin,charlotte,1 - 0,W,away,1656630000,https://media-1.api-sports.io/football/teams/16489.png
 "Monday, July 04 08:00 PM",austin,colorado rapids,3 - 2,W,away,1656982800,https://media-3.api-sports.io/football/teams/16489.png
-"Saturday, July 09 06:00 PM",austin,atlanta united fc,3 - 0,W,away,1657407600,https://media-1.api-sports.io/football/teams/16489.png
-"Tuesday, July 12 08:00 PM",austin,houston dynamo,1 - 3,W,home,1657674000,https://media-2.api-sports.io/football/teams/16489.png
+"Saturday, July 09 06:00 PM",austin,atlanta united fc,3 - 0,W,away,1657407600,https://media-3.api-sports.io/football/teams/16489.png
+"Tuesday, July 12 08:00 PM",austin,houston dynamo,1 - 3,W,home,1657674000,https://media-1.api-sports.io/football/teams/16489.png
 "Saturday, July 16 08:00 PM",austin,fc dallas,1 - 1,tie,away,1658019600,https://media-3.api-sports.io/football/teams/16489.png
-"Sunday, July 24 07:00 PM",austin,new york red bulls,4 - 3,L,home,1658707200,https://media-1.api-sports.io/football/teams/16489.png
-"Saturday, July 30 07:30 PM",austin,sporting kansas city,2 - 0,W,away,1659227400,https://media-3.api-sports.io/football/teams/16489.png
-"Saturday, August 06 08:00 PM",austin,san jose earthquakes,3 - 3,tie,home,1659834000,https://media-2.api-sports.io/football/teams/16489.png
-"Saturday, August 13 08:00 PM",austin,sporting kansas city,3 - 4,W,home,1660438800,https://media-3.api-sports.io/football/teams/16489.png
-"Saturday, August 20 07:00 PM",austin,minnesota united fc,1 - 2,L,away,1661040000,https://media-3.api-sports.io/football/teams/16489.png
+"Sunday, July 24 07:00 PM",austin,new york red bulls,4 - 3,L,home,1658707200,https://media-2.api-sports.io/football/teams/16489.png
+"Saturday, July 30 07:30 PM",austin,sporting kansas city,2 - 0,W,away,1659227400,https://media-2.api-sports.io/football/teams/16489.png
+"Saturday, August 06 08:00 PM",austin,san jose earthquakes,3 - 3,tie,home,1659834000,https://media-1.api-sports.io/football/teams/16489.png
+"Saturday, August 13 08:00 PM",austin,sporting kansas city,3 - 4,W,home,1660438800,https://media-2.api-sports.io/football/teams/16489.png
+"Saturday, August 20 07:00 PM",austin,minnesota united fc,1 - 2,L,away,1661040000,https://media-2.api-sports.io/football/teams/16489.png
 "Friday, August 26 07:00 PM",austin,los angeles fc,1 - 4,W,home,1661558400,https://media-1.api-sports.io/football/teams/16489.png
 "Wednesday, August 31 08:00 PM",austin,portland timbers,2 - 1,L,home,1661994000,https://media-3.api-sports.io/football/teams/16489.png
-"Saturday, September 03 07:30 PM",austin,nashville sc,0 - 3,L,away,1662251400,https://media-3.api-sports.io/football/teams/16489.png
-"Saturday, September 10 07:00 PM",austin,seattle sounders,0 - 3,L,away,1662854400,https://media-1.api-sports.io/football/teams/16489.png
-"Wednesday, September 14 08:15 PM",austin,real salt lake,0 - 3,W,home,1663204500,https://media-1.api-sports.io/football/teams/16489.png
+"Saturday, September 03 07:30 PM",austin,nashville sc,0 - 3,L,away,1662251400,https://media-2.api-sports.io/football/teams/16489.png
+"Saturday, September 10 07:00 PM",austin,seattle sounders,0 - 3,L,away,1662854400,https://media-2.api-sports.io/football/teams/16489.png
+"Wednesday, September 14 08:15 PM",austin,real salt lake,0 - 3,W,home,1663204500,https://media-3.api-sports.io/football/teams/16489.png
 "Saturday, September 17 08:00 PM",austin,nashville sc,1 - 1,tie,home,1663462800,https://media-2.api-sports.io/football/teams/16489.png
-"Saturday, October 01 09:00 PM",austin,vancouver whitecaps,0 - 2,L,away,1664676000,https://media-2.api-sports.io/football/teams/16489.png
-"Sunday, October 09 04:00 PM",austin,colorado rapids,1 - 1,tie,home,1665349200,https://media-3.api-sports.io/football/teams/16489.png
-"Sunday, October 16 02:00 PM",austin,real salt lake,2(1) - 2(3),W,home,1665946800,https://media-3.api-sports.io/football/teams/16489.png
+"Saturday, October 01 09:00 PM",austin,vancouver whitecaps,0 - 2,L,away,1664676000,https://media-3.api-sports.io/football/teams/16489.png
+"Sunday, October 09 04:00 PM",austin,colorado rapids,1 - 1,tie,home,1665349200,https://media-2.api-sports.io/football/teams/16489.png
+"Sunday, October 16 02:00 PM",austin,real salt lake,2(1) - 2(3),W,home,1665946800,https://media-1.api-sports.io/football/teams/16489.png
 "Sunday, October 23 07:00 PM",austin,fc dallas,1 - 2,W,home,1666569600,https://media-1.api-sports.io/football/teams/16489.png
 "Sunday, October 30 02:00 PM",austin,los angeles fc,0 - 3,L,away,1667156400,https://media-3.api-sports.io/football/teams/16489.png

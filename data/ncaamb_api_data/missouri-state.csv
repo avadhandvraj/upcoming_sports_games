@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-10T01:00:00+00:00,missouri state,missouri s&t,47 - 82,W,home,1668042000,https://media-1.api-sports.io/basketball/teams/2008.png
 2022-11-17T02:00:00+00:00,missouri state,brigham young,64 - 66,L,away,1668650400,https://media-2.api-sports.io/basketball/teams/2008.png
-2022-11-19T20:00:00+00:00,missouri state,middle tenn. st.,51 - 75,W,home,1668888000,https://media-3.api-sports.io/basketball/teams/2008.png
-2022-11-25T19:30:00+00:00,missouri state,nc wilmington,54 - 68,L,away,1669404600,https://media-3.api-sports.io/basketball/teams/2008.png
+2022-11-19T20:00:00+00:00,missouri state,middle tenn. st.,51 - 75,W,home,1668888000,https://media-1.api-sports.io/basketball/teams/2008.png
+2022-11-25T19:30:00+00:00,missouri state,nc wilmington,54 - 68,L,away,1669404600,https://media-1.api-sports.io/basketball/teams/2008.png
 2022-11-26T17:00:00+00:00,missouri state,ball state,64 - 67,L,away,1669482000,https://media-3.api-sports.io/basketball/teams/2008.png
-2022-11-27T17:00:00+00:00,missouri state,oakland,76 - 64,W,away,1669568400,https://media-2.api-sports.io/basketball/teams/2008.png
-2022-12-01T01:00:00+00:00,missouri state,illinois (chi.),66 - 51,W,away,1669856400,https://media-2.api-sports.io/basketball/teams/2008.png
-2022-12-04T01:00:00+00:00,missouri state,bradley,58 - 40,L,home,1670115600,https://media-1.api-sports.io/basketball/teams/2008.png
-2022-12-08T03:00:00+00:00,missouri state,st. marys (ca),46 - 66,L,away,1670468400,https://media-1.api-sports.io/basketball/teams/2008.png
-2022-12-11T01:00:00+00:00,missouri state,ipfw,65 - 61,L,home,1670720400,https://media-1.api-sports.io/basketball/teams/2008.png
+2022-11-27T17:00:00+00:00,missouri state,oakland,76 - 64,W,away,1669568400,https://media-1.api-sports.io/basketball/teams/2008.png
+2022-12-01T01:00:00+00:00,missouri state,illinois (chi.),66 - 51,W,away,1669856400,https://media-3.api-sports.io/basketball/teams/2008.png
+2022-12-04T01:00:00+00:00,missouri state,bradley,58 - 40,L,home,1670115600,https://media-2.api-sports.io/basketball/teams/2008.png
+2022-12-08T03:00:00+00:00,missouri state,st. marys (ca),46 - 66,L,away,1670468400,https://media-2.api-sports.io/basketball/teams/2008.png
+2022-12-11T01:00:00+00:00,missouri state,ipfw,65 - 61,L,home,1670720400,https://media-3.api-sports.io/basketball/teams/2008.png
 2022-12-17T01:00:00+00:00,missouri state,oral roberts,77 - 80,L,away,1671238800,https://media-3.api-sports.io/basketball/teams/2008.png
 2022-12-18T23:00:00+00:00,missouri state,central michigan,58 - 79,W,home,1671404400,https://media-1.api-sports.io/basketball/teams/2008.png
-2022-12-23T01:00:00+00:00,missouri state,sam houston st.,None - None,tie,home,1671757200,https://media-3.api-sports.io/basketball/teams/2008.png
-2022-12-29T01:00:00+00:00,missouri state,northern iowa,79 - 67,W,away,1672275600,https://media-2.api-sports.io/basketball/teams/2008.png
+2022-12-23T01:00:00+00:00,missouri state,sam houston st.,None - None,tie,home,1671757200,https://media-1.api-sports.io/basketball/teams/2008.png
+2022-12-29T01:00:00+00:00,missouri state,northern iowa,79 - 67,W,away,1672275600,https://media-1.api-sports.io/basketball/teams/2008.png
 2023-01-01T20:00:00+00:00,missouri state,drake,49 - 52,W,home,1672603200,https://media-3.api-sports.io/basketball/teams/2008.png
-2023-01-05T01:00:00+00:00,missouri state,evansville,62 - 85,W,home,1672880400,https://media-1.api-sports.io/basketball/teams/2008.png
+2023-01-05T01:00:00+00:00,missouri state,evansville,62 - 85,W,home,1672880400,https://media-3.api-sports.io/basketball/teams/2008.png
 2023-01-07T22:00:00+00:00,missouri state,belmont,61 - 74,L,away,1673128800,https://media-1.api-sports.io/basketball/teams/2008.png
 2023-01-12T01:00:00+00:00,missouri state,illinois state,66 - 76,L,away,1673485200,https://media-2.api-sports.io/basketball/teams/2008.png
-2023-01-15T20:00:00+00:00,missouri state,indiana state,,,home,1673812800,https://media-1.api-sports.io/basketball/teams/2008.png
+2023-01-15T20:00:00+00:00,missouri state,indiana state,,,home,1673812800,https://media-3.api-sports.io/basketball/teams/2008.png
 2023-01-19T01:00:00+00:00,missouri state,drake,,,away,1674090000,https://media-1.api-sports.io/basketball/teams/2008.png
 2023-01-21T21:00:00+00:00,missouri state,southern illinois,,,home,1674334800,https://media-2.api-sports.io/basketball/teams/2008.png
-2023-01-25T01:00:00+00:00,missouri state,illinois (chi.),,,home,1674608400,https://media-3.api-sports.io/basketball/teams/2008.png
-2023-01-28T19:00:00+00:00,missouri state,murray state,,,away,1674932400,https://media-3.api-sports.io/basketball/teams/2008.png
-2023-02-02T01:00:00+00:00,missouri state,valparaiso,,,home,1675299600,https://media-3.api-sports.io/basketball/teams/2008.png
+2023-01-25T01:00:00+00:00,missouri state,illinois (chi.),,,home,1674608400,https://media-2.api-sports.io/basketball/teams/2008.png
+2023-01-28T19:00:00+00:00,missouri state,murray state,,,away,1674932400,https://media-2.api-sports.io/basketball/teams/2008.png
+2023-02-02T01:00:00+00:00,missouri state,valparaiso,,,home,1675299600,https://media-2.api-sports.io/basketball/teams/2008.png
 2023-02-05T19:00:00+00:00,missouri state,southern illinois,,,away,1675623600,https://media-3.api-sports.io/basketball/teams/2008.png
-2023-02-09T00:00:00+00:00,missouri state,belmont,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/2008.png
-2023-02-12T19:00:00+00:00,missouri state,evansville,,,away,1676228400,https://media-2.api-sports.io/basketball/teams/2008.png
+2023-02-09T00:00:00+00:00,missouri state,belmont,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/2008.png
+2023-02-12T19:00:00+00:00,missouri state,evansville,,,away,1676228400,https://media-1.api-sports.io/basketball/teams/2008.png
 2023-02-16T01:00:00+00:00,missouri state,bradley,,,away,1676509200,https://media-2.api-sports.io/basketball/teams/2008.png
-2023-02-18T21:00:00+00:00,missouri state,northern iowa,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/2008.png
+2023-02-18T21:00:00+00:00,missouri state,northern iowa,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/2008.png

@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Saturday, August 06 06:30 AM",fulham,liverpool,2 - 2,tie,home,1659785400,https://media-3.api-sports.io/football/teams/36.png
-"Saturday, August 13 09:00 AM",fulham,wolves,0 - 0,tie,away,1660399200,https://media-3.api-sports.io/football/teams/36.png
+"Saturday, August 06 06:30 AM",fulham,liverpool,2 - 2,tie,home,1659785400,https://media-2.api-sports.io/football/teams/36.png
+"Saturday, August 13 09:00 AM",fulham,wolves,0 - 0,tie,away,1660399200,https://media-1.api-sports.io/football/teams/36.png
 "Saturday, August 20 09:00 AM",fulham,brentford,2 - 3,W,home,1661004000,https://media-1.api-sports.io/football/teams/36.png
-"Saturday, August 27 11:30 AM",fulham,arsenal,1 - 2,L,away,1661617800,https://media-3.api-sports.io/football/teams/36.png
-"Tuesday, August 30 01:30 PM",fulham,brighton,1 - 2,W,home,1661884200,https://media-3.api-sports.io/football/teams/36.png
-"Saturday, September 03 09:00 AM",fulham,tottenham,1 - 2,L,away,1662213600,https://media-2.api-sports.io/football/teams/36.png
-"Thursday, January 12 02:00 PM",fulham,chelsea,0 - 1,W,home,1673553600,https://media-3.api-sports.io/football/teams/36.png
+"Saturday, August 27 11:30 AM",fulham,arsenal,1 - 2,L,away,1661617800,https://media-1.api-sports.io/football/teams/36.png
+"Tuesday, August 30 01:30 PM",fulham,brighton,1 - 2,W,home,1661884200,https://media-1.api-sports.io/football/teams/36.png
+"Saturday, September 03 09:00 AM",fulham,tottenham,1 - 2,L,away,1662213600,https://media-3.api-sports.io/football/teams/36.png
+"Thursday, January 12 02:00 PM",fulham,chelsea,1 - 2,W,home,1673553600,https://media-3.api-sports.io/football/teams/36.png
 "Friday, September 16 02:00 PM",fulham,nottingham forest,3 - 2,W,away,1663354800,https://media-3.api-sports.io/football/teams/36.png
 "Saturday, October 01 09:00 AM",fulham,newcastle,4 - 1,L,home,1664632800,https://media-3.api-sports.io/football/teams/36.png
 "Sunday, October 09 08:00 AM",fulham,west ham,1 - 3,L,away,1665320400,https://media-2.api-sports.io/football/teams/36.png
-"Saturday, October 15 09:00 AM",fulham,bournemouth,2 - 2,tie,home,1665842400,https://media-3.api-sports.io/football/teams/36.png
-"Thursday, October 20 01:30 PM",fulham,aston villa,0 - 3,W,home,1666290600,https://media-2.api-sports.io/football/teams/36.png
-"Sunday, October 23 08:00 AM",fulham,leeds,3 - 2,W,away,1666530000,https://media-1.api-sports.io/football/teams/36.png
-"Saturday, October 29 11:30 AM",fulham,everton,0 - 0,tie,home,1667061000,https://media-2.api-sports.io/football/teams/36.png
-"Saturday, November 05 10:00 AM",fulham,manchester city,1 - 2,L,away,1667660400,https://media-2.api-sports.io/football/teams/36.png
+"Saturday, October 15 09:00 AM",fulham,bournemouth,2 - 2,tie,home,1665842400,https://media-1.api-sports.io/football/teams/36.png
+"Thursday, October 20 01:30 PM",fulham,aston villa,0 - 3,W,home,1666290600,https://media-3.api-sports.io/football/teams/36.png
+"Sunday, October 23 08:00 AM",fulham,leeds,3 - 2,W,away,1666530000,https://media-3.api-sports.io/football/teams/36.png
+"Saturday, October 29 11:30 AM",fulham,everton,0 - 0,tie,home,1667061000,https://media-1.api-sports.io/football/teams/36.png
+"Saturday, November 05 10:00 AM",fulham,manchester city,1 - 2,L,away,1667660400,https://media-1.api-sports.io/football/teams/36.png
 "Sunday, November 13 10:30 AM",fulham,manchester united,2 - 1,L,home,1668357000,https://media-1.api-sports.io/football/teams/36.png
-"Monday, December 26 09:00 AM",fulham,crystal palace,3 - 0,W,away,1672066800,https://media-3.api-sports.io/football/teams/36.png
-"Saturday, December 31 09:00 AM",fulham,southampton,1 - 2,W,home,1672498800,https://media-3.api-sports.io/football/teams/36.png
+"Monday, December 26 09:00 AM",fulham,crystal palace,3 - 0,W,away,1672066800,https://media-1.api-sports.io/football/teams/36.png
+"Saturday, December 31 09:00 AM",fulham,southampton,1 - 2,W,home,1672498800,https://media-1.api-sports.io/football/teams/36.png
 "Tuesday, January 03 01:45 PM",fulham,leicester,1 - 0,W,away,1672775100,https://media-1.api-sports.io/football/teams/36.png
-"Sunday, January 15 08:00 AM",fulham,newcastle,,,away,1673791200,https://media-1.api-sports.io/football/teams/36.png
-"Monday, January 23 02:00 PM",fulham,tottenham,,,home,1674504000,https://media-1.api-sports.io/football/teams/36.png
-"Friday, February 03 02:00 PM",fulham,chelsea,,,away,1675454400,https://media-3.api-sports.io/football/teams/36.png
+"Sunday, January 15 08:00 AM",fulham,newcastle,,,away,1673791200,https://media-2.api-sports.io/football/teams/36.png
+"Monday, January 23 02:00 PM",fulham,tottenham,,,home,1674504000,https://media-2.api-sports.io/football/teams/36.png
+"Friday, February 03 02:00 PM",fulham,chelsea,,,away,1675454400,https://media-2.api-sports.io/football/teams/36.png
 "Saturday, February 11 09:00 AM",fulham,nottingham forest,,,home,1676127600,https://media-2.api-sports.io/football/teams/36.png
 "Saturday, February 18 09:00 AM",fulham,brighton,,,away,1676732400,https://media-2.api-sports.io/football/teams/36.png
 "Friday, February 24 02:00 PM",fulham,wolves,,,home,1677268800,https://media-2.api-sports.io/football/teams/36.png
-"Saturday, March 04 09:00 AM",fulham,brentford,,,away,1677942000,https://media-2.api-sports.io/football/teams/36.png
-"Saturday, March 11 09:00 AM",fulham,arsenal,,,home,1678546800,https://media-1.api-sports.io/football/teams/36.png
+"Saturday, March 04 09:00 AM",fulham,brentford,,,away,1677942000,https://media-1.api-sports.io/football/teams/36.png
+"Saturday, March 11 09:00 AM",fulham,arsenal,,,home,1678546800,https://media-2.api-sports.io/football/teams/36.png
 "Saturday, March 18 10:00 AM",fulham,liverpool,,,away,1679151600,https://media-2.api-sports.io/football/teams/36.png
 "Saturday, April 01 09:00 AM",fulham,bournemouth,,,away,1680357600,https://media-2.api-sports.io/football/teams/36.png
-"Saturday, April 08 09:00 AM",fulham,west ham,,,home,1680962400,https://media-2.api-sports.io/football/teams/36.png
+"Saturday, April 08 09:00 AM",fulham,west ham,,,home,1680962400,https://media-1.api-sports.io/football/teams/36.png
 "Saturday, April 15 09:00 AM",fulham,everton,,,away,1681567200,https://media-2.api-sports.io/football/teams/36.png
-"Saturday, April 22 09:00 AM",fulham,leeds,,,home,1682172000,https://media-1.api-sports.io/football/teams/36.png
+"Saturday, April 22 09:00 AM",fulham,leeds,,,home,1682172000,https://media-2.api-sports.io/football/teams/36.png
 "Tuesday, April 25 02:00 PM",fulham,aston villa,,,away,1682449200,https://media-1.api-sports.io/football/teams/36.png
 "Saturday, April 29 09:00 AM",fulham,manchester city,,,home,1682776800,https://media-3.api-sports.io/football/teams/36.png
 "Saturday, May 06 09:00 AM",fulham,leicester,,,home,1683381600,https://media-3.api-sports.io/football/teams/36.png
 "Saturday, May 13 09:00 AM",fulham,southampton,,,away,1683986400,https://media-2.api-sports.io/football/teams/36.png
-"Saturday, May 20 09:00 AM",fulham,crystal palace,,,home,1684591200,https://media-3.api-sports.io/football/teams/36.png
+"Saturday, May 20 09:00 AM",fulham,crystal palace,,,home,1684591200,https://media-2.api-sports.io/football/teams/36.png
 "Sunday, May 28 10:00 AM",fulham,manchester united,,,away,1685286000,https://media-3.api-sports.io/football/teams/36.png

@@ -1,25 +1,25 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T23:30:00+00:00,rider,providence,65 - 66,L,away,1667950200,https://media-2.api-sports.io/basketball/teams/2093.png
 2022-11-12T21:00:00+00:00,rider,tcnj,50 - 87,W,home,1668286800,https://media-3.api-sports.io/basketball/teams/2093.png
-2022-11-18T10:00:00+00:00,rider,stetson,68 - 78,L,away,1668765600,https://media-3.api-sports.io/basketball/teams/2093.png
+2022-11-18T10:00:00+00:00,rider,stetson,68 - 78,L,away,1668765600,https://media-1.api-sports.io/basketball/teams/2093.png
 2022-11-19T11:00:00+00:00,rider,central arkansas,90 - 85,L,home,1668855600,https://media-3.api-sports.io/basketball/teams/2093.png
 2022-11-23T00:00:00+00:00,rider,rutgers,46 - 76,L,away,1669161600,https://media-3.api-sports.io/basketball/teams/2093.png
-2022-12-01T01:00:00+00:00,rider,monmouth,62 - 88,W,home,1669856400,https://media-1.api-sports.io/basketball/teams/2093.png
+2022-12-01T01:00:00+00:00,rider,monmouth,62 - 88,W,home,1669856400,https://media-3.api-sports.io/basketball/teams/2093.png
 2022-12-03T21:00:00+00:00,rider,mount st. mary's,68 - 65,W,away,1670101200,https://media-2.api-sports.io/basketball/teams/2093.png
-2022-12-08T00:00:00+00:00,rider,stonehill,78 - 67,W,away,1670457600,https://media-1.api-sports.io/basketball/teams/2093.png
+2022-12-08T00:00:00+00:00,rider,stonehill,78 - 67,W,away,1670457600,https://media-2.api-sports.io/basketball/teams/2093.png
 2022-12-20T00:00:00+00:00,rider,delaware,60 - 59,L,home,1671494400,https://media-3.api-sports.io/basketball/teams/2093.png
-2022-12-23T00:00:00+00:00,rider,marist,71 - 77,W,home,1671753600,https://media-3.api-sports.io/basketball/teams/2093.png
-2022-12-29T00:00:00+00:00,rider,georgia,72 - 78,L,away,1672272000,https://media-2.api-sports.io/basketball/teams/2093.png
-2022-12-31T20:00:00+00:00,rider,canisius,66 - 64,W,away,1672516800,https://media-3.api-sports.io/basketball/teams/2093.png
+2022-12-23T00:00:00+00:00,rider,marist,71 - 77,W,home,1671753600,https://media-1.api-sports.io/basketball/teams/2093.png
+2022-12-29T00:00:00+00:00,rider,georgia,72 - 78,L,away,1672272000,https://media-3.api-sports.io/basketball/teams/2093.png
+2022-12-31T20:00:00+00:00,rider,canisius,66 - 64,W,away,1672516800,https://media-1.api-sports.io/basketball/teams/2093.png
 2023-01-02T17:00:00+00:00,rider,niagara,59 - 61,L,away,1672678800,https://media-1.api-sports.io/basketball/teams/2093.png
 2023-01-07T00:00:00+00:00,rider,quinnipiac,72 - 63,L,home,1673049600,https://media-1.api-sports.io/basketball/teams/2093.png
 2023-01-08T19:00:00+00:00,rider,siena,63 - 68,L,away,1673204400,https://media-3.api-sports.io/basketball/teams/2093.png
-2023-01-15T18:00:00+00:00,rider,iona,,,away,1673805600,https://media-3.api-sports.io/basketball/teams/2093.png
+2023-01-15T18:00:00+00:00,rider,iona,,,away,1673805600,https://media-1.api-sports.io/basketball/teams/2093.png
 2023-01-21T00:00:00+00:00,rider,niagara,,,home,1674259200,https://media-2.api-sports.io/basketball/teams/2093.png
-2023-01-22T19:00:00+00:00,rider,manhattan,,,home,1674414000,https://media-3.api-sports.io/basketball/teams/2093.png
-2023-01-28T00:00:00+00:00,rider,marist,,,away,1674864000,https://media-1.api-sports.io/basketball/teams/2093.png
+2023-01-22T19:00:00+00:00,rider,manhattan,,,home,1674414000,https://media-2.api-sports.io/basketball/teams/2093.png
+2023-01-28T00:00:00+00:00,rider,marist,,,away,1674864000,https://media-3.api-sports.io/basketball/teams/2093.png
 2023-01-29T19:00:00+00:00,rider,fairfield,,,away,1675018800,https://media-2.api-sports.io/basketball/teams/2093.png
-2023-02-04T00:00:00+00:00,rider,st. peters,,,home,1675468800,https://media-2.api-sports.io/basketball/teams/2093.png
-2023-02-05T19:00:00+00:00,rider,manhattan,,,away,1675623600,https://media-1.api-sports.io/basketball/teams/2093.png
-2023-02-11T00:00:00+00:00,rider,fairfield,,,home,1676073600,https://media-3.api-sports.io/basketball/teams/2093.png
-2023-02-18T00:00:00+00:00,rider,canisius,,,home,1676678400,https://media-3.api-sports.io/basketball/teams/2093.png
+2023-02-04T00:00:00+00:00,rider,st. peters,,,home,1675468800,https://media-3.api-sports.io/basketball/teams/2093.png
+2023-02-05T19:00:00+00:00,rider,manhattan,,,away,1675623600,https://media-3.api-sports.io/basketball/teams/2093.png
+2023-02-11T00:00:00+00:00,rider,fairfield,,,home,1676073600,https://media-1.api-sports.io/basketball/teams/2093.png
+2023-02-18T00:00:00+00:00,rider,canisius,,,home,1676678400,https://media-1.api-sports.io/basketball/teams/2093.png

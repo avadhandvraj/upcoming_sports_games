@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,vermont,brown,65 - 80,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/2187.png
-2022-11-11T03:00:00+00:00,vermont,st. marys (ca),53 - 79,L,away,1668135600,https://media-3.api-sports.io/basketball/teams/2187.png
+2022-11-08T00:00:00+00:00,vermont,brown,65 - 80,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/2187.png
+2022-11-11T03:00:00+00:00,vermont,st. marys (ca),53 - 79,L,away,1668135600,https://media-2.api-sports.io/basketball/teams/2187.png
 2022-11-14T01:00:00+00:00,vermont,cs fullerton,85 - 94,L,away,1668387600,https://media-3.api-sports.io/basketball/teams/2187.png
-2022-11-16T04:00:00+00:00,vermont,usc,57 - 59,L,away,1668571200,https://media-3.api-sports.io/basketball/teams/2187.png
-2022-11-19T00:30:00+00:00,vermont,iona,71 - 50,L,home,1668817800,https://media-3.api-sports.io/basketball/teams/2187.png
+2022-11-16T04:00:00+00:00,vermont,usc,57 - 59,L,away,1668571200,https://media-1.api-sports.io/basketball/teams/2187.png
+2022-11-19T00:30:00+00:00,vermont,iona,71 - 50,L,home,1668817800,https://media-1.api-sports.io/basketball/teams/2187.png
 2022-11-23T00:00:00+00:00,vermont,yale,44 - 73,L,away,1669161600,https://media-1.api-sports.io/basketball/teams/2187.png
-2022-11-25T17:00:00+00:00,vermont,ball state,78 - 73,W,away,1669395600,https://media-1.api-sports.io/basketball/teams/2187.png
-2022-11-26T22:30:00+00:00,vermont,nc wilmington,66 - 68,L,away,1669501800,https://media-3.api-sports.io/basketball/teams/2187.png
-2022-11-27T22:30:00+00:00,vermont,long beach state,58 - 78,L,away,1669588200,https://media-1.api-sports.io/basketball/teams/2187.png
-2022-12-02T00:00:00+00:00,vermont,nvu-lyndon,63 - 101,W,home,1669939200,https://media-1.api-sports.io/basketball/teams/2187.png
-2022-12-04T19:00:00+00:00,vermont,merrimack warriors,66 - 43,W,away,1670180400,https://media-1.api-sports.io/basketball/teams/2187.png
-2022-12-07T00:00:00+00:00,vermont,dartmouth,68 - 52,W,away,1670371200,https://media-1.api-sports.io/basketball/teams/2187.png
-2022-12-10T17:00:00+00:00,vermont,colgate,73 - 72,W,away,1670691600,https://media-2.api-sports.io/basketball/teams/2187.png
-2022-12-20T19:00:00+00:00,vermont,toledo,84 - 72,L,home,1671562800,https://media-1.api-sports.io/basketball/teams/2187.png
-2022-12-29T01:00:00+00:00,vermont,miami (fl),None - None,tie,away,1672275600,https://media-1.api-sports.io/basketball/teams/2187.png
-2023-01-01T18:00:00+00:00,vermont,umbc retrievers,74 - 61,W,away,1672596000,https://media-3.api-sports.io/basketball/teams/2187.png
-2023-01-06T00:00:00+00:00,vermont,bryant university,64 - 74,W,home,1672963200,https://media-2.api-sports.io/basketball/teams/2187.png
-2023-01-08T17:00:00+00:00,vermont,new hampshire,60 - 67,L,away,1673197200,https://media-2.api-sports.io/basketball/teams/2187.png
-2023-01-11T23:00:00+00:00,vermont,umass lowell,65 - 80,L,away,1673478000,https://media-3.api-sports.io/basketball/teams/2187.png
-2023-01-20T00:00:00+00:00,vermont,maine black bears,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/2187.png
-2023-01-22T18:00:00+00:00,vermont,njit,,,home,1674410400,https://media-3.api-sports.io/basketball/teams/2187.png
+2022-11-25T17:00:00+00:00,vermont,ball state,78 - 73,W,away,1669395600,https://media-2.api-sports.io/basketball/teams/2187.png
+2022-11-26T22:30:00+00:00,vermont,nc wilmington,66 - 68,L,away,1669501800,https://media-1.api-sports.io/basketball/teams/2187.png
+2022-11-27T22:30:00+00:00,vermont,long beach state,58 - 78,L,away,1669588200,https://media-2.api-sports.io/basketball/teams/2187.png
+2022-12-02T00:00:00+00:00,vermont,nvu-lyndon,63 - 101,W,home,1669939200,https://media-3.api-sports.io/basketball/teams/2187.png
+2022-12-04T19:00:00+00:00,vermont,merrimack warriors,66 - 43,W,away,1670180400,https://media-3.api-sports.io/basketball/teams/2187.png
+2022-12-07T00:00:00+00:00,vermont,dartmouth,68 - 52,W,away,1670371200,https://media-3.api-sports.io/basketball/teams/2187.png
+2022-12-10T17:00:00+00:00,vermont,colgate,73 - 72,W,away,1670691600,https://media-1.api-sports.io/basketball/teams/2187.png
+2022-12-20T19:00:00+00:00,vermont,toledo,84 - 72,L,home,1671562800,https://media-2.api-sports.io/basketball/teams/2187.png
+2022-12-29T01:00:00+00:00,vermont,miami (fl),None - None,tie,away,1672275600,https://media-2.api-sports.io/basketball/teams/2187.png
+2023-01-01T18:00:00+00:00,vermont,umbc retrievers,74 - 61,W,away,1672596000,https://media-2.api-sports.io/basketball/teams/2187.png
+2023-01-06T00:00:00+00:00,vermont,bryant university,64 - 74,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/2187.png
+2023-01-08T17:00:00+00:00,vermont,new hampshire,60 - 67,L,away,1673197200,https://media-1.api-sports.io/basketball/teams/2187.png
+2023-01-11T23:00:00+00:00,vermont,umass lowell,65 - 80,L,away,1673478000,https://media-2.api-sports.io/basketball/teams/2187.png
+2023-01-20T00:00:00+00:00,vermont,maine black bears,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/2187.png
+2023-01-22T18:00:00+00:00,vermont,njit,,,home,1674410400,https://media-2.api-sports.io/basketball/teams/2187.png
 2023-01-26T00:00:00+00:00,vermont,binghamton,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/2187.png
 2023-01-28T18:00:00+00:00,vermont,umbc retrievers,,,home,1674928800,https://media-3.api-sports.io/basketball/teams/2187.png
-2023-02-04T20:00:00+00:00,vermont,albany,,,away,1675540800,https://media-2.api-sports.io/basketball/teams/2187.png
+2023-02-04T20:00:00+00:00,vermont,albany,,,away,1675540800,https://media-3.api-sports.io/basketball/teams/2187.png
 2023-02-09T00:00:00+00:00,vermont,maine black bears,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/2187.png
-2023-02-12T00:00:00+00:00,vermont,umass lowell,,,home,1676160000,https://media-1.api-sports.io/basketball/teams/2187.png
-2023-02-16T00:00:00+00:00,vermont,new hampshire,,,home,1676505600,https://media-3.api-sports.io/basketball/teams/2187.png
+2023-02-12T00:00:00+00:00,vermont,umass lowell,,,home,1676160000,https://media-3.api-sports.io/basketball/teams/2187.png
+2023-02-16T00:00:00+00:00,vermont,new hampshire,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/2187.png

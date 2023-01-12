@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-11T00:00:00+00:00,western kentucky,eastern kentucky,66 - 60,W,away,1668124800,https://media-3.api-sports.io/basketball/teams/2201.png
+2022-11-11T00:00:00+00:00,western kentucky,eastern kentucky,66 - 60,W,away,1668124800,https://media-1.api-sports.io/basketball/teams/2201.png
 2022-11-13T00:00:00+00:00,western kentucky,kentucky state,61 - 127,W,home,1668297600,https://media-2.api-sports.io/basketball/teams/2201.png
-2022-11-16T01:00:00+00:00,western kentucky,indianapolis,50 - 68,W,home,1668560400,https://media-2.api-sports.io/basketball/teams/2201.png
-2022-11-21T18:30:00+00:00,western kentucky,akron,72 - 53,L,home,1669055400,https://media-2.api-sports.io/basketball/teams/2201.png
-2022-11-22T16:00:00+00:00,western kentucky,illinois state,66 - 78,W,home,1669132800,https://media-1.api-sports.io/basketball/teams/2201.png
+2022-11-16T01:00:00+00:00,western kentucky,indianapolis,50 - 68,W,home,1668560400,https://media-1.api-sports.io/basketball/teams/2201.png
+2022-11-21T18:30:00+00:00,western kentucky,akron,72 - 53,L,home,1669055400,https://media-1.api-sports.io/basketball/teams/2201.png
+2022-11-22T16:00:00+00:00,western kentucky,illinois state,66 - 78,W,home,1669132800,https://media-2.api-sports.io/basketball/teams/2201.png
 2022-11-23T18:30:00+00:00,western kentucky,tulane,71 - 65,W,away,1669228200,https://media-2.api-sports.io/basketball/teams/2201.png
-2022-11-26T21:00:00+00:00,western kentucky,south carolina st,64 - 90,W,home,1669496400,https://media-1.api-sports.io/basketball/teams/2201.png
-2022-12-01T01:00:00+00:00,western kentucky,austin peay,75 - 74,W,away,1669856400,https://media-2.api-sports.io/basketball/teams/2201.png
+2022-11-26T21:00:00+00:00,western kentucky,south carolina st,64 - 90,W,home,1669496400,https://media-3.api-sports.io/basketball/teams/2201.png
+2022-12-01T01:00:00+00:00,western kentucky,austin peay,75 - 74,W,away,1669856400,https://media-3.api-sports.io/basketball/teams/2201.png
 2022-12-11T00:00:00+00:00,western kentucky,wright state,60 - 64,W,home,1670716800,https://media-2.api-sports.io/basketball/teams/2201.png
-2022-12-15T02:00:00+00:00,western kentucky,louisville,83 - 94,L,away,1671069600,https://media-2.api-sports.io/basketball/teams/2201.png
-2022-12-23T00:00:00+00:00,western kentucky,south carolina,58 - 65,L,away,1671753600,https://media-2.api-sports.io/basketball/teams/2201.png
-2022-12-30T00:00:00+00:00,western kentucky,rice,81 - 78,L,home,1672358400,https://media-3.api-sports.io/basketball/teams/2201.png
-2022-12-31T21:00:00+00:00,western kentucky,middle tenn. st.,60 - 65,L,away,1672520400,https://media-3.api-sports.io/basketball/teams/2201.png
+2022-12-15T02:00:00+00:00,western kentucky,louisville,83 - 94,L,away,1671069600,https://media-1.api-sports.io/basketball/teams/2201.png
+2022-12-23T00:00:00+00:00,western kentucky,south carolina,58 - 65,L,away,1671753600,https://media-3.api-sports.io/basketball/teams/2201.png
+2022-12-30T00:00:00+00:00,western kentucky,rice,81 - 78,L,home,1672358400,https://media-2.api-sports.io/basketball/teams/2201.png
+2022-12-31T21:00:00+00:00,western kentucky,middle tenn. st.,60 - 65,L,away,1672520400,https://media-1.api-sports.io/basketball/teams/2201.png
 2023-01-06T02:00:00+00:00,western kentucky,north texas,70 - 66,L,home,1672970400,https://media-2.api-sports.io/basketball/teams/2201.png
 2023-01-07T21:00:00+00:00,western kentucky,utsa roadrunners,74 - 64,W,away,1673125200,https://media-3.api-sports.io/basketball/teams/2201.png
 2023-01-12T02:00:00+00:00,western kentucky,uab,80 - 78,W,away,1673488800,https://media-1.api-sports.io/basketball/teams/2201.png
-2023-01-15T00:00:00+00:00,western kentucky,florida international,,,home,1673740800,https://media-1.api-sports.io/basketball/teams/2201.png
+2023-01-15T00:00:00+00:00,western kentucky,florida international,,,home,1673740800,https://media-3.api-sports.io/basketball/teams/2201.png
 2023-01-17T00:00:00+00:00,western kentucky,florida atlantic,,,home,1673913600,https://media-1.api-sports.io/basketball/teams/2201.png
-2023-01-20T02:00:00+00:00,western kentucky,louisiana tech,,,away,1674180000,https://media-2.api-sports.io/basketball/teams/2201.png
+2023-01-20T02:00:00+00:00,western kentucky,louisiana tech,,,away,1674180000,https://media-3.api-sports.io/basketball/teams/2201.png
 2023-01-22T00:00:00+00:00,western kentucky,charlotte,,,home,1674345600,https://media-2.api-sports.io/basketball/teams/2201.png
-2023-01-27T00:00:00+00:00,western kentucky,florida international,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/2201.png
+2023-01-27T00:00:00+00:00,western kentucky,florida international,,,away,1674777600,https://media-1.api-sports.io/basketball/teams/2201.png
 2023-01-28T21:00:00+00:00,western kentucky,florida atlantic,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/2201.png
 2023-02-03T01:00:00+00:00,western kentucky,utsa roadrunners,,,home,1675386000,https://media-2.api-sports.io/basketball/teams/2201.png
-2023-02-04T21:00:00+00:00,western kentucky,utep,,,home,1675544400,https://media-1.api-sports.io/basketball/teams/2201.png
+2023-02-04T21:00:00+00:00,western kentucky,utep,,,home,1675544400,https://media-3.api-sports.io/basketball/teams/2201.png
 2023-02-10T01:00:00+00:00,western kentucky,middle tenn. st.,,,home,1675990800,https://media-1.api-sports.io/basketball/teams/2201.png
 2023-02-17T00:00:00+00:00,western kentucky,charlotte,,,away,1676592000,https://media-1.api-sports.io/basketball/teams/2201.png

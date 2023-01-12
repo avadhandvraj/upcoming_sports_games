@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 "Sunday, August 07 08:00 AM",brentford,leicester,2 - 2,tie,away,1659877200,https://media-2.api-sports.io/football/teams/55.png
 "Saturday, August 13 11:30 AM",brentford,manchester united,0 - 4,W,home,1660408200,https://media-1.api-sports.io/football/teams/55.png
-"Saturday, August 20 09:00 AM",brentford,fulham,2 - 3,L,away,1661004000,https://media-3.api-sports.io/football/teams/55.png
-"Saturday, August 27 09:00 AM",brentford,everton,1 - 1,tie,home,1661608800,https://media-2.api-sports.io/football/teams/55.png
+"Saturday, August 20 09:00 AM",brentford,fulham,2 - 3,L,away,1661004000,https://media-1.api-sports.io/football/teams/55.png
+"Saturday, August 27 09:00 AM",brentford,everton,1 - 1,tie,home,1661608800,https://media-1.api-sports.io/football/teams/55.png
 "Tuesday, August 30 01:30 PM",brentford,crystal palace,1 - 1,tie,away,1661884200,https://media-3.api-sports.io/football/teams/55.png
 "Saturday, September 03 09:00 AM",brentford,leeds,2 - 5,W,home,1662213600,https://media-3.api-sports.io/football/teams/55.png
 "Saturday, September 10 09:00 AM",brentford,southampton,,,away,1662818400,https://media-2.api-sports.io/football/teams/55.png
-"Sunday, September 18 06:00 AM",brentford,arsenal,3 - 0,L,home,1663498800,https://media-3.api-sports.io/football/teams/55.png
-"Saturday, October 01 09:00 AM",brentford,bournemouth,0 - 0,tie,away,1664632800,https://media-1.api-sports.io/football/teams/55.png
+"Sunday, September 18 06:00 AM",brentford,arsenal,3 - 0,L,home,1663498800,https://media-1.api-sports.io/football/teams/55.png
+"Saturday, October 01 09:00 AM",brentford,bournemouth,0 - 0,tie,away,1664632800,https://media-2.api-sports.io/football/teams/55.png
 "Saturday, October 08 09:00 AM",brentford,newcastle,1 - 5,L,away,1665237600,https://media-2.api-sports.io/football/teams/55.png
 "Friday, October 14 02:00 PM",brentford,brighton,0 - 2,W,home,1665774000,https://media-3.api-sports.io/football/teams/55.png
-"Wednesday, October 19 01:30 PM",brentford,chelsea,0 - 0,tie,home,1666204200,https://media-3.api-sports.io/football/teams/55.png
-"Sunday, October 23 08:00 AM",brentford,aston villa,0 - 4,L,away,1666530000,https://media-2.api-sports.io/football/teams/55.png
+"Wednesday, October 19 01:30 PM",brentford,chelsea,0 - 0,tie,home,1666204200,https://media-2.api-sports.io/football/teams/55.png
+"Sunday, October 23 08:00 AM",brentford,aston villa,0 - 4,L,away,1666530000,https://media-1.api-sports.io/football/teams/55.png
 "Saturday, October 29 09:00 AM",brentford,wolves,1 - 1,tie,home,1667052000,https://media-1.api-sports.io/football/teams/55.png
 "Saturday, November 05 10:00 AM",brentford,nottingham forest,2 - 2,tie,away,1667660400,https://media-2.api-sports.io/football/teams/55.png
-"Saturday, November 12 06:30 AM",brentford,manchester city,2 - 1,W,away,1668256200,https://media-2.api-sports.io/football/teams/55.png
+"Saturday, November 12 06:30 AM",brentford,manchester city,2 - 1,W,away,1668256200,https://media-1.api-sports.io/football/teams/55.png
 "Monday, December 26 06:30 AM",brentford,tottenham,2 - 2,tie,home,1672057800,https://media-3.api-sports.io/football/teams/55.png
 "Friday, December 30 01:45 PM",brentford,west ham,2 - 0,W,away,1672429500,https://media-3.api-sports.io/football/teams/55.png
 "Monday, January 02 11:30 AM",brentford,liverpool,1 - 3,W,home,1672680600,https://media-3.api-sports.io/football/teams/55.png
 "Saturday, January 14 11:30 AM",brentford,bournemouth,,,home,1673717400,https://media-2.api-sports.io/football/teams/55.png
-"Sunday, January 22 08:00 AM",brentford,leeds,,,away,1674396000,https://media-3.api-sports.io/football/teams/55.png
+"Sunday, January 22 08:00 AM",brentford,leeds,,,away,1674396000,https://media-1.api-sports.io/football/teams/55.png
 "Saturday, February 04 09:00 AM",brentford,southampton,,,home,1675522800,https://media-3.api-sports.io/football/teams/55.png
-"Saturday, February 11 09:00 AM",brentford,arsenal,,,away,1676127600,https://media-2.api-sports.io/football/teams/55.png
+"Saturday, February 11 09:00 AM",brentford,arsenal,,,away,1676127600,https://media-1.api-sports.io/football/teams/55.png
 "Saturday, February 18 09:00 AM",brentford,crystal palace,,,home,1676732400,https://media-2.api-sports.io/football/teams/55.png
-"Sunday, February 26 07:30 AM",brentford,manchester united,,,away,1677418200,https://media-3.api-sports.io/football/teams/55.png
+"Sunday, February 26 07:30 AM",brentford,manchester united,,,away,1677418200,https://media-2.api-sports.io/football/teams/55.png
 "Saturday, March 04 09:00 AM",brentford,fulham,,,home,1677942000,https://media-2.api-sports.io/football/teams/55.png
 "Saturday, March 11 09:00 AM",brentford,everton,,,away,1678546800,https://media-2.api-sports.io/football/teams/55.png
-"Saturday, March 18 10:00 AM",brentford,leicester,,,home,1679151600,https://media-3.api-sports.io/football/teams/55.png
+"Saturday, March 18 10:00 AM",brentford,leicester,,,home,1679151600,https://media-2.api-sports.io/football/teams/55.png
 "Saturday, April 01 09:00 AM",brentford,brighton,,,away,1680357600,https://media-2.api-sports.io/football/teams/55.png
 "Saturday, April 08 09:00 AM",brentford,newcastle,,,home,1680962400,https://media-2.api-sports.io/football/teams/55.png
-"Saturday, April 15 09:00 AM",brentford,wolves,,,away,1681567200,https://media-1.api-sports.io/football/teams/55.png
+"Saturday, April 15 09:00 AM",brentford,wolves,,,away,1681567200,https://media-3.api-sports.io/football/teams/55.png
 "Saturday, April 22 09:00 AM",brentford,aston villa,,,home,1682172000,https://media-1.api-sports.io/football/teams/55.png
-"Wednesday, April 26 01:45 PM",brentford,chelsea,,,away,1682534700,https://media-3.api-sports.io/football/teams/55.png
-"Saturday, April 29 09:00 AM",brentford,nottingham forest,,,home,1682776800,https://media-2.api-sports.io/football/teams/55.png
-"Saturday, May 06 09:00 AM",brentford,liverpool,,,away,1683381600,https://media-3.api-sports.io/football/teams/55.png
+"Wednesday, April 26 01:45 PM",brentford,chelsea,,,away,1682534700,https://media-2.api-sports.io/football/teams/55.png
+"Saturday, April 29 09:00 AM",brentford,nottingham forest,,,home,1682776800,https://media-1.api-sports.io/football/teams/55.png
+"Saturday, May 06 09:00 AM",brentford,liverpool,,,away,1683381600,https://media-2.api-sports.io/football/teams/55.png
 "Saturday, May 13 09:00 AM",brentford,west ham,,,home,1683986400,https://media-1.api-sports.io/football/teams/55.png
-"Saturday, May 20 09:00 AM",brentford,tottenham,,,away,1684591200,https://media-1.api-sports.io/football/teams/55.png
+"Saturday, May 20 09:00 AM",brentford,tottenham,,,away,1684591200,https://media-3.api-sports.io/football/teams/55.png
 "Sunday, May 28 10:00 AM",brentford,manchester city,,,home,1685286000,https://media-1.api-sports.io/football/teams/55.png

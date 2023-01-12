@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:30:00+00:00,new hampshire,brandeis judges,47 - 79,W,home,1667867400,https://media-2.api-sports.io/basketball/teams/2033.png
-2022-11-11T18:00:00+00:00,new hampshire,fairfield,71 - 83,W,home,1668189600,https://media-3.api-sports.io/basketball/teams/2033.png
-2022-11-16T00:00:00+00:00,new hampshire,fordham,61 - 79,L,away,1668556800,https://media-1.api-sports.io/basketball/teams/2033.png
-2022-11-20T18:00:00+00:00,new hampshire,boston university,64 - 57,L,home,1668967200,https://media-3.api-sports.io/basketball/teams/2033.png
+2022-11-11T18:00:00+00:00,new hampshire,fairfield,71 - 83,W,home,1668189600,https://media-2.api-sports.io/basketball/teams/2033.png
+2022-11-16T00:00:00+00:00,new hampshire,fordham,61 - 79,L,away,1668556800,https://media-3.api-sports.io/basketball/teams/2033.png
+2022-11-20T18:00:00+00:00,new hampshire,boston university,64 - 57,L,home,1668967200,https://media-2.api-sports.io/basketball/teams/2033.png
 2022-11-26T19:00:00+00:00,new hampshire,george washington,54 - 75,L,away,1669489200,https://media-2.api-sports.io/basketball/teams/2033.png
-2022-12-01T00:00:00+00:00,new hampshire,sacred heart,66 - 61,L,home,1669852800,https://media-2.api-sports.io/basketball/teams/2033.png
-2022-12-03T21:00:00+00:00,new hampshire,columbia,52 - 56,L,away,1670101200,https://media-1.api-sports.io/basketball/teams/2033.png
-2022-12-07T00:00:00+00:00,new hampshire,boston college,74 - 71,W,away,1670371200,https://media-2.api-sports.io/basketball/teams/2033.png
+2022-12-01T00:00:00+00:00,new hampshire,sacred heart,66 - 61,L,home,1669852800,https://media-1.api-sports.io/basketball/teams/2033.png
+2022-12-03T21:00:00+00:00,new hampshire,columbia,52 - 56,L,away,1670101200,https://media-2.api-sports.io/basketball/teams/2033.png
+2022-12-07T00:00:00+00:00,new hampshire,boston college,74 - 71,W,away,1670371200,https://media-1.api-sports.io/basketball/teams/2033.png
 2022-12-10T23:00:00+00:00,new hampshire,st. john's (n.y.),51 - 64,L,away,1670713200,https://media-1.api-sports.io/basketball/teams/2033.png
 2022-12-13T00:00:00+00:00,new hampshire,saint josephs (me),61 - 104,W,home,1670889600,https://media-1.api-sports.io/basketball/teams/2033.png
 2022-12-20T00:00:00+00:00,new hampshire,holy cross,60 - 78,W,home,1671494400,https://media-3.api-sports.io/basketball/teams/2033.png
 2022-12-22T00:00:00+00:00,new hampshire,brown,51 - 67,L,away,1671667200,https://media-1.api-sports.io/basketball/teams/2033.png
-2022-12-30T00:00:00+00:00,new hampshire,dartmouth,None - None,tie,away,1672358400,https://media-3.api-sports.io/basketball/teams/2033.png
-2022-12-31T17:00:00+00:00,new hampshire,albany,67 - 51,W,away,1672506000,https://media-1.api-sports.io/basketball/teams/2033.png
+2022-12-30T00:00:00+00:00,new hampshire,dartmouth,None - None,tie,away,1672358400,https://media-1.api-sports.io/basketball/teams/2033.png
+2022-12-31T17:00:00+00:00,new hampshire,albany,67 - 51,W,away,1672506000,https://media-2.api-sports.io/basketball/teams/2033.png
 2023-01-06T00:00:00+00:00,new hampshire,binghamton,50 - 68,L,away,1672963200,https://media-1.api-sports.io/basketball/teams/2033.png
-2023-01-08T17:00:00+00:00,new hampshire,vermont,60 - 67,W,home,1673197200,https://media-2.api-sports.io/basketball/teams/2033.png
+2023-01-08T17:00:00+00:00,new hampshire,vermont,60 - 67,W,home,1673197200,https://media-3.api-sports.io/basketball/teams/2033.png
 2023-01-12T00:00:00+00:00,new hampshire,maine black bears,71 - 58,W,away,1673481600,https://media-1.api-sports.io/basketball/teams/2033.png
-2023-01-14T18:00:00+00:00,new hampshire,bryant university,,,home,1673719200,https://media-3.api-sports.io/basketball/teams/2033.png
-2023-01-21T18:00:00+00:00,new hampshire,umbc retrievers,,,away,1674324000,https://media-1.api-sports.io/basketball/teams/2033.png
-2023-01-26T00:00:00+00:00,new hampshire,albany,,,home,1674691200,https://media-1.api-sports.io/basketball/teams/2033.png
+2023-01-14T18:00:00+00:00,new hampshire,bryant university,,,home,1673719200,https://media-2.api-sports.io/basketball/teams/2033.png
+2023-01-21T18:00:00+00:00,new hampshire,umbc retrievers,,,away,1674324000,https://media-3.api-sports.io/basketball/teams/2033.png
+2023-01-26T00:00:00+00:00,new hampshire,albany,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/2033.png
 2023-01-28T18:00:00+00:00,new hampshire,umass lowell,,,home,1674928800,https://media-2.api-sports.io/basketball/teams/2033.png
-2023-02-02T00:00:00+00:00,new hampshire,njit,,,away,1675296000,https://media-1.api-sports.io/basketball/teams/2033.png
-2023-02-04T18:00:00+00:00,new hampshire,bryant university,,,away,1675533600,https://media-2.api-sports.io/basketball/teams/2033.png
-2023-02-09T00:00:00+00:00,new hampshire,binghamton,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/2033.png
+2023-02-02T00:00:00+00:00,new hampshire,njit,,,away,1675296000,https://media-2.api-sports.io/basketball/teams/2033.png
+2023-02-04T18:00:00+00:00,new hampshire,bryant university,,,away,1675533600,https://media-1.api-sports.io/basketball/teams/2033.png
+2023-02-09T00:00:00+00:00,new hampshire,binghamton,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/2033.png
 2023-02-16T00:00:00+00:00,new hampshire,vermont,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/2033.png
-2023-02-18T18:00:00+00:00,new hampshire,umbc retrievers,,,home,1676743200,https://media-3.api-sports.io/basketball/teams/2033.png
+2023-02-18T18:00:00+00:00,new hampshire,umbc retrievers,,,home,1676743200,https://media-1.api-sports.io/basketball/teams/2033.png

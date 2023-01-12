@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,vanderbilt,memphis,76 - 67,L,home,1667869200,https://media-2.api-sports.io/basketball/teams/2185.png
+2022-11-08T01:00:00+00:00,vanderbilt,memphis,76 - 67,L,home,1667869200,https://media-3.api-sports.io/basketball/teams/2185.png
 2022-11-12T00:00:00+00:00,vanderbilt,southern miss,60 - 48,L,home,1668211200,https://media-1.api-sports.io/basketball/teams/2185.png
-2022-11-16T00:00:00+00:00,vanderbilt,temple,89 - 87,W,away,1668556800,https://media-3.api-sports.io/basketball/teams/2185.png
-2022-11-19T00:00:00+00:00,vanderbilt,morehead state,43 - 76,W,home,1668816000,https://media-1.api-sports.io/basketball/teams/2185.png
+2022-11-16T00:00:00+00:00,vanderbilt,temple,89 - 87,W,away,1668556800,https://media-2.api-sports.io/basketball/teams/2185.png
+2022-11-19T00:00:00+00:00,vanderbilt,morehead state,43 - 76,W,home,1668816000,https://media-2.api-sports.io/basketball/teams/2185.png
 2022-11-24T04:59:00+00:00,vanderbilt,st. marys (ca),75 - 65,L,home,1669265940,https://media-2.api-sports.io/basketball/teams/2185.png
-2022-11-25T03:00:00+00:00,vanderbilt,fresno state,59 - 67,W,home,1669345200,https://media-3.api-sports.io/basketball/teams/2185.png
-2022-12-01T00:00:00+00:00,vanderbilt,vcu rams,65 - 70,L,away,1669852800,https://media-1.api-sports.io/basketball/teams/2185.png
-2022-12-03T22:00:00+00:00,vanderbilt,wofford,62 - 65,W,home,1670104800,https://media-1.api-sports.io/basketball/teams/2185.png
+2022-11-25T03:00:00+00:00,vanderbilt,fresno state,59 - 67,W,home,1669345200,https://media-2.api-sports.io/basketball/teams/2185.png
+2022-12-01T00:00:00+00:00,vanderbilt,vcu rams,65 - 70,L,away,1669852800,https://media-3.api-sports.io/basketball/teams/2185.png
+2022-12-03T22:00:00+00:00,vanderbilt,wofford,62 - 65,W,home,1670104800,https://media-2.api-sports.io/basketball/teams/2185.png
 2022-12-08T02:00:00+00:00,vanderbilt,pittsburgh,74 - 75,W,home,1670464800,https://media-3.api-sports.io/basketball/teams/2185.png
-2022-12-10T00:00:00+00:00,vanderbilt,grambling st.,64 - 62,L,home,1670630400,https://media-2.api-sports.io/basketball/teams/2185.png
-2022-12-18T03:30:00+00:00,vanderbilt,nc state,66 - 70,L,away,1671334200,https://media-2.api-sports.io/basketball/teams/2185.png
-2022-12-22T21:00:00+00:00,vanderbilt,alabama a&m,62 - 70,W,home,1671742800,https://media-2.api-sports.io/basketball/teams/2185.png
-2022-12-31T00:00:00+00:00,vanderbilt,se louisiana,55 - 93,W,home,1672444800,https://media-2.api-sports.io/basketball/teams/2185.png
-2023-01-04T00:00:00+00:00,vanderbilt,south carolina,79 - 84,W,home,1672790400,https://media-1.api-sports.io/basketball/teams/2185.png
-2023-01-07T17:00:00+00:00,vanderbilt,missouri,82 - 85,L,away,1673110800,https://media-3.api-sports.io/basketball/teams/2185.png
+2022-12-10T00:00:00+00:00,vanderbilt,grambling st.,64 - 62,L,home,1670630400,https://media-3.api-sports.io/basketball/teams/2185.png
+2022-12-18T03:30:00+00:00,vanderbilt,nc state,66 - 70,L,away,1671334200,https://media-1.api-sports.io/basketball/teams/2185.png
+2022-12-22T21:00:00+00:00,vanderbilt,alabama a&m,62 - 70,W,home,1671742800,https://media-1.api-sports.io/basketball/teams/2185.png
+2022-12-31T00:00:00+00:00,vanderbilt,se louisiana,55 - 93,W,home,1672444800,https://media-3.api-sports.io/basketball/teams/2185.png
+2023-01-04T00:00:00+00:00,vanderbilt,south carolina,79 - 84,W,home,1672790400,https://media-2.api-sports.io/basketball/teams/2185.png
+2023-01-07T17:00:00+00:00,vanderbilt,missouri,82 - 85,L,away,1673110800,https://media-2.api-sports.io/basketball/teams/2185.png
 2023-01-11T02:00:00+00:00,vanderbilt,tennessee,68 - 77,L,away,1673402400,https://media-1.api-sports.io/basketball/teams/2185.png
 2023-01-14T19:00:00+00:00,vanderbilt,arkansas,,,home,1673722800,https://media-2.api-sports.io/basketball/teams/2185.png
 2023-01-18T01:30:00+00:00,vanderbilt,alabama,,,home,1674005400,https://media-3.api-sports.io/basketball/teams/2185.png
-2023-01-21T18:00:00+00:00,vanderbilt,georgia,,,away,1674324000,https://media-3.api-sports.io/basketball/teams/2185.png
-2023-01-25T02:00:00+00:00,vanderbilt,kentucky,,,home,1674612000,https://media-2.api-sports.io/basketball/teams/2185.png
-2023-01-29T01:30:00+00:00,vanderbilt,texas a&m,,,away,1674955800,https://media-3.api-sports.io/basketball/teams/2185.png
-2023-02-01T01:30:00+00:00,vanderbilt,alabama,,,away,1675215000,https://media-3.api-sports.io/basketball/teams/2185.png
-2023-02-04T18:00:00+00:00,vanderbilt,ole miss,,,home,1675533600,https://media-3.api-sports.io/basketball/teams/2185.png
-2023-02-09T00:00:00+00:00,vanderbilt,tennessee,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/2185.png
-2023-02-11T20:30:00+00:00,vanderbilt,florida,,,away,1676147400,https://media-3.api-sports.io/basketball/teams/2185.png
-2023-02-14T23:30:00+00:00,vanderbilt,south carolina,,,away,1676417400,https://media-2.api-sports.io/basketball/teams/2185.png
+2023-01-21T18:00:00+00:00,vanderbilt,georgia,,,away,1674324000,https://media-2.api-sports.io/basketball/teams/2185.png
+2023-01-25T02:00:00+00:00,vanderbilt,kentucky,,,home,1674612000,https://media-1.api-sports.io/basketball/teams/2185.png
+2023-01-29T01:30:00+00:00,vanderbilt,texas a&m,,,away,1674955800,https://media-1.api-sports.io/basketball/teams/2185.png
+2023-02-01T01:30:00+00:00,vanderbilt,alabama,,,away,1675215000,https://media-2.api-sports.io/basketball/teams/2185.png
+2023-02-04T18:00:00+00:00,vanderbilt,ole miss,,,home,1675533600,https://media-2.api-sports.io/basketball/teams/2185.png
+2023-02-09T00:00:00+00:00,vanderbilt,tennessee,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/2185.png
+2023-02-11T20:30:00+00:00,vanderbilt,florida,,,away,1676147400,https://media-1.api-sports.io/basketball/teams/2185.png
+2023-02-14T23:30:00+00:00,vanderbilt,south carolina,,,away,1676417400,https://media-1.api-sports.io/basketball/teams/2185.png

@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,southern miss,william carey,42 - 75,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/219.png
-2022-11-12T00:00:00+00:00,southern miss,vanderbilt,60 - 48,W,away,1668211200,https://media-2.api-sports.io/basketball/teams/219.png
+2022-11-08T01:00:00+00:00,southern miss,william carey,42 - 75,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/219.png
+2022-11-12T00:00:00+00:00,southern miss,vanderbilt,60 - 48,W,away,1668211200,https://media-3.api-sports.io/basketball/teams/219.png
 2022-11-15T01:00:00+00:00,southern miss,loyola no,62 - 86,W,home,1668474000,https://media-1.api-sports.io/basketball/teams/219.png
-2022-11-19T00:00:00+00:00,southern miss,liberty,76 - 72,W,away,1668816000,https://media-2.api-sports.io/basketball/teams/219.png
-2022-11-22T20:00:00+00:00,southern miss,winthrop,77 - 52,W,away,1669147200,https://media-1.api-sports.io/basketball/teams/219.png
+2022-11-19T00:00:00+00:00,southern miss,liberty,76 - 72,W,away,1668816000,https://media-3.api-sports.io/basketball/teams/219.png
+2022-11-22T20:00:00+00:00,southern miss,winthrop,77 - 52,W,away,1669147200,https://media-3.api-sports.io/basketball/teams/219.png
 2022-11-23T20:00:00+00:00,southern miss,ipfw,58 - 70,W,home,1669233600,https://media-2.api-sports.io/basketball/teams/219.png
-2022-11-27T20:00:00+00:00,southern miss,mobile,52 - 103,W,home,1669579200,https://media-1.api-sports.io/basketball/teams/219.png
-2022-11-30T01:00:00+00:00,southern miss,montana,54 - 64,W,home,1669770000,https://media-1.api-sports.io/basketball/teams/219.png
-2022-12-04T21:30:00+00:00,southern miss,northwestern st.,82 - 84,L,away,1670189400,https://media-1.api-sports.io/basketball/teams/219.png
-2022-12-10T20:00:00+00:00,southern miss,lamar,59 - 95,W,home,1670702400,https://media-1.api-sports.io/basketball/teams/219.png
-2022-12-14T01:00:00+00:00,southern miss,lamar,91 - 65,W,away,1670979600,https://media-3.api-sports.io/basketball/teams/219.png
-2022-12-18T20:00:00+00:00,southern miss,mcneese state,67 - 86,W,home,1671393600,https://media-1.api-sports.io/basketball/teams/219.png
-2022-12-23T03:00:00+00:00,southern miss,unlv,63 - 74,L,away,1671764400,https://media-1.api-sports.io/basketball/teams/219.png
-2022-12-30T01:00:00+00:00,southern miss,troy,60 - 64,W,home,1672362000,https://media-1.api-sports.io/basketball/teams/219.png
-2022-12-31T20:00:00+00:00,southern miss,appalachian state,70 - 76,W,home,1672516800,https://media-1.api-sports.io/basketball/teams/219.png
+2022-11-27T20:00:00+00:00,southern miss,mobile,52 - 103,W,home,1669579200,https://media-3.api-sports.io/basketball/teams/219.png
+2022-11-30T01:00:00+00:00,southern miss,montana,54 - 64,W,home,1669770000,https://media-3.api-sports.io/basketball/teams/219.png
+2022-12-04T21:30:00+00:00,southern miss,northwestern st.,82 - 84,L,away,1670189400,https://media-2.api-sports.io/basketball/teams/219.png
+2022-12-10T20:00:00+00:00,southern miss,lamar,59 - 95,W,home,1670702400,https://media-2.api-sports.io/basketball/teams/219.png
+2022-12-14T01:00:00+00:00,southern miss,lamar,91 - 65,W,away,1670979600,https://media-1.api-sports.io/basketball/teams/219.png
+2022-12-18T20:00:00+00:00,southern miss,mcneese state,67 - 86,W,home,1671393600,https://media-3.api-sports.io/basketball/teams/219.png
+2022-12-23T03:00:00+00:00,southern miss,unlv,63 - 74,L,away,1671764400,https://media-3.api-sports.io/basketball/teams/219.png
+2022-12-30T01:00:00+00:00,southern miss,troy,60 - 64,W,home,1672362000,https://media-3.api-sports.io/basketball/teams/219.png
+2022-12-31T20:00:00+00:00,southern miss,appalachian state,70 - 76,W,home,1672516800,https://media-2.api-sports.io/basketball/teams/219.png
 2023-01-06T01:00:00+00:00,southern miss,louisiana lafayette,61 - 75,L,away,1672966800,https://media-1.api-sports.io/basketball/teams/219.png
-2023-01-07T20:00:00+00:00,southern miss,louisiana monroe,65 - 60,W,away,1673121600,https://media-2.api-sports.io/basketball/teams/219.png
-2023-01-13T00:00:00+00:00,southern miss,marshall,,,away,1673568000,https://media-1.api-sports.io/basketball/teams/219.png
-2023-01-14T20:00:00+00:00,southern miss,arkansas state,,,away,1673726400,https://media-1.api-sports.io/basketball/teams/219.png
-2023-01-20T01:00:00+00:00,southern miss,south alabama,,,home,1674176400,https://media-1.api-sports.io/basketball/teams/219.png
-2023-01-21T20:00:00+00:00,southern miss,james madison,,,home,1674331200,https://media-3.api-sports.io/basketball/teams/219.png
-2023-01-27T01:00:00+00:00,southern miss,arkansas state,,,home,1674781200,https://media-1.api-sports.io/basketball/teams/219.png
+2023-01-07T20:00:00+00:00,southern miss,louisiana monroe,65 - 60,W,away,1673121600,https://media-3.api-sports.io/basketball/teams/219.png
+2023-01-13T00:00:00+00:00,southern miss,marshall,,,away,1673568000,https://media-2.api-sports.io/basketball/teams/219.png
+2023-01-14T20:00:00+00:00,southern miss,arkansas state,,,away,1673726400,https://media-3.api-sports.io/basketball/teams/219.png
+2023-01-20T01:00:00+00:00,southern miss,south alabama,,,home,1674176400,https://media-2.api-sports.io/basketball/teams/219.png
+2023-01-21T20:00:00+00:00,southern miss,james madison,,,home,1674331200,https://media-2.api-sports.io/basketball/teams/219.png
+2023-01-27T01:00:00+00:00,southern miss,arkansas state,,,home,1674781200,https://media-3.api-sports.io/basketball/teams/219.png
 2023-01-28T20:00:00+00:00,southern miss,texas state,,,home,1674936000,https://media-1.api-sports.io/basketball/teams/219.png
-2023-02-03T00:00:00+00:00,southern miss,troy,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/219.png
-2023-02-04T19:00:00+00:00,southern miss,georgia state,,,away,1675537200,https://media-2.api-sports.io/basketball/teams/219.png
-2023-02-10T01:30:00+00:00,southern miss,louisiana lafayette,,,home,1675992600,https://media-1.api-sports.io/basketball/teams/219.png
+2023-02-03T00:00:00+00:00,southern miss,troy,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/219.png
+2023-02-04T19:00:00+00:00,southern miss,georgia state,,,away,1675537200,https://media-3.api-sports.io/basketball/teams/219.png
+2023-02-10T01:30:00+00:00,southern miss,louisiana lafayette,,,home,1675992600,https://media-2.api-sports.io/basketball/teams/219.png
 2023-02-11T20:30:00+00:00,southern miss,louisiana monroe,,,home,1676147400,https://media-2.api-sports.io/basketball/teams/219.png
-2023-02-17T01:00:00+00:00,southern miss,south alabama,,,away,1676595600,https://media-3.api-sports.io/basketball/teams/219.png
+2023-02-17T01:00:00+00:00,southern miss,south alabama,,,away,1676595600,https://media-2.api-sports.io/basketball/teams/219.png
 2023-02-18T18:00:00+00:00,southern miss,georgia southern,,,home,1676743200,https://media-2.api-sports.io/basketball/teams/219.png
-2023-02-22T21:00:00+00:00,southern miss,old dominion,None - None,tie,away,1677099600,https://media-1.api-sports.io/basketball/teams/219.png
-2023-02-24T21:00:00+00:00,southern miss,texas state,None - None,tie,away,1677272400,https://media-1.api-sports.io/basketball/teams/219.png
+2023-02-22T21:00:00+00:00,southern miss,old dominion,None - None,tie,away,1677099600,https://media-3.api-sports.io/basketball/teams/219.png
+2023-02-24T21:00:00+00:00,southern miss,texas state,None - None,tie,away,1677272400,https://media-2.api-sports.io/basketball/teams/219.png

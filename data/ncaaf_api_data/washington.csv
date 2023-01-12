@@ -1,14 +1,14 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-09-03,washington,kent state,20 - 45,W,home,1662172200,https://media-1.api-sports.io/american-football/teams/205.png
-2022-09-10,washington,portland state,6 - 52,W,home,1662840000,https://media-1.api-sports.io/american-football/teams/205.png
-2022-09-17,washington,michigan state,28 - 39,W,home,1663457400,https://media-1.api-sports.io/american-football/teams/205.png
-2022-09-24,washington,stanford,22 - 40,W,home,1663986600,https://media-3.api-sports.io/american-football/teams/205.png
-2022-09-30,washington,ucla,32 - 40,L,away,1664505000,https://media-3.api-sports.io/american-football/teams/205.png
-2022-10-08,washington,arizona state,38 - 45,L,away,1665259200,https://media-3.api-sports.io/american-football/teams/205.png
-2022-10-15,washington,arizona,39 - 49,W,home,1665869400,https://media-3.api-sports.io/american-football/teams/205.png
-2022-10-22,washington,california,28 - 21,W,away,1666405800,https://media-3.api-sports.io/american-football/teams/205.png
-2022-11-04,washington,oregon state,21 - 24,W,home,1667529000,https://media-3.api-sports.io/american-football/teams/205.png
-2022-11-12,washington,oregon,37 - 34,W,away,1668211200,https://media-3.api-sports.io/american-football/teams/205.png
+2022-09-10,washington,portland state,6 - 52,W,home,1662840000,https://media-2.api-sports.io/american-football/teams/205.png
+2022-09-17,washington,michigan state,28 - 39,W,home,1663457400,https://media-2.api-sports.io/american-football/teams/205.png
+2022-09-24,washington,stanford,22 - 40,W,home,1663986600,https://media-2.api-sports.io/american-football/teams/205.png
+2022-09-30,washington,ucla,32 - 40,L,away,1664505000,https://media-2.api-sports.io/american-football/teams/205.png
+2022-10-08,washington,arizona state,38 - 45,L,away,1665259200,https://media-1.api-sports.io/american-football/teams/205.png
+2022-10-15,washington,arizona,39 - 49,W,home,1665869400,https://media-1.api-sports.io/american-football/teams/205.png
+2022-10-22,washington,california,28 - 21,W,away,1666405800,https://media-2.api-sports.io/american-football/teams/205.png
+2022-11-04,washington,oregon state,21 - 24,W,home,1667529000,https://media-2.api-sports.io/american-football/teams/205.png
+2022-11-12,washington,oregon,37 - 34,W,away,1668211200,https://media-2.api-sports.io/american-football/teams/205.png
 2022-11-19,washington,colorado,7 - 54,W,home,1668823200,https://media-2.api-sports.io/american-football/teams/205.png
 2022-11-26,washington,washington state,51 - 33,W,away,1669433400,https://media-2.api-sports.io/american-football/teams/205.png
 2022-12-30,washington,texas,20 - 27,W,home,1672365600,https://media-2.api-sports.io/american-football/teams/205.png

@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-07T22:30:00+00:00,oakland,defiance college,27 - 92,W,home,1667860200,https://media-3.api-sports.io/basketball/teams/2056.png
+2022-11-07T22:30:00+00:00,oakland,defiance college,27 - 92,W,home,1667860200,https://media-2.api-sports.io/basketball/teams/2056.png
 2022-11-12T00:00:00+00:00,oakland,bowling green,87 - 82,L,home,1668211200,https://media-2.api-sports.io/basketball/teams/2056.png
-2022-11-13T20:00:00+00:00,oakland,oklahoma state,91 - 62,L,home,1668369600,https://media-1.api-sports.io/basketball/teams/2056.png
-2022-11-17T00:00:00+00:00,oakland,toledo,90 - 112,L,away,1668643200,https://media-2.api-sports.io/basketball/teams/2056.png
-2022-11-19T20:00:00+00:00,oakland,eastern michigan,90 - 92,W,home,1668888000,https://media-2.api-sports.io/basketball/teams/2056.png
-2022-11-26T01:00:00+00:00,oakland,long beach state,70 - 78,L,away,1669424400,https://media-1.api-sports.io/basketball/teams/2056.png
-2022-11-26T19:30:00+00:00,oakland,san jose state,80 - 67,L,home,1669491000,https://media-2.api-sports.io/basketball/teams/2056.png
-2022-11-27T17:00:00+00:00,oakland,missouri state,76 - 64,L,home,1669568400,https://media-2.api-sports.io/basketball/teams/2056.png
+2022-11-13T20:00:00+00:00,oakland,oklahoma state,91 - 62,L,home,1668369600,https://media-3.api-sports.io/basketball/teams/2056.png
+2022-11-17T00:00:00+00:00,oakland,toledo,90 - 112,L,away,1668643200,https://media-3.api-sports.io/basketball/teams/2056.png
+2022-11-19T20:00:00+00:00,oakland,eastern michigan,90 - 92,W,home,1668888000,https://media-3.api-sports.io/basketball/teams/2056.png
+2022-11-26T01:00:00+00:00,oakland,long beach state,70 - 78,L,away,1669424400,https://media-2.api-sports.io/basketball/teams/2056.png
+2022-11-26T19:30:00+00:00,oakland,san jose state,80 - 67,L,home,1669491000,https://media-1.api-sports.io/basketball/teams/2056.png
+2022-11-27T17:00:00+00:00,oakland,missouri state,76 - 64,L,home,1669568400,https://media-3.api-sports.io/basketball/teams/2056.png
 2022-12-02T00:00:00+00:00,oakland,cleveland state,64 - 80,L,away,1669939200,https://media-1.api-sports.io/basketball/teams/2056.png
-2022-12-03T20:00:00+00:00,oakland,ipfw,73 - 79,L,away,1670097600,https://media-3.api-sports.io/basketball/teams/2056.png
+2022-12-03T20:00:00+00:00,oakland,ipfw,73 - 79,L,away,1670097600,https://media-2.api-sports.io/basketball/teams/2056.png
 2022-12-06T23:00:00+00:00,oakland,syracuse,66 - 95,L,away,1670367600,https://media-3.api-sports.io/basketball/teams/2056.png
-2022-12-18T21:00:00+00:00,oakland,boise state,57 - 77,L,away,1671397200,https://media-3.api-sports.io/basketball/teams/2056.png
+2022-12-18T21:00:00+00:00,oakland,boise state,57 - 77,L,away,1671397200,https://media-1.api-sports.io/basketball/teams/2056.png
 2022-12-21T23:30:00+00:00,oakland,michigan state,54 - 67,L,away,1671665400,https://media-1.api-sports.io/basketball/teams/2056.png
 2022-12-30T00:00:00+00:00,oakland,wisc. milwaukee,61 - 83,W,home,1672358400,https://media-3.api-sports.io/basketball/teams/2056.png
 2022-12-31T18:00:00+00:00,oakland,wisc. green bay,65 - 81,W,home,1672509600,https://media-1.api-sports.io/basketball/teams/2056.png
-2023-01-07T00:00:00+00:00,oakland,northern kentucky,64 - 63,W,away,1673049600,https://media-2.api-sports.io/basketball/teams/2056.png
-2023-01-08T18:00:00+00:00,oakland,wright state,75 - 73,W,away,1673200800,https://media-1.api-sports.io/basketball/teams/2056.png
-2023-01-13T00:00:00+00:00,oakland,robert morris,,,home,1673568000,https://media-1.api-sports.io/basketball/teams/2056.png
-2023-01-14T20:00:00+00:00,oakland,youngstown state,,,home,1673726400,https://media-3.api-sports.io/basketball/teams/2056.png
-2023-01-20T00:00:00+00:00,oakland,iupui,,,away,1674172800,https://media-2.api-sports.io/basketball/teams/2056.png
+2023-01-07T00:00:00+00:00,oakland,northern kentucky,64 - 63,W,away,1673049600,https://media-3.api-sports.io/basketball/teams/2056.png
+2023-01-08T18:00:00+00:00,oakland,wright state,75 - 73,W,away,1673200800,https://media-3.api-sports.io/basketball/teams/2056.png
+2023-01-13T00:00:00+00:00,oakland,robert morris,,,home,1673568000,https://media-3.api-sports.io/basketball/teams/2056.png
+2023-01-14T20:00:00+00:00,oakland,youngstown state,,,home,1673726400,https://media-2.api-sports.io/basketball/teams/2056.png
+2023-01-20T00:00:00+00:00,oakland,iupui,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/2056.png
 2023-01-24T00:00:00+00:00,oakland,detroit,,,away,1674518400,https://media-2.api-sports.io/basketball/teams/2056.png
-2023-01-28T00:00:00+00:00,oakland,youngstown state,,,away,1674864000,https://media-2.api-sports.io/basketball/teams/2056.png
-2023-01-29T18:00:00+00:00,oakland,robert morris,,,away,1675015200,https://media-1.api-sports.io/basketball/teams/2056.png
-2023-02-03T00:00:00+00:00,oakland,ipfw,,,home,1675382400,https://media-1.api-sports.io/basketball/teams/2056.png
-2023-02-04T18:00:00+00:00,oakland,cleveland state,,,home,1675533600,https://media-2.api-sports.io/basketball/teams/2056.png
-2023-02-10T01:00:00+00:00,oakland,wisc. green bay,,,away,1675990800,https://media-1.api-sports.io/basketball/teams/2056.png
-2023-02-12T00:00:00+00:00,oakland,wisc. milwaukee,,,away,1676160000,https://media-2.api-sports.io/basketball/teams/2056.png
+2023-01-28T00:00:00+00:00,oakland,youngstown state,,,away,1674864000,https://media-1.api-sports.io/basketball/teams/2056.png
+2023-01-29T18:00:00+00:00,oakland,robert morris,,,away,1675015200,https://media-2.api-sports.io/basketball/teams/2056.png
+2023-02-03T00:00:00+00:00,oakland,ipfw,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/2056.png
+2023-02-04T18:00:00+00:00,oakland,cleveland state,,,home,1675533600,https://media-1.api-sports.io/basketball/teams/2056.png
+2023-02-10T01:00:00+00:00,oakland,wisc. green bay,,,away,1675990800,https://media-2.api-sports.io/basketball/teams/2056.png
+2023-02-12T00:00:00+00:00,oakland,wisc. milwaukee,,,away,1676160000,https://media-3.api-sports.io/basketball/teams/2056.png
 2023-02-16T00:00:00+00:00,oakland,iupui,,,home,1676505600,https://media-3.api-sports.io/basketball/teams/2056.png
-2023-02-18T00:00:00+00:00,oakland,detroit,,,home,1676678400,https://media-1.api-sports.io/basketball/teams/2056.png
-2023-02-23T21:00:00+00:00,oakland,wright state,None - None,tie,home,1677186000,https://media-3.api-sports.io/basketball/teams/2056.png
-2023-02-25T21:00:00+00:00,oakland,northern kentucky,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/2056.png
+2023-02-18T00:00:00+00:00,oakland,detroit,,,home,1676678400,https://media-3.api-sports.io/basketball/teams/2056.png
+2023-02-23T21:00:00+00:00,oakland,wright state,None - None,tie,home,1677186000,https://media-1.api-sports.io/basketball/teams/2056.png
+2023-02-25T21:00:00+00:00,oakland,northern kentucky,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/2056.png

@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:00:00+00:00,elon,erskine,55 - 80,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/1901.png
 2022-11-12T01:30:00+00:00,elon,east tennessee st,64 - 77,L,away,1668216600,https://media-1.api-sports.io/basketball/teams/1901.png
-2022-11-13T19:00:00+00:00,elon,harvard,92 - 77,L,home,1668366000,https://media-3.api-sports.io/basketball/teams/1901.png
-2022-11-18T01:00:00+00:00,elon,north dakota,77 - 73,L,home,1668733200,https://media-2.api-sports.io/basketball/teams/1901.png
-2022-11-19T18:00:00+00:00,elon,nc state,63 - 74,L,away,1668880800,https://media-3.api-sports.io/basketball/teams/1901.png
-2022-11-23T00:00:00+00:00,elon,jacksonville state,53 - 78,L,away,1669161600,https://media-3.api-sports.io/basketball/teams/1901.png
+2022-11-13T19:00:00+00:00,elon,harvard,92 - 77,L,home,1668366000,https://media-2.api-sports.io/basketball/teams/1901.png
+2022-11-18T01:00:00+00:00,elon,north dakota,77 - 73,L,home,1668733200,https://media-3.api-sports.io/basketball/teams/1901.png
+2022-11-19T18:00:00+00:00,elon,nc state,63 - 74,L,away,1668880800,https://media-1.api-sports.io/basketball/teams/1901.png
+2022-11-23T00:00:00+00:00,elon,jacksonville state,53 - 78,L,away,1669161600,https://media-2.api-sports.io/basketball/teams/1901.png
 2022-11-27T19:00:00+00:00,elon,radford,69 - 53,L,home,1669575600,https://media-1.api-sports.io/basketball/teams/1901.png
-2022-12-01T00:00:00+00:00,elon,high point,70 - 84,L,away,1669852800,https://media-1.api-sports.io/basketball/teams/1901.png
-2022-12-03T21:00:00+00:00,elon,nc greensboro,65 - 61,L,home,1670101200,https://media-3.api-sports.io/basketball/teams/1901.png
-2022-12-11T19:00:00+00:00,elon,johnson and wales (nc),69 - 101,W,home,1670785200,https://media-1.api-sports.io/basketball/teams/1901.png
-2022-12-15T17:00:00+00:00,elon,presbyterian,63 - 69,L,away,1671123600,https://media-2.api-sports.io/basketball/teams/1901.png
+2022-12-01T00:00:00+00:00,elon,high point,70 - 84,L,away,1669852800,https://media-3.api-sports.io/basketball/teams/1901.png
+2022-12-03T21:00:00+00:00,elon,nc greensboro,65 - 61,L,home,1670101200,https://media-2.api-sports.io/basketball/teams/1901.png
+2022-12-11T19:00:00+00:00,elon,johnson and wales (nc),69 - 101,W,home,1670785200,https://media-3.api-sports.io/basketball/teams/1901.png
+2022-12-15T17:00:00+00:00,elon,presbyterian,63 - 69,L,away,1671123600,https://media-1.api-sports.io/basketball/teams/1901.png
 2022-12-18T19:00:00+00:00,elon,valparaiso,66 - 71,L,away,1671390000,https://media-2.api-sports.io/basketball/teams/1901.png
-2022-12-21T00:00:00+00:00,elon,indiana,72 - 96,L,away,1671580800,https://media-2.api-sports.io/basketball/teams/1901.png
-2022-12-29T21:00:00+00:00,elon,drexel,50 - 62,L,away,1672347600,https://media-2.api-sports.io/basketball/teams/1901.png
-2022-12-31T19:00:00+00:00,elon,delaware,52 - 57,L,away,1672513200,https://media-2.api-sports.io/basketball/teams/1901.png
-2023-01-05T00:00:00+00:00,elon,nc wilmington,81 - 66,L,home,1672876800,https://media-1.api-sports.io/basketball/teams/1901.png
-2023-01-12T00:00:00+00:00,elon,n. carolina a&t,80 - 71,L,home,1673481600,https://media-3.api-sports.io/basketball/teams/1901.png
-2023-01-14T21:00:00+00:00,elon,charleston,,,away,1673730000,https://media-2.api-sports.io/basketball/teams/1901.png
-2023-01-17T00:00:00+00:00,elon,nc wilmington,,,away,1673913600,https://media-1.api-sports.io/basketball/teams/1901.png
-2023-01-21T21:00:00+00:00,elon,towson,,,home,1674334800,https://media-3.api-sports.io/basketball/teams/1901.png
+2022-12-21T00:00:00+00:00,elon,indiana,72 - 96,L,away,1671580800,https://media-3.api-sports.io/basketball/teams/1901.png
+2022-12-29T21:00:00+00:00,elon,drexel,50 - 62,L,away,1672347600,https://media-3.api-sports.io/basketball/teams/1901.png
+2022-12-31T19:00:00+00:00,elon,delaware,52 - 57,L,away,1672513200,https://media-3.api-sports.io/basketball/teams/1901.png
+2023-01-05T00:00:00+00:00,elon,nc wilmington,81 - 66,L,home,1672876800,https://media-2.api-sports.io/basketball/teams/1901.png
+2023-01-12T00:00:00+00:00,elon,n. carolina a&t,80 - 71,L,home,1673481600,https://media-2.api-sports.io/basketball/teams/1901.png
+2023-01-14T21:00:00+00:00,elon,charleston,,,away,1673730000,https://media-3.api-sports.io/basketball/teams/1901.png
+2023-01-17T00:00:00+00:00,elon,nc wilmington,,,away,1673913600,https://media-3.api-sports.io/basketball/teams/1901.png
+2023-01-21T21:00:00+00:00,elon,towson,,,home,1674334800,https://media-1.api-sports.io/basketball/teams/1901.png
 2023-01-27T00:00:00+00:00,elon,hofstra,,,home,1674777600,https://media-3.api-sports.io/basketball/teams/1901.png
-2023-01-28T21:00:00+00:00,elon,drexel,,,home,1674939600,https://media-1.api-sports.io/basketball/teams/1901.png
-2023-02-03T00:00:00+00:00,elon,stony brook,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/1901.png
-2023-02-04T19:00:00+00:00,elon,northeastern,,,away,1675537200,https://media-1.api-sports.io/basketball/teams/1901.png
-2023-02-09T00:00:00+00:00,elon,n. carolina a&t,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1901.png
+2023-01-28T21:00:00+00:00,elon,drexel,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/1901.png
+2023-02-03T00:00:00+00:00,elon,stony brook,,,away,1675382400,https://media-2.api-sports.io/basketball/teams/1901.png
+2023-02-04T19:00:00+00:00,elon,northeastern,,,away,1675537200,https://media-3.api-sports.io/basketball/teams/1901.png
+2023-02-09T00:00:00+00:00,elon,n. carolina a&t,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/1901.png
 2023-02-11T19:00:00+00:00,elon,william & mary,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/1901.png
-2023-02-14T02:00:00+00:00,elon,hampton,,,home,1676340000,https://media-1.api-sports.io/basketball/teams/1901.png
-2023-02-17T00:00:00+00:00,elon,charleston,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/1901.png
-2023-02-18T19:00:00+00:00,elon,monmouth,,,away,1676746800,https://media-2.api-sports.io/basketball/teams/1901.png
-2023-02-23T21:00:00+00:00,elon,william & mary,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/1901.png
-2023-02-25T21:00:00+00:00,elon,delaware,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/1901.png
+2023-02-14T02:00:00+00:00,elon,hampton,,,home,1676340000,https://media-2.api-sports.io/basketball/teams/1901.png
+2023-02-17T00:00:00+00:00,elon,charleston,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/1901.png
+2023-02-18T19:00:00+00:00,elon,monmouth,,,away,1676746800,https://media-1.api-sports.io/basketball/teams/1901.png
+2023-02-23T21:00:00+00:00,elon,william & mary,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/1901.png
+2023-02-25T21:00:00+00:00,elon,delaware,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/1901.png

@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Friday, August 05 02:00 PM",lyon,ajaccio,1 - 2,W,home,1659726000,https://media-2.api-sports.io/football/teams/80.png
-"Wednesday, September 07 12:00 PM",lyon,lorient,1 - 3,L,away,1662570000,https://media-2.api-sports.io/football/teams/80.png
+"Friday, August 05 02:00 PM",lyon,ajaccio,1 - 2,W,home,1659726000,https://media-3.api-sports.io/football/teams/80.png
+"Wednesday, September 07 12:00 PM",lyon,lorient,1 - 3,L,away,1662570000,https://media-3.api-sports.io/football/teams/80.png
 "Friday, August 19 02:00 PM",lyon,estac troyes,1 - 4,W,home,1660935600,https://media-3.api-sports.io/football/teams/80.png
-"Sunday, August 28 10:05 AM",lyon,reims,1 - 1,tie,away,1661699100,https://media-2.api-sports.io/football/teams/80.png
-"Wednesday, August 31 12:00 PM",lyon,auxerre,1 - 2,W,home,1661965200,https://media-1.api-sports.io/football/teams/80.png
-"Saturday, September 03 12:00 PM",lyon,angers,0 - 5,W,home,1662224400,https://media-2.api-sports.io/football/teams/80.png
-"Sunday, September 11 01:45 PM",lyon,monaco,1 - 2,L,away,1662921900,https://media-2.api-sports.io/football/teams/80.png
+"Sunday, August 28 10:05 AM",lyon,reims,1 - 1,tie,away,1661699100,https://media-1.api-sports.io/football/teams/80.png
+"Wednesday, August 31 12:00 PM",lyon,auxerre,1 - 2,W,home,1661965200,https://media-2.api-sports.io/football/teams/80.png
+"Saturday, September 03 12:00 PM",lyon,angers,0 - 5,W,home,1662224400,https://media-3.api-sports.io/football/teams/80.png
+"Sunday, September 11 01:45 PM",lyon,monaco,1 - 2,L,away,1662921900,https://media-1.api-sports.io/football/teams/80.png
 "Sunday, September 18 01:45 PM",lyon,paris saint germain,1 - 0,L,home,1663526700,https://media-1.api-sports.io/football/teams/80.png
 "Sunday, October 02 01:45 PM",lyon,lens,0 - 1,L,away,1664736300,https://media-1.api-sports.io/football/teams/80.png
-"Friday, October 07 02:00 PM",lyon,toulouse,1 - 1,tie,home,1665169200,https://media-3.api-sports.io/football/teams/80.png
+"Friday, October 07 02:00 PM",lyon,toulouse,1 - 1,tie,home,1665169200,https://media-1.api-sports.io/football/teams/80.png
 "Sunday, October 16 08:00 AM",lyon,rennes,2 - 3,L,away,1665925200,https://media-3.api-sports.io/football/teams/80.png
-"Saturday, October 22 10:00 AM",lyon,montpellier,2 - 1,W,away,1666450800,https://media-2.api-sports.io/football/teams/80.png
+"Saturday, October 22 10:00 AM",lyon,montpellier,2 - 1,W,away,1666450800,https://media-3.api-sports.io/football/teams/80.png
 "Sunday, October 30 02:45 PM",lyon,lille,0 - 1,W,home,1667159100,https://media-2.api-sports.io/football/teams/80.png
 "Sunday, November 06 01:45 PM",lyon,marseille,0 - 1,L,away,1667763900,https://media-3.api-sports.io/football/teams/80.png
 "Friday, November 11 02:00 PM",lyon,nice,1 - 1,tie,home,1668196800,https://media-2.api-sports.io/football/teams/80.png
-"Wednesday, December 28 02:00 PM",lyon,stade brestois 29,4 - 2,W,away,1672257600,https://media-1.api-sports.io/football/teams/80.png
+"Wednesday, December 28 02:00 PM",lyon,stade brestois 29,4 - 2,W,away,1672257600,https://media-2.api-sports.io/football/teams/80.png
 "Sunday, January 01 10:00 AM",lyon,clermont foot,1 - 0,L,home,1672588800,https://media-1.api-sports.io/football/teams/80.png
 "Wednesday, January 11 12:00 PM",lyon,nantes,0 - 0,tie,away,1673460000,https://media-2.api-sports.io/football/teams/80.png
-"Saturday, January 14 02:00 PM",lyon,strasbourg,,,home,1673726400,https://media-3.api-sports.io/football/teams/80.png
+"Saturday, January 14 02:00 PM",lyon,strasbourg,,,home,1673726400,https://media-1.api-sports.io/football/teams/80.png
 "Sunday, January 29 10:05 AM",lyon,ajaccio,,,away,1675008300,https://media-3.api-sports.io/football/teams/80.png
-"Wednesday, February 01 02:00 PM",lyon,stade brestois 29,,,home,1675281600,https://media-3.api-sports.io/football/teams/80.png
-"Saturday, February 04 06:00 PM",lyon,estac troyes,,,away,1675555200,https://media-3.api-sports.io/football/teams/80.png
+"Wednesday, February 01 02:00 PM",lyon,stade brestois 29,,,home,1675281600,https://media-2.api-sports.io/football/teams/80.png
+"Saturday, February 04 06:00 PM",lyon,estac troyes,,,away,1675555200,https://media-1.api-sports.io/football/teams/80.png
 "Saturday, February 11 06:00 PM",lyon,lens,,,home,1676160000,https://media-3.api-sports.io/football/teams/80.png
-"Saturday, February 18 06:00 PM",lyon,auxerre,,,away,1676764800,https://media-2.api-sports.io/football/teams/80.png
+"Saturday, February 18 06:00 PM",lyon,auxerre,,,away,1676764800,https://media-1.api-sports.io/football/teams/80.png
 "Saturday, February 25 06:00 PM",lyon,angers,,,away,1677369600,https://media-1.api-sports.io/football/teams/80.png
-"Saturday, March 04 06:00 PM",lyon,lorient,,,home,1677974400,https://media-2.api-sports.io/football/teams/80.png
+"Saturday, March 04 06:00 PM",lyon,lorient,,,home,1677974400,https://media-1.api-sports.io/football/teams/80.png
 "Saturday, March 11 06:00 PM",lyon,lille,,,away,1678579200,https://media-1.api-sports.io/football/teams/80.png
 "Saturday, March 18 07:00 PM",lyon,nantes,,,home,1679184000,https://media-2.api-sports.io/football/teams/80.png
-"Saturday, April 01 07:00 PM",lyon,paris saint germain,,,away,1680393600,https://media-2.api-sports.io/football/teams/80.png
+"Saturday, April 01 07:00 PM",lyon,paris saint germain,,,away,1680393600,https://media-3.api-sports.io/football/teams/80.png
 "Saturday, April 08 07:00 PM",lyon,rennes,,,home,1680998400,https://media-3.api-sports.io/football/teams/80.png
-"Saturday, April 15 07:00 PM",lyon,toulouse,,,away,1681603200,https://media-3.api-sports.io/football/teams/80.png
-"Saturday, April 22 07:00 PM",lyon,marseille,,,home,1682208000,https://media-2.api-sports.io/football/teams/80.png
-"Saturday, April 29 07:00 PM",lyon,strasbourg,,,away,1682812800,https://media-3.api-sports.io/football/teams/80.png
-"Saturday, May 06 07:00 PM",lyon,montpellier,,,home,1683417600,https://media-1.api-sports.io/football/teams/80.png
+"Saturday, April 15 07:00 PM",lyon,toulouse,,,away,1681603200,https://media-2.api-sports.io/football/teams/80.png
+"Saturday, April 22 07:00 PM",lyon,marseille,,,home,1682208000,https://media-1.api-sports.io/football/teams/80.png
+"Saturday, April 29 07:00 PM",lyon,strasbourg,,,away,1682812800,https://media-1.api-sports.io/football/teams/80.png
+"Saturday, May 06 07:00 PM",lyon,montpellier,,,home,1683417600,https://media-2.api-sports.io/football/teams/80.png
 "Saturday, May 13 07:00 PM",lyon,clermont foot,,,away,1684022400,https://media-2.api-sports.io/football/teams/80.png
-"Saturday, May 20 07:00 PM",lyon,monaco,,,home,1684627200,https://media-3.api-sports.io/football/teams/80.png
+"Saturday, May 20 07:00 PM",lyon,monaco,,,home,1684627200,https://media-2.api-sports.io/football/teams/80.png
 "Friday, May 26 07:00 PM",lyon,reims,,,home,1685145600,https://media-1.api-sports.io/football/teams/80.png
 "Friday, June 02 07:00 PM",lyon,nice,,,away,1685750400,https://media-2.api-sports.io/football/teams/80.png

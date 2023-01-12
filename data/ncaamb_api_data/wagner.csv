@@ -1,26 +1,26 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,wagner,temple,76 - 73,W,away,1667865600,https://media-3.api-sports.io/basketball/teams/2191.png
+2022-11-08T00:00:00+00:00,wagner,temple,76 - 73,W,away,1667865600,https://media-1.api-sports.io/basketball/teams/2191.png
 2022-11-12T20:00:00+00:00,wagner,la salle,69 - 77,L,away,1668283200,https://media-3.api-sports.io/basketball/teams/2191.png
 2022-11-15T00:00:00+00:00,wagner,neumann,52 - 82,W,home,1668470400,https://media-3.api-sports.io/basketball/teams/2191.png
-2022-11-19T00:00:00+00:00,wagner,fairfield,52 - 68,W,home,1668816000,https://media-3.api-sports.io/basketball/teams/2191.png
-2022-11-20T20:00:00+00:00,wagner,seton hall,44 - 82,L,away,1668974400,https://media-3.api-sports.io/basketball/teams/2191.png
-2022-11-27T19:00:00+00:00,wagner,njit,62 - 57,W,away,1669575600,https://media-1.api-sports.io/basketball/teams/2191.png
-2022-12-03T18:00:00+00:00,wagner,army,64 - 75,L,away,1670090400,https://media-2.api-sports.io/basketball/teams/2191.png
-2022-12-07T00:00:00+00:00,wagner,fordham,59 - 72,L,away,1670371200,https://media-2.api-sports.io/basketball/teams/2191.png
+2022-11-19T00:00:00+00:00,wagner,fairfield,52 - 68,W,home,1668816000,https://media-2.api-sports.io/basketball/teams/2191.png
+2022-11-20T20:00:00+00:00,wagner,seton hall,44 - 82,L,away,1668974400,https://media-2.api-sports.io/basketball/teams/2191.png
+2022-11-27T19:00:00+00:00,wagner,njit,62 - 57,W,away,1669575600,https://media-3.api-sports.io/basketball/teams/2191.png
+2022-12-03T18:00:00+00:00,wagner,army,64 - 75,L,away,1670090400,https://media-1.api-sports.io/basketball/teams/2191.png
+2022-12-07T00:00:00+00:00,wagner,fordham,59 - 72,L,away,1670371200,https://media-3.api-sports.io/basketball/teams/2191.png
 2022-12-16T00:00:00+00:00,wagner,stony brook,55 - 58,W,home,1671148800,https://media-3.api-sports.io/basketball/teams/2191.png
 2022-12-20T23:00:00+00:00,wagner,delaware state,58 - 51,W,away,1671577200,https://media-3.api-sports.io/basketball/teams/2191.png
-2022-12-22T22:00:00+00:00,wagner,gwynedd-mercy,55 - 89,W,home,1671746400,https://media-1.api-sports.io/basketball/teams/2191.png
-2022-12-29T18:00:00+00:00,wagner,liu sharks,69 - 61,W,away,1672336800,https://media-3.api-sports.io/basketball/teams/2191.png
-2022-12-31T18:00:00+00:00,wagner,merrimack warriors,58 - 48,L,home,1672509600,https://media-3.api-sports.io/basketball/teams/2191.png
-2023-01-06T00:00:00+00:00,wagner,stonehill,58 - 62,L,away,1672963200,https://media-3.api-sports.io/basketball/teams/2191.png
+2022-12-22T22:00:00+00:00,wagner,gwynedd-mercy,55 - 89,W,home,1671746400,https://media-3.api-sports.io/basketball/teams/2191.png
+2022-12-29T18:00:00+00:00,wagner,liu sharks,69 - 61,W,away,1672336800,https://media-1.api-sports.io/basketball/teams/2191.png
+2022-12-31T18:00:00+00:00,wagner,merrimack warriors,58 - 48,L,home,1672509600,https://media-1.api-sports.io/basketball/teams/2191.png
+2023-01-06T00:00:00+00:00,wagner,stonehill,58 - 62,L,away,1672963200,https://media-1.api-sports.io/basketball/teams/2191.png
 2023-01-07T21:00:00+00:00,wagner,st. francis (pa),68 - 63,L,home,1673125200,https://media-3.api-sports.io/basketball/teams/2191.png
-2023-01-17T00:00:00+00:00,wagner,merrimack warriors,,,away,1673913600,https://media-1.api-sports.io/basketball/teams/2191.png
-2023-01-21T00:00:00+00:00,wagner,central connecticut state,,,home,1674259200,https://media-1.api-sports.io/basketball/teams/2191.png
-2023-01-22T18:00:00+00:00,wagner,sacred heart,,,home,1674410400,https://media-3.api-sports.io/basketball/teams/2191.png
-2023-01-26T22:00:00+00:00,wagner,st. francis brooklyn,,,home,1674770400,https://media-1.api-sports.io/basketball/teams/2191.png
-2023-02-03T00:00:00+00:00,wagner,sacred heart,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/2191.png
-2023-02-04T18:00:00+00:00,wagner,fairleigh dickinson,,,away,1675533600,https://media-3.api-sports.io/basketball/teams/2191.png
+2023-01-17T00:00:00+00:00,wagner,merrimack warriors,,,away,1673913600,https://media-2.api-sports.io/basketball/teams/2191.png
+2023-01-21T00:00:00+00:00,wagner,central connecticut state,,,home,1674259200,https://media-2.api-sports.io/basketball/teams/2191.png
+2023-01-22T18:00:00+00:00,wagner,sacred heart,,,home,1674410400,https://media-2.api-sports.io/basketball/teams/2191.png
+2023-01-26T22:00:00+00:00,wagner,st. francis brooklyn,,,home,1674770400,https://media-2.api-sports.io/basketball/teams/2191.png
+2023-02-03T00:00:00+00:00,wagner,sacred heart,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/2191.png
+2023-02-04T18:00:00+00:00,wagner,fairleigh dickinson,,,away,1675533600,https://media-1.api-sports.io/basketball/teams/2191.png
 2023-02-09T19:00:00+00:00,wagner,st. francis brooklyn,,,away,1675969200,https://media-3.api-sports.io/basketball/teams/2191.png
-2023-02-11T18:00:00+00:00,wagner,liu sharks,,,home,1676138400,https://media-3.api-sports.io/basketball/teams/2191.png
-2023-02-17T00:00:00+00:00,wagner,central connecticut state,,,away,1676592000,https://media-3.api-sports.io/basketball/teams/2191.png
-2023-02-18T21:00:00+00:00,wagner,fairleigh dickinson,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/2191.png
+2023-02-11T18:00:00+00:00,wagner,liu sharks,,,home,1676138400,https://media-1.api-sports.io/basketball/teams/2191.png
+2023-02-17T00:00:00+00:00,wagner,central connecticut state,,,away,1676592000,https://media-2.api-sports.io/basketball/teams/2191.png
+2023-02-18T21:00:00+00:00,wagner,fairleigh dickinson,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/2191.png

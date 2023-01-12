@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,stetson,florida state,83 - 74,W,away,1667865600,https://media-1.api-sports.io/basketball/teams/2135.png
-2022-11-15T00:00:00+00:00,stetson,south florida,68 - 67,W,away,1668470400,https://media-3.api-sports.io/basketball/teams/2135.png
+2022-11-08T00:00:00+00:00,stetson,florida state,83 - 74,W,away,1667865600,https://media-3.api-sports.io/basketball/teams/2135.png
+2022-11-15T00:00:00+00:00,stetson,south florida,68 - 67,W,away,1668470400,https://media-2.api-sports.io/basketball/teams/2135.png
 2022-11-18T10:00:00+00:00,stetson,rider,68 - 78,W,home,1668765600,https://media-3.api-sports.io/basketball/teams/2135.png
-2022-11-19T17:00:00+00:00,stetson,niagara,66 - 62,L,home,1668877200,https://media-2.api-sports.io/basketball/teams/2135.png
+2022-11-19T17:00:00+00:00,stetson,niagara,66 - 62,L,home,1668877200,https://media-3.api-sports.io/basketball/teams/2135.png
 2022-11-27T18:00:00+00:00,stetson,campbell,85 - 87,L,away,1669572000,https://media-3.api-sports.io/basketball/teams/2135.png
-2022-11-30T00:00:00+00:00,stetson,johnson suns,51 - 125,W,home,1669766400,https://media-1.api-sports.io/basketball/teams/2135.png
-2022-12-04T19:00:00+00:00,stetson,florida,51 - 89,L,away,1670180400,https://media-3.api-sports.io/basketball/teams/2135.png
+2022-11-30T00:00:00+00:00,stetson,johnson suns,51 - 125,W,home,1669766400,https://media-3.api-sports.io/basketball/teams/2135.png
+2022-12-04T19:00:00+00:00,stetson,florida,51 - 89,L,away,1670180400,https://media-2.api-sports.io/basketball/teams/2135.png
 2022-12-10T19:00:00+00:00,stetson,webber int'l,59 - 83,W,home,1670698800,https://media-1.api-sports.io/basketball/teams/2135.png
-2022-12-15T00:00:00+00:00,stetson,charleston,60 - 65,L,away,1671062400,https://media-3.api-sports.io/basketball/teams/2135.png
-2022-12-17T19:00:00+00:00,stetson,ohio,66 - 85,L,away,1671303600,https://media-1.api-sports.io/basketball/teams/2135.png
+2022-12-15T00:00:00+00:00,stetson,charleston,60 - 65,L,away,1671062400,https://media-2.api-sports.io/basketball/teams/2135.png
+2022-12-17T19:00:00+00:00,stetson,ohio,66 - 85,L,away,1671303600,https://media-3.api-sports.io/basketball/teams/2135.png
 2022-12-22T00:00:00+00:00,stetson,ucf knights,58 - 73,L,away,1671667200,https://media-1.api-sports.io/basketball/teams/2135.png
-2022-12-30T20:00:00+00:00,stetson,lipscomb,86 - 80,W,away,1672430400,https://media-2.api-sports.io/basketball/teams/2135.png
+2022-12-30T20:00:00+00:00,stetson,lipscomb,86 - 80,W,away,1672430400,https://media-1.api-sports.io/basketball/teams/2135.png
 2023-01-03T00:30:00+00:00,stetson,north florida,62 - 68,W,home,1672705800,https://media-3.api-sports.io/basketball/teams/2135.png
-2023-01-06T00:00:00+00:00,stetson,jacksonville,61 - 73,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/2135.png
-2023-01-08T01:15:00+00:00,stetson,north alabama,95 - 85,W,away,1673140500,https://media-1.api-sports.io/basketball/teams/2135.png
-2023-01-12T23:30:00+00:00,stetson,bellarmine,,,away,1673566200,https://media-2.api-sports.io/basketball/teams/2135.png
-2023-01-14T20:00:00+00:00,stetson,eastern kentucky,,,away,1673726400,https://media-2.api-sports.io/basketball/teams/2135.png
-2023-01-20T00:00:00+00:00,stetson,kennesaw state,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/2135.png
-2023-01-21T19:00:00+00:00,stetson,jacksonville state,,,home,1674327600,https://media-3.api-sports.io/basketball/teams/2135.png
-2023-01-27T00:00:00+00:00,stetson,liberty,,,away,1674777600,https://media-1.api-sports.io/basketball/teams/2135.png
-2023-01-28T18:00:00+00:00,stetson,queens royals,,,away,1674928800,https://media-1.api-sports.io/basketball/teams/2135.png
-2023-02-03T00:00:00+00:00,stetson,north alabama,,,home,1675382400,https://media-1.api-sports.io/basketball/teams/2135.png
-2023-02-04T19:00:00+00:00,stetson,central arkansas,,,home,1675537200,https://media-2.api-sports.io/basketball/teams/2135.png
+2023-01-06T00:00:00+00:00,stetson,jacksonville,61 - 73,W,home,1672963200,https://media-2.api-sports.io/basketball/teams/2135.png
+2023-01-08T01:15:00+00:00,stetson,north alabama,95 - 85,W,away,1673140500,https://media-3.api-sports.io/basketball/teams/2135.png
+2023-01-12T23:30:00+00:00,stetson,bellarmine,,,away,1673566200,https://media-1.api-sports.io/basketball/teams/2135.png
+2023-01-14T20:00:00+00:00,stetson,eastern kentucky,,,away,1673726400,https://media-3.api-sports.io/basketball/teams/2135.png
+2023-01-20T00:00:00+00:00,stetson,kennesaw state,,,home,1674172800,https://media-3.api-sports.io/basketball/teams/2135.png
+2023-01-21T19:00:00+00:00,stetson,jacksonville state,,,home,1674327600,https://media-1.api-sports.io/basketball/teams/2135.png
+2023-01-27T00:00:00+00:00,stetson,liberty,,,away,1674777600,https://media-3.api-sports.io/basketball/teams/2135.png
+2023-01-28T18:00:00+00:00,stetson,queens royals,,,away,1674928800,https://media-3.api-sports.io/basketball/teams/2135.png
+2023-02-03T00:00:00+00:00,stetson,north alabama,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/2135.png
+2023-02-04T19:00:00+00:00,stetson,central arkansas,,,home,1675537200,https://media-1.api-sports.io/basketball/teams/2135.png
 2023-02-10T00:00:00+00:00,stetson,jacksonville,,,away,1675987200,https://media-1.api-sports.io/basketball/teams/2135.png
 2023-02-11T19:00:00+00:00,stetson,north florida,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/2135.png
 2023-02-16T00:00:00+00:00,stetson,florida gulf coast,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/2135.png
-2023-02-18T23:00:00+00:00,stetson,florida gulf coast,,,away,1676761200,https://media-1.api-sports.io/basketball/teams/2135.png
-2023-02-22T21:00:00+00:00,stetson,austin peay,None - None,tie,home,1677099600,https://media-3.api-sports.io/basketball/teams/2135.png
-2023-02-24T21:00:00+00:00,stetson,lipscomb,None - None,tie,home,1677272400,https://media-3.api-sports.io/basketball/teams/2135.png
+2023-02-18T23:00:00+00:00,stetson,florida gulf coast,,,away,1676761200,https://media-3.api-sports.io/basketball/teams/2135.png
+2023-02-22T21:00:00+00:00,stetson,austin peay,None - None,tie,home,1677099600,https://media-1.api-sports.io/basketball/teams/2135.png
+2023-02-24T21:00:00+00:00,stetson,lipscomb,None - None,tie,home,1677272400,https://media-2.api-sports.io/basketball/teams/2135.png

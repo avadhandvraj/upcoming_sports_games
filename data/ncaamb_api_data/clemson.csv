@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,clemson,citadel,69 - 80,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/180.png
-2022-11-12T00:00:00+00:00,clemson,south carolina,58 - 60,L,away,1668211200,https://media-1.api-sports.io/basketball/teams/180.png
-2022-11-16T00:00:00+00:00,clemson,usc upstate,70 - 81,W,home,1668556800,https://media-1.api-sports.io/basketball/teams/180.png
-2022-11-19T00:00:00+00:00,clemson,bellarmine,66 - 76,W,home,1668816000,https://media-1.api-sports.io/basketball/teams/180.png
-2022-11-22T00:00:00+00:00,clemson,loyola maryland,41 - 72,W,home,1669075200,https://media-1.api-sports.io/basketball/teams/180.png
-2022-11-26T00:00:00+00:00,clemson,iowa,74 - 71,L,home,1669420800,https://media-2.api-sports.io/basketball/teams/180.png
-2022-11-26T21:00:00+00:00,clemson,california,67 - 59,W,away,1669496400,https://media-2.api-sports.io/basketball/teams/180.png
-2022-11-30T00:00:00+00:00,clemson,penn state,94 - 101,W,home,1669766400,https://media-3.api-sports.io/basketball/teams/180.png
-2022-12-03T00:00:00+00:00,clemson,wake forest,57 - 77,W,home,1670025600,https://media-3.api-sports.io/basketball/teams/180.png
-2022-12-08T02:00:00+00:00,clemson,towson,75 - 80,W,home,1670464800,https://media-3.api-sports.io/basketball/teams/180.png
+2022-11-08T00:00:00+00:00,clemson,citadel,69 - 80,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/180.png
+2022-11-12T00:00:00+00:00,clemson,south carolina,58 - 60,L,away,1668211200,https://media-2.api-sports.io/basketball/teams/180.png
+2022-11-16T00:00:00+00:00,clemson,usc upstate,70 - 81,W,home,1668556800,https://media-2.api-sports.io/basketball/teams/180.png
+2022-11-19T00:00:00+00:00,clemson,bellarmine,66 - 76,W,home,1668816000,https://media-3.api-sports.io/basketball/teams/180.png
+2022-11-22T00:00:00+00:00,clemson,loyola maryland,41 - 72,W,home,1669075200,https://media-3.api-sports.io/basketball/teams/180.png
+2022-11-26T00:00:00+00:00,clemson,iowa,74 - 71,L,home,1669420800,https://media-1.api-sports.io/basketball/teams/180.png
+2022-11-26T21:00:00+00:00,clemson,california,67 - 59,W,away,1669496400,https://media-3.api-sports.io/basketball/teams/180.png
+2022-11-30T00:00:00+00:00,clemson,penn state,94 - 101,W,home,1669766400,https://media-2.api-sports.io/basketball/teams/180.png
+2022-12-03T00:00:00+00:00,clemson,wake forest,57 - 77,W,home,1670025600,https://media-1.api-sports.io/basketball/teams/180.png
+2022-12-08T02:00:00+00:00,clemson,towson,75 - 80,W,home,1670464800,https://media-2.api-sports.io/basketball/teams/180.png
 2022-12-11T00:30:00+00:00,clemson,loyola chicago,76 - 58,L,home,1670718600,https://media-1.api-sports.io/basketball/teams/180.png
 2022-12-18T00:00:00+00:00,clemson,richmond,57 - 85,W,home,1671321600,https://media-2.api-sports.io/basketball/teams/180.png
 2022-12-22T00:30:00+00:00,clemson,georgia tech,79 - 66,W,away,1671669000,https://media-3.api-sports.io/basketball/teams/180.png
 2022-12-30T21:00:00+00:00,clemson,nc state,64 - 78,W,home,1672434000,https://media-1.api-sports.io/basketball/teams/180.png
-2023-01-05T02:00:00+00:00,clemson,virginia tech,68 - 65,W,away,1672884000,https://media-2.api-sports.io/basketball/teams/180.png
-2023-01-07T21:00:00+00:00,clemson,pittsburgh,75 - 74,W,away,1673125200,https://media-2.api-sports.io/basketball/teams/180.png
-2023-01-12T02:00:00+00:00,clemson,louisville,70 - 83,W,home,1673488800,https://media-2.api-sports.io/basketball/teams/180.png
+2023-01-05T02:00:00+00:00,clemson,virginia tech,68 - 65,W,away,1672884000,https://media-3.api-sports.io/basketball/teams/180.png
+2023-01-07T21:00:00+00:00,clemson,pittsburgh,75 - 74,W,away,1673125200,https://media-1.api-sports.io/basketball/teams/180.png
+2023-01-12T02:00:00+00:00,clemson,louisville,70 - 83,W,home,1673488800,https://media-1.api-sports.io/basketball/teams/180.png
 2023-01-14T22:00:00+00:00,clemson,duke,,,home,1673733600,https://media-3.api-sports.io/basketball/teams/180.png
-2023-01-18T02:00:00+00:00,clemson,wake forest,,,away,1674007200,https://media-3.api-sports.io/basketball/teams/180.png
-2023-01-21T23:00:00+00:00,clemson,virginia tech,,,home,1674342000,https://media-1.api-sports.io/basketball/teams/180.png
+2023-01-18T02:00:00+00:00,clemson,wake forest,,,away,1674007200,https://media-2.api-sports.io/basketball/teams/180.png
+2023-01-21T23:00:00+00:00,clemson,virginia tech,,,home,1674342000,https://media-3.api-sports.io/basketball/teams/180.png
 2023-01-25T02:00:00+00:00,clemson,georgia tech,,,home,1674612000,https://media-3.api-sports.io/basketball/teams/180.png
 2023-01-28T22:00:00+00:00,clemson,florida state,,,away,1674943200,https://media-1.api-sports.io/basketball/teams/180.png
-2023-02-01T00:00:00+00:00,clemson,boston college,,,away,1675209600,https://media-2.api-sports.io/basketball/teams/180.png
+2023-02-01T00:00:00+00:00,clemson,boston college,,,away,1675209600,https://media-1.api-sports.io/basketball/teams/180.png
 2023-02-04T20:00:00+00:00,clemson,miami (fl),,,home,1675540800,https://media-1.api-sports.io/basketball/teams/180.png
-2023-02-11T19:00:00+00:00,clemson,north carolina,,,away,1676142000,https://media-3.api-sports.io/basketball/teams/180.png
+2023-02-11T19:00:00+00:00,clemson,north carolina,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/180.png
 2023-02-16T00:00:00+00:00,clemson,florida state,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/180.png

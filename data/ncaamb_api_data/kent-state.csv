@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,kent state,northern kentucky,79 - 57,W,away,1667865600,https://media-1.api-sports.io/basketball/teams/235.png
-2022-11-10T22:00:00+00:00,kent state,baldwin-wallace,55 - 76,W,home,1668117600,https://media-1.api-sports.io/basketball/teams/235.png
-2022-11-15T00:00:00+00:00,kent state,portland,65 - 77,W,home,1668470400,https://media-2.api-sports.io/basketball/teams/235.png
+2022-11-08T00:00:00+00:00,kent state,northern kentucky,79 - 57,W,away,1667865600,https://media-2.api-sports.io/basketball/teams/235.png
+2022-11-10T22:00:00+00:00,kent state,baldwin-wallace,55 - 76,W,home,1668117600,https://media-3.api-sports.io/basketball/teams/235.png
+2022-11-15T00:00:00+00:00,kent state,portland,65 - 77,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/235.png
 2022-11-16T16:00:00+00:00,kent state,arkansas-pine bluff,68 - 94,W,home,1668614400,https://media-1.api-sports.io/basketball/teams/235.png
-2022-11-19T19:00:00+00:00,kent state,chicago state,59 - 88,W,home,1668884400,https://media-2.api-sports.io/basketball/teams/235.png
-2022-11-23T23:00:00+00:00,kent state,charleston,72 - 74,L,away,1669244400,https://media-1.api-sports.io/basketball/teams/235.png
-2022-11-26T19:30:00+00:00,kent state,houston,44 - 49,L,away,1669491000,https://media-1.api-sports.io/basketball/teams/235.png
-2022-12-03T00:00:00+00:00,kent state,south dakota st.,68 - 83,W,home,1670025600,https://media-1.api-sports.io/basketball/teams/235.png
-2022-12-06T02:00:00+00:00,kent state,gonzaga,66 - 73,L,away,1670292000,https://media-3.api-sports.io/basketball/teams/235.png
-2022-12-10T20:00:00+00:00,kent state,cleveland state,67 - 58,W,away,1670702400,https://media-3.api-sports.io/basketball/teams/235.png
+2022-11-19T19:00:00+00:00,kent state,chicago state,59 - 88,W,home,1668884400,https://media-3.api-sports.io/basketball/teams/235.png
+2022-11-23T23:00:00+00:00,kent state,charleston,72 - 74,L,away,1669244400,https://media-2.api-sports.io/basketball/teams/235.png
+2022-11-26T19:30:00+00:00,kent state,houston,44 - 49,L,away,1669491000,https://media-3.api-sports.io/basketball/teams/235.png
+2022-12-03T00:00:00+00:00,kent state,south dakota st.,68 - 83,W,home,1670025600,https://media-2.api-sports.io/basketball/teams/235.png
+2022-12-06T02:00:00+00:00,kent state,gonzaga,66 - 73,L,away,1670292000,https://media-2.api-sports.io/basketball/teams/235.png
+2022-12-10T20:00:00+00:00,kent state,cleveland state,67 - 58,W,away,1670702400,https://media-1.api-sports.io/basketball/teams/235.png
 2022-12-18T22:00:00+00:00,kent state,concord,56 - 106,W,home,1671400800,https://media-3.api-sports.io/basketball/teams/235.png
 2022-12-22T00:30:00+00:00,kent state,new mexico state,73 - 63,W,away,1671669000,https://media-1.api-sports.io/basketball/teams/235.png
 2023-01-04T00:00:00+00:00,kent state,western michigan,72 - 80,W,home,1672790400,https://media-3.api-sports.io/basketball/teams/235.png
 2023-01-07T20:30:00+00:00,kent state,miami (ohio),69 - 66,W,away,1673123400,https://media-2.api-sports.io/basketball/teams/235.png
-2023-01-11T00:00:00+00:00,kent state,toledo,63 - 75,W,home,1673395200,https://media-1.api-sports.io/basketball/teams/235.png
-2023-01-13T23:30:00+00:00,kent state,ohio,,,away,1673652600,https://media-1.api-sports.io/basketball/teams/235.png
-2023-01-18T00:00:00+00:00,kent state,eastern michigan,,,away,1674000000,https://media-3.api-sports.io/basketball/teams/235.png
-2023-01-20T23:30:00+00:00,kent state,ball state,,,home,1674257400,https://media-3.api-sports.io/basketball/teams/235.png
-2023-01-25T01:00:00+00:00,kent state,northern illinois,,,away,1674608400,https://media-1.api-sports.io/basketball/teams/235.png
-2023-01-28T02:00:00+00:00,kent state,buffalo,,,home,1674871200,https://media-1.api-sports.io/basketball/teams/235.png
-2023-02-01T00:00:00+00:00,kent state,central michigan,,,home,1675209600,https://media-3.api-sports.io/basketball/teams/235.png
+2023-01-11T00:00:00+00:00,kent state,toledo,63 - 75,W,home,1673395200,https://media-3.api-sports.io/basketball/teams/235.png
+2023-01-13T23:30:00+00:00,kent state,ohio,,,away,1673652600,https://media-2.api-sports.io/basketball/teams/235.png
+2023-01-18T00:00:00+00:00,kent state,eastern michigan,,,away,1674000000,https://media-2.api-sports.io/basketball/teams/235.png
+2023-01-20T23:30:00+00:00,kent state,ball state,,,home,1674257400,https://media-1.api-sports.io/basketball/teams/235.png
+2023-01-25T01:00:00+00:00,kent state,northern illinois,,,away,1674608400,https://media-2.api-sports.io/basketball/teams/235.png
+2023-01-28T02:00:00+00:00,kent state,buffalo,,,home,1674871200,https://media-2.api-sports.io/basketball/teams/235.png
+2023-02-01T00:00:00+00:00,kent state,central michigan,,,home,1675209600,https://media-2.api-sports.io/basketball/teams/235.png
 2023-02-05T00:00:00+00:00,kent state,akron,,,away,1675555200,https://media-3.api-sports.io/basketball/teams/235.png
-2023-02-08T00:00:00+00:00,kent state,bowling green,,,home,1675814400,https://media-1.api-sports.io/basketball/teams/235.png
-2023-02-11T19:00:00+00:00,kent state,buffalo,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/235.png
-2023-02-15T00:00:00+00:00,kent state,western michigan,,,away,1676419200,https://media-3.api-sports.io/basketball/teams/235.png
-2023-02-18T21:00:00+00:00,kent state,eastern michigan,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/235.png
+2023-02-08T00:00:00+00:00,kent state,bowling green,,,home,1675814400,https://media-3.api-sports.io/basketball/teams/235.png
+2023-02-11T19:00:00+00:00,kent state,buffalo,,,away,1676142000,https://media-3.api-sports.io/basketball/teams/235.png
+2023-02-15T00:00:00+00:00,kent state,western michigan,,,away,1676419200,https://media-2.api-sports.io/basketball/teams/235.png
+2023-02-18T21:00:00+00:00,kent state,eastern michigan,,,home,1676754000,https://media-1.api-sports.io/basketball/teams/235.png

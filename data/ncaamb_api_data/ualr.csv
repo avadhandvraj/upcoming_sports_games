@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,ualr,southern illinois,63 - 94,L,away,1667869200,https://media-2.api-sports.io/basketball/teams/5873.png
-2022-11-11T01:30:00+00:00,ualr,arkansas baptist,60 - 71,W,home,1668130200,https://media-3.api-sports.io/basketball/teams/5873.png
-2022-11-15T01:00:00+00:00,ualr,central arkansas,71 - 82,L,away,1668474000,https://media-1.api-sports.io/basketball/teams/5873.png
-2022-11-18T00:00:00+00:00,ualr,east tennessee st,76 - 84,L,away,1668729600,https://media-2.api-sports.io/basketball/teams/5873.png
-2022-11-21T00:30:00+00:00,ualr,jackson state,91 - 94,W,home,1668990600,https://media-1.api-sports.io/basketball/teams/5873.png
-2022-11-23T23:30:00+00:00,ualr,indiana,68 - 87,L,away,1669246200,https://media-3.api-sports.io/basketball/teams/5873.png
-2022-11-26T18:00:00+00:00,ualr,miami (ohio),67 - 80,L,away,1669485600,https://media-1.api-sports.io/basketball/teams/5873.png
+2022-11-08T01:00:00+00:00,ualr,southern illinois,63 - 94,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/5873.png
+2022-11-11T01:30:00+00:00,ualr,arkansas baptist,60 - 71,W,home,1668130200,https://media-2.api-sports.io/basketball/teams/5873.png
+2022-11-15T01:00:00+00:00,ualr,central arkansas,71 - 82,L,away,1668474000,https://media-2.api-sports.io/basketball/teams/5873.png
+2022-11-18T00:00:00+00:00,ualr,east tennessee st,76 - 84,L,away,1668729600,https://media-3.api-sports.io/basketball/teams/5873.png
+2022-11-21T00:30:00+00:00,ualr,jackson state,91 - 94,W,home,1668990600,https://media-2.api-sports.io/basketball/teams/5873.png
+2022-11-23T23:30:00+00:00,ualr,indiana,68 - 87,L,away,1669246200,https://media-2.api-sports.io/basketball/teams/5873.png
+2022-11-26T18:00:00+00:00,ualr,miami (ohio),67 - 80,L,away,1669485600,https://media-2.api-sports.io/basketball/teams/5873.png
 2022-12-01T03:00:00+00:00,ualr,san francisco,68 - 90,L,away,1669863600,https://media-2.api-sports.io/basketball/teams/5873.png
 2022-12-07T01:00:00+00:00,ualr,memphis,71 - 87,L,away,1670374800,https://media-3.api-sports.io/basketball/teams/5873.png
 2022-12-13T00:30:00+00:00,ualr,philander smith,54 - 83,W,home,1670891400,https://media-3.api-sports.io/basketball/teams/5873.png
 2022-12-17T19:00:00+00:00,ualr,jacksonville state,62 - 72,L,away,1671303600,https://media-2.api-sports.io/basketball/teams/5873.png
-2022-12-21T00:30:00+00:00,ualr,central arkansas,66 - 75,W,home,1671582600,https://media-2.api-sports.io/basketball/teams/5873.png
-2022-12-22T20:00:00+00:00,ualr,arkansas state,75 - 77,L,away,1671739200,https://media-1.api-sports.io/basketball/teams/5873.png
-2022-12-30T01:30:00+00:00,ualr,ut martin,74 - 88,W,home,1672363800,https://media-3.api-sports.io/basketball/teams/5873.png
+2022-12-21T00:30:00+00:00,ualr,central arkansas,66 - 75,W,home,1671582600,https://media-1.api-sports.io/basketball/teams/5873.png
+2022-12-22T20:00:00+00:00,ualr,arkansas state,75 - 77,L,away,1671739200,https://media-2.api-sports.io/basketball/teams/5873.png
+2022-12-30T01:30:00+00:00,ualr,ut martin,74 - 88,W,home,1672363800,https://media-1.api-sports.io/basketball/teams/5873.png
 2022-12-31T21:30:00+00:00,ualr,tennessee state,69 - 94,L,away,1672522200,https://media-2.api-sports.io/basketball/teams/5873.png
 2023-01-05T01:30:00+00:00,ualr,lindenwood,67 - 62,L,home,1672882200,https://media-1.api-sports.io/basketball/teams/5873.png
-2023-01-07T21:30:00+00:00,ualr,southeast missouri state,74 - 68,L,home,1673127000,https://media-1.api-sports.io/basketball/teams/5873.png
-2023-01-13T01:30:00+00:00,ualr,southern indiana,,,away,1673573400,https://media-1.api-sports.io/basketball/teams/5873.png
+2023-01-07T21:30:00+00:00,ualr,southeast missouri state,74 - 68,L,home,1673127000,https://media-3.api-sports.io/basketball/teams/5873.png
+2023-01-13T01:30:00+00:00,ualr,southern indiana,,,away,1673573400,https://media-2.api-sports.io/basketball/teams/5873.png
 2023-01-14T21:30:00+00:00,ualr,eastern illinois,,,away,1673731800,https://media-2.api-sports.io/basketball/teams/5873.png
 2023-01-20T01:30:00+00:00,ualr,tennessee tech,,,home,1674178200,https://media-1.api-sports.io/basketball/teams/5873.png
-2023-01-21T21:30:00+00:00,ualr,tennessee state,,,home,1674336600,https://media-2.api-sports.io/basketball/teams/5873.png
-2023-01-27T00:00:00+00:00,ualr,morehead state,,,away,1674777600,https://media-1.api-sports.io/basketball/teams/5873.png
-2023-01-28T21:00:00+00:00,ualr,tennessee tech,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/5873.png
-2023-02-03T01:00:00+00:00,ualr,southeast missouri state,,,away,1675386000,https://media-1.api-sports.io/basketball/teams/5873.png
-2023-02-04T21:30:00+00:00,ualr,siu edwardsville,,,home,1675546200,https://media-1.api-sports.io/basketball/teams/5873.png
+2023-01-21T21:30:00+00:00,ualr,tennessee state,,,home,1674336600,https://media-3.api-sports.io/basketball/teams/5873.png
+2023-01-27T00:00:00+00:00,ualr,morehead state,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/5873.png
+2023-01-28T21:00:00+00:00,ualr,tennessee tech,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/5873.png
+2023-02-03T01:00:00+00:00,ualr,southeast missouri state,,,away,1675386000,https://media-3.api-sports.io/basketball/teams/5873.png
+2023-02-04T21:30:00+00:00,ualr,siu edwardsville,,,home,1675546200,https://media-3.api-sports.io/basketball/teams/5873.png
 2023-02-10T00:30:00+00:00,ualr,morehead state,,,home,1675989000,https://media-3.api-sports.io/basketball/teams/5873.png
-2023-02-11T21:30:00+00:00,ualr,ut martin,,,away,1676151000,https://media-2.api-sports.io/basketball/teams/5873.png
-2023-02-17T01:30:00+00:00,ualr,southern indiana,,,home,1676597400,https://media-1.api-sports.io/basketball/teams/5873.png
-2023-02-18T21:30:00+00:00,ualr,eastern illinois,,,home,1676755800,https://media-3.api-sports.io/basketball/teams/5873.png
+2023-02-11T21:30:00+00:00,ualr,ut martin,,,away,1676151000,https://media-3.api-sports.io/basketball/teams/5873.png
+2023-02-17T01:30:00+00:00,ualr,southern indiana,,,home,1676597400,https://media-3.api-sports.io/basketball/teams/5873.png
+2023-02-18T21:30:00+00:00,ualr,eastern illinois,,,home,1676755800,https://media-2.api-sports.io/basketball/teams/5873.png
 2023-02-23T21:00:00+00:00,ualr,siu edwardsville,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/2160.png
-2023-02-25T21:00:00+00:00,ualr,lindenwood,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/2160.png
+2023-02-25T21:00:00+00:00,ualr,lindenwood,None - None,tie,away,1677358800,https://media-3.api-sports.io/basketball/teams/2160.png

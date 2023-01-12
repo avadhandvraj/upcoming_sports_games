@@ -2,25 +2,25 @@ Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:30:00+00:00,canisius,youngstown state,92 - 81,L,home,1667867400,https://media-2.api-sports.io/basketball/teams/1489.png
 2022-11-13T00:00:00+00:00,canisius,st. bonaventure,80 - 84,W,home,1668297600,https://media-2.api-sports.io/basketball/teams/1489.png
 2022-11-17T00:00:00+00:00,canisius,cleveland state,58 - 57,L,home,1668643200,https://media-3.api-sports.io/basketball/teams/1489.png
-2022-11-20T19:30:00+00:00,canisius,fredonia state,52 - 98,W,home,1668972600,https://media-2.api-sports.io/basketball/teams/1489.png
-2022-11-22T22:00:00+00:00,canisius,cornell,70 - 79,L,away,1669154400,https://media-2.api-sports.io/basketball/teams/1489.png
-2022-11-27T19:30:00+00:00,canisius,buffalo,66 - 86,L,away,1669577400,https://media-1.api-sports.io/basketball/teams/1489.png
-2022-12-03T00:00:00+00:00,canisius,siena,70 - 74,L,away,1670025600,https://media-3.api-sports.io/basketball/teams/1489.png
-2022-12-04T18:00:00+00:00,canisius,iona,60 - 90,L,away,1670176800,https://media-1.api-sports.io/basketball/teams/1489.png
+2022-11-20T19:30:00+00:00,canisius,fredonia state,52 - 98,W,home,1668972600,https://media-1.api-sports.io/basketball/teams/1489.png
+2022-11-22T22:00:00+00:00,canisius,cornell,70 - 79,L,away,1669154400,https://media-3.api-sports.io/basketball/teams/1489.png
+2022-11-27T19:30:00+00:00,canisius,buffalo,66 - 86,L,away,1669577400,https://media-2.api-sports.io/basketball/teams/1489.png
+2022-12-03T00:00:00+00:00,canisius,siena,70 - 74,L,away,1670025600,https://media-1.api-sports.io/basketball/teams/1489.png
+2022-12-04T18:00:00+00:00,canisius,iona,60 - 90,L,away,1670176800,https://media-3.api-sports.io/basketball/teams/1489.png
 2022-12-10T19:00:00+00:00,canisius,toledo,68 - 69,L,away,1670698800,https://media-3.api-sports.io/basketball/teams/1489.png
 2022-12-18T17:00:00+00:00,canisius,penn state,67 - 97,L,away,1671382800,https://media-1.api-sports.io/basketball/teams/1489.png
 2022-12-22T00:00:00+00:00,canisius,florida gulf coast,81 - 84,L,away,1671667200,https://media-1.api-sports.io/basketball/teams/1489.png
-2022-12-31T20:00:00+00:00,canisius,rider,66 - 64,L,home,1672516800,https://media-2.api-sports.io/basketball/teams/1489.png
-2023-01-02T20:00:00+00:00,canisius,mount st. mary's,64 - 60,L,home,1672689600,https://media-2.api-sports.io/basketball/teams/1489.png
+2022-12-31T20:00:00+00:00,canisius,rider,66 - 64,L,home,1672516800,https://media-3.api-sports.io/basketball/teams/1489.png
+2023-01-02T20:00:00+00:00,canisius,mount st. mary's,64 - 60,L,home,1672689600,https://media-1.api-sports.io/basketball/teams/1489.png
 2023-01-07T00:00:00+00:00,canisius,manhattan,64 - 57,W,away,1673049600,https://media-2.api-sports.io/basketball/teams/1489.png
-2023-01-08T19:00:00+00:00,canisius,st. peters,67 - 60,W,away,1673204400,https://media-2.api-sports.io/basketball/teams/1489.png
-2023-01-14T00:00:00+00:00,canisius,marist,,,home,1673654400,https://media-3.api-sports.io/basketball/teams/1489.png
+2023-01-08T19:00:00+00:00,canisius,st. peters,67 - 60,W,away,1673204400,https://media-1.api-sports.io/basketball/teams/1489.png
+2023-01-14T00:00:00+00:00,canisius,marist,,,home,1673654400,https://media-1.api-sports.io/basketball/teams/1489.png
 2023-01-15T18:00:00+00:00,canisius,siena,,,home,1673805600,https://media-1.api-sports.io/basketball/teams/1489.png
 2023-01-21T00:00:00+00:00,canisius,fairfield,,,away,1674259200,https://media-2.api-sports.io/basketball/teams/1489.png
 2023-01-22T19:00:00+00:00,canisius,quinnipiac,,,away,1674414000,https://media-1.api-sports.io/basketball/teams/1489.png
-2023-01-29T18:00:00+00:00,canisius,manhattan,,,home,1675015200,https://media-2.api-sports.io/basketball/teams/1489.png
-2023-02-04T01:00:00+00:00,canisius,niagara,,,away,1675472400,https://media-2.api-sports.io/basketball/teams/1489.png
-2023-02-05T19:00:00+00:00,canisius,marist,,,away,1675623600,https://media-3.api-sports.io/basketball/teams/1489.png
-2023-02-11T00:00:00+00:00,canisius,iona,,,home,1676073600,https://media-3.api-sports.io/basketball/teams/1489.png
-2023-02-12T18:00:00+00:00,canisius,quinnipiac,,,home,1676224800,https://media-2.api-sports.io/basketball/teams/1489.png
+2023-01-29T18:00:00+00:00,canisius,manhattan,,,home,1675015200,https://media-3.api-sports.io/basketball/teams/1489.png
+2023-02-04T01:00:00+00:00,canisius,niagara,,,away,1675472400,https://media-3.api-sports.io/basketball/teams/1489.png
+2023-02-05T19:00:00+00:00,canisius,marist,,,away,1675623600,https://media-1.api-sports.io/basketball/teams/1489.png
+2023-02-11T00:00:00+00:00,canisius,iona,,,home,1676073600,https://media-1.api-sports.io/basketball/teams/1489.png
+2023-02-12T18:00:00+00:00,canisius,quinnipiac,,,home,1676224800,https://media-3.api-sports.io/basketball/teams/1489.png
 2023-02-18T00:00:00+00:00,canisius,rider,,,away,1676678400,https://media-2.api-sports.io/basketball/teams/1489.png

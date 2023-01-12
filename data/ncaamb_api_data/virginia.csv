@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T02:00:00+00:00,virginia,n. carolina central,61 - 73,W,home,1667872800,https://media-3.api-sports.io/basketball/teams/2189.png
-2022-11-12T02:00:00+00:00,virginia,monmouth,42 - 89,W,home,1668218400,https://media-2.api-sports.io/basketball/teams/2189.png
-2022-11-15T01:00:00+00:00,virginia,northern iowa,None - None,tie,home,1668474000,https://media-3.api-sports.io/basketball/teams/2189.png
-2022-11-19T00:00:00+00:00,virginia,baylor,86 - 79,W,away,1668816000,https://media-3.api-sports.io/basketball/teams/2189.png
-2022-11-20T20:00:00+00:00,virginia,illinois,61 - 70,W,home,1668974400,https://media-1.api-sports.io/basketball/teams/2189.png
+2022-11-12T02:00:00+00:00,virginia,monmouth,42 - 89,W,home,1668218400,https://media-3.api-sports.io/basketball/teams/2189.png
+2022-11-15T01:00:00+00:00,virginia,northern iowa,None - None,tie,home,1668474000,https://media-2.api-sports.io/basketball/teams/2189.png
+2022-11-19T00:00:00+00:00,virginia,baylor,86 - 79,W,away,1668816000,https://media-1.api-sports.io/basketball/teams/2189.png
+2022-11-20T20:00:00+00:00,virginia,illinois,61 - 70,W,home,1668974400,https://media-3.api-sports.io/basketball/teams/2189.png
 2022-11-25T23:00:00+00:00,virginia,md.-east. shore,45 - 72,W,home,1669417200,https://media-3.api-sports.io/basketball/teams/2189.png
-2022-11-30T02:30:00+00:00,virginia,michigan,70 - 68,W,away,1669775400,https://media-2.api-sports.io/basketball/teams/2189.png
-2022-12-03T19:00:00+00:00,virginia,florida state,57 - 62,W,home,1670094000,https://media-2.api-sports.io/basketball/teams/2189.png
-2022-12-07T01:00:00+00:00,virginia,james madison,50 - 55,W,home,1670374800,https://media-2.api-sports.io/basketball/teams/2189.png
-2022-12-17T19:00:00+00:00,virginia,houston,69 - 61,L,home,1671303600,https://media-2.api-sports.io/basketball/teams/2189.png
-2022-12-21T01:30:00+00:00,virginia,miami (fl),64 - 66,L,away,1671586200,https://media-3.api-sports.io/basketball/teams/2189.png
+2022-11-30T02:30:00+00:00,virginia,michigan,70 - 68,W,away,1669775400,https://media-3.api-sports.io/basketball/teams/2189.png
+2022-12-03T19:00:00+00:00,virginia,florida state,57 - 62,W,home,1670094000,https://media-1.api-sports.io/basketball/teams/2189.png
+2022-12-07T01:00:00+00:00,virginia,james madison,50 - 55,W,home,1670374800,https://media-3.api-sports.io/basketball/teams/2189.png
+2022-12-17T19:00:00+00:00,virginia,houston,69 - 61,L,home,1671303600,https://media-3.api-sports.io/basketball/teams/2189.png
+2022-12-21T01:30:00+00:00,virginia,miami (fl),64 - 66,L,away,1671586200,https://media-1.api-sports.io/basketball/teams/2189.png
 2022-12-28T23:00:00+00:00,virginia,albany,46 - 66,W,home,1672268400,https://media-2.api-sports.io/basketball/teams/2189.png
-2022-12-31T17:00:00+00:00,virginia,georgia tech,74 - 56,W,away,1672506000,https://media-1.api-sports.io/basketball/teams/2189.png
-2023-01-04T02:00:00+00:00,virginia,pittsburgh,65 - 68,L,away,1672797600,https://media-2.api-sports.io/basketball/teams/2189.png
-2023-01-07T22:00:00+00:00,virginia,syracuse,66 - 73,W,home,1673128800,https://media-3.api-sports.io/basketball/teams/2189.png
-2023-01-11T02:00:00+00:00,virginia,north carolina,58 - 65,W,home,1673402400,https://media-1.api-sports.io/basketball/teams/2189.png
-2023-01-14T21:00:00+00:00,virginia,florida state,,,away,1673730000,https://media-1.api-sports.io/basketball/teams/2189.png
-2023-01-19T00:00:00+00:00,virginia,virginia tech,,,home,1674086400,https://media-2.api-sports.io/basketball/teams/2189.png
+2022-12-31T17:00:00+00:00,virginia,georgia tech,74 - 56,W,away,1672506000,https://media-2.api-sports.io/basketball/teams/2189.png
+2023-01-04T02:00:00+00:00,virginia,pittsburgh,65 - 68,L,away,1672797600,https://media-3.api-sports.io/basketball/teams/2189.png
+2023-01-07T22:00:00+00:00,virginia,syracuse,66 - 73,W,home,1673128800,https://media-2.api-sports.io/basketball/teams/2189.png
+2023-01-11T02:00:00+00:00,virginia,north carolina,58 - 65,W,home,1673402400,https://media-2.api-sports.io/basketball/teams/2189.png
+2023-01-14T21:00:00+00:00,virginia,florida state,,,away,1673730000,https://media-2.api-sports.io/basketball/teams/2189.png
+2023-01-19T00:00:00+00:00,virginia,virginia tech,,,home,1674086400,https://media-1.api-sports.io/basketball/teams/2189.png
 2023-01-21T19:00:00+00:00,virginia,wake forest,,,away,1674327600,https://media-2.api-sports.io/basketball/teams/2189.png
 2023-01-28T17:00:00+00:00,virginia,boston college,,,home,1674925200,https://media-3.api-sports.io/basketball/teams/2189.png
-2023-01-31T00:00:00+00:00,virginia,syracuse,,,away,1675123200,https://media-2.api-sports.io/basketball/teams/2189.png
-2023-02-04T17:00:00+00:00,virginia,virginia tech,,,away,1675530000,https://media-3.api-sports.io/basketball/teams/2189.png
-2023-02-08T02:00:00+00:00,virginia,nc state,,,home,1675821600,https://media-2.api-sports.io/basketball/teams/2189.png
+2023-01-31T00:00:00+00:00,virginia,syracuse,,,away,1675123200,https://media-3.api-sports.io/basketball/teams/2189.png
+2023-02-04T17:00:00+00:00,virginia,virginia tech,,,away,1675530000,https://media-2.api-sports.io/basketball/teams/2189.png
+2023-02-08T02:00:00+00:00,virginia,nc state,,,home,1675821600,https://media-3.api-sports.io/basketball/teams/2189.png
 2023-02-11T21:00:00+00:00,virginia,duke,,,home,1676149200,https://media-1.api-sports.io/basketball/teams/2189.png
-2023-02-16T00:00:00+00:00,virginia,louisville,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/2189.png
-2023-02-18T17:00:00+00:00,virginia,notre dame,,,home,1676739600,https://media-3.api-sports.io/basketball/teams/2189.png
+2023-02-16T00:00:00+00:00,virginia,louisville,,,away,1676505600,https://media-2.api-sports.io/basketball/teams/2189.png
+2023-02-18T17:00:00+00:00,virginia,notre dame,,,home,1676739600,https://media-2.api-sports.io/basketball/teams/2189.png

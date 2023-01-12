@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-09T00:00:00+00:00,sacred heart,hartford,77 - 70,W,away,1667952000,https://media-2.api-sports.io/basketball/teams/2102.png
-2022-11-11T00:00:00+00:00,sacred heart,rutgers,50 - 88,L,away,1668124800,https://media-1.api-sports.io/basketball/teams/2102.png
-2022-11-13T18:00:00+00:00,sacred heart,columbia,85 - 88,W,home,1668362400,https://media-3.api-sports.io/basketball/teams/2102.png
-2022-11-16T21:00:00+00:00,sacred heart,umass lowell,81 - 90,L,away,1668632400,https://media-3.api-sports.io/basketball/teams/2102.png
-2022-11-19T19:00:00+00:00,sacred heart,binghamton,75 - 60,W,away,1668884400,https://media-3.api-sports.io/basketball/teams/2102.png
-2022-11-22T18:00:00+00:00,sacred heart,njit,85 - 75,L,home,1669140000,https://media-1.api-sports.io/basketball/teams/2102.png
+2022-11-09T00:00:00+00:00,sacred heart,hartford,77 - 70,W,away,1667952000,https://media-1.api-sports.io/basketball/teams/2102.png
+2022-11-11T00:00:00+00:00,sacred heart,rutgers,50 - 88,L,away,1668124800,https://media-2.api-sports.io/basketball/teams/2102.png
+2022-11-13T18:00:00+00:00,sacred heart,columbia,85 - 88,W,home,1668362400,https://media-2.api-sports.io/basketball/teams/2102.png
+2022-11-16T21:00:00+00:00,sacred heart,umass lowell,81 - 90,L,away,1668632400,https://media-1.api-sports.io/basketball/teams/2102.png
+2022-11-19T19:00:00+00:00,sacred heart,binghamton,75 - 60,W,away,1668884400,https://media-1.api-sports.io/basketball/teams/2102.png
+2022-11-22T18:00:00+00:00,sacred heart,njit,85 - 75,L,home,1669140000,https://media-3.api-sports.io/basketball/teams/2102.png
 2022-11-29T00:00:00+00:00,sacred heart,western new england,59 - 100,W,home,1669680000,https://media-3.api-sports.io/basketball/teams/2102.png
-2022-12-01T00:00:00+00:00,sacred heart,new hampshire,66 - 61,W,away,1669852800,https://media-2.api-sports.io/basketball/teams/2102.png
+2022-12-01T00:00:00+00:00,sacred heart,new hampshire,66 - 61,W,away,1669852800,https://media-3.api-sports.io/basketball/teams/2102.png
 2022-12-03T19:00:00+00:00,sacred heart,umass lowell,70 - 59,L,home,1670094000,https://media-2.api-sports.io/basketball/teams/2102.png
-2022-12-08T00:00:00+00:00,sacred heart,fairfield,59 - 61,L,away,1670457600,https://media-2.api-sports.io/basketball/teams/2102.png
-2022-12-10T20:30:00+00:00,sacred heart,pittsburgh,66 - 91,L,away,1670704200,https://media-3.api-sports.io/basketball/teams/2102.png
+2022-12-08T00:00:00+00:00,sacred heart,fairfield,59 - 61,L,away,1670457600,https://media-1.api-sports.io/basketball/teams/2102.png
+2022-12-10T20:30:00+00:00,sacred heart,pittsburgh,66 - 91,L,away,1670704200,https://media-1.api-sports.io/basketball/teams/2102.png
 2022-12-12T23:30:00+00:00,sacred heart,stony brook,64 - 71,L,away,1670887800,https://media-3.api-sports.io/basketball/teams/2102.png
 2022-12-20T00:00:00+00:00,sacred heart,saint josephs,59 - 77,L,away,1671494400,https://media-2.api-sports.io/basketball/teams/2102.png
 2022-12-22T16:30:00+00:00,sacred heart,holy cross,62 - 66,W,home,1671726600,https://media-2.api-sports.io/basketball/teams/2102.png
-2022-12-29T19:00:00+00:00,sacred heart,stonehill,74 - 67,L,home,1672340400,https://media-1.api-sports.io/basketball/teams/2102.png
-2022-12-31T18:00:00+00:00,sacred heart,liu sharks,82 - 64,W,away,1672509600,https://media-2.api-sports.io/basketball/teams/2102.png
+2022-12-29T19:00:00+00:00,sacred heart,stonehill,74 - 67,L,home,1672340400,https://media-3.api-sports.io/basketball/teams/2102.png
+2022-12-31T18:00:00+00:00,sacred heart,liu sharks,82 - 64,W,away,1672509600,https://media-1.api-sports.io/basketball/teams/2102.png
 2023-01-06T00:00:00+00:00,sacred heart,merrimack warriors,59 - 55,W,away,1672963200,https://media-2.api-sports.io/basketball/teams/2102.png
-2023-01-07T19:00:00+00:00,sacred heart,hartford,71 - 78,W,home,1673118000,https://media-1.api-sports.io/basketball/teams/2102.png
+2023-01-07T19:00:00+00:00,sacred heart,hartford,71 - 78,W,home,1673118000,https://media-2.api-sports.io/basketball/teams/2102.png
 2023-01-14T18:00:00+00:00,sacred heart,st. francis brooklyn,,,away,1673719200,https://media-3.api-sports.io/basketball/teams/2102.png
-2023-01-16T19:00:00+00:00,sacred heart,st. francis (pa),,,home,1673895600,https://media-2.api-sports.io/basketball/teams/2102.png
-2023-01-21T00:00:00+00:00,sacred heart,fairleigh dickinson,,,away,1674259200,https://media-3.api-sports.io/basketball/teams/2102.png
-2023-01-22T18:00:00+00:00,sacred heart,wagner,,,away,1674410400,https://media-1.api-sports.io/basketball/teams/2102.png
-2023-01-27T00:00:00+00:00,sacred heart,liu sharks,,,home,1674777600,https://media-1.api-sports.io/basketball/teams/2102.png
-2023-01-28T19:00:00+00:00,sacred heart,stonehill,,,away,1674932400,https://media-2.api-sports.io/basketball/teams/2102.png
+2023-01-16T19:00:00+00:00,sacred heart,st. francis (pa),,,home,1673895600,https://media-1.api-sports.io/basketball/teams/2102.png
+2023-01-21T00:00:00+00:00,sacred heart,fairleigh dickinson,,,away,1674259200,https://media-2.api-sports.io/basketball/teams/2102.png
+2023-01-22T18:00:00+00:00,sacred heart,wagner,,,away,1674410400,https://media-2.api-sports.io/basketball/teams/2102.png
+2023-01-27T00:00:00+00:00,sacred heart,liu sharks,,,home,1674777600,https://media-3.api-sports.io/basketball/teams/2102.png
+2023-01-28T19:00:00+00:00,sacred heart,stonehill,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/2102.png
 2023-02-03T00:00:00+00:00,sacred heart,wagner,,,home,1675382400,https://media-2.api-sports.io/basketball/teams/2102.png
-2023-02-04T19:00:00+00:00,sacred heart,central connecticut state,,,home,1675537200,https://media-3.api-sports.io/basketball/teams/2102.png
+2023-02-04T19:00:00+00:00,sacred heart,central connecticut state,,,home,1675537200,https://media-2.api-sports.io/basketball/teams/2102.png
 2023-02-09T22:00:00+00:00,sacred heart,st. francis (pa),,,away,1675980000,https://media-3.api-sports.io/basketball/teams/2102.png
-2023-02-17T00:00:00+00:00,sacred heart,fairleigh dickinson,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/2102.png
+2023-02-17T00:00:00+00:00,sacred heart,fairleigh dickinson,,,home,1676592000,https://media-1.api-sports.io/basketball/teams/2102.png
 2023-02-18T19:00:00+00:00,sacred heart,merrimack warriors,,,home,1676746800,https://media-2.api-sports.io/basketball/teams/2102.png

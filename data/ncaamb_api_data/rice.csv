@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T03:00:00+00:00,rice,pepperdine,67 - 106,L,away,1667876400,https://media-1.api-sports.io/basketball/teams/1504.png
-2022-11-10T23:00:00+00:00,rice,st. thomas (tx),48 - 85,W,home,1668121200,https://media-3.api-sports.io/basketball/teams/1504.png
+2022-11-10T23:00:00+00:00,rice,st. thomas (tx),48 - 85,W,home,1668121200,https://media-2.api-sports.io/basketball/teams/1504.png
 2022-11-16T00:00:00+00:00,rice,middle tenn. st.,46 - 81,L,away,1668556800,https://media-1.api-sports.io/basketball/teams/1504.png
 2022-11-19T00:00:00+00:00,rice,georgia southern,71 - 88,W,home,1668816000,https://media-3.api-sports.io/basketball/teams/1504.png
-2022-11-19T23:00:00+00:00,rice,western michigan,88 - 96,W,home,1668898800,https://media-2.api-sports.io/basketball/teams/1504.png
-2022-11-22T01:00:00+00:00,rice,houston christian,67 - 76,W,home,1669078800,https://media-1.api-sports.io/basketball/teams/1504.png
-2022-12-01T01:00:00+00:00,rice,prairie view a&m,62 - 70,W,home,1669856400,https://media-2.api-sports.io/basketball/teams/1504.png
-2022-12-04T20:00:00+00:00,rice,texas state,83 - 71,W,away,1670184000,https://media-2.api-sports.io/basketball/teams/1504.png
-2022-12-13T01:00:00+00:00,rice,texas,81 - 87,L,away,1670893200,https://media-2.api-sports.io/basketball/teams/1504.png
-2022-12-15T17:15:00+00:00,rice,north american stallions,54 - 92,W,home,1671124500,https://media-2.api-sports.io/basketball/teams/1504.png
-2022-12-17T20:00:00+00:00,rice,northwestern st.,73 - 110,W,home,1671307200,https://media-3.api-sports.io/basketball/teams/1504.png
+2022-11-19T23:00:00+00:00,rice,western michigan,88 - 96,W,home,1668898800,https://media-3.api-sports.io/basketball/teams/1504.png
+2022-11-22T01:00:00+00:00,rice,houston christian,67 - 76,W,home,1669078800,https://media-2.api-sports.io/basketball/teams/1504.png
+2022-12-01T01:00:00+00:00,rice,prairie view a&m,62 - 70,W,home,1669856400,https://media-1.api-sports.io/basketball/teams/1504.png
+2022-12-04T20:00:00+00:00,rice,texas state,83 - 71,W,away,1670184000,https://media-3.api-sports.io/basketball/teams/1504.png
+2022-12-13T01:00:00+00:00,rice,texas,81 - 87,L,away,1670893200,https://media-3.api-sports.io/basketball/teams/1504.png
+2022-12-15T17:15:00+00:00,rice,north american stallions,54 - 92,W,home,1671124500,https://media-1.api-sports.io/basketball/teams/1504.png
+2022-12-17T20:00:00+00:00,rice,northwestern st.,73 - 110,W,home,1671307200,https://media-1.api-sports.io/basketball/teams/1504.png
 2022-12-20T01:00:00+00:00,rice,jarvis christian,64 - 109,W,home,1671498000,https://media-1.api-sports.io/basketball/teams/1504.png
-2022-12-30T00:00:00+00:00,rice,western kentucky,81 - 78,W,away,1672358400,https://media-2.api-sports.io/basketball/teams/1504.png
-2022-12-31T21:00:00+00:00,rice,utep,72 - 67,W,away,1672520400,https://media-1.api-sports.io/basketball/teams/1504.png
-2023-01-06T01:00:00+00:00,rice,louisiana tech,88 - 82,L,home,1672966800,https://media-2.api-sports.io/basketball/teams/1504.png
-2023-01-12T01:00:00+00:00,rice,middle tenn. st.,71 - 68,L,home,1673485200,https://media-3.api-sports.io/basketball/teams/1504.png
+2022-12-30T00:00:00+00:00,rice,western kentucky,81 - 78,W,away,1672358400,https://media-3.api-sports.io/basketball/teams/1504.png
+2022-12-31T21:00:00+00:00,rice,utep,72 - 67,W,away,1672520400,https://media-3.api-sports.io/basketball/teams/1504.png
+2023-01-06T01:00:00+00:00,rice,louisiana tech,88 - 82,L,home,1672966800,https://media-3.api-sports.io/basketball/teams/1504.png
+2023-01-12T01:00:00+00:00,rice,middle tenn. st.,71 - 68,L,home,1673485200,https://media-1.api-sports.io/basketball/teams/1504.png
 2023-01-14T20:00:00+00:00,rice,utep,,,home,1673726400,https://media-2.api-sports.io/basketball/teams/1504.png
-2023-01-17T01:00:00+00:00,rice,utsa roadrunners,,,away,1673917200,https://media-3.api-sports.io/basketball/teams/1504.png
+2023-01-17T01:00:00+00:00,rice,utsa roadrunners,,,away,1673917200,https://media-1.api-sports.io/basketball/teams/1504.png
 2023-01-20T01:00:00+00:00,rice,north texas,,,away,1674176400,https://media-2.api-sports.io/basketball/teams/1504.png
-2023-01-27T01:00:00+00:00,rice,charlotte,,,home,1674781200,https://media-2.api-sports.io/basketball/teams/1504.png
-2023-01-28T20:00:00+00:00,rice,uab,,,home,1674936000,https://media-3.api-sports.io/basketball/teams/1504.png
-2023-02-03T00:00:00+00:00,rice,louisiana tech,,,away,1675382400,https://media-2.api-sports.io/basketball/teams/1504.png
-2023-02-05T01:00:00+00:00,rice,north texas,,,home,1675558800,https://media-1.api-sports.io/basketball/teams/1504.png
+2023-01-27T01:00:00+00:00,rice,charlotte,,,home,1674781200,https://media-1.api-sports.io/basketball/teams/1504.png
+2023-01-28T20:00:00+00:00,rice,uab,,,home,1674936000,https://media-1.api-sports.io/basketball/teams/1504.png
+2023-02-03T00:00:00+00:00,rice,louisiana tech,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/1504.png
+2023-02-05T01:00:00+00:00,rice,north texas,,,home,1675558800,https://media-2.api-sports.io/basketball/teams/1504.png
 2023-02-10T00:00:00+00:00,rice,florida atlantic,,,away,1675987200,https://media-2.api-sports.io/basketball/teams/1504.png
-2023-02-12T00:00:00+00:00,rice,florida international,,,away,1676160000,https://media-3.api-sports.io/basketball/teams/1504.png
+2023-02-12T00:00:00+00:00,rice,florida international,,,away,1676160000,https://media-2.api-sports.io/basketball/teams/1504.png
 2023-02-17T01:00:00+00:00,rice,utsa roadrunners,,,home,1676595600,https://media-3.api-sports.io/basketball/teams/1504.png

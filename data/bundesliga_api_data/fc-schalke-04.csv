@@ -1,35 +1,35 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Sunday, August 07 10:30 AM",fc schalke 04,fc koln,1 - 3,L,away,1659886200,https://media-2.api-sports.io/football/teams/174.png
+"Sunday, August 07 10:30 AM",fc schalke 04,fc koln,1 - 3,L,away,1659886200,https://media-3.api-sports.io/football/teams/174.png
 "Saturday, August 13 11:30 AM",fc schalke 04,borussia monchengladbach,2 - 2,tie,home,1660408200,https://media-2.api-sports.io/football/teams/174.png
-"Saturday, August 20 08:30 AM",fc schalke 04,vfl wolfsburg,0 - 0,tie,away,1661002200,https://media-2.api-sports.io/football/teams/174.png
-"Saturday, August 27 08:30 AM",fc schalke 04,union berlin,6 - 1,L,home,1661607000,https://media-1.api-sports.io/football/teams/174.png
-"Saturday, September 03 08:30 AM",fc schalke 04,vfb stuttgart,1 - 1,tie,away,1662211800,https://media-3.api-sports.io/football/teams/174.png
-"Saturday, September 10 11:30 AM",fc schalke 04,vfl bochum,1 - 3,W,home,1662827400,https://media-2.api-sports.io/football/teams/174.png
-"Saturday, September 17 08:30 AM",fc schalke 04,borussia dortmund,0 - 1,L,away,1663421400,https://media-3.api-sports.io/football/teams/174.png
-"Sunday, October 02 10:30 AM",fc schalke 04,fc augsburg,3 - 2,L,home,1664724600,https://media-2.api-sports.io/football/teams/174.png
-"Saturday, October 08 08:30 AM",fc schalke 04,bayer leverkusen,0 - 4,L,away,1665235800,https://media-3.api-sports.io/football/teams/174.png
-"Friday, October 14 01:30 PM",fc schalke 04,1899 hoffenheim,3 - 0,L,home,1665772200,https://media-2.api-sports.io/football/teams/174.png
+"Saturday, August 20 08:30 AM",fc schalke 04,vfl wolfsburg,0 - 0,tie,away,1661002200,https://media-3.api-sports.io/football/teams/174.png
+"Saturday, August 27 08:30 AM",fc schalke 04,union berlin,6 - 1,L,home,1661607000,https://media-2.api-sports.io/football/teams/174.png
+"Saturday, September 03 08:30 AM",fc schalke 04,vfb stuttgart,1 - 1,tie,away,1662211800,https://media-1.api-sports.io/football/teams/174.png
+"Saturday, September 10 11:30 AM",fc schalke 04,vfl bochum,1 - 3,W,home,1662827400,https://media-3.api-sports.io/football/teams/174.png
+"Saturday, September 17 08:30 AM",fc schalke 04,borussia dortmund,0 - 1,L,away,1663421400,https://media-1.api-sports.io/football/teams/174.png
+"Sunday, October 02 10:30 AM",fc schalke 04,fc augsburg,3 - 2,L,home,1664724600,https://media-1.api-sports.io/football/teams/174.png
+"Saturday, October 08 08:30 AM",fc schalke 04,bayer leverkusen,0 - 4,L,away,1665235800,https://media-1.api-sports.io/football/teams/174.png
+"Friday, October 14 01:30 PM",fc schalke 04,1899 hoffenheim,3 - 0,L,home,1665772200,https://media-1.api-sports.io/football/teams/174.png
 "Sunday, October 23 10:30 AM",fc schalke 04,hertha berlin,1 - 2,L,away,1666539000,https://media-1.api-sports.io/football/teams/174.png
-"Sunday, October 30 11:30 AM",fc schalke 04,sc freiburg,2 - 0,L,home,1667147400,https://media-1.api-sports.io/football/teams/174.png
-"Saturday, November 05 12:30 PM",fc schalke 04,werder bremen,1 - 2,L,away,1667669400,https://media-1.api-sports.io/football/teams/174.png
-"Wednesday, November 09 01:30 PM",fc schalke 04,fsv mainz 05,0 - 1,W,home,1668022200,https://media-3.api-sports.io/football/teams/174.png
-"Saturday, November 12 11:30 AM",fc schalke 04,bayern munich,2 - 0,L,home,1668274200,https://media-1.api-sports.io/football/teams/174.png
+"Sunday, October 30 11:30 AM",fc schalke 04,sc freiburg,2 - 0,L,home,1667147400,https://media-2.api-sports.io/football/teams/174.png
+"Saturday, November 05 12:30 PM",fc schalke 04,werder bremen,1 - 2,L,away,1667669400,https://media-2.api-sports.io/football/teams/174.png
+"Wednesday, November 09 01:30 PM",fc schalke 04,fsv mainz 05,0 - 1,W,home,1668022200,https://media-1.api-sports.io/football/teams/174.png
+"Saturday, November 12 11:30 AM",fc schalke 04,bayern munich,2 - 0,L,home,1668274200,https://media-2.api-sports.io/football/teams/174.png
 "Saturday, January 21 08:30 AM",fc schalke 04,eintracht frankfurt,,,away,1674311400,https://media-2.api-sports.io/football/teams/174.png
 "Tuesday, January 24 11:30 AM",fc schalke 04,rb leipzig,,,home,1674581400,https://media-3.api-sports.io/football/teams/174.png
-"Sunday, January 29 08:30 AM",fc schalke 04,fc koln,,,home,1675002600,https://media-2.api-sports.io/football/teams/174.png
-"Saturday, February 04 11:30 AM",fc schalke 04,borussia monchengladbach,,,away,1675531800,https://media-2.api-sports.io/football/teams/174.png
-"Friday, February 10 06:00 PM",fc schalke 04,vfl wolfsburg,,,home,1676073600,https://media-1.api-sports.io/football/teams/174.png
-"Sunday, February 19 08:30 AM",fc schalke 04,union berlin,,,away,1676817000,https://media-2.api-sports.io/football/teams/174.png
+"Sunday, January 29 08:30 AM",fc schalke 04,fc koln,,,home,1675002600,https://media-1.api-sports.io/football/teams/174.png
+"Saturday, February 04 11:30 AM",fc schalke 04,borussia monchengladbach,,,away,1675531800,https://media-1.api-sports.io/football/teams/174.png
+"Friday, February 10 06:00 PM",fc schalke 04,vfl wolfsburg,,,home,1676073600,https://media-2.api-sports.io/football/teams/174.png
+"Sunday, February 19 08:30 AM",fc schalke 04,union berlin,,,away,1676817000,https://media-3.api-sports.io/football/teams/174.png
 "Saturday, February 25 11:30 AM",fc schalke 04,vfb stuttgart,,,home,1677346200,https://media-2.api-sports.io/football/teams/174.png
-"Saturday, March 04 08:30 AM",fc schalke 04,vfl bochum,,,away,1677940200,https://media-3.api-sports.io/football/teams/174.png
-"Saturday, March 11 11:30 AM",fc schalke 04,borussia dortmund,,,home,1678555800,https://media-3.api-sports.io/football/teams/174.png
+"Saturday, March 04 08:30 AM",fc schalke 04,vfl bochum,,,away,1677940200,https://media-2.api-sports.io/football/teams/174.png
+"Saturday, March 11 11:30 AM",fc schalke 04,borussia dortmund,,,home,1678555800,https://media-1.api-sports.io/football/teams/174.png
 "Saturday, March 18 09:30 AM",fc schalke 04,fc augsburg,,,away,1679149800,https://media-2.api-sports.io/football/teams/174.png
 "Friday, March 31 07:00 PM",fc schalke 04,bayer leverkusen,,,home,1680307200,https://media-1.api-sports.io/football/teams/174.png
-"Friday, April 07 07:00 PM",fc schalke 04,1899 hoffenheim,,,away,1680912000,https://media-2.api-sports.io/football/teams/174.png
-"Friday, April 14 07:00 PM",fc schalke 04,hertha berlin,,,home,1681516800,https://media-2.api-sports.io/football/teams/174.png
-"Friday, April 21 07:00 PM",fc schalke 04,sc freiburg,,,away,1682121600,https://media-3.api-sports.io/football/teams/174.png
-"Friday, April 28 07:00 PM",fc schalke 04,werder bremen,,,home,1682726400,https://media-1.api-sports.io/football/teams/174.png
-"Friday, May 05 07:00 PM",fc schalke 04,fsv mainz 05,,,away,1683331200,https://media-2.api-sports.io/football/teams/174.png
+"Friday, April 07 07:00 PM",fc schalke 04,1899 hoffenheim,,,away,1680912000,https://media-3.api-sports.io/football/teams/174.png
+"Friday, April 14 07:00 PM",fc schalke 04,hertha berlin,,,home,1681516800,https://media-1.api-sports.io/football/teams/174.png
+"Friday, April 21 07:00 PM",fc schalke 04,sc freiburg,,,away,1682121600,https://media-2.api-sports.io/football/teams/174.png
+"Friday, April 28 07:00 PM",fc schalke 04,werder bremen,,,home,1682726400,https://media-3.api-sports.io/football/teams/174.png
+"Friday, May 05 07:00 PM",fc schalke 04,fsv mainz 05,,,away,1683331200,https://media-3.api-sports.io/football/teams/174.png
 "Friday, May 12 07:00 PM",fc schalke 04,bayern munich,,,away,1683936000,https://media-1.api-sports.io/football/teams/174.png
-"Friday, May 19 07:00 PM",fc schalke 04,eintracht frankfurt,,,home,1684540800,https://media-2.api-sports.io/football/teams/174.png
+"Friday, May 19 07:00 PM",fc schalke 04,eintracht frankfurt,,,home,1684540800,https://media-1.api-sports.io/football/teams/174.png
 "Saturday, May 27 08:30 AM",fc schalke 04,rb leipzig,,,away,1685194200,https://media-1.api-sports.io/football/teams/174.png

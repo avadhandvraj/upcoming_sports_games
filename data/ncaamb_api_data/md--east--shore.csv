@@ -1,26 +1,26 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,md.-east. shore,old dominion,65 - 84,L,away,1667865600,https://media-3.api-sports.io/basketball/teams/5795.png
-2022-11-12T21:00:00+00:00,md.-east. shore,bryn athyn,43 - 90,W,home,1668286800,https://media-3.api-sports.io/basketball/teams/5795.png
-2022-11-15T00:00:00+00:00,md.-east. shore,charlotte,47 - 80,L,away,1668470400,https://media-3.api-sports.io/basketball/teams/5795.png
+2022-11-08T00:00:00+00:00,md.-east. shore,old dominion,65 - 84,L,away,1667865600,https://media-2.api-sports.io/basketball/teams/5795.png
+2022-11-12T21:00:00+00:00,md.-east. shore,bryn athyn,43 - 90,W,home,1668286800,https://media-2.api-sports.io/basketball/teams/5795.png
+2022-11-15T00:00:00+00:00,md.-east. shore,charlotte,47 - 80,L,away,1668470400,https://media-1.api-sports.io/basketball/teams/5795.png
 2022-11-19T00:00:00+00:00,md.-east. shore,george washington,64 - 69,L,away,1668816000,https://media-3.api-sports.io/basketball/teams/5795.png
-2022-11-23T01:00:00+00:00,md.-east. shore,marist,59 - 70,W,home,1669165200,https://media-2.api-sports.io/basketball/teams/5795.png
+2022-11-23T01:00:00+00:00,md.-east. shore,marist,59 - 70,W,home,1669165200,https://media-1.api-sports.io/basketball/teams/5795.png
 2022-11-25T23:00:00+00:00,md.-east. shore,virginia,45 - 72,L,away,1669417200,https://media-2.api-sports.io/basketball/teams/5795.png
 2022-12-01T00:00:00+00:00,md.-east. shore,lehigh,60 - 64,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/5795.png
-2022-12-03T00:00:00+00:00,md.-east. shore,liberty,59 - 79,L,away,1670025600,https://media-2.api-sports.io/basketball/teams/5795.png
+2022-12-03T00:00:00+00:00,md.-east. shore,liberty,59 - 79,L,away,1670025600,https://media-3.api-sports.io/basketball/teams/5795.png
 2022-12-07T00:00:00+00:00,md.-east. shore,george mason,54 - 67,L,away,1670371200,https://media-1.api-sports.io/basketball/teams/5795.png
-2022-12-10T22:30:00+00:00,md.-east. shore,duke,55 - 82,L,away,1670711400,https://media-3.api-sports.io/basketball/teams/5795.png
+2022-12-10T22:30:00+00:00,md.-east. shore,duke,55 - 82,L,away,1670711400,https://media-1.api-sports.io/basketball/teams/5795.png
 2022-12-17T21:00:00+00:00,md.-east. shore,summit,55 - 95,W,home,1671310800,https://media-2.api-sports.io/basketball/teams/5795.png
-2022-12-21T00:00:00+00:00,md.-east. shore,temple,86 - 78,W,away,1671580800,https://media-3.api-sports.io/basketball/teams/5795.png
-2022-12-28T21:00:00+00:00,md.-east. shore,columbia,74 - 67,W,away,1672261200,https://media-3.api-sports.io/basketball/teams/5795.png
+2022-12-21T00:00:00+00:00,md.-east. shore,temple,86 - 78,W,away,1671580800,https://media-2.api-sports.io/basketball/teams/5795.png
+2022-12-28T21:00:00+00:00,md.-east. shore,columbia,74 - 67,W,away,1672261200,https://media-2.api-sports.io/basketball/teams/5795.png
 2023-01-03T00:00:00+00:00,md.-east. shore,st. mary's (md),56 - 87,W,home,1672704000,https://media-2.api-sports.io/basketball/teams/5795.png
-2023-01-07T21:00:00+00:00,md.-east. shore,norfolk state,46 - 57,L,away,1673125200,https://media-2.api-sports.io/basketball/teams/5795.png
-2023-01-10T00:30:00+00:00,md.-east. shore,howard,73 - 82,W,home,1673310600,https://media-1.api-sports.io/basketball/teams/5795.png
-2023-01-14T21:00:00+00:00,md.-east. shore,delaware state,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/5795.png
-2023-01-21T21:00:00+00:00,md.-east. shore,south carolina st,,,away,1674334800,https://media-1.api-sports.io/basketball/teams/5795.png
+2023-01-07T21:00:00+00:00,md.-east. shore,norfolk state,46 - 57,L,away,1673125200,https://media-3.api-sports.io/basketball/teams/5795.png
+2023-01-10T00:30:00+00:00,md.-east. shore,howard,73 - 82,W,home,1673310600,https://media-2.api-sports.io/basketball/teams/5795.png
+2023-01-14T21:00:00+00:00,md.-east. shore,delaware state,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/5795.png
+2023-01-21T21:00:00+00:00,md.-east. shore,south carolina st,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/5795.png
 2023-01-24T00:30:00+00:00,md.-east. shore,n. carolina central,,,away,1674520200,https://media-2.api-sports.io/basketball/teams/5795.png
 2023-01-28T21:00:00+00:00,md.-east. shore,coppin state,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/5795.png
-2023-01-31T00:30:00+00:00,md.-east. shore,morgan state,,,away,1675125000,https://media-3.api-sports.io/basketball/teams/5795.png
-2023-02-03T00:00:00+00:00,md.-east. shore,regent university,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/5795.png
-2023-02-11T21:00:00+00:00,md.-east. shore,norfolk state,,,home,1676149200,https://media-3.api-sports.io/basketball/teams/5795.png
-2023-02-14T00:30:00+00:00,md.-east. shore,howard,,,away,1676334600,https://media-3.api-sports.io/basketball/teams/5795.png
+2023-01-31T00:30:00+00:00,md.-east. shore,morgan state,,,away,1675125000,https://media-2.api-sports.io/basketball/teams/5795.png
+2023-02-03T00:00:00+00:00,md.-east. shore,regent university,,,home,1675382400,https://media-2.api-sports.io/basketball/teams/5795.png
+2023-02-11T21:00:00+00:00,md.-east. shore,norfolk state,,,home,1676149200,https://media-1.api-sports.io/basketball/teams/5795.png
+2023-02-14T00:30:00+00:00,md.-east. shore,howard,,,away,1676334600,https://media-1.api-sports.io/basketball/teams/5795.png
 2023-02-18T21:00:00+00:00,md.-east. shore,south carolina st,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/5795.png

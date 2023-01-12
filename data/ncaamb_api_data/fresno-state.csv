@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T03:00:00+00:00,fresno state,fresno pacific,56 - 69,W,home,1667876400,https://media-3.api-sports.io/basketball/teams/1919.png
 2022-11-11T22:00:00+00:00,fresno state,uc santa barbara,54 - 61,L,away,1668204000,https://media-1.api-sports.io/basketball/teams/1919.png
-2022-11-17T03:00:00+00:00,fresno state,san francisco,67 - 60,L,home,1668654000,https://media-2.api-sports.io/basketball/teams/1919.png
-2022-11-19T23:00:00+00:00,fresno state,north texas,52 - 61,L,away,1668898800,https://media-2.api-sports.io/basketball/teams/1919.png
+2022-11-17T03:00:00+00:00,fresno state,san francisco,67 - 60,L,home,1668654000,https://media-1.api-sports.io/basketball/teams/1919.png
+2022-11-19T23:00:00+00:00,fresno state,north texas,52 - 61,L,away,1668898800,https://media-3.api-sports.io/basketball/teams/1919.png
 2022-11-24T02:30:00+00:00,fresno state,washington,57 - 62,L,away,1669257000,https://media-1.api-sports.io/basketball/teams/1919.png
-2022-11-25T03:00:00+00:00,fresno state,vanderbilt,59 - 67,L,away,1669345200,https://media-3.api-sports.io/basketball/teams/1919.png
-2022-12-04T02:00:00+00:00,fresno state,uc irvine,80 - 66,W,away,1670119200,https://media-1.api-sports.io/basketball/teams/1919.png
+2022-11-25T03:00:00+00:00,fresno state,vanderbilt,59 - 67,L,away,1669345200,https://media-1.api-sports.io/basketball/teams/1919.png
+2022-12-04T02:00:00+00:00,fresno state,uc irvine,80 - 66,W,away,1670119200,https://media-3.api-sports.io/basketball/teams/1919.png
 2022-12-08T03:00:00+00:00,fresno state,cs northridge,56 - 65,W,home,1670468400,https://media-2.api-sports.io/basketball/teams/1919.png
 2022-12-10T22:00:00+00:00,fresno state,pacific,72 - 76,L,away,1670709600,https://media-1.api-sports.io/basketball/teams/1919.png
-2022-12-18T00:00:00+00:00,fresno state,sacramento state,59 - 53,L,home,1671321600,https://media-1.api-sports.io/basketball/teams/1919.png
-2022-12-21T03:00:00+00:00,fresno state,csu bakersfield,56 - 48,W,away,1671591600,https://media-3.api-sports.io/basketball/teams/1919.png
+2022-12-18T00:00:00+00:00,fresno state,sacramento state,59 - 53,L,home,1671321600,https://media-3.api-sports.io/basketball/teams/1919.png
+2022-12-21T03:00:00+00:00,fresno state,csu bakersfield,56 - 48,W,away,1671591600,https://media-2.api-sports.io/basketball/teams/1919.png
 2022-12-29T04:00:00+00:00,fresno state,wyoming,53 - 58,W,home,1672286400,https://media-2.api-sports.io/basketball/teams/1919.png
 2022-12-31T19:00:00+00:00,fresno state,utah state,54 - 67,L,away,1672513200,https://media-2.api-sports.io/basketball/teams/1919.png
-2023-01-04T04:00:00+00:00,fresno state,new mexico,67 - 71,W,home,1672804800,https://media-1.api-sports.io/basketball/teams/1919.png
+2023-01-04T04:00:00+00:00,fresno state,new mexico,67 - 71,W,home,1672804800,https://media-2.api-sports.io/basketball/teams/1919.png
 2023-01-07T21:30:00+00:00,fresno state,colorado state,57 - 79,L,away,1673127000,https://media-2.api-sports.io/basketball/teams/1919.png
 2023-01-11T03:00:00+00:00,fresno state,san jose state,64 - 74,L,away,1673406000,https://media-1.api-sports.io/basketball/teams/1919.png
-2023-01-15T00:00:00+00:00,fresno state,air force,,,home,1673740800,https://media-1.api-sports.io/basketball/teams/1919.png
-2023-01-21T23:00:00+00:00,fresno state,unlv,,,home,1674342000,https://media-1.api-sports.io/basketball/teams/1919.png
-2023-01-25T02:00:00+00:00,fresno state,boise state,,,away,1674612000,https://media-3.api-sports.io/basketball/teams/1919.png
-2023-01-29T00:00:00+00:00,fresno state,utah state,,,home,1674950400,https://media-3.api-sports.io/basketball/teams/1919.png
-2023-02-01T03:00:00+00:00,fresno state,wyoming,,,away,1675220400,https://media-1.api-sports.io/basketball/teams/1919.png
-2023-02-04T04:00:00+00:00,fresno state,unlv,,,away,1675483200,https://media-3.api-sports.io/basketball/teams/1919.png
-2023-02-08T04:00:00+00:00,fresno state,san jose state,,,home,1675828800,https://media-3.api-sports.io/basketball/teams/1919.png
-2023-02-11T04:00:00+00:00,fresno state,nevada,,,away,1676088000,https://media-1.api-sports.io/basketball/teams/1919.png
-2023-02-16T04:00:00+00:00,fresno state,san diego state,,,home,1676520000,https://media-1.api-sports.io/basketball/teams/1919.png
-2023-02-18T22:00:00+00:00,fresno state,colorado state,,,home,1676757600,https://media-2.api-sports.io/basketball/teams/1919.png
+2023-01-15T00:00:00+00:00,fresno state,air force,,,home,1673740800,https://media-2.api-sports.io/basketball/teams/1919.png
+2023-01-21T23:00:00+00:00,fresno state,unlv,,,home,1674342000,https://media-3.api-sports.io/basketball/teams/1919.png
+2023-01-25T02:00:00+00:00,fresno state,boise state,,,away,1674612000,https://media-1.api-sports.io/basketball/teams/1919.png
+2023-01-29T00:00:00+00:00,fresno state,utah state,,,home,1674950400,https://media-1.api-sports.io/basketball/teams/1919.png
+2023-02-01T03:00:00+00:00,fresno state,wyoming,,,away,1675220400,https://media-2.api-sports.io/basketball/teams/1919.png
+2023-02-04T04:00:00+00:00,fresno state,unlv,,,away,1675483200,https://media-1.api-sports.io/basketball/teams/1919.png
+2023-02-08T04:00:00+00:00,fresno state,san jose state,,,home,1675828800,https://media-1.api-sports.io/basketball/teams/1919.png
+2023-02-11T04:00:00+00:00,fresno state,nevada,,,away,1676088000,https://media-3.api-sports.io/basketball/teams/1919.png
+2023-02-16T04:00:00+00:00,fresno state,san diego state,,,home,1676520000,https://media-2.api-sports.io/basketball/teams/1919.png
+2023-02-18T22:00:00+00:00,fresno state,colorado state,,,home,1676757600,https://media-1.api-sports.io/basketball/teams/1919.png

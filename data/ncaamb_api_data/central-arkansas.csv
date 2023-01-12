@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,central arkansas,wichita state,55 - 79,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/1490.png
+2022-11-08T01:00:00+00:00,central arkansas,wichita state,55 - 79,L,away,1667869200,https://media-3.api-sports.io/basketball/teams/1490.png
 2022-11-11T23:30:00+00:00,central arkansas,hendrix college,56 - 107,W,home,1668209400,https://media-3.api-sports.io/basketball/teams/1490.png
-2022-11-15T01:00:00+00:00,central arkansas,ualr,71 - 82,W,home,1668474000,https://media-3.api-sports.io/basketball/teams/1490.png
-2022-11-18T16:00:00+00:00,central arkansas,niagara,64 - 73,L,away,1668787200,https://media-1.api-sports.io/basketball/teams/1490.png
-2022-11-19T11:00:00+00:00,central arkansas,rider,90 - 85,W,away,1668855600,https://media-2.api-sports.io/basketball/teams/1490.png
+2022-11-15T01:00:00+00:00,central arkansas,ualr,71 - 82,W,home,1668474000,https://media-2.api-sports.io/basketball/teams/1490.png
+2022-11-18T16:00:00+00:00,central arkansas,niagara,64 - 73,L,away,1668787200,https://media-2.api-sports.io/basketball/teams/1490.png
+2022-11-19T11:00:00+00:00,central arkansas,rider,90 - 85,W,away,1668855600,https://media-3.api-sports.io/basketball/teams/1490.png
 2022-11-26T23:30:00+00:00,central arkansas,northwestern st.,74 - 66,L,home,1669505400,https://media-2.api-sports.io/basketball/teams/1490.png
-2022-11-27T21:30:00+00:00,central arkansas,idaho state,77 - 81,W,home,1669584600,https://media-1.api-sports.io/basketball/teams/1490.png
-2022-12-01T02:00:00+00:00,central arkansas,loyola chicago,70 - 85,L,away,1669860000,https://media-1.api-sports.io/basketball/teams/1490.png
-2022-12-07T01:00:00+00:00,central arkansas,arkansas state,67 - 72,W,home,1670374800,https://media-1.api-sports.io/basketball/teams/1490.png
+2022-11-27T21:30:00+00:00,central arkansas,idaho state,77 - 81,W,home,1669584600,https://media-3.api-sports.io/basketball/teams/1490.png
+2022-12-01T02:00:00+00:00,central arkansas,loyola chicago,70 - 85,L,away,1669860000,https://media-2.api-sports.io/basketball/teams/1490.png
+2022-12-07T01:00:00+00:00,central arkansas,arkansas state,67 - 72,W,home,1670374800,https://media-2.api-sports.io/basketball/teams/1490.png
 2022-12-11T01:00:00+00:00,central arkansas,oral roberts,78 - 111,L,away,1670720400,https://media-2.api-sports.io/basketball/teams/1490.png
-2022-12-17T20:00:00+00:00,central arkansas,oklahoma,66 - 87,L,away,1671307200,https://media-3.api-sports.io/basketball/teams/1490.png
-2022-12-21T00:30:00+00:00,central arkansas,ualr,66 - 75,L,away,1671582600,https://media-2.api-sports.io/basketball/teams/1490.png
+2022-12-17T20:00:00+00:00,central arkansas,oklahoma,66 - 87,L,away,1671307200,https://media-1.api-sports.io/basketball/teams/1490.png
+2022-12-21T00:30:00+00:00,central arkansas,ualr,66 - 75,L,away,1671582600,https://media-3.api-sports.io/basketball/teams/1490.png
 2022-12-28T22:00:00+00:00,central arkansas,tcu,57 - 103,L,away,1672264800,https://media-1.api-sports.io/basketball/teams/1490.png
-2022-12-31T19:00:00+00:00,central arkansas,kennesaw state,66 - 82,L,away,1672513200,https://media-1.api-sports.io/basketball/teams/1490.png
-2023-01-03T01:30:00+00:00,central arkansas,florida gulf coast,84 - 79,L,home,1672709400,https://media-1.api-sports.io/basketball/teams/1490.png
-2023-01-06T01:00:00+00:00,central arkansas,eastern kentucky,77 - 75,L,home,1672966800,https://media-1.api-sports.io/basketball/teams/1490.png
-2023-01-07T22:30:00+00:00,central arkansas,austin peay,62 - 86,L,away,1673130600,https://media-2.api-sports.io/basketball/teams/1490.png
+2022-12-31T19:00:00+00:00,central arkansas,kennesaw state,66 - 82,L,away,1672513200,https://media-3.api-sports.io/basketball/teams/1490.png
+2023-01-03T01:30:00+00:00,central arkansas,florida gulf coast,84 - 79,L,home,1672709400,https://media-3.api-sports.io/basketball/teams/1490.png
+2023-01-06T01:00:00+00:00,central arkansas,eastern kentucky,77 - 75,L,home,1672966800,https://media-3.api-sports.io/basketball/teams/1490.png
+2023-01-07T22:30:00+00:00,central arkansas,austin peay,62 - 86,L,away,1673130600,https://media-3.api-sports.io/basketball/teams/1490.png
 2023-01-13T00:00:00+00:00,central arkansas,queens royals,,,away,1673568000,https://media-3.api-sports.io/basketball/teams/1490.png
 2023-01-15T00:00:00+00:00,central arkansas,liberty,,,away,1673740800,https://media-2.api-sports.io/basketball/teams/1490.png
 2023-01-19T01:00:00+00:00,central arkansas,north alabama,,,home,1674090000,https://media-3.api-sports.io/basketball/teams/1490.png
-2023-01-22T01:15:00+00:00,central arkansas,north alabama,,,away,1674350100,https://media-1.api-sports.io/basketball/teams/1490.png
-2023-01-27T01:00:00+00:00,central arkansas,north florida,,,home,1674781200,https://media-3.api-sports.io/basketball/teams/1490.png
+2023-01-22T01:15:00+00:00,central arkansas,north alabama,,,away,1674350100,https://media-2.api-sports.io/basketball/teams/1490.png
+2023-01-27T01:00:00+00:00,central arkansas,north florida,,,home,1674781200,https://media-2.api-sports.io/basketball/teams/1490.png
 2023-01-28T21:00:00+00:00,central arkansas,jacksonville,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/1490.png
 2023-02-03T00:00:00+00:00,central arkansas,florida gulf coast,,,away,1675382400,https://media-2.api-sports.io/basketball/teams/1490.png
 2023-02-04T19:00:00+00:00,central arkansas,stetson,,,away,1675537200,https://media-3.api-sports.io/basketball/teams/1490.png
-2023-02-10T01:30:00+00:00,central arkansas,lipscomb,,,home,1675992600,https://media-1.api-sports.io/basketball/teams/1490.png
-2023-02-11T21:00:00+00:00,central arkansas,austin peay,,,home,1676149200,https://media-1.api-sports.io/basketball/teams/1490.png
-2023-02-17T00:30:00+00:00,central arkansas,eastern kentucky,,,away,1676593800,https://media-3.api-sports.io/basketball/teams/1490.png
-2023-02-18T21:00:00+00:00,central arkansas,bellarmine,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/1490.png
+2023-02-10T01:30:00+00:00,central arkansas,lipscomb,,,home,1675992600,https://media-3.api-sports.io/basketball/teams/1490.png
+2023-02-11T21:00:00+00:00,central arkansas,austin peay,,,home,1676149200,https://media-3.api-sports.io/basketball/teams/1490.png
+2023-02-17T00:30:00+00:00,central arkansas,eastern kentucky,,,away,1676593800,https://media-2.api-sports.io/basketball/teams/1490.png
+2023-02-18T21:00:00+00:00,central arkansas,bellarmine,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/1490.png
 2023-02-22T21:00:00+00:00,central arkansas,jacksonville state,None - None,tie,home,1677099600,https://media-3.api-sports.io/basketball/teams/1490.png
-2023-02-24T21:00:00+00:00,central arkansas,kennesaw state,None - None,tie,home,1677272400,https://media-1.api-sports.io/basketball/teams/1490.png
+2023-02-24T21:00:00+00:00,central arkansas,kennesaw state,None - None,tie,home,1677272400,https://media-3.api-sports.io/basketball/teams/1490.png

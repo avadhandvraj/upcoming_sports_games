@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:30:00+00:00,lafayette,miami (fl),54 - 67,L,away,1667867400,https://media-3.api-sports.io/basketball/teams/1969.png
-2022-11-12T23:00:00+00:00,lafayette,st. john's (n.y.),68 - 83,L,away,1668294000,https://media-2.api-sports.io/basketball/teams/1969.png
-2022-11-15T00:00:00+00:00,lafayette,saint josephs,59 - 63,L,away,1668470400,https://media-1.api-sports.io/basketball/teams/1969.png
-2022-11-18T19:00:00+00:00,lafayette,umbc retrievers,63 - 71,L,away,1668798000,https://media-2.api-sports.io/basketball/teams/1969.png
-2022-11-19T17:00:00+00:00,lafayette,central connecticut state,55 - 50,W,away,1668877200,https://media-1.api-sports.io/basketball/teams/1969.png
-2022-11-23T01:30:00+00:00,lafayette,penn,74 - 68,L,home,1669167000,https://media-3.api-sports.io/basketball/teams/1969.png
+2022-11-12T23:00:00+00:00,lafayette,st. john's (n.y.),68 - 83,L,away,1668294000,https://media-3.api-sports.io/basketball/teams/1969.png
+2022-11-15T00:00:00+00:00,lafayette,saint josephs,59 - 63,L,away,1668470400,https://media-3.api-sports.io/basketball/teams/1969.png
+2022-11-18T19:00:00+00:00,lafayette,umbc retrievers,63 - 71,L,away,1668798000,https://media-1.api-sports.io/basketball/teams/1969.png
+2022-11-19T17:00:00+00:00,lafayette,central connecticut state,55 - 50,W,away,1668877200,https://media-3.api-sports.io/basketball/teams/1969.png
+2022-11-23T01:30:00+00:00,lafayette,penn,74 - 68,L,home,1669167000,https://media-2.api-sports.io/basketball/teams/1969.png
 2022-11-26T00:00:00+00:00,lafayette,penn state,57 - 70,L,away,1669420800,https://media-3.api-sports.io/basketball/teams/1969.png
-2022-12-01T00:00:00+00:00,lafayette,drexel,56 - 64,L,away,1669852800,https://media-1.api-sports.io/basketball/teams/1969.png
-2022-12-04T18:00:00+00:00,lafayette,cornell,68 - 73,L,away,1670176800,https://media-1.api-sports.io/basketball/teams/1969.png
-2022-12-07T00:00:00+00:00,lafayette,princeton,58 - 69,L,away,1670371200,https://media-1.api-sports.io/basketball/teams/1969.png
-2022-12-10T18:00:00+00:00,lafayette,quinnipiac,63 - 76,L,away,1670695200,https://media-1.api-sports.io/basketball/teams/1969.png
-2022-12-13T00:00:00+00:00,lafayette,columbia,57 - 45,L,home,1670889600,https://media-2.api-sports.io/basketball/teams/1969.png
+2022-12-01T00:00:00+00:00,lafayette,drexel,56 - 64,L,away,1669852800,https://media-2.api-sports.io/basketball/teams/1969.png
+2022-12-04T18:00:00+00:00,lafayette,cornell,68 - 73,L,away,1670176800,https://media-3.api-sports.io/basketball/teams/1969.png
+2022-12-07T00:00:00+00:00,lafayette,princeton,58 - 69,L,away,1670371200,https://media-3.api-sports.io/basketball/teams/1969.png
+2022-12-10T18:00:00+00:00,lafayette,quinnipiac,63 - 76,L,away,1670695200,https://media-2.api-sports.io/basketball/teams/1969.png
+2022-12-13T00:00:00+00:00,lafayette,columbia,57 - 45,L,home,1670889600,https://media-1.api-sports.io/basketball/teams/1969.png
 2022-12-21T19:00:00+00:00,lafayette,la salle,90 - 65,W,away,1671649200,https://media-2.api-sports.io/basketball/teams/1969.png
-2022-12-31T00:00:00+00:00,lafayette,american university,60 - 47,L,home,1672444800,https://media-3.api-sports.io/basketball/teams/1969.png
-2023-01-03T00:00:00+00:00,lafayette,army,82 - 65,L,home,1672704000,https://media-3.api-sports.io/basketball/teams/1969.png
+2022-12-31T00:00:00+00:00,lafayette,american university,60 - 47,L,home,1672444800,https://media-1.api-sports.io/basketball/teams/1969.png
+2023-01-03T00:00:00+00:00,lafayette,army,82 - 65,L,home,1672704000,https://media-1.api-sports.io/basketball/teams/1969.png
 2023-01-06T00:00:00+00:00,lafayette,boston university,69 - 73,L,away,1672963200,https://media-1.api-sports.io/basketball/teams/1969.png
-2023-01-08T18:00:00+00:00,lafayette,bucknell,67 - 74,W,home,1673200800,https://media-3.api-sports.io/basketball/teams/1969.png
+2023-01-08T18:00:00+00:00,lafayette,bucknell,67 - 74,W,home,1673200800,https://media-1.api-sports.io/basketball/teams/1969.png
 2023-01-12T00:00:00+00:00,lafayette,navy,59 - 50,W,away,1673481600,https://media-2.api-sports.io/basketball/teams/1969.png
-2023-01-14T18:00:00+00:00,lafayette,holy cross,,,home,1673719200,https://media-1.api-sports.io/basketball/teams/1969.png
-2023-01-19T00:00:00+00:00,lafayette,american university,,,away,1674086400,https://media-3.api-sports.io/basketball/teams/1969.png
-2023-01-22T00:00:00+00:00,lafayette,lehigh,,,away,1674345600,https://media-3.api-sports.io/basketball/teams/1969.png
-2023-01-26T00:00:00+00:00,lafayette,loyola maryland,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/1969.png
+2023-01-14T18:00:00+00:00,lafayette,holy cross,,,home,1673719200,https://media-2.api-sports.io/basketball/teams/1969.png
+2023-01-19T00:00:00+00:00,lafayette,american university,,,away,1674086400,https://media-2.api-sports.io/basketball/teams/1969.png
+2023-01-22T00:00:00+00:00,lafayette,lehigh,,,away,1674345600,https://media-2.api-sports.io/basketball/teams/1969.png
+2023-01-26T00:00:00+00:00,lafayette,loyola maryland,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/1969.png
 2023-01-28T19:00:00+00:00,lafayette,colgate,,,away,1674932400,https://media-2.api-sports.io/basketball/teams/1969.png
 2023-02-02T00:00:00+00:00,lafayette,navy,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/1969.png
-2023-02-04T18:00:00+00:00,lafayette,lehigh,,,home,1675533600,https://media-3.api-sports.io/basketball/teams/1969.png
-2023-02-07T00:00:00+00:00,lafayette,holy cross,,,away,1675728000,https://media-1.api-sports.io/basketball/teams/1969.png
-2023-02-11T18:00:00+00:00,lafayette,boston university,,,home,1676138400,https://media-2.api-sports.io/basketball/teams/1969.png
-2023-02-16T00:00:00+00:00,lafayette,loyola maryland,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/1969.png
+2023-02-04T18:00:00+00:00,lafayette,lehigh,,,home,1675533600,https://media-1.api-sports.io/basketball/teams/1969.png
+2023-02-07T00:00:00+00:00,lafayette,holy cross,,,away,1675728000,https://media-3.api-sports.io/basketball/teams/1969.png
+2023-02-11T18:00:00+00:00,lafayette,boston university,,,home,1676138400,https://media-1.api-sports.io/basketball/teams/1969.png
+2023-02-16T00:00:00+00:00,lafayette,loyola maryland,,,away,1676505600,https://media-2.api-sports.io/basketball/teams/1969.png
 2023-02-18T18:00:00+00:00,lafayette,army,,,away,1676743200,https://media-3.api-sports.io/basketball/teams/1969.png

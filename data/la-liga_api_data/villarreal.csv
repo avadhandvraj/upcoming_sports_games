@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Saturday, August 13 12:00 PM",villarreal,valladolid,3 - 0,W,away,1660410000,https://media-1.api-sports.io/football/teams/533.png
+"Saturday, August 13 12:00 PM",villarreal,valladolid,3 - 0,W,away,1660410000,https://media-3.api-sports.io/football/teams/533.png
 "Sunday, August 21 12:30 PM",villarreal,atletico madrid,2 - 0,W,away,1661103000,https://media-2.api-sports.io/football/teams/533.png
-"Sunday, August 28 10:30 AM",villarreal,getafe,0 - 0,tie,away,1661700600,https://media-1.api-sports.io/football/teams/533.png
+"Sunday, August 28 10:30 AM",villarreal,getafe,0 - 0,tie,away,1661700600,https://media-2.api-sports.io/football/teams/533.png
 "Sunday, September 04 11:30 AM",villarreal,elche,0 - 4,W,home,1662309000,https://media-1.api-sports.io/football/teams/533.png
-"Sunday, September 11 02:00 PM",villarreal,real betis,0 - 1,L,away,1662922800,https://media-1.api-sports.io/football/teams/533.png
-"Sunday, September 18 09:15 AM",villarreal,sevilla,1 - 1,tie,home,1663510500,https://media-1.api-sports.io/football/teams/533.png
-"Saturday, October 01 07:00 AM",villarreal,cadiz,0 - 0,tie,away,1664625600,https://media-3.api-sports.io/football/teams/533.png
-"Sunday, October 09 11:30 AM",villarreal,real sociedad,0 - 1,L,away,1665333000,https://media-1.api-sports.io/football/teams/533.png
-"Monday, October 17 02:00 PM",villarreal,osasuna,0 - 2,W,home,1666033200,https://media-3.api-sports.io/football/teams/533.png
-"Thursday, October 20 02:00 PM",villarreal,barcelona,0 - 3,L,away,1666292400,https://media-3.api-sports.io/football/teams/533.png
+"Sunday, September 11 02:00 PM",villarreal,real betis,0 - 1,L,away,1662922800,https://media-3.api-sports.io/football/teams/533.png
+"Sunday, September 18 09:15 AM",villarreal,sevilla,1 - 1,tie,home,1663510500,https://media-3.api-sports.io/football/teams/533.png
+"Saturday, October 01 07:00 AM",villarreal,cadiz,0 - 0,tie,away,1664625600,https://media-1.api-sports.io/football/teams/533.png
+"Sunday, October 09 11:30 AM",villarreal,real sociedad,0 - 1,L,away,1665333000,https://media-2.api-sports.io/football/teams/533.png
+"Monday, October 17 02:00 PM",villarreal,osasuna,0 - 2,W,home,1666033200,https://media-2.api-sports.io/football/teams/533.png
+"Thursday, October 20 02:00 PM",villarreal,barcelona,0 - 3,L,away,1666292400,https://media-1.api-sports.io/football/teams/533.png
 "Sunday, October 23 11:30 AM",villarreal,almeria,1 - 2,W,home,1666542600,https://media-3.api-sports.io/football/teams/533.png
-"Sunday, October 30 12:30 PM",villarreal,athletic club,0 - 1,L,away,1667151000,https://media-3.api-sports.io/football/teams/533.png
-"Sunday, November 06 11:30 AM",villarreal,mallorca,2 - 0,L,home,1667755800,https://media-1.api-sports.io/football/teams/533.png
-"Wednesday, November 09 01:00 PM",villarreal,espanyol,1 - 0,W,away,1668020400,https://media-2.api-sports.io/football/teams/533.png
-"Saturday, December 31 09:15 AM",villarreal,valencia,1 - 2,W,home,1672499700,https://media-3.api-sports.io/football/teams/533.png
-"Saturday, January 07 09:15 AM",villarreal,real madrid,1 - 2,W,home,1673104500,https://media-1.api-sports.io/football/teams/533.png
-"Friday, January 13 02:00 PM",villarreal,celta vigo,,,away,1673640000,https://media-2.api-sports.io/football/teams/533.png
-"Sunday, January 22 07:00 AM",villarreal,girona,,,home,1674392400,https://media-2.api-sports.io/football/teams/533.png
-"Saturday, January 28 06:00 PM",villarreal,rayo vallecano,,,home,1674950400,https://media-1.api-sports.io/football/teams/533.png
+"Sunday, October 30 12:30 PM",villarreal,athletic club,0 - 1,L,away,1667151000,https://media-2.api-sports.io/football/teams/533.png
+"Sunday, November 06 11:30 AM",villarreal,mallorca,2 - 0,L,home,1667755800,https://media-3.api-sports.io/football/teams/533.png
+"Wednesday, November 09 01:00 PM",villarreal,espanyol,1 - 0,W,away,1668020400,https://media-3.api-sports.io/football/teams/533.png
+"Saturday, December 31 09:15 AM",villarreal,valencia,1 - 2,W,home,1672499700,https://media-1.api-sports.io/football/teams/533.png
+"Saturday, January 07 09:15 AM",villarreal,real madrid,1 - 2,W,home,1673104500,https://media-3.api-sports.io/football/teams/533.png
+"Friday, January 13 02:00 PM",villarreal,celta vigo,,,away,1673640000,https://media-1.api-sports.io/football/teams/533.png
+"Sunday, January 22 07:00 AM",villarreal,girona,,,home,1674392400,https://media-3.api-sports.io/football/teams/533.png
+"Saturday, January 28 06:00 PM",villarreal,rayo vallecano,,,home,1674950400,https://media-3.api-sports.io/football/teams/533.png
 "Saturday, February 04 06:00 PM",villarreal,elche,,,away,1675555200,https://media-2.api-sports.io/football/teams/533.png
-"Saturday, February 11 06:00 PM",villarreal,barcelona,,,home,1676160000,https://media-2.api-sports.io/football/teams/533.png
+"Saturday, February 11 06:00 PM",villarreal,barcelona,,,home,1676160000,https://media-1.api-sports.io/football/teams/533.png
 "Saturday, February 18 06:00 PM",villarreal,mallorca,,,away,1676764800,https://media-2.api-sports.io/football/teams/533.png
-"Saturday, February 25 06:00 PM",villarreal,getafe,,,home,1677369600,https://media-3.api-sports.io/football/teams/533.png
+"Saturday, February 25 06:00 PM",villarreal,getafe,,,home,1677369600,https://media-1.api-sports.io/football/teams/533.png
 "Saturday, March 04 06:00 PM",villarreal,almeria,,,away,1677974400,https://media-3.api-sports.io/football/teams/533.png
-"Saturday, March 11 06:00 PM",villarreal,real betis,,,home,1678579200,https://media-3.api-sports.io/football/teams/533.png
+"Saturday, March 11 06:00 PM",villarreal,real betis,,,home,1678579200,https://media-2.api-sports.io/football/teams/533.png
 "Saturday, March 18 07:00 PM",villarreal,osasuna,,,away,1679184000,https://media-2.api-sports.io/football/teams/533.png
-"Saturday, April 01 07:00 PM",villarreal,real sociedad,,,home,1680393600,https://media-1.api-sports.io/football/teams/533.png
-"Saturday, April 08 07:00 PM",villarreal,real madrid,,,away,1680998400,https://media-1.api-sports.io/football/teams/533.png
-"Saturday, April 15 07:00 PM",villarreal,valladolid,,,home,1681603200,https://media-2.api-sports.io/football/teams/533.png
-"Saturday, April 22 07:00 PM",villarreal,sevilla,,,away,1682208000,https://media-1.api-sports.io/football/teams/533.png
+"Saturday, April 01 07:00 PM",villarreal,real sociedad,,,home,1680393600,https://media-2.api-sports.io/football/teams/533.png
+"Saturday, April 08 07:00 PM",villarreal,real madrid,,,away,1680998400,https://media-3.api-sports.io/football/teams/533.png
+"Saturday, April 15 07:00 PM",villarreal,valladolid,,,home,1681603200,https://media-3.api-sports.io/football/teams/533.png
+"Saturday, April 22 07:00 PM",villarreal,sevilla,,,away,1682208000,https://media-3.api-sports.io/football/teams/533.png
 "Tuesday, April 25 07:00 PM",villarreal,espanyol,,,home,1682467200,https://media-1.api-sports.io/football/teams/533.png
-"Saturday, April 29 07:00 PM",villarreal,celta vigo,,,home,1682812800,https://media-3.api-sports.io/football/teams/533.png
-"Tuesday, May 02 07:00 PM",villarreal,valencia,,,away,1683072000,https://media-3.api-sports.io/football/teams/533.png
+"Saturday, April 29 07:00 PM",villarreal,celta vigo,,,home,1682812800,https://media-1.api-sports.io/football/teams/533.png
+"Tuesday, May 02 07:00 PM",villarreal,valencia,,,away,1683072000,https://media-1.api-sports.io/football/teams/533.png
 "Saturday, May 13 07:00 PM",villarreal,athletic club,,,home,1684022400,https://media-2.api-sports.io/football/teams/533.png
-"Saturday, May 20 07:00 PM",villarreal,girona,,,away,1684627200,https://media-2.api-sports.io/football/teams/533.png
-"Tuesday, May 23 07:00 PM",villarreal,cadiz,,,home,1684886400,https://media-3.api-sports.io/football/teams/533.png
-"Saturday, May 27 07:00 PM",villarreal,rayo vallecano,,,away,1685232000,https://media-2.api-sports.io/football/teams/533.png
-"Saturday, June 03 07:00 PM",villarreal,atletico madrid,,,home,1685836800,https://media-2.api-sports.io/football/teams/533.png
+"Saturday, May 20 07:00 PM",villarreal,girona,,,away,1684627200,https://media-3.api-sports.io/football/teams/533.png
+"Tuesday, May 23 07:00 PM",villarreal,cadiz,,,home,1684886400,https://media-1.api-sports.io/football/teams/533.png
+"Saturday, May 27 07:00 PM",villarreal,rayo vallecano,,,away,1685232000,https://media-1.api-sports.io/football/teams/533.png
+"Saturday, June 03 07:00 PM",villarreal,atletico madrid,,,home,1685836800,https://media-1.api-sports.io/football/teams/533.png

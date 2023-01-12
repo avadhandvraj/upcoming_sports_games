@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-12T04:59:00+00:00,hawaii,miss. valley st.,54 - 72,W,home,1668229140,https://media-1.api-sports.io/basketball/teams/1933.png
+2022-11-12T04:59:00+00:00,hawaii,miss. valley st.,54 - 72,W,home,1668229140,https://media-3.api-sports.io/basketball/teams/1933.png
 2022-11-14T03:00:00+00:00,hawaii,east. washington,51 - 71,W,home,1668394800,https://media-2.api-sports.io/basketball/teams/1933.png
-2022-11-15T04:59:00+00:00,hawaii,yale,62 - 59,L,home,1668488340,https://media-1.api-sports.io/basketball/teams/1933.png
+2022-11-15T04:59:00+00:00,hawaii,yale,62 - 59,L,home,1668488340,https://media-2.api-sports.io/basketball/teams/1933.png
 2022-11-19T22:00:00+00:00,hawaii,hawaii pacific,55 - 79,W,home,1668895200,https://media-3.api-sports.io/basketball/teams/1933.png
-2022-11-26T01:30:00+00:00,hawaii,sacramento state,61 - 74,W,home,1669426200,https://media-1.api-sports.io/basketball/teams/1933.png
+2022-11-26T01:30:00+00:00,hawaii,sacramento state,61 - 74,W,home,1669426200,https://media-3.api-sports.io/basketball/teams/1933.png
 2022-11-27T04:59:00+00:00,hawaii,texas state,65 - 72,W,home,1669525140,https://media-1.api-sports.io/basketball/teams/1933.png
 2022-12-01T04:59:00+00:00,hawaii,tx a&m commerce,53 - 51,L,home,1669870740,https://media-1.api-sports.io/basketball/teams/1933.png
 2022-12-08T03:00:00+00:00,hawaii,unlv,62 - 77,L,away,1670468400,https://media-1.api-sports.io/basketball/teams/1933.png
 2022-12-12T03:00:00+00:00,hawaii,st. francis (pa),66 - 90,W,home,1670814000,https://media-2.api-sports.io/basketball/teams/1933.png
-2022-12-23T04:00:00+00:00,hawaii,pepperdine,70 - 76,W,home,1671768000,https://media-3.api-sports.io/basketball/teams/1933.png
-2022-12-24T04:59:00+00:00,hawaii,washington state,51 - 62,W,home,1671857940,https://media-1.api-sports.io/basketball/teams/1933.png
-2022-12-26T01:30:00+00:00,hawaii,smu mustangs,57 - 58,W,home,1672018200,https://media-1.api-sports.io/basketball/teams/1933.png
-2022-12-30T04:59:00+00:00,hawaii,uc davis,66 - 74,W,home,1672376340,https://media-1.api-sports.io/basketball/teams/1933.png
+2022-12-23T04:00:00+00:00,hawaii,pepperdine,70 - 76,W,home,1671768000,https://media-1.api-sports.io/basketball/teams/1933.png
+2022-12-24T04:59:00+00:00,hawaii,washington state,51 - 62,W,home,1671857940,https://media-3.api-sports.io/basketball/teams/1933.png
+2022-12-26T01:30:00+00:00,hawaii,smu mustangs,57 - 58,W,home,1672018200,https://media-3.api-sports.io/basketball/teams/1933.png
+2022-12-30T04:59:00+00:00,hawaii,uc davis,66 - 74,W,home,1672376340,https://media-2.api-sports.io/basketball/teams/1933.png
 2023-01-01T03:00:00+00:00,hawaii,cal poly,48 - 57,W,home,1672542000,https://media-1.api-sports.io/basketball/teams/1933.png
 2023-01-06T03:00:00+00:00,hawaii,uc san diego,62 - 49,W,away,1672974000,https://media-1.api-sports.io/basketball/teams/1933.png
-2023-01-08T02:00:00+00:00,hawaii,cs fullerton,72 - 79,L,away,1673143200,https://media-1.api-sports.io/basketball/teams/1933.png
-2023-01-15T04:59:00+00:00,hawaii,long beach state,,,home,1673758740,https://media-3.api-sports.io/basketball/teams/1933.png
+2023-01-08T02:00:00+00:00,hawaii,cs fullerton,72 - 79,L,away,1673143200,https://media-2.api-sports.io/basketball/teams/1933.png
+2023-01-15T04:59:00+00:00,hawaii,long beach state,,,home,1673758740,https://media-2.api-sports.io/basketball/teams/1933.png
 2023-01-16T21:00:00+00:00,hawaii,cs northridge,,,home,1673902800,https://media-3.api-sports.io/basketball/teams/1933.png
-2023-01-20T03:00:00+00:00,hawaii,uc irvine,,,away,1674183600,https://media-3.api-sports.io/basketball/teams/1933.png
-2023-01-22T01:00:00+00:00,hawaii,uc riverside,,,away,1674349200,https://media-3.api-sports.io/basketball/teams/1933.png
-2023-01-27T04:59:00+00:00,hawaii,uc santa barbara,,,home,1674795540,https://media-2.api-sports.io/basketball/teams/1933.png
-2023-01-29T04:59:00+00:00,hawaii,csu bakersfield,,,home,1674968340,https://media-3.api-sports.io/basketball/teams/1933.png
-2023-02-03T02:00:00+00:00,hawaii,uc davis,,,away,1675389600,https://media-3.api-sports.io/basketball/teams/1933.png
-2023-02-05T03:00:00+00:00,hawaii,cal poly,,,away,1675566000,https://media-3.api-sports.io/basketball/teams/1933.png
+2023-01-20T03:00:00+00:00,hawaii,uc irvine,,,away,1674183600,https://media-1.api-sports.io/basketball/teams/1933.png
+2023-01-22T01:00:00+00:00,hawaii,uc riverside,,,away,1674349200,https://media-2.api-sports.io/basketball/teams/1933.png
+2023-01-27T04:59:00+00:00,hawaii,uc santa barbara,,,home,1674795540,https://media-1.api-sports.io/basketball/teams/1933.png
+2023-01-29T04:59:00+00:00,hawaii,csu bakersfield,,,home,1674968340,https://media-2.api-sports.io/basketball/teams/1933.png
+2023-02-03T02:00:00+00:00,hawaii,uc davis,,,away,1675389600,https://media-1.api-sports.io/basketball/teams/1933.png
+2023-02-05T03:00:00+00:00,hawaii,cal poly,,,away,1675566000,https://media-2.api-sports.io/basketball/teams/1933.png
 2023-02-10T04:59:00+00:00,hawaii,uc san diego,,,home,1676005140,https://media-2.api-sports.io/basketball/teams/1933.png
-2023-02-12T04:59:00+00:00,hawaii,cs fullerton,,,home,1676177940,https://media-2.api-sports.io/basketball/teams/1933.png
+2023-02-12T04:59:00+00:00,hawaii,cs fullerton,,,home,1676177940,https://media-3.api-sports.io/basketball/teams/1933.png
 2023-02-18T21:00:00+00:00,hawaii,long beach state,None - None,tie,away,1676754000,https://media-2.api-sports.io/basketball/teams/1933.png
 2023-02-20T21:00:00+00:00,hawaii,csu bakersfield,None - None,tie,away,1676926800,https://media-2.api-sports.io/basketball/teams/1933.png
-2023-02-23T21:00:00+00:00,hawaii,uc riverside,None - None,tie,home,1677186000,https://media-2.api-sports.io/basketball/teams/1933.png
-2023-02-25T21:00:00+00:00,hawaii,uc irvine,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/1933.png
+2023-02-23T21:00:00+00:00,hawaii,uc riverside,None - None,tie,home,1677186000,https://media-3.api-sports.io/basketball/teams/1933.png
+2023-02-25T21:00:00+00:00,hawaii,uc irvine,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/1933.png

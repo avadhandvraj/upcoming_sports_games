@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,florida atlantic,lynn university,46 - 81,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/230.png
+2022-11-08T00:00:00+00:00,florida atlantic,lynn university,46 - 81,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/230.png
 2022-11-12T00:00:00+00:00,florida atlantic,ole miss,67 - 80,L,away,1668211200,https://media-1.api-sports.io/basketball/teams/230.png
-2022-11-15T00:00:00+00:00,florida atlantic,florida,76 - 74,W,away,1668470400,https://media-2.api-sports.io/basketball/teams/230.png
+2022-11-15T00:00:00+00:00,florida atlantic,florida,76 - 74,W,away,1668470400,https://media-1.api-sports.io/basketball/teams/230.png
 2022-11-18T00:00:00+00:00,florida atlantic,bryant university,74 - 85,W,home,1668729600,https://media-1.api-sports.io/basketball/teams/230.png
-2022-11-19T23:00:00+00:00,florida atlantic,detroit,55 - 76,W,home,1668898800,https://media-3.api-sports.io/basketball/teams/230.png
-2022-11-26T18:00:00+00:00,florida atlantic,albany,73 - 56,W,away,1669485600,https://media-2.api-sports.io/basketball/teams/230.png
+2022-11-19T23:00:00+00:00,florida atlantic,detroit,55 - 76,W,home,1668898800,https://media-2.api-sports.io/basketball/teams/230.png
+2022-11-26T18:00:00+00:00,florida atlantic,albany,73 - 56,W,away,1669485600,https://media-1.api-sports.io/basketball/teams/230.png
 2022-12-01T00:00:00+00:00,florida atlantic,south alabama,59 - 84,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/230.png
 2022-12-04T19:30:00+00:00,florida atlantic,eastern michigan,101 - 73,W,away,1670182200,https://media-3.api-sports.io/basketball/teams/230.png
-2022-12-08T00:00:00+00:00,florida atlantic,florida gulf coast,53 - 85,W,home,1670457600,https://media-2.api-sports.io/basketball/teams/230.png
+2022-12-08T00:00:00+00:00,florida atlantic,florida gulf coast,53 - 85,W,home,1670457600,https://media-1.api-sports.io/basketball/teams/230.png
 2022-12-15T00:00:00+00:00,florida atlantic,st. thomas,74 - 97,W,home,1671062400,https://media-3.api-sports.io/basketball/teams/230.png
-2022-12-17T19:00:00+00:00,florida atlantic,florida international,53 - 79,W,home,1671303600,https://media-2.api-sports.io/basketball/teams/230.png
+2022-12-17T19:00:00+00:00,florida atlantic,florida international,53 - 79,W,home,1671303600,https://media-1.api-sports.io/basketball/teams/230.png
 2022-12-22T00:00:00+00:00,florida atlantic,northern kentucky,52 - 67,W,home,1671667200,https://media-2.api-sports.io/basketball/teams/230.png
 2022-12-30T01:00:00+00:00,florida atlantic,north texas,50 - 46,W,away,1672362000,https://media-2.api-sports.io/basketball/teams/230.png
-2023-01-06T00:00:00+00:00,florida atlantic,uab,86 - 88,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/230.png
-2023-01-07T19:00:00+00:00,florida atlantic,charlotte,67 - 71,W,home,1673118000,https://media-2.api-sports.io/basketball/teams/230.png
-2023-01-12T00:30:00+00:00,florida atlantic,florida international,77 - 73,W,away,1673483400,https://media-3.api-sports.io/basketball/teams/230.png
-2023-01-14T19:00:00+00:00,florida atlantic,north texas,,,home,1673722800,https://media-2.api-sports.io/basketball/teams/230.png
-2023-01-17T00:00:00+00:00,florida atlantic,western kentucky,,,away,1673913600,https://media-3.api-sports.io/basketball/teams/230.png
-2023-01-20T01:00:00+00:00,florida atlantic,utsa roadrunners,,,away,1674176400,https://media-1.api-sports.io/basketball/teams/230.png
+2023-01-06T00:00:00+00:00,florida atlantic,uab,86 - 88,W,home,1672963200,https://media-1.api-sports.io/basketball/teams/230.png
+2023-01-07T19:00:00+00:00,florida atlantic,charlotte,67 - 71,W,home,1673118000,https://media-1.api-sports.io/basketball/teams/230.png
+2023-01-12T00:30:00+00:00,florida atlantic,florida international,77 - 73,W,away,1673483400,https://media-2.api-sports.io/basketball/teams/230.png
+2023-01-14T19:00:00+00:00,florida atlantic,north texas,,,home,1673722800,https://media-3.api-sports.io/basketball/teams/230.png
+2023-01-17T00:00:00+00:00,florida atlantic,western kentucky,,,away,1673913600,https://media-2.api-sports.io/basketball/teams/230.png
+2023-01-20T01:00:00+00:00,florida atlantic,utsa roadrunners,,,away,1674176400,https://media-3.api-sports.io/basketball/teams/230.png
 2023-01-22T02:00:00+00:00,florida atlantic,utep,,,away,1674352800,https://media-1.api-sports.io/basketball/teams/230.png
-2023-01-27T00:00:00+00:00,florida atlantic,middle tenn. st.,,,home,1674777600,https://media-1.api-sports.io/basketball/teams/230.png
-2023-01-28T21:00:00+00:00,florida atlantic,western kentucky,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/230.png
-2023-02-03T00:00:00+00:00,florida atlantic,uab,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/230.png
-2023-02-04T21:00:00+00:00,florida atlantic,charlotte,,,away,1675544400,https://media-1.api-sports.io/basketball/teams/230.png
+2023-01-27T00:00:00+00:00,florida atlantic,middle tenn. st.,,,home,1674777600,https://media-2.api-sports.io/basketball/teams/230.png
+2023-01-28T21:00:00+00:00,florida atlantic,western kentucky,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/230.png
+2023-02-03T00:00:00+00:00,florida atlantic,uab,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/230.png
+2023-02-04T21:00:00+00:00,florida atlantic,charlotte,,,away,1675544400,https://media-2.api-sports.io/basketball/teams/230.png
 2023-02-10T00:00:00+00:00,florida atlantic,rice,,,home,1675987200,https://media-3.api-sports.io/basketball/teams/230.png
 2023-02-11T19:00:00+00:00,florida atlantic,louisiana tech,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/230.png
 2023-02-17T00:00:00+00:00,florida atlantic,middle tenn. st.,,,away,1676592000,https://media-3.api-sports.io/basketball/teams/230.png

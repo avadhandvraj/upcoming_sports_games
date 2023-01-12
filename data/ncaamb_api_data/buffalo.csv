@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,buffalo,colgate,87 - 88,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/1845.png
-2022-11-12T18:00:00+00:00,buffalo,james madison,97 - 62,L,home,1668276000,https://media-2.api-sports.io/basketball/teams/1845.png
-2022-11-16T00:00:00+00:00,buffalo,uconn,64 - 84,L,away,1668556800,https://media-2.api-sports.io/basketball/teams/1845.png
-2022-11-18T18:00:00+00:00,buffalo,drake,72 - 80,L,away,1668794400,https://media-1.api-sports.io/basketball/teams/1845.png
-2022-11-19T20:15:00+00:00,buffalo,howard,59 - 63,L,away,1668888900,https://media-2.api-sports.io/basketball/teams/1845.png
-2022-11-21T18:00:00+00:00,buffalo,george mason,82 - 74,W,away,1669053600,https://media-2.api-sports.io/basketball/teams/1845.png
-2022-11-27T19:30:00+00:00,buffalo,canisius,66 - 86,W,home,1669577400,https://media-3.api-sports.io/basketball/teams/1845.png
+2022-11-08T00:00:00+00:00,buffalo,colgate,87 - 88,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/1845.png
+2022-11-12T18:00:00+00:00,buffalo,james madison,97 - 62,L,home,1668276000,https://media-1.api-sports.io/basketball/teams/1845.png
+2022-11-16T00:00:00+00:00,buffalo,uconn,64 - 84,L,away,1668556800,https://media-3.api-sports.io/basketball/teams/1845.png
+2022-11-18T18:00:00+00:00,buffalo,drake,72 - 80,L,away,1668794400,https://media-3.api-sports.io/basketball/teams/1845.png
+2022-11-19T20:15:00+00:00,buffalo,howard,59 - 63,L,away,1668888900,https://media-3.api-sports.io/basketball/teams/1845.png
+2022-11-21T18:00:00+00:00,buffalo,george mason,82 - 74,W,away,1669053600,https://media-1.api-sports.io/basketball/teams/1845.png
+2022-11-27T19:30:00+00:00,buffalo,canisius,66 - 86,W,home,1669577400,https://media-2.api-sports.io/basketball/teams/1845.png
 2022-12-03T19:30:00+00:00,buffalo,st. bonaventure,66 - 83,W,home,1670095800,https://media-2.api-sports.io/basketball/teams/1845.png
-2022-12-06T23:00:00+00:00,buffalo,st. john fisher,53 - 91,W,home,1670367600,https://media-2.api-sports.io/basketball/teams/1845.png
-2022-12-10T16:30:00+00:00,buffalo,tulane,88 - 63,L,home,1670689800,https://media-3.api-sports.io/basketball/teams/1845.png
-2022-12-18T22:00:00+00:00,buffalo,west virginia,78 - 96,L,away,1671400800,https://media-1.api-sports.io/basketball/teams/1845.png
+2022-12-06T23:00:00+00:00,buffalo,st. john fisher,53 - 91,W,home,1670367600,https://media-1.api-sports.io/basketball/teams/1845.png
+2022-12-10T16:30:00+00:00,buffalo,tulane,88 - 63,L,home,1670689800,https://media-2.api-sports.io/basketball/teams/1845.png
+2022-12-18T22:00:00+00:00,buffalo,west virginia,78 - 96,L,away,1671400800,https://media-3.api-sports.io/basketball/teams/1845.png
 2022-12-21T23:00:00+00:00,buffalo,suny-canton,62 - 129,W,home,1671663600,https://media-3.api-sports.io/basketball/teams/1845.png
-2022-12-30T23:00:00+00:00,buffalo,michigan state,68 - 89,L,away,1672441200,https://media-2.api-sports.io/basketball/teams/1845.png
-2023-01-04T00:00:00+00:00,buffalo,ohio,72 - 75,W,home,1672790400,https://media-3.api-sports.io/basketball/teams/1845.png
-2023-01-07T17:00:00+00:00,buffalo,northern illinois,62 - 80,W,home,1673110800,https://media-2.api-sports.io/basketball/teams/1845.png
-2023-01-11T00:00:00+00:00,buffalo,miami (ohio),80 - 91,L,away,1673395200,https://media-1.api-sports.io/basketball/teams/1845.png
-2023-01-14T21:30:00+00:00,buffalo,central michigan,,,away,1673731800,https://media-1.api-sports.io/basketball/teams/1845.png
-2023-01-17T21:00:00+00:00,buffalo,bowling green,,,home,1673989200,https://media-2.api-sports.io/basketball/teams/1845.png
-2023-01-21T01:30:00+00:00,buffalo,toledo,,,home,1674264600,https://media-3.api-sports.io/basketball/teams/1845.png
-2023-01-25T00:00:00+00:00,buffalo,ball state,,,away,1674604800,https://media-2.api-sports.io/basketball/teams/1845.png
+2022-12-30T23:00:00+00:00,buffalo,michigan state,68 - 89,L,away,1672441200,https://media-3.api-sports.io/basketball/teams/1845.png
+2023-01-04T00:00:00+00:00,buffalo,ohio,72 - 75,W,home,1672790400,https://media-2.api-sports.io/basketball/teams/1845.png
+2023-01-07T17:00:00+00:00,buffalo,northern illinois,62 - 80,W,home,1673110800,https://media-1.api-sports.io/basketball/teams/1845.png
+2023-01-11T00:00:00+00:00,buffalo,miami (ohio),80 - 91,L,away,1673395200,https://media-3.api-sports.io/basketball/teams/1845.png
+2023-01-14T21:30:00+00:00,buffalo,central michigan,,,away,1673731800,https://media-2.api-sports.io/basketball/teams/1845.png
+2023-01-17T21:00:00+00:00,buffalo,bowling green,,,home,1673989200,https://media-1.api-sports.io/basketball/teams/1845.png
+2023-01-21T01:30:00+00:00,buffalo,toledo,,,home,1674264600,https://media-1.api-sports.io/basketball/teams/1845.png
+2023-01-25T00:00:00+00:00,buffalo,ball state,,,away,1674604800,https://media-1.api-sports.io/basketball/teams/1845.png
 2023-01-28T02:00:00+00:00,buffalo,kent state,,,away,1674871200,https://media-2.api-sports.io/basketball/teams/1845.png
-2023-02-01T00:00:00+00:00,buffalo,akron,,,home,1675209600,https://media-2.api-sports.io/basketball/teams/1845.png
+2023-02-01T00:00:00+00:00,buffalo,akron,,,home,1675209600,https://media-1.api-sports.io/basketball/teams/1845.png
 2023-02-04T19:30:00+00:00,buffalo,western michigan,,,away,1675539000,https://media-2.api-sports.io/basketball/teams/1845.png
-2023-02-08T00:00:00+00:00,buffalo,eastern michigan,,,home,1675814400,https://media-2.api-sports.io/basketball/teams/1845.png
+2023-02-08T00:00:00+00:00,buffalo,eastern michigan,,,home,1675814400,https://media-3.api-sports.io/basketball/teams/1845.png
 2023-02-11T19:00:00+00:00,buffalo,kent state,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/1845.png
-2023-02-15T00:00:00+00:00,buffalo,ohio,,,away,1676419200,https://media-3.api-sports.io/basketball/teams/1845.png
+2023-02-15T00:00:00+00:00,buffalo,ohio,,,away,1676419200,https://media-1.api-sports.io/basketball/teams/1845.png

@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,albany,towson,62 - 67,L,away,1667865600,https://media-1.api-sports.io/basketball/teams/1808.png
-2022-11-08T22:00:00+00:00,albany,immaculata,74 - 47,W,away,1667944800,https://media-1.api-sports.io/basketball/teams/1808.png
-2022-11-13T00:30:00+00:00,albany,siena,62 - 75,L,away,1668299400,https://media-3.api-sports.io/basketball/teams/1808.png
-2022-11-15T00:00:00+00:00,albany,union (ny),75 - 87,W,home,1668470400,https://media-2.api-sports.io/basketball/teams/1808.png
-2022-11-18T00:00:00+00:00,albany,saint josephs,79 - 99,L,away,1668729600,https://media-1.api-sports.io/basketball/teams/1808.png
-2022-11-21T17:00:00+00:00,albany,austin peay,74 - 59,L,home,1669050000,https://media-1.api-sports.io/basketball/teams/1808.png
-2022-11-23T01:30:00+00:00,albany,presbyterian,68 - 65,W,away,1669167000,https://media-2.api-sports.io/basketball/teams/1808.png
-2022-11-26T18:00:00+00:00,albany,florida atlantic,73 - 56,L,home,1669485600,https://media-3.api-sports.io/basketball/teams/1808.png
-2022-11-30T00:00:00+00:00,albany,american university,62 - 88,L,away,1669766400,https://media-2.api-sports.io/basketball/teams/1808.png
-2022-12-06T00:00:00+00:00,albany,umass,73 - 87,L,away,1670284800,https://media-2.api-sports.io/basketball/teams/1808.png
+2022-11-08T00:00:00+00:00,albany,towson,62 - 67,L,away,1667865600,https://media-3.api-sports.io/basketball/teams/1808.png
+2022-11-08T22:00:00+00:00,albany,immaculata,74 - 47,W,away,1667944800,https://media-2.api-sports.io/basketball/teams/1808.png
+2022-11-13T00:30:00+00:00,albany,siena,62 - 75,L,away,1668299400,https://media-2.api-sports.io/basketball/teams/1808.png
+2022-11-15T00:00:00+00:00,albany,union (ny),75 - 87,W,home,1668470400,https://media-3.api-sports.io/basketball/teams/1808.png
+2022-11-18T00:00:00+00:00,albany,saint josephs,79 - 99,L,away,1668729600,https://media-3.api-sports.io/basketball/teams/1808.png
+2022-11-21T17:00:00+00:00,albany,austin peay,74 - 59,L,home,1669050000,https://media-2.api-sports.io/basketball/teams/1808.png
+2022-11-23T01:30:00+00:00,albany,presbyterian,68 - 65,W,away,1669167000,https://media-3.api-sports.io/basketball/teams/1808.png
+2022-11-26T18:00:00+00:00,albany,florida atlantic,73 - 56,L,home,1669485600,https://media-1.api-sports.io/basketball/teams/1808.png
+2022-11-30T00:00:00+00:00,albany,american university,62 - 88,L,away,1669766400,https://media-1.api-sports.io/basketball/teams/1808.png
+2022-12-06T00:00:00+00:00,albany,umass,73 - 87,L,away,1670284800,https://media-1.api-sports.io/basketball/teams/1808.png
 2022-12-10T19:30:00+00:00,albany,providence,55 - 93,L,away,1670700600,https://media-2.api-sports.io/basketball/teams/1808.png
-2022-12-15T00:00:00+00:00,albany,liu sharks,59 - 76,W,home,1671062400,https://media-1.api-sports.io/basketball/teams/1808.png
-2022-12-18T19:00:00+00:00,albany,loyola chicago,56 - 68,L,away,1671390000,https://media-2.api-sports.io/basketball/teams/1808.png
-2022-12-20T19:00:00+00:00,albany,northern illinois,83 - 78,W,away,1671562800,https://media-2.api-sports.io/basketball/teams/1808.png
-2022-12-28T23:00:00+00:00,albany,virginia,46 - 66,L,away,1672268400,https://media-1.api-sports.io/basketball/teams/1808.png
+2022-12-15T00:00:00+00:00,albany,liu sharks,59 - 76,W,home,1671062400,https://media-3.api-sports.io/basketball/teams/1808.png
+2022-12-18T19:00:00+00:00,albany,loyola chicago,56 - 68,L,away,1671390000,https://media-1.api-sports.io/basketball/teams/1808.png
+2022-12-20T19:00:00+00:00,albany,northern illinois,83 - 78,W,away,1671562800,https://media-1.api-sports.io/basketball/teams/1808.png
+2022-12-28T23:00:00+00:00,albany,virginia,46 - 66,L,away,1672268400,https://media-3.api-sports.io/basketball/teams/1808.png
 2022-12-31T17:00:00+00:00,albany,new hampshire,67 - 51,L,home,1672506000,https://media-2.api-sports.io/basketball/teams/1808.png
 2023-01-06T00:00:00+00:00,albany,umbc retrievers,83 - 92,L,away,1672963200,https://media-2.api-sports.io/basketball/teams/1808.png
-2023-01-08T20:00:00+00:00,albany,umass lowell,63 - 89,W,home,1673208000,https://media-3.api-sports.io/basketball/teams/1808.png
-2023-01-12T00:00:00+00:00,albany,bryant university,69 - 86,L,away,1673481600,https://media-2.api-sports.io/basketball/teams/1808.png
+2023-01-08T20:00:00+00:00,albany,umass lowell,63 - 89,W,home,1673208000,https://media-2.api-sports.io/basketball/teams/1808.png
+2023-01-12T00:00:00+00:00,albany,bryant university,69 - 86,L,away,1673481600,https://media-1.api-sports.io/basketball/teams/1808.png
 2023-01-15T00:00:00+00:00,albany,njit,,,away,1673740800,https://media-1.api-sports.io/basketball/teams/1808.png
 2023-01-20T00:00:00+00:00,albany,binghamton,,,home,1674172800,https://media-3.api-sports.io/basketball/teams/1808.png
 2023-01-26T00:00:00+00:00,albany,new hampshire,,,away,1674691200,https://media-2.api-sports.io/basketball/teams/1808.png
-2023-01-29T00:00:00+00:00,albany,maine black bears,,,home,1674950400,https://media-3.api-sports.io/basketball/teams/1808.png
+2023-01-29T00:00:00+00:00,albany,maine black bears,,,home,1674950400,https://media-2.api-sports.io/basketball/teams/1808.png
 2023-02-01T23:00:00+00:00,albany,umass lowell,,,away,1675292400,https://media-1.api-sports.io/basketball/teams/1808.png
-2023-02-04T20:00:00+00:00,albany,vermont,,,home,1675540800,https://media-2.api-sports.io/basketball/teams/1808.png
-2023-02-09T00:00:00+00:00,albany,bryant university,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/1808.png
-2023-02-11T19:00:00+00:00,albany,binghamton,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/1808.png
+2023-02-04T20:00:00+00:00,albany,vermont,,,home,1675540800,https://media-1.api-sports.io/basketball/teams/1808.png
+2023-02-09T00:00:00+00:00,albany,bryant university,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/1808.png
+2023-02-11T19:00:00+00:00,albany,binghamton,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/1808.png
 2023-02-16T00:00:00+00:00,albany,umbc retrievers,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/1808.png
-2023-02-18T19:00:00+00:00,albany,maine black bears,,,away,1676746800,https://media-1.api-sports.io/basketball/teams/1808.png
+2023-02-18T19:00:00+00:00,albany,maine black bears,,,away,1676746800,https://media-2.api-sports.io/basketball/teams/1808.png

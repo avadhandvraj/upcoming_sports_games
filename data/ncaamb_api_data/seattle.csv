@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T03:00:00+00:00,seattle,uc san diego,85 - 71,W,away,1667876400,https://media-1.api-sports.io/basketball/teams/243.png
 2022-11-10T03:00:00+00:00,seattle,puget sound,55 - 106,W,home,1668049200,https://media-2.api-sports.io/basketball/teams/243.png
-2022-11-13T23:00:00+00:00,seattle,portland state,71 - 83,W,home,1668380400,https://media-2.api-sports.io/basketball/teams/243.png
-2022-11-20T01:00:00+00:00,seattle,portland,80 - 68,W,away,1668906000,https://media-3.api-sports.io/basketball/teams/243.png
+2022-11-13T23:00:00+00:00,seattle,portland state,71 - 83,W,home,1668380400,https://media-3.api-sports.io/basketball/teams/243.png
+2022-11-20T01:00:00+00:00,seattle,portland,80 - 68,W,away,1668906000,https://media-2.api-sports.io/basketball/teams/243.png
 2022-11-24T03:00:00+00:00,seattle,pacific lutheran,53 - 89,W,home,1669258800,https://media-1.api-sports.io/basketball/teams/243.png
-2022-11-29T03:00:00+00:00,seattle,washington,66 - 77,L,away,1669690800,https://media-2.api-sports.io/basketball/teams/243.png
+2022-11-29T03:00:00+00:00,seattle,washington,66 - 77,L,away,1669690800,https://media-1.api-sports.io/basketball/teams/243.png
 2022-12-01T03:00:00+00:00,seattle,cs fullerton,62 - 69,W,home,1669863600,https://media-3.api-sports.io/basketball/teams/243.png
-2022-12-10T21:30:00+00:00,seattle,north dakota,80 - 78,W,away,1670707800,https://media-2.api-sports.io/basketball/teams/243.png
+2022-12-10T21:30:00+00:00,seattle,north dakota,80 - 78,W,away,1670707800,https://media-3.api-sports.io/basketball/teams/243.png
 2022-12-16T03:30:00+00:00,seattle,oregon state,58 - 73,L,away,1671161400,https://media-2.api-sports.io/basketball/teams/243.png
-2022-12-18T23:00:00+00:00,seattle,alcorn state,58 - 72,W,home,1671404400,https://media-2.api-sports.io/basketball/teams/243.png
+2022-12-18T23:00:00+00:00,seattle,alcorn state,58 - 72,W,home,1671404400,https://media-1.api-sports.io/basketball/teams/243.png
 2022-12-22T22:00:00+00:00,seattle,utah state,56 - 84,L,away,1671746400,https://media-1.api-sports.io/basketball/teams/243.png
-2022-12-23T21:30:00+00:00,seattle,iona,83 - 72,L,home,1671831000,https://media-1.api-sports.io/basketball/teams/243.png
-2022-12-25T18:30:00+00:00,seattle,george washington,85 - 67,W,away,1671993000,https://media-2.api-sports.io/basketball/teams/243.png
-2022-12-31T23:00:00+00:00,seattle,california baptist,65 - 71,W,home,1672527600,https://media-3.api-sports.io/basketball/teams/243.png
-2023-01-06T00:30:00+00:00,seattle,utrgv,66 - 64,W,away,1672965000,https://media-1.api-sports.io/basketball/teams/243.png
-2023-01-07T20:00:00+00:00,seattle,ut arlington,76 - 61,W,away,1673121600,https://media-2.api-sports.io/basketball/teams/243.png
-2023-01-13T03:00:00+00:00,seattle,new mexico state,,,home,1673578800,https://media-1.api-sports.io/basketball/teams/243.png
-2023-01-15T01:00:00+00:00,seattle,utah valley state,,,away,1673744400,https://media-3.api-sports.io/basketball/teams/243.png
-2023-01-20T03:00:00+00:00,seattle,tarleton,,,home,1674183600,https://media-3.api-sports.io/basketball/teams/243.png
-2023-01-21T23:00:00+00:00,seattle,southern utah,,,home,1674342000,https://media-3.api-sports.io/basketball/teams/243.png
+2022-12-23T21:30:00+00:00,seattle,iona,83 - 72,L,home,1671831000,https://media-3.api-sports.io/basketball/teams/243.png
+2022-12-25T18:30:00+00:00,seattle,george washington,85 - 67,W,away,1671993000,https://media-3.api-sports.io/basketball/teams/243.png
+2022-12-31T23:00:00+00:00,seattle,california baptist,65 - 71,W,home,1672527600,https://media-2.api-sports.io/basketball/teams/243.png
+2023-01-06T00:30:00+00:00,seattle,utrgv,66 - 64,W,away,1672965000,https://media-2.api-sports.io/basketball/teams/243.png
+2023-01-07T20:00:00+00:00,seattle,ut arlington,76 - 61,W,away,1673121600,https://media-1.api-sports.io/basketball/teams/243.png
+2023-01-13T03:00:00+00:00,seattle,new mexico state,,,home,1673578800,https://media-2.api-sports.io/basketball/teams/243.png
+2023-01-15T01:00:00+00:00,seattle,utah valley state,,,away,1673744400,https://media-1.api-sports.io/basketball/teams/243.png
+2023-01-20T03:00:00+00:00,seattle,tarleton,,,home,1674183600,https://media-1.api-sports.io/basketball/teams/243.png
+2023-01-21T23:00:00+00:00,seattle,southern utah,,,home,1674342000,https://media-2.api-sports.io/basketball/teams/243.png
 2023-01-27T01:30:00+00:00,seattle,sam houston st.,,,away,1674783000,https://media-3.api-sports.io/basketball/teams/243.png
-2023-01-28T22:30:00+00:00,seattle,stephen f. austin,,,away,1674945000,https://media-3.api-sports.io/basketball/teams/243.png
-2023-02-02T03:00:00+00:00,seattle,abilene christian,,,home,1675306800,https://media-1.api-sports.io/basketball/teams/243.png
-2023-02-05T02:00:00+00:00,seattle,new mexico state,,,away,1675562400,https://media-1.api-sports.io/basketball/teams/243.png
-2023-02-09T03:00:00+00:00,seattle,utah tech,,,home,1675911600,https://media-3.api-sports.io/basketball/teams/243.png
+2023-01-28T22:30:00+00:00,seattle,stephen f. austin,,,away,1674945000,https://media-1.api-sports.io/basketball/teams/243.png
+2023-02-02T03:00:00+00:00,seattle,abilene christian,,,home,1675306800,https://media-2.api-sports.io/basketball/teams/243.png
+2023-02-05T02:00:00+00:00,seattle,new mexico state,,,away,1675562400,https://media-3.api-sports.io/basketball/teams/243.png
+2023-02-09T03:00:00+00:00,seattle,utah tech,,,home,1675911600,https://media-2.api-sports.io/basketball/teams/243.png
 2023-02-12T03:00:00+00:00,seattle,grand canyon,,,home,1676170800,https://media-1.api-sports.io/basketball/teams/243.png
 2023-02-16T03:00:00+00:00,seattle,california baptist,,,away,1676516400,https://media-1.api-sports.io/basketball/teams/243.png

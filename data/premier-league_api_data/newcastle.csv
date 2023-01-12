@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Saturday, August 06 09:00 AM",newcastle,nottingham forest,0 - 2,W,home,1659794400,https://media-3.api-sports.io/football/teams/34.png
-"Saturday, August 13 09:00 AM",newcastle,brighton,0 - 0,tie,away,1660399200,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, August 06 09:00 AM",newcastle,nottingham forest,0 - 2,W,home,1659794400,https://media-1.api-sports.io/football/teams/34.png
+"Saturday, August 13 09:00 AM",newcastle,brighton,0 - 0,tie,away,1660399200,https://media-2.api-sports.io/football/teams/34.png
 "Sunday, August 21 10:30 AM",newcastle,manchester city,3 - 3,tie,home,1661095800,https://media-1.api-sports.io/football/teams/34.png
 "Sunday, August 28 08:00 AM",newcastle,wolves,1 - 1,tie,away,1661691600,https://media-1.api-sports.io/football/teams/34.png
-"Wednesday, August 31 02:00 PM",newcastle,liverpool,1 - 2,L,away,1661972400,https://media-2.api-sports.io/football/teams/34.png
-"Saturday, September 03 09:00 AM",newcastle,crystal palace,0 - 0,tie,home,1662213600,https://media-3.api-sports.io/football/teams/34.png
-"Sunday, September 11 08:00 AM",newcastle,west ham,,,away,1662901200,https://media-3.api-sports.io/football/teams/34.png
-"Saturday, September 17 09:00 AM",newcastle,bournemouth,1 - 1,tie,home,1663423200,https://media-2.api-sports.io/football/teams/34.png
-"Saturday, October 01 09:00 AM",newcastle,fulham,4 - 1,W,away,1664632800,https://media-3.api-sports.io/football/teams/34.png
-"Saturday, October 08 09:00 AM",newcastle,brentford,1 - 5,W,home,1665237600,https://media-2.api-sports.io/football/teams/34.png
+"Wednesday, August 31 02:00 PM",newcastle,liverpool,1 - 2,L,away,1661972400,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, September 03 09:00 AM",newcastle,crystal palace,0 - 0,tie,home,1662213600,https://media-1.api-sports.io/football/teams/34.png
+"Sunday, September 11 08:00 AM",newcastle,west ham,,,away,1662901200,https://media-1.api-sports.io/football/teams/34.png
+"Saturday, September 17 09:00 AM",newcastle,bournemouth,1 - 1,tie,home,1663423200,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, October 01 09:00 AM",newcastle,fulham,4 - 1,W,away,1664632800,https://media-2.api-sports.io/football/teams/34.png
+"Saturday, October 08 09:00 AM",newcastle,brentford,1 - 5,W,home,1665237600,https://media-3.api-sports.io/football/teams/34.png
 "Sunday, October 16 08:00 AM",newcastle,manchester united,0 - 0,tie,away,1665925200,https://media-2.api-sports.io/football/teams/34.png
-"Wednesday, October 19 01:30 PM",newcastle,everton,0 - 1,W,home,1666204200,https://media-1.api-sports.io/football/teams/34.png
-"Sunday, October 23 10:30 AM",newcastle,tottenham,2 - 1,W,away,1666539000,https://media-2.api-sports.io/football/teams/34.png
-"Saturday, October 29 09:00 AM",newcastle,aston villa,0 - 4,W,home,1667052000,https://media-2.api-sports.io/football/teams/34.png
-"Sunday, November 06 08:00 AM",newcastle,southampton,4 - 1,W,away,1667743200,https://media-3.api-sports.io/football/teams/34.png
-"Saturday, November 12 11:30 AM",newcastle,chelsea,0 - 1,W,home,1668274200,https://media-2.api-sports.io/football/teams/34.png
-"Monday, December 26 09:00 AM",newcastle,leicester,3 - 0,W,away,1672066800,https://media-1.api-sports.io/football/teams/34.png
-"Saturday, December 31 09:00 AM",newcastle,leeds,0 - 0,tie,home,1672498800,https://media-1.api-sports.io/football/teams/34.png
-"Tuesday, January 03 01:45 PM",newcastle,arsenal,0 - 0,tie,away,1672775100,https://media-1.api-sports.io/football/teams/34.png
-"Sunday, January 15 08:00 AM",newcastle,fulham,,,home,1673791200,https://media-3.api-sports.io/football/teams/34.png
-"Saturday, January 21 11:30 AM",newcastle,crystal palace,,,away,1674322200,https://media-2.api-sports.io/football/teams/34.png
-"Saturday, February 04 11:30 AM",newcastle,west ham,,,home,1675531800,https://media-2.api-sports.io/football/teams/34.png
-"Saturday, February 11 11:30 AM",newcastle,bournemouth,,,away,1676136600,https://media-3.api-sports.io/football/teams/34.png
+"Wednesday, October 19 01:30 PM",newcastle,everton,0 - 1,W,home,1666204200,https://media-2.api-sports.io/football/teams/34.png
+"Sunday, October 23 10:30 AM",newcastle,tottenham,2 - 1,W,away,1666539000,https://media-1.api-sports.io/football/teams/34.png
+"Saturday, October 29 09:00 AM",newcastle,aston villa,0 - 4,W,home,1667052000,https://media-3.api-sports.io/football/teams/34.png
+"Sunday, November 06 08:00 AM",newcastle,southampton,4 - 1,W,away,1667743200,https://media-2.api-sports.io/football/teams/34.png
+"Saturday, November 12 11:30 AM",newcastle,chelsea,0 - 1,W,home,1668274200,https://media-1.api-sports.io/football/teams/34.png
+"Monday, December 26 09:00 AM",newcastle,leicester,3 - 0,W,away,1672066800,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, December 31 09:00 AM",newcastle,leeds,0 - 0,tie,home,1672498800,https://media-3.api-sports.io/football/teams/34.png
+"Tuesday, January 03 01:45 PM",newcastle,arsenal,0 - 0,tie,away,1672775100,https://media-3.api-sports.io/football/teams/34.png
+"Sunday, January 15 08:00 AM",newcastle,fulham,,,home,1673791200,https://media-1.api-sports.io/football/teams/34.png
+"Saturday, January 21 11:30 AM",newcastle,crystal palace,,,away,1674322200,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, February 04 11:30 AM",newcastle,west ham,,,home,1675531800,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, February 11 11:30 AM",newcastle,bournemouth,,,away,1676136600,https://media-1.api-sports.io/football/teams/34.png
 "Saturday, February 18 11:30 AM",newcastle,liverpool,,,home,1676741400,https://media-2.api-sports.io/football/teams/34.png
-"Saturday, February 25 06:30 AM",newcastle,brighton,,,home,1677328200,https://media-1.api-sports.io/football/teams/34.png
+"Saturday, February 25 06:30 AM",newcastle,brighton,,,home,1677328200,https://media-2.api-sports.io/football/teams/34.png
 "Saturday, March 04 09:00 AM",newcastle,manchester city,,,away,1677942000,https://media-1.api-sports.io/football/teams/34.png
 "Saturday, March 11 09:00 AM",newcastle,wolves,,,home,1678546800,https://media-1.api-sports.io/football/teams/34.png
-"Saturday, March 18 10:00 AM",newcastle,nottingham forest,,,away,1679151600,https://media-3.api-sports.io/football/teams/34.png
-"Saturday, April 01 09:00 AM",newcastle,manchester united,,,home,1680357600,https://media-2.api-sports.io/football/teams/34.png
-"Saturday, April 08 09:00 AM",newcastle,brentford,,,away,1680962400,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, March 18 10:00 AM",newcastle,nottingham forest,,,away,1679151600,https://media-1.api-sports.io/football/teams/34.png
+"Saturday, April 01 09:00 AM",newcastle,manchester united,,,home,1680357600,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, April 08 09:00 AM",newcastle,brentford,,,away,1680962400,https://media-1.api-sports.io/football/teams/34.png
 "Saturday, April 15 09:00 AM",newcastle,aston villa,,,away,1681567200,https://media-3.api-sports.io/football/teams/34.png
 "Saturday, April 22 09:00 AM",newcastle,tottenham,,,home,1682172000,https://media-3.api-sports.io/football/teams/34.png
-"Tuesday, April 25 01:45 PM",newcastle,everton,,,away,1682448300,https://media-1.api-sports.io/football/teams/34.png
+"Tuesday, April 25 01:45 PM",newcastle,everton,,,away,1682448300,https://media-3.api-sports.io/football/teams/34.png
 "Saturday, April 29 09:00 AM",newcastle,southampton,,,home,1682776800,https://media-3.api-sports.io/football/teams/34.png
 "Saturday, May 06 09:00 AM",newcastle,arsenal,,,home,1683381600,https://media-3.api-sports.io/football/teams/34.png
 "Saturday, May 13 09:00 AM",newcastle,leeds,,,away,1683986400,https://media-1.api-sports.io/football/teams/34.png
-"Saturday, May 20 09:00 AM",newcastle,leicester,,,home,1684591200,https://media-3.api-sports.io/football/teams/34.png
+"Saturday, May 20 09:00 AM",newcastle,leicester,,,home,1684591200,https://media-2.api-sports.io/football/teams/34.png
 "Sunday, May 28 10:00 AM",newcastle,chelsea,,,away,1685286000,https://media-2.api-sports.io/football/teams/34.png

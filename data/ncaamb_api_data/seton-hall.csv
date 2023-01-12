@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-10T01:00:00+00:00,seton hall,monmouth,52 - 79,W,home,1668042000,https://media-1.api-sports.io/basketball/teams/2112.png
 2022-11-12T17:00:00+00:00,seton hall,st. peters,44 - 80,W,home,1668272400,https://media-1.api-sports.io/basketball/teams/2112.png
-2022-11-17T00:30:00+00:00,seton hall,iowa,83 - 67,L,home,1668645000,https://media-2.api-sports.io/basketball/teams/2112.png
+2022-11-17T00:30:00+00:00,seton hall,iowa,83 - 67,L,home,1668645000,https://media-1.api-sports.io/basketball/teams/2112.png
 2022-11-20T20:00:00+00:00,seton hall,wagner,44 - 82,W,home,1668974400,https://media-2.api-sports.io/basketball/teams/2112.png
-2022-11-25T00:30:00+00:00,seton hall,memphis,69 - 70,W,home,1669336200,https://media-3.api-sports.io/basketball/teams/2112.png
-2022-11-26T01:00:00+00:00,seton hall,oklahoma,77 - 64,L,home,1669424400,https://media-2.api-sports.io/basketball/teams/2112.png
+2022-11-25T00:30:00+00:00,seton hall,memphis,69 - 70,W,home,1669336200,https://media-2.api-sports.io/basketball/teams/2112.png
+2022-11-26T01:00:00+00:00,seton hall,oklahoma,77 - 64,L,home,1669424400,https://media-1.api-sports.io/basketball/teams/2112.png
 2022-11-27T22:00:00+00:00,seton hall,siena,60 - 55,L,home,1669586400,https://media-1.api-sports.io/basketball/teams/2112.png
-2022-12-02T02:00:00+00:00,seton hall,kansas,65 - 91,L,away,1669946400,https://media-1.api-sports.io/basketball/teams/2112.png
-2022-12-08T01:30:00+00:00,seton hall,lincoln (pa.),55 - 82,W,home,1670463000,https://media-2.api-sports.io/basketball/teams/2112.png
-2022-12-11T23:30:00+00:00,seton hall,rutgers,45 - 43,W,away,1670801400,https://media-3.api-sports.io/basketball/teams/2112.png
-2022-12-15T00:00:00+00:00,seton hall,drexel,49 - 66,W,home,1671062400,https://media-1.api-sports.io/basketball/teams/2112.png
-2022-12-17T17:30:00+00:00,seton hall,providence,71 - 67,L,home,1671298200,https://media-1.api-sports.io/basketball/teams/2112.png
-2022-12-21T01:30:00+00:00,seton hall,xavier,70 - 73,L,away,1671586200,https://media-3.api-sports.io/basketball/teams/2112.png
+2022-12-02T02:00:00+00:00,seton hall,kansas,65 - 91,L,away,1669946400,https://media-2.api-sports.io/basketball/teams/2112.png
+2022-12-08T01:30:00+00:00,seton hall,lincoln (pa.),55 - 82,W,home,1670463000,https://media-1.api-sports.io/basketball/teams/2112.png
+2022-12-11T23:30:00+00:00,seton hall,rutgers,45 - 43,W,away,1670801400,https://media-1.api-sports.io/basketball/teams/2112.png
+2022-12-15T00:00:00+00:00,seton hall,drexel,49 - 66,W,home,1671062400,https://media-3.api-sports.io/basketball/teams/2112.png
+2022-12-17T17:30:00+00:00,seton hall,providence,71 - 67,L,home,1671298200,https://media-2.api-sports.io/basketball/teams/2112.png
+2022-12-21T01:30:00+00:00,seton hall,xavier,70 - 73,L,away,1671586200,https://media-2.api-sports.io/basketball/teams/2112.png
 2022-12-28T01:00:00+00:00,seton hall,marquette,69 - 83,L,away,1672189200,https://media-1.api-sports.io/basketball/teams/2112.png
-2022-12-31T17:00:00+00:00,seton hall,st. john's (n.y.),66 - 88,W,home,1672506000,https://media-2.api-sports.io/basketball/teams/2112.png
-2023-01-04T01:30:00+00:00,seton hall,creighton,61 - 83,L,away,1672795800,https://media-2.api-sports.io/basketball/teams/2112.png
-2023-01-08T01:30:00+00:00,seton hall,butler,51 - 76,W,home,1673141400,https://media-1.api-sports.io/basketball/teams/2112.png
-2023-01-11T01:30:00+00:00,seton hall,georgetown,66 - 51,W,away,1673400600,https://media-1.api-sports.io/basketball/teams/2112.png
-2023-01-14T17:00:00+00:00,seton hall,depaul,,,away,1673715600,https://media-2.api-sports.io/basketball/teams/2112.png
+2022-12-31T17:00:00+00:00,seton hall,st. john's (n.y.),66 - 88,W,home,1672506000,https://media-3.api-sports.io/basketball/teams/2112.png
+2023-01-04T01:30:00+00:00,seton hall,creighton,61 - 83,L,away,1672795800,https://media-3.api-sports.io/basketball/teams/2112.png
+2023-01-08T01:30:00+00:00,seton hall,butler,51 - 76,W,home,1673141400,https://media-2.api-sports.io/basketball/teams/2112.png
+2023-01-11T01:30:00+00:00,seton hall,georgetown,66 - 51,W,away,1673400600,https://media-2.api-sports.io/basketball/teams/2112.png
+2023-01-14T17:00:00+00:00,seton hall,depaul,,,away,1673715600,https://media-1.api-sports.io/basketball/teams/2112.png
 2023-01-18T23:30:00+00:00,seton hall,uconn,,,home,1674084600,https://media-3.api-sports.io/basketball/teams/2112.png
-2023-01-21T21:00:00+00:00,seton hall,marquette,,,home,1674334800,https://media-2.api-sports.io/basketball/teams/2112.png
-2023-01-28T21:00:00+00:00,seton hall,butler,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/2112.png
+2023-01-21T21:00:00+00:00,seton hall,marquette,,,home,1674334800,https://media-3.api-sports.io/basketball/teams/2112.png
+2023-01-28T21:00:00+00:00,seton hall,butler,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/2112.png
 2023-02-02T01:30:00+00:00,seton hall,st. john's (n.y.),,,away,1675301400,https://media-1.api-sports.io/basketball/teams/2112.png
-2023-02-05T17:00:00+00:00,seton hall,depaul,,,home,1675616400,https://media-3.api-sports.io/basketball/teams/2112.png
-2023-02-08T23:30:00+00:00,seton hall,creighton,,,home,1675899000,https://media-3.api-sports.io/basketball/teams/2112.png
-2023-02-12T01:00:00+00:00,seton hall,villanova,,,away,1676163600,https://media-3.api-sports.io/basketball/teams/2112.png
-2023-02-14T23:00:00+00:00,seton hall,georgetown,,,home,1676415600,https://media-2.api-sports.io/basketball/teams/2112.png
-2023-02-18T17:00:00+00:00,seton hall,uconn,,,away,1676739600,https://media-2.api-sports.io/basketball/teams/2112.png
+2023-02-05T17:00:00+00:00,seton hall,depaul,,,home,1675616400,https://media-2.api-sports.io/basketball/teams/2112.png
+2023-02-08T23:30:00+00:00,seton hall,creighton,,,home,1675899000,https://media-2.api-sports.io/basketball/teams/2112.png
+2023-02-12T01:00:00+00:00,seton hall,villanova,,,away,1676163600,https://media-1.api-sports.io/basketball/teams/2112.png
+2023-02-14T23:00:00+00:00,seton hall,georgetown,,,home,1676415600,https://media-1.api-sports.io/basketball/teams/2112.png
+2023-02-18T17:00:00+00:00,seton hall,uconn,,,away,1676739600,https://media-3.api-sports.io/basketball/teams/2112.png

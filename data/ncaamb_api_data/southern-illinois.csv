@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,southern illinois,ualr,63 - 94,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/2120.png
-2022-11-11T01:00:00+00:00,southern illinois,oklahoma state,61 - 60,W,away,1668128400,https://media-1.api-sports.io/basketball/teams/2120.png
-2022-11-13T21:00:00+00:00,southern illinois,southern indiana,53 - 71,L,away,1668373200,https://media-2.api-sports.io/basketball/teams/2120.png
+2022-11-08T01:00:00+00:00,southern illinois,ualr,63 - 94,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/2120.png
+2022-11-11T01:00:00+00:00,southern illinois,oklahoma state,61 - 60,W,away,1668128400,https://media-3.api-sports.io/basketball/teams/2120.png
+2022-11-13T21:00:00+00:00,southern illinois,southern indiana,53 - 71,L,away,1668373200,https://media-1.api-sports.io/basketball/teams/2120.png
 2022-11-18T01:00:00+00:00,southern illinois,tennessee state,44 - 57,W,home,1668733200,https://media-3.api-sports.io/basketball/teams/2120.png
-2022-11-22T06:00:00+00:00,southern illinois,unlv,49 - 56,L,away,1669096800,https://media-3.api-sports.io/basketball/teams/2120.png
-2022-11-24T06:00:00+00:00,southern illinois,california baptist,64 - 61,W,away,1669269600,https://media-1.api-sports.io/basketball/teams/2120.png
-2022-12-01T01:00:00+00:00,southern illinois,evansville,80 - 53,W,away,1669856400,https://media-1.api-sports.io/basketball/teams/2120.png
+2022-11-22T06:00:00+00:00,southern illinois,unlv,49 - 56,L,away,1669096800,https://media-2.api-sports.io/basketball/teams/2120.png
+2022-11-24T06:00:00+00:00,southern illinois,california baptist,64 - 61,W,away,1669269600,https://media-2.api-sports.io/basketball/teams/2120.png
+2022-12-01T01:00:00+00:00,southern illinois,evansville,80 - 53,W,away,1669856400,https://media-2.api-sports.io/basketball/teams/2120.png
 2022-12-03T21:00:00+00:00,southern illinois,st. louis,72 - 85,L,away,1670101200,https://media-2.api-sports.io/basketball/teams/2120.png
-2022-12-08T01:00:00+00:00,southern illinois,indiana state,74 - 71,L,home,1670461200,https://media-2.api-sports.io/basketball/teams/2120.png
-2022-12-11T01:00:00+00:00,southern illinois,alcorn state,68 - 74,W,home,1670720400,https://media-3.api-sports.io/basketball/teams/2120.png
+2022-12-08T01:00:00+00:00,southern illinois,indiana state,74 - 71,L,home,1670461200,https://media-1.api-sports.io/basketball/teams/2120.png
+2022-12-11T01:00:00+00:00,southern illinois,alcorn state,68 - 74,W,home,1670720400,https://media-1.api-sports.io/basketball/teams/2120.png
 2022-12-14T01:00:00+00:00,southern illinois,lincoln mo.,51 - 88,W,home,1670979600,https://media-3.api-sports.io/basketball/teams/2120.png
-2022-12-17T01:00:00+00:00,southern illinois,chicago state,52 - 63,W,home,1671238800,https://media-3.api-sports.io/basketball/teams/2120.png
-2022-12-20T00:30:00+00:00,southern illinois,alabama a&m,None - None,tie,home,1671496200,https://media-1.api-sports.io/basketball/teams/2120.png
-2022-12-22T00:30:00+00:00,southern illinois,southeast missouri state,70 - 68,W,away,1671669000,https://media-1.api-sports.io/basketball/teams/2120.png
-2022-12-30T01:00:00+00:00,southern illinois,murray state,63 - 57,W,away,1672362000,https://media-2.api-sports.io/basketball/teams/2120.png
+2022-12-17T01:00:00+00:00,southern illinois,chicago state,52 - 63,W,home,1671238800,https://media-2.api-sports.io/basketball/teams/2120.png
+2022-12-20T00:30:00+00:00,southern illinois,alabama a&m,None - None,tie,home,1671496200,https://media-3.api-sports.io/basketball/teams/2120.png
+2022-12-22T00:30:00+00:00,southern illinois,southeast missouri state,70 - 68,W,away,1671669000,https://media-2.api-sports.io/basketball/teams/2120.png
+2022-12-30T01:00:00+00:00,southern illinois,murray state,63 - 57,W,away,1672362000,https://media-3.api-sports.io/basketball/teams/2120.png
 2023-01-01T22:00:00+00:00,southern illinois,belmont,45 - 63,W,home,1672610400,https://media-2.api-sports.io/basketball/teams/2120.png
-2023-01-05T01:00:00+00:00,southern illinois,drake,49 - 53,W,home,1672880400,https://media-3.api-sports.io/basketball/teams/2120.png
-2023-01-07T19:00:00+00:00,southern illinois,northern iowa,57 - 69,L,away,1673118000,https://media-1.api-sports.io/basketball/teams/2120.png
+2023-01-05T01:00:00+00:00,southern illinois,drake,49 - 53,W,home,1672880400,https://media-2.api-sports.io/basketball/teams/2120.png
+2023-01-07T19:00:00+00:00,southern illinois,northern iowa,57 - 69,L,away,1673118000,https://media-3.api-sports.io/basketball/teams/2120.png
 2023-01-12T00:00:00+00:00,southern illinois,indiana state,69 - 61,W,away,1673481600,https://media-2.api-sports.io/basketball/teams/2120.png
-2023-01-14T21:00:00+00:00,southern illinois,illinois state,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/2120.png
-2023-01-18T01:00:00+00:00,southern illinois,evansville,,,home,1674003600,https://media-1.api-sports.io/basketball/teams/2120.png
-2023-01-21T21:00:00+00:00,southern illinois,missouri state,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/2120.png
+2023-01-14T21:00:00+00:00,southern illinois,illinois state,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/2120.png
+2023-01-18T01:00:00+00:00,southern illinois,evansville,,,home,1674003600,https://media-3.api-sports.io/basketball/teams/2120.png
+2023-01-21T21:00:00+00:00,southern illinois,missouri state,,,away,1674334800,https://media-1.api-sports.io/basketball/teams/2120.png
 2023-01-25T01:00:00+00:00,southern illinois,murray state,,,home,1674608400,https://media-1.api-sports.io/basketball/teams/2120.png
-2023-01-29T20:00:00+00:00,southern illinois,illinois state,,,away,1675022400,https://media-2.api-sports.io/basketball/teams/2120.png
-2023-02-02T01:00:00+00:00,southern illinois,bradley,,,away,1675299600,https://media-1.api-sports.io/basketball/teams/2120.png
-2023-02-05T19:00:00+00:00,southern illinois,missouri state,,,home,1675623600,https://media-3.api-sports.io/basketball/teams/2120.png
+2023-01-29T20:00:00+00:00,southern illinois,illinois state,,,away,1675022400,https://media-3.api-sports.io/basketball/teams/2120.png
+2023-02-02T01:00:00+00:00,southern illinois,bradley,,,away,1675299600,https://media-2.api-sports.io/basketball/teams/2120.png
+2023-02-05T19:00:00+00:00,southern illinois,missouri state,,,home,1675623600,https://media-2.api-sports.io/basketball/teams/2120.png
 2023-02-09T01:00:00+00:00,southern illinois,illinois (chi.),,,home,1675904400,https://media-2.api-sports.io/basketball/teams/2120.png
-2023-02-11T19:00:00+00:00,southern illinois,drake,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/2120.png
+2023-02-11T19:00:00+00:00,southern illinois,drake,,,away,1676142000,https://media-3.api-sports.io/basketball/teams/2120.png
 2023-02-15T00:00:00+00:00,southern illinois,valparaiso,,,away,1676419200,https://media-1.api-sports.io/basketball/teams/2120.png

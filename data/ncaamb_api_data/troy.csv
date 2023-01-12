@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:00:00+00:00,troy,montevallo,67 - 87,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/2157.png
-2022-11-11T00:00:00+00:00,troy,muw owls,42 - 96,W,home,1668124800,https://media-2.api-sports.io/basketball/teams/2157.png
-2022-11-15T00:00:00+00:00,troy,florida state,79 - 72,W,away,1668470400,https://media-3.api-sports.io/basketball/teams/2157.png
+2022-11-11T00:00:00+00:00,troy,muw owls,42 - 96,W,home,1668124800,https://media-3.api-sports.io/basketball/teams/2157.png
+2022-11-15T00:00:00+00:00,troy,florida state,79 - 72,W,away,1668470400,https://media-1.api-sports.io/basketball/teams/2157.png
 2022-11-17T22:00:00+00:00,troy,merrimack warriors,54 - 73,W,home,1668722400,https://media-2.api-sports.io/basketball/teams/2157.png
 2022-11-19T00:00:00+00:00,troy,st. thomas (minn.),76 - 78,L,away,1668816000,https://media-2.api-sports.io/basketball/teams/2157.png
-2022-11-20T02:30:00+00:00,troy,montana,73 - 62,W,away,1668911400,https://media-2.api-sports.io/basketball/teams/2157.png
-2022-11-23T00:00:00+00:00,troy,southern-new o.,61 - 118,W,home,1669161600,https://media-1.api-sports.io/basketball/teams/2157.png
+2022-11-20T02:30:00+00:00,troy,montana,73 - 62,W,away,1668911400,https://media-3.api-sports.io/basketball/teams/2157.png
+2022-11-23T00:00:00+00:00,troy,southern-new o.,61 - 118,W,home,1669161600,https://media-2.api-sports.io/basketball/teams/2157.png
 2022-11-29T01:00:00+00:00,troy,arkansas,61 - 74,L,away,1669683600,https://media-1.api-sports.io/basketball/teams/2157.png
-2022-12-03T20:00:00+00:00,troy,siu edwardsville,72 - 78,L,away,1670097600,https://media-3.api-sports.io/basketball/teams/2157.png
-2022-12-06T03:00:00+00:00,troy,san diego state,55 - 60,L,away,1670295600,https://media-3.api-sports.io/basketball/teams/2157.png
-2022-12-10T22:30:00+00:00,troy,tennessee tech,64 - 87,W,home,1670711400,https://media-2.api-sports.io/basketball/teams/2157.png
-2022-12-17T19:00:00+00:00,troy,se louisiana,77 - 71,W,away,1671303600,https://media-3.api-sports.io/basketball/teams/2157.png
+2022-12-03T20:00:00+00:00,troy,siu edwardsville,72 - 78,L,away,1670097600,https://media-2.api-sports.io/basketball/teams/2157.png
+2022-12-06T03:00:00+00:00,troy,san diego state,55 - 60,L,away,1670295600,https://media-1.api-sports.io/basketball/teams/2157.png
+2022-12-10T22:30:00+00:00,troy,tennessee tech,64 - 87,W,home,1670711400,https://media-1.api-sports.io/basketball/teams/2157.png
+2022-12-17T19:00:00+00:00,troy,se louisiana,77 - 71,W,away,1671303600,https://media-1.api-sports.io/basketball/teams/2157.png
 2022-12-22T00:00:00+00:00,troy,mercer,82 - 79,L,home,1671667200,https://media-2.api-sports.io/basketball/teams/2157.png
-2022-12-30T01:00:00+00:00,troy,southern miss,60 - 64,L,away,1672362000,https://media-1.api-sports.io/basketball/teams/2157.png
+2022-12-30T01:00:00+00:00,troy,southern miss,60 - 64,L,away,1672362000,https://media-2.api-sports.io/basketball/teams/2157.png
 2022-12-31T22:00:00+00:00,troy,texas state,55 - 52,W,away,1672524000,https://media-3.api-sports.io/basketball/teams/2157.png
-2023-01-06T00:00:00+00:00,troy,old dominion,71 - 78,W,home,1672963200,https://media-1.api-sports.io/basketball/teams/2157.png
-2023-01-07T22:00:00+00:00,troy,arkansas state,54 - 66,W,home,1673128800,https://media-2.api-sports.io/basketball/teams/2157.png
+2023-01-06T00:00:00+00:00,troy,old dominion,71 - 78,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/2157.png
+2023-01-07T22:00:00+00:00,troy,arkansas state,54 - 66,W,home,1673128800,https://media-3.api-sports.io/basketball/teams/2157.png
 2023-01-13T00:00:00+00:00,troy,georgia state,,,away,1673568000,https://media-1.api-sports.io/basketball/teams/2157.png
 2023-01-14T21:00:00+00:00,troy,appalachian state,,,away,1673730000,https://media-1.api-sports.io/basketball/teams/2157.png
-2023-01-20T00:00:00+00:00,troy,james madison,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/2157.png
-2023-01-21T22:00:00+00:00,troy,louisiana monroe,,,home,1674338400,https://media-2.api-sports.io/basketball/teams/2157.png
-2023-01-27T01:00:00+00:00,troy,louisiana lafayette,,,away,1674781200,https://media-2.api-sports.io/basketball/teams/2157.png
-2023-01-28T21:00:00+00:00,troy,south alabama,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/2157.png
+2023-01-20T00:00:00+00:00,troy,james madison,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/2157.png
+2023-01-21T22:00:00+00:00,troy,louisiana monroe,,,home,1674338400,https://media-1.api-sports.io/basketball/teams/2157.png
+2023-01-27T01:00:00+00:00,troy,louisiana lafayette,,,away,1674781200,https://media-3.api-sports.io/basketball/teams/2157.png
+2023-01-28T21:00:00+00:00,troy,south alabama,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/2157.png
 2023-02-03T00:00:00+00:00,troy,southern miss,,,home,1675382400,https://media-2.api-sports.io/basketball/teams/2157.png
-2023-02-04T22:00:00+00:00,troy,texas state,,,home,1675548000,https://media-2.api-sports.io/basketball/teams/2157.png
-2023-02-10T01:15:00+00:00,troy,south alabama,,,home,1675991700,https://media-3.api-sports.io/basketball/teams/2157.png
+2023-02-04T22:00:00+00:00,troy,texas state,,,home,1675548000,https://media-1.api-sports.io/basketball/teams/2157.png
+2023-02-10T01:15:00+00:00,troy,south alabama,,,home,1675991700,https://media-1.api-sports.io/basketball/teams/2157.png
 2023-02-11T22:00:00+00:00,troy,louisiana lafayette,,,home,1676152800,https://media-3.api-sports.io/basketball/teams/2157.png
-2023-02-17T01:30:00+00:00,troy,arkansas state,,,away,1676597400,https://media-1.api-sports.io/basketball/teams/2157.png
+2023-02-17T01:30:00+00:00,troy,arkansas state,,,away,1676597400,https://media-3.api-sports.io/basketball/teams/2157.png
 2023-02-18T21:00:00+00:00,troy,marshall,None - None,tie,away,1676754000,https://media-1.api-sports.io/basketball/teams/2157.png
 2023-02-22T21:00:00+00:00,troy,louisiana monroe,None - None,tie,away,1677099600,https://media-1.api-sports.io/basketball/teams/2157.png
-2023-02-24T21:00:00+00:00,troy,coastal carolina,None - None,tie,home,1677272400,https://media-1.api-sports.io/basketball/teams/2157.png
+2023-02-24T21:00:00+00:00,troy,coastal carolina,None - None,tie,home,1677272400,https://media-3.api-sports.io/basketball/teams/2157.png

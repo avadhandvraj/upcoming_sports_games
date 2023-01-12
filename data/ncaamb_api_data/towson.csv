@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,towson,albany,62 - 67,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/2152.png
+2022-11-08T00:00:00+00:00,towson,albany,62 - 67,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/2152.png
 2022-11-11T00:00:00+00:00,towson,umass,67 - 55,W,away,1668124800,https://media-1.api-sports.io/basketball/teams/2152.png
 2022-11-13T21:00:00+00:00,towson,penn,80 - 74,W,away,1668373200,https://media-1.api-sports.io/basketball/teams/2152.png
-2022-11-18T00:00:00+00:00,towson,nc greensboro,56 - 53,W,away,1668729600,https://media-2.api-sports.io/basketball/teams/2152.png
-2022-11-23T00:00:00+00:00,towson,coppin state,67 - 83,W,home,1669161600,https://media-2.api-sports.io/basketball/teams/2152.png
-2022-11-25T21:00:00+00:00,towson,fairfield,74 - 69,L,home,1669410000,https://media-2.api-sports.io/basketball/teams/2152.png
-2022-11-26T19:30:00+00:00,towson,south alabama,62 - 60,W,away,1669491000,https://media-3.api-sports.io/basketball/teams/2152.png
-2022-11-27T22:00:00+00:00,towson,mercer,60 - 70,W,home,1669586400,https://media-1.api-sports.io/basketball/teams/2152.png
+2022-11-18T00:00:00+00:00,towson,nc greensboro,56 - 53,W,away,1668729600,https://media-1.api-sports.io/basketball/teams/2152.png
+2022-11-23T00:00:00+00:00,towson,coppin state,67 - 83,W,home,1669161600,https://media-1.api-sports.io/basketball/teams/2152.png
+2022-11-25T21:00:00+00:00,towson,fairfield,74 - 69,L,home,1669410000,https://media-3.api-sports.io/basketball/teams/2152.png
+2022-11-26T19:30:00+00:00,towson,south alabama,62 - 60,W,away,1669491000,https://media-1.api-sports.io/basketball/teams/2152.png
+2022-11-27T22:00:00+00:00,towson,mercer,60 - 70,W,home,1669586400,https://media-2.api-sports.io/basketball/teams/2152.png
 2022-12-03T00:00:00+00:00,towson,liu sharks,74 - 64,W,away,1670025600,https://media-1.api-sports.io/basketball/teams/2152.png
 2022-12-08T02:00:00+00:00,towson,clemson,75 - 80,L,away,1670464800,https://media-1.api-sports.io/basketball/teams/2152.png
-2022-12-11T21:00:00+00:00,towson,navy,71 - 69,L,home,1670792400,https://media-1.api-sports.io/basketball/teams/2152.png
+2022-12-11T21:00:00+00:00,towson,navy,71 - 69,L,home,1670792400,https://media-3.api-sports.io/basketball/teams/2152.png
 2022-12-17T18:00:00+00:00,towson,northern iowa,83 - 66,L,home,1671300000,https://media-3.api-sports.io/basketball/teams/2152.png
-2022-12-22T17:00:00+00:00,towson,bryant university,59 - 69,L,away,1671728400,https://media-2.api-sports.io/basketball/teams/2152.png
-2022-12-31T17:00:00+00:00,towson,charleston,76 - 74,L,home,1672506000,https://media-3.api-sports.io/basketball/teams/2152.png
-2023-01-06T00:00:00+00:00,towson,drexel,58 - 64,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/2152.png
+2022-12-22T17:00:00+00:00,towson,bryant university,59 - 69,L,away,1671728400,https://media-3.api-sports.io/basketball/teams/2152.png
+2022-12-31T17:00:00+00:00,towson,charleston,76 - 74,L,home,1672506000,https://media-1.api-sports.io/basketball/teams/2152.png
+2023-01-06T00:00:00+00:00,towson,drexel,58 - 64,W,home,1672963200,https://media-2.api-sports.io/basketball/teams/2152.png
 2023-01-07T23:30:00+00:00,towson,stony brook,67 - 55,W,away,1673134200,https://media-2.api-sports.io/basketball/teams/2152.png
 2023-01-12T00:00:00+00:00,towson,delaware,59 - 72,L,away,1673481600,https://media-3.api-sports.io/basketball/teams/2152.png
-2023-01-14T20:00:00+00:00,towson,monmouth,,,home,1673726400,https://media-2.api-sports.io/basketball/teams/2152.png
-2023-01-16T17:00:00+00:00,towson,hofstra,,,home,1673888400,https://media-1.api-sports.io/basketball/teams/2152.png
+2023-01-14T20:00:00+00:00,towson,monmouth,,,home,1673726400,https://media-1.api-sports.io/basketball/teams/2152.png
+2023-01-16T17:00:00+00:00,towson,hofstra,,,home,1673888400,https://media-2.api-sports.io/basketball/teams/2152.png
 2023-01-20T00:00:00+00:00,towson,n. carolina a&t,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/2152.png
-2023-01-21T21:00:00+00:00,towson,elon,,,away,1674334800,https://media-1.api-sports.io/basketball/teams/2152.png
-2023-01-27T00:00:00+00:00,towson,northeastern,,,home,1674777600,https://media-1.api-sports.io/basketball/teams/2152.png
-2023-01-28T21:00:00+00:00,towson,william & mary,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/2152.png
-2023-02-03T00:00:00+00:00,towson,hofstra,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/2152.png
-2023-02-09T00:00:00+00:00,towson,hampton,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/2152.png
+2023-01-21T21:00:00+00:00,towson,elon,,,away,1674334800,https://media-2.api-sports.io/basketball/teams/2152.png
+2023-01-27T00:00:00+00:00,towson,northeastern,,,home,1674777600,https://media-2.api-sports.io/basketball/teams/2152.png
+2023-01-28T21:00:00+00:00,towson,william & mary,,,home,1674939600,https://media-1.api-sports.io/basketball/teams/2152.png
+2023-02-03T00:00:00+00:00,towson,hofstra,,,away,1675382400,https://media-2.api-sports.io/basketball/teams/2152.png
+2023-02-09T00:00:00+00:00,towson,hampton,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/2152.png
 2023-02-11T19:00:00+00:00,towson,drexel,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/2152.png
 2023-02-14T00:00:00+00:00,towson,william & mary,,,away,1676332800,https://media-1.api-sports.io/basketball/teams/2152.png
-2023-02-17T00:00:00+00:00,towson,delaware,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/2152.png
+2023-02-17T00:00:00+00:00,towson,delaware,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/2152.png
 2023-02-18T21:00:00+00:00,towson,n. carolina a&t,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/2152.png
 2023-02-23T21:00:00+00:00,towson,charleston,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/2152.png
-2023-02-25T21:00:00+00:00,towson,nc wilmington,None - None,tie,away,1677358800,https://media-3.api-sports.io/basketball/teams/2152.png
+2023-02-25T21:00:00+00:00,towson,nc wilmington,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/2152.png

@@ -2,38 +2,38 @@ Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 "Saturday, August 13 12:00 PM",valladolid,villarreal,3 - 0,L,home,1660410000,https://media-1.api-sports.io/football/teams/720.png
 "Friday, August 19 03:00 PM",valladolid,sevilla,1 - 1,tie,away,1660939200,https://media-3.api-sports.io/football/teams/720.png
 "Sunday, August 28 12:30 PM",valladolid,barcelona,0 - 4,L,away,1661707800,https://media-1.api-sports.io/football/teams/720.png
-"Monday, September 05 02:00 PM",valladolid,almeria,0 - 1,W,home,1662404400,https://media-2.api-sports.io/football/teams/720.png
-"Friday, September 09 02:00 PM",valladolid,girona,1 - 2,L,away,1662750000,https://media-2.api-sports.io/football/teams/720.png
-"Friday, September 16 02:00 PM",valladolid,cadiz,1 - 0,L,home,1663354800,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, October 01 09:15 AM",valladolid,getafe,3 - 2,W,away,1664633700,https://media-1.api-sports.io/football/teams/720.png
-"Sunday, October 09 07:00 AM",valladolid,real betis,0 - 0,tie,home,1665316800,https://media-1.api-sports.io/football/teams/720.png
-"Sunday, October 16 11:30 AM",valladolid,espanyol,0 - 1,L,away,1665937800,https://media-1.api-sports.io/football/teams/720.png
+"Monday, September 05 02:00 PM",valladolid,almeria,0 - 1,W,home,1662404400,https://media-3.api-sports.io/football/teams/720.png
+"Friday, September 09 02:00 PM",valladolid,girona,1 - 2,L,away,1662750000,https://media-1.api-sports.io/football/teams/720.png
+"Friday, September 16 02:00 PM",valladolid,cadiz,1 - 0,L,home,1663354800,https://media-1.api-sports.io/football/teams/720.png
+"Saturday, October 01 09:15 AM",valladolid,getafe,3 - 2,W,away,1664633700,https://media-2.api-sports.io/football/teams/720.png
+"Sunday, October 09 07:00 AM",valladolid,real betis,0 - 0,tie,home,1665316800,https://media-3.api-sports.io/football/teams/720.png
+"Sunday, October 16 11:30 AM",valladolid,espanyol,0 - 1,L,away,1665937800,https://media-2.api-sports.io/football/teams/720.png
 "Wednesday, October 19 12:00 PM",valladolid,celta vigo,1 - 4,W,home,1666198800,https://media-2.api-sports.io/football/teams/720.png
 "Saturday, October 22 09:15 AM",valladolid,real sociedad,0 - 1,W,home,1666448100,https://media-2.api-sports.io/football/teams/720.png
-"Sunday, October 30 08:00 AM",valladolid,osasuna,0 - 2,L,away,1667134800,https://media-2.api-sports.io/football/teams/720.png
+"Sunday, October 30 08:00 AM",valladolid,osasuna,0 - 2,L,away,1667134800,https://media-1.api-sports.io/football/teams/720.png
 "Saturday, November 05 10:15 AM",valladolid,elche,1 - 2,W,home,1667661300,https://media-1.api-sports.io/football/teams/720.png
-"Tuesday, November 08 01:00 PM",valladolid,athletic club,0 - 3,L,away,1667934000,https://media-3.api-sports.io/football/teams/720.png
+"Tuesday, November 08 01:00 PM",valladolid,athletic club,0 - 3,L,away,1667934000,https://media-1.api-sports.io/football/teams/720.png
 "Friday, December 30 02:30 PM",valladolid,real madrid,2 - 0,L,home,1672432200,https://media-2.api-sports.io/football/teams/720.png
-"Saturday, January 07 11:30 AM",valladolid,mallorca,0 - 1,L,away,1673112600,https://media-1.api-sports.io/football/teams/720.png
+"Saturday, January 07 11:30 AM",valladolid,mallorca,0 - 1,L,away,1673112600,https://media-3.api-sports.io/football/teams/720.png
 "Saturday, January 14 07:00 AM",valladolid,rayo vallecano,,,home,1673701200,https://media-2.api-sports.io/football/teams/720.png
 "Saturday, January 21 11:30 AM",valladolid,atletico madrid,,,away,1674322200,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, January 28 06:00 PM",valladolid,valencia,,,home,1674950400,https://media-1.api-sports.io/football/teams/720.png
-"Saturday, February 04 06:00 PM",valladolid,real sociedad,,,away,1675555200,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, February 11 06:00 PM",valladolid,osasuna,,,home,1676160000,https://media-1.api-sports.io/football/teams/720.png
-"Saturday, February 18 06:00 PM",valladolid,real betis,,,away,1676764800,https://media-2.api-sports.io/football/teams/720.png
-"Saturday, February 25 06:00 PM",valladolid,celta vigo,,,away,1677369600,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, March 04 06:00 PM",valladolid,espanyol,,,home,1677974400,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, March 11 06:00 PM",valladolid,elche,,,away,1678579200,https://media-2.api-sports.io/football/teams/720.png
-"Saturday, March 18 07:00 PM",valladolid,athletic club,,,home,1679184000,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, April 01 07:00 PM",valladolid,real madrid,,,away,1680393600,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, April 08 07:00 PM",valladolid,mallorca,,,home,1680998400,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, April 15 07:00 PM",valladolid,villarreal,,,away,1681603200,https://media-1.api-sports.io/football/teams/720.png
+"Saturday, January 28 06:00 PM",valladolid,valencia,,,home,1674950400,https://media-2.api-sports.io/football/teams/720.png
+"Saturday, February 04 06:00 PM",valladolid,real sociedad,,,away,1675555200,https://media-2.api-sports.io/football/teams/720.png
+"Saturday, February 11 06:00 PM",valladolid,osasuna,,,home,1676160000,https://media-3.api-sports.io/football/teams/720.png
+"Saturday, February 18 06:00 PM",valladolid,real betis,,,away,1676764800,https://media-3.api-sports.io/football/teams/720.png
+"Saturday, February 25 06:00 PM",valladolid,celta vigo,,,away,1677369600,https://media-1.api-sports.io/football/teams/720.png
+"Saturday, March 04 06:00 PM",valladolid,espanyol,,,home,1677974400,https://media-1.api-sports.io/football/teams/720.png
+"Saturday, March 11 06:00 PM",valladolid,elche,,,away,1678579200,https://media-1.api-sports.io/football/teams/720.png
+"Saturday, March 18 07:00 PM",valladolid,athletic club,,,home,1679184000,https://media-2.api-sports.io/football/teams/720.png
+"Saturday, April 01 07:00 PM",valladolid,real madrid,,,away,1680393600,https://media-2.api-sports.io/football/teams/720.png
+"Saturday, April 08 07:00 PM",valladolid,mallorca,,,home,1680998400,https://media-2.api-sports.io/football/teams/720.png
+"Saturday, April 15 07:00 PM",valladolid,villarreal,,,away,1681603200,https://media-2.api-sports.io/football/teams/720.png
 "Saturday, April 22 07:00 PM",valladolid,girona,,,home,1682208000,https://media-2.api-sports.io/football/teams/720.png
 "Tuesday, April 25 07:00 PM",valladolid,valencia,,,away,1682467200,https://media-3.api-sports.io/football/teams/720.png
-"Saturday, April 29 07:00 PM",valladolid,atletico madrid,,,home,1682812800,https://media-1.api-sports.io/football/teams/720.png
-"Tuesday, May 02 07:00 PM",valladolid,rayo vallecano,,,away,1683072000,https://media-2.api-sports.io/football/teams/720.png
-"Saturday, May 13 07:00 PM",valladolid,sevilla,,,home,1684022400,https://media-2.api-sports.io/football/teams/720.png
-"Saturday, May 20 07:00 PM",valladolid,cadiz,,,away,1684627200,https://media-2.api-sports.io/football/teams/720.png
-"Tuesday, May 23 07:00 PM",valladolid,barcelona,,,home,1684886400,https://media-1.api-sports.io/football/teams/720.png
-"Saturday, May 27 07:00 PM",valladolid,almeria,,,away,1685232000,https://media-2.api-sports.io/football/teams/720.png
+"Saturday, April 29 07:00 PM",valladolid,atletico madrid,,,home,1682812800,https://media-3.api-sports.io/football/teams/720.png
+"Tuesday, May 02 07:00 PM",valladolid,rayo vallecano,,,away,1683072000,https://media-3.api-sports.io/football/teams/720.png
+"Saturday, May 13 07:00 PM",valladolid,sevilla,,,home,1684022400,https://media-3.api-sports.io/football/teams/720.png
+"Saturday, May 20 07:00 PM",valladolid,cadiz,,,away,1684627200,https://media-3.api-sports.io/football/teams/720.png
+"Tuesday, May 23 07:00 PM",valladolid,barcelona,,,home,1684886400,https://media-2.api-sports.io/football/teams/720.png
+"Saturday, May 27 07:00 PM",valladolid,almeria,,,away,1685232000,https://media-1.api-sports.io/football/teams/720.png
 "Saturday, June 03 07:00 PM",valladolid,getafe,,,home,1685836800,https://media-2.api-sports.io/football/teams/720.png

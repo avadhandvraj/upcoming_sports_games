@@ -1,35 +1,35 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Saturday, August 06 11:30 AM",borussia dortmund,bayer leverkusen,0 - 1,W,home,1659803400,https://media-2.api-sports.io/football/teams/165.png
-"Friday, August 12 01:30 PM",borussia dortmund,sc freiburg,3 - 1,W,away,1660329000,https://media-3.api-sports.io/football/teams/165.png
+"Saturday, August 06 11:30 AM",borussia dortmund,bayer leverkusen,0 - 1,W,home,1659803400,https://media-1.api-sports.io/football/teams/165.png
+"Friday, August 12 01:30 PM",borussia dortmund,sc freiburg,3 - 1,W,away,1660329000,https://media-2.api-sports.io/football/teams/165.png
 "Saturday, August 20 08:30 AM",borussia dortmund,werder bremen,3 - 2,L,home,1661002200,https://media-2.api-sports.io/football/teams/165.png
 "Saturday, August 27 08:30 AM",borussia dortmund,hertha berlin,1 - 0,W,away,1661607000,https://media-3.api-sports.io/football/teams/165.png
-"Friday, September 02 01:30 PM",borussia dortmund,1899 hoffenheim,0 - 1,W,home,1662143400,https://media-2.api-sports.io/football/teams/165.png
-"Saturday, September 10 08:30 AM",borussia dortmund,rb leipzig,0 - 3,L,away,1662816600,https://media-3.api-sports.io/football/teams/165.png
+"Friday, September 02 01:30 PM",borussia dortmund,1899 hoffenheim,0 - 1,W,home,1662143400,https://media-1.api-sports.io/football/teams/165.png
+"Saturday, September 10 08:30 AM",borussia dortmund,rb leipzig,0 - 3,L,away,1662816600,https://media-1.api-sports.io/football/teams/165.png
 "Saturday, September 17 08:30 AM",borussia dortmund,fc schalke 04,0 - 1,W,home,1663421400,https://media-3.api-sports.io/football/teams/165.png
 "Saturday, October 01 08:30 AM",borussia dortmund,fc koln,2 - 3,L,away,1664631000,https://media-1.api-sports.io/football/teams/165.png
 "Saturday, October 08 11:30 AM",borussia dortmund,bayern munich,2 - 2,tie,home,1665246600,https://media-2.api-sports.io/football/teams/165.png
-"Sunday, October 16 10:30 AM",borussia dortmund,union berlin,0 - 2,L,away,1665934200,https://media-1.api-sports.io/football/teams/165.png
+"Sunday, October 16 10:30 AM",borussia dortmund,union berlin,0 - 2,L,away,1665934200,https://media-2.api-sports.io/football/teams/165.png
 "Saturday, October 22 08:30 AM",borussia dortmund,vfb stuttgart,0 - 5,W,home,1666445400,https://media-3.api-sports.io/football/teams/165.png
 "Saturday, October 29 11:30 AM",borussia dortmund,eintracht frankfurt,2 - 1,W,away,1667061000,https://media-3.api-sports.io/football/teams/165.png
 "Saturday, November 05 09:30 AM",borussia dortmund,vfl bochum,0 - 3,W,home,1667658600,https://media-2.api-sports.io/football/teams/165.png
-"Tuesday, November 08 11:30 AM",borussia dortmund,vfl wolfsburg,0 - 2,L,away,1667928600,https://media-3.api-sports.io/football/teams/165.png
+"Tuesday, November 08 11:30 AM",borussia dortmund,vfl wolfsburg,0 - 2,L,away,1667928600,https://media-2.api-sports.io/football/teams/165.png
 "Friday, November 11 01:30 PM",borussia dortmund,borussia monchengladbach,2 - 4,L,away,1668195000,https://media-1.api-sports.io/football/teams/165.png
-"Sunday, January 22 08:30 AM",borussia dortmund,fc augsburg,,,home,1674397800,https://media-3.api-sports.io/football/teams/165.png
-"Wednesday, January 25 11:30 AM",borussia dortmund,fsv mainz 05,,,away,1674667800,https://media-2.api-sports.io/football/teams/165.png
+"Sunday, January 22 08:30 AM",borussia dortmund,fc augsburg,,,home,1674397800,https://media-2.api-sports.io/football/teams/165.png
+"Wednesday, January 25 11:30 AM",borussia dortmund,fsv mainz 05,,,away,1674667800,https://media-1.api-sports.io/football/teams/165.png
 "Sunday, January 29 10:30 AM",borussia dortmund,bayer leverkusen,,,away,1675009800,https://media-2.api-sports.io/football/teams/165.png
 "Saturday, February 04 08:30 AM",borussia dortmund,sc freiburg,,,home,1675521000,https://media-2.api-sports.io/football/teams/165.png
-"Saturday, February 11 08:30 AM",borussia dortmund,werder bremen,,,away,1676125800,https://media-2.api-sports.io/football/teams/165.png
-"Sunday, February 19 10:30 AM",borussia dortmund,hertha berlin,,,home,1676824200,https://media-1.api-sports.io/football/teams/165.png
-"Saturday, February 25 08:30 AM",borussia dortmund,1899 hoffenheim,,,away,1677335400,https://media-1.api-sports.io/football/teams/165.png
-"Friday, March 03 06:00 PM",borussia dortmund,rb leipzig,,,home,1677888000,https://media-1.api-sports.io/football/teams/165.png
-"Saturday, March 11 11:30 AM",borussia dortmund,fc schalke 04,,,away,1678555800,https://media-3.api-sports.io/football/teams/165.png
-"Saturday, March 18 12:30 PM",borussia dortmund,fc koln,,,home,1679160600,https://media-3.api-sports.io/football/teams/165.png
-"Friday, March 31 07:00 PM",borussia dortmund,bayern munich,,,away,1680307200,https://media-1.api-sports.io/football/teams/165.png
+"Saturday, February 11 08:30 AM",borussia dortmund,werder bremen,,,away,1676125800,https://media-3.api-sports.io/football/teams/165.png
+"Sunday, February 19 10:30 AM",borussia dortmund,hertha berlin,,,home,1676824200,https://media-3.api-sports.io/football/teams/165.png
+"Saturday, February 25 08:30 AM",borussia dortmund,1899 hoffenheim,,,away,1677335400,https://media-3.api-sports.io/football/teams/165.png
+"Friday, March 03 06:00 PM",borussia dortmund,rb leipzig,,,home,1677888000,https://media-2.api-sports.io/football/teams/165.png
+"Saturday, March 11 11:30 AM",borussia dortmund,fc schalke 04,,,away,1678555800,https://media-1.api-sports.io/football/teams/165.png
+"Saturday, March 18 12:30 PM",borussia dortmund,fc koln,,,home,1679160600,https://media-2.api-sports.io/football/teams/165.png
+"Friday, March 31 07:00 PM",borussia dortmund,bayern munich,,,away,1680307200,https://media-3.api-sports.io/football/teams/165.png
 "Friday, April 07 07:00 PM",borussia dortmund,union berlin,,,home,1680912000,https://media-1.api-sports.io/football/teams/165.png
-"Friday, April 14 07:00 PM",borussia dortmund,vfb stuttgart,,,away,1681516800,https://media-3.api-sports.io/football/teams/165.png
-"Friday, April 21 07:00 PM",borussia dortmund,eintracht frankfurt,,,home,1682121600,https://media-3.api-sports.io/football/teams/165.png
-"Friday, April 28 07:00 PM",borussia dortmund,vfl bochum,,,away,1682726400,https://media-3.api-sports.io/football/teams/165.png
-"Friday, May 05 07:00 PM",borussia dortmund,vfl wolfsburg,,,home,1683331200,https://media-1.api-sports.io/football/teams/165.png
-"Friday, May 12 07:00 PM",borussia dortmund,borussia monchengladbach,,,home,1683936000,https://media-2.api-sports.io/football/teams/165.png
+"Friday, April 14 07:00 PM",borussia dortmund,vfb stuttgart,,,away,1681516800,https://media-2.api-sports.io/football/teams/165.png
+"Friday, April 21 07:00 PM",borussia dortmund,eintracht frankfurt,,,home,1682121600,https://media-2.api-sports.io/football/teams/165.png
+"Friday, April 28 07:00 PM",borussia dortmund,vfl bochum,,,away,1682726400,https://media-2.api-sports.io/football/teams/165.png
+"Friday, May 05 07:00 PM",borussia dortmund,vfl wolfsburg,,,home,1683331200,https://media-2.api-sports.io/football/teams/165.png
+"Friday, May 12 07:00 PM",borussia dortmund,borussia monchengladbach,,,home,1683936000,https://media-3.api-sports.io/football/teams/165.png
 "Friday, May 19 07:00 PM",borussia dortmund,fc augsburg,,,away,1684540800,https://media-2.api-sports.io/football/teams/165.png
 "Saturday, May 27 08:30 AM",borussia dortmund,fsv mainz 05,,,home,1685194200,https://media-1.api-sports.io/football/teams/165.png

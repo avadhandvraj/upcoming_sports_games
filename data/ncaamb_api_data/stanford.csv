@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-07T19:00:00+00:00,stanford,pacific,78 - 88,W,home,1667847600,https://media-1.api-sports.io/basketball/teams/2133.png
-2022-11-12T00:30:00+00:00,stanford,wisconsin,50 - 60,L,away,1668213000,https://media-1.api-sports.io/basketball/teams/2133.png
-2022-11-16T02:00:00+00:00,stanford,san diego state,74 - 62,L,home,1668564000,https://media-2.api-sports.io/basketball/teams/2133.png
+2022-11-07T19:00:00+00:00,stanford,pacific,78 - 88,W,home,1667847600,https://media-3.api-sports.io/basketball/teams/2133.png
+2022-11-12T00:30:00+00:00,stanford,wisconsin,50 - 60,L,away,1668213000,https://media-2.api-sports.io/basketball/teams/2133.png
+2022-11-16T02:00:00+00:00,stanford,san diego state,74 - 62,L,home,1668564000,https://media-1.api-sports.io/basketball/teams/2133.png
 2022-11-19T04:00:00+00:00,stanford,cal poly,43 - 80,W,home,1668830400,https://media-1.api-sports.io/basketball/teams/2133.png
-2022-11-24T18:30:00+00:00,stanford,ole miss,72 - 68,L,home,1669314600,https://media-2.api-sports.io/basketball/teams/2133.png
-2022-11-25T18:30:00+00:00,stanford,florida state,60 - 70,W,home,1669401000,https://media-3.api-sports.io/basketball/teams/2133.png
-2022-11-27T16:00:00+00:00,stanford,memphis,48 - 56,L,away,1669564800,https://media-2.api-sports.io/basketball/teams/2133.png
-2022-12-02T03:30:00+00:00,stanford,ucla,80 - 66,L,home,1669951800,https://media-2.api-sports.io/basketball/teams/2133.png
-2022-12-05T00:00:00+00:00,stanford,arizona state,64 - 68,L,away,1670198400,https://media-2.api-sports.io/basketball/teams/2133.png
-2022-12-17T01:00:00+00:00,stanford,wisc. green bay,40 - 85,W,home,1671238800,https://media-3.api-sports.io/basketball/teams/2133.png
-2022-12-18T18:00:00+00:00,stanford,texas,62 - 72,L,away,1671386400,https://media-2.api-sports.io/basketball/teams/2133.png
-2022-12-23T03:00:00+00:00,stanford,loyola chicago,62 - 75,W,home,1671764400,https://media-1.api-sports.io/basketball/teams/2133.png
+2022-11-24T18:30:00+00:00,stanford,ole miss,72 - 68,L,home,1669314600,https://media-1.api-sports.io/basketball/teams/2133.png
+2022-11-25T18:30:00+00:00,stanford,florida state,60 - 70,W,home,1669401000,https://media-1.api-sports.io/basketball/teams/2133.png
+2022-11-27T16:00:00+00:00,stanford,memphis,48 - 56,L,away,1669564800,https://media-3.api-sports.io/basketball/teams/2133.png
+2022-12-02T03:30:00+00:00,stanford,ucla,80 - 66,L,home,1669951800,https://media-1.api-sports.io/basketball/teams/2133.png
+2022-12-05T00:00:00+00:00,stanford,arizona state,64 - 68,L,away,1670198400,https://media-1.api-sports.io/basketball/teams/2133.png
+2022-12-17T01:00:00+00:00,stanford,wisc. green bay,40 - 85,W,home,1671238800,https://media-1.api-sports.io/basketball/teams/2133.png
+2022-12-18T18:00:00+00:00,stanford,texas,62 - 72,L,away,1671386400,https://media-1.api-sports.io/basketball/teams/2133.png
+2022-12-23T03:00:00+00:00,stanford,loyola chicago,62 - 75,W,home,1671764400,https://media-3.api-sports.io/basketball/teams/2133.png
 2022-12-30T04:00:00+00:00,stanford,colorado,73 - 70,L,home,1672372800,https://media-3.api-sports.io/basketball/teams/2133.png
-2022-12-31T21:00:00+00:00,stanford,utah utes,71 - 66,L,home,1672520400,https://media-3.api-sports.io/basketball/teams/2133.png
+2022-12-31T21:00:00+00:00,stanford,utah utes,71 - 66,L,home,1672520400,https://media-2.api-sports.io/basketball/teams/2133.png
 2023-01-07T02:00:00+00:00,stanford,california,70 - 92,L,away,1673056800,https://media-2.api-sports.io/basketball/teams/2133.png
 2023-01-13T04:00:00+00:00,stanford,washington,,,away,1673582400,https://media-3.api-sports.io/basketball/teams/2133.png
 2023-01-15T01:00:00+00:00,stanford,washington state,,,away,1673744400,https://media-1.api-sports.io/basketball/teams/2133.png
-2023-01-20T04:00:00+00:00,stanford,oregon state,,,home,1674187200,https://media-1.api-sports.io/basketball/teams/2133.png
+2023-01-20T04:00:00+00:00,stanford,oregon state,,,home,1674187200,https://media-2.api-sports.io/basketball/teams/2133.png
 2023-01-22T04:00:00+00:00,stanford,oregon,,,home,1674360000,https://media-3.api-sports.io/basketball/teams/2133.png
-2023-01-26T03:00:00+00:00,stanford,chicago state,,,home,1674702000,https://media-2.api-sports.io/basketball/teams/2133.png
-2023-01-29T03:00:00+00:00,stanford,california,,,home,1674961200,https://media-1.api-sports.io/basketball/teams/2133.png
-2023-02-03T01:00:00+00:00,stanford,utah utes,,,away,1675386000,https://media-3.api-sports.io/basketball/teams/2133.png
-2023-02-06T00:00:00+00:00,stanford,colorado,,,away,1675641600,https://media-2.api-sports.io/basketball/teams/2133.png
-2023-02-10T03:00:00+00:00,stanford,arizona state,,,home,1675998000,https://media-2.api-sports.io/basketball/teams/2133.png
+2023-01-26T03:00:00+00:00,stanford,chicago state,,,home,1674702000,https://media-3.api-sports.io/basketball/teams/2133.png
+2023-01-29T03:00:00+00:00,stanford,california,,,home,1674961200,https://media-2.api-sports.io/basketball/teams/2133.png
+2023-02-03T01:00:00+00:00,stanford,utah utes,,,away,1675386000,https://media-2.api-sports.io/basketball/teams/2133.png
+2023-02-06T00:00:00+00:00,stanford,colorado,,,away,1675641600,https://media-1.api-sports.io/basketball/teams/2133.png
+2023-02-10T03:00:00+00:00,stanford,arizona state,,,home,1675998000,https://media-3.api-sports.io/basketball/teams/2133.png
 2023-02-11T21:00:00+00:00,stanford,arizona,,,home,1676149200,https://media-2.api-sports.io/basketball/teams/2133.png
-2023-02-17T04:00:00+00:00,stanford,ucla,,,away,1676606400,https://media-2.api-sports.io/basketball/teams/2133.png
-2023-02-18T21:00:00+00:00,stanford,usc,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/2133.png
+2023-02-17T04:00:00+00:00,stanford,ucla,,,away,1676606400,https://media-1.api-sports.io/basketball/teams/2133.png
+2023-02-18T21:00:00+00:00,stanford,usc,,,away,1676754000,https://media-1.api-sports.io/basketball/teams/2133.png

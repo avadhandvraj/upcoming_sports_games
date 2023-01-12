@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:30:00+00:00,alabama,longwood,54 - 75,W,home,1667871000,https://media-3.api-sports.io/basketball/teams/176.png
+2022-11-08T01:30:00+00:00,alabama,longwood,54 - 75,W,home,1667871000,https://media-2.api-sports.io/basketball/teams/176.png
 2022-11-12T01:00:00+00:00,alabama,liberty,59 - 95,W,home,1668214800,https://media-2.api-sports.io/basketball/teams/176.png
-2022-11-16T03:00:00+00:00,alabama,south alabama,65 - 55,W,away,1668567600,https://media-1.api-sports.io/basketball/teams/176.png
+2022-11-16T03:00:00+00:00,alabama,south alabama,65 - 55,W,away,1668567600,https://media-3.api-sports.io/basketball/teams/176.png
 2022-11-19T02:00:00+00:00,alabama,jacksonville state,62 - 104,W,home,1668823200,https://media-2.api-sports.io/basketball/teams/176.png
-2022-11-25T03:30:00+00:00,alabama,michigan state,81 - 70,W,away,1669347000,https://media-2.api-sports.io/basketball/teams/176.png
-2022-11-26T02:30:00+00:00,alabama,uconn,82 - 67,L,home,1669429800,https://media-3.api-sports.io/basketball/teams/176.png
+2022-11-25T03:30:00+00:00,alabama,michigan state,81 - 70,W,away,1669347000,https://media-3.api-sports.io/basketball/teams/176.png
+2022-11-26T02:30:00+00:00,alabama,uconn,82 - 67,L,home,1669429800,https://media-1.api-sports.io/basketball/teams/176.png
 2022-11-27T20:30:00+00:00,alabama,north carolina,101 - 103,W,home,1669581000,https://media-3.api-sports.io/basketball/teams/176.png
-2022-12-04T01:30:00+00:00,alabama,south dakota st.,65 - 78,W,home,1670117400,https://media-3.api-sports.io/basketball/teams/176.png
+2022-12-04T01:30:00+00:00,alabama,south dakota st.,65 - 78,W,home,1670117400,https://media-1.api-sports.io/basketball/teams/176.png
 2022-12-10T20:00:00+00:00,alabama,houston,71 - 65,W,away,1670702400,https://media-3.api-sports.io/basketball/teams/176.png
-2022-12-14T02:00:00+00:00,alabama,memphis,88 - 91,W,home,1670983200,https://media-1.api-sports.io/basketball/teams/176.png
+2022-12-14T02:00:00+00:00,alabama,memphis,88 - 91,W,home,1670983200,https://media-3.api-sports.io/basketball/teams/176.png
 2022-12-17T18:00:00+00:00,alabama,gonzaga,100 - 90,L,home,1671300000,https://media-1.api-sports.io/basketball/teams/176.png
-2022-12-21T00:00:00+00:00,alabama,jackson state,64 - 84,W,home,1671580800,https://media-3.api-sports.io/basketball/teams/176.png
-2022-12-29T02:00:00+00:00,alabama,mississippi st.,78 - 67,W,away,1672279200,https://media-2.api-sports.io/basketball/teams/176.png
-2023-01-04T02:00:00+00:00,alabama,ole miss,62 - 84,W,home,1672797600,https://media-3.api-sports.io/basketball/teams/176.png
-2023-01-07T18:00:00+00:00,alabama,kentucky,52 - 78,W,home,1673114400,https://media-1.api-sports.io/basketball/teams/176.png
+2022-12-21T00:00:00+00:00,alabama,jackson state,64 - 84,W,home,1671580800,https://media-2.api-sports.io/basketball/teams/176.png
+2022-12-29T02:00:00+00:00,alabama,mississippi st.,78 - 67,W,away,1672279200,https://media-3.api-sports.io/basketball/teams/176.png
+2023-01-04T02:00:00+00:00,alabama,ole miss,62 - 84,W,home,1672797600,https://media-2.api-sports.io/basketball/teams/176.png
+2023-01-07T18:00:00+00:00,alabama,kentucky,52 - 78,W,home,1673114400,https://media-3.api-sports.io/basketball/teams/176.png
 2023-01-12T00:00:00+00:00,alabama,arkansas,84 - 69,W,away,1673481600,https://media-3.api-sports.io/basketball/teams/176.png
 2023-01-14T21:00:00+00:00,alabama,lsu,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/176.png
-2023-01-18T01:30:00+00:00,alabama,vanderbilt,,,away,1674005400,https://media-3.api-sports.io/basketball/teams/176.png
-2023-01-21T23:00:00+00:00,alabama,missouri,,,away,1674342000,https://media-1.api-sports.io/basketball/teams/176.png
+2023-01-18T01:30:00+00:00,alabama,vanderbilt,,,away,1674005400,https://media-2.api-sports.io/basketball/teams/176.png
+2023-01-21T23:00:00+00:00,alabama,missouri,,,away,1674342000,https://media-2.api-sports.io/basketball/teams/176.png
 2023-01-26T02:00:00+00:00,alabama,mississippi st.,,,home,1674698400,https://media-1.api-sports.io/basketball/teams/176.png
 2023-01-28T19:00:00+00:00,alabama,oklahoma,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/176.png
-2023-02-01T01:30:00+00:00,alabama,vanderbilt,,,home,1675215000,https://media-1.api-sports.io/basketball/teams/176.png
+2023-02-01T01:30:00+00:00,alabama,vanderbilt,,,home,1675215000,https://media-2.api-sports.io/basketball/teams/176.png
 2023-02-04T21:00:00+00:00,alabama,lsu,,,away,1675544400,https://media-3.api-sports.io/basketball/teams/176.png
-2023-02-09T02:00:00+00:00,alabama,florida,,,home,1675908000,https://media-3.api-sports.io/basketball/teams/176.png
-2023-02-11T19:00:00+00:00,alabama,auburn,,,away,1676142000,https://media-3.api-sports.io/basketball/teams/176.png
-2023-02-16T00:00:00+00:00,alabama,tennessee,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/176.png
+2023-02-09T02:00:00+00:00,alabama,florida,,,home,1675908000,https://media-2.api-sports.io/basketball/teams/176.png
+2023-02-11T19:00:00+00:00,alabama,auburn,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/176.png
+2023-02-16T00:00:00+00:00,alabama,tennessee,,,away,1676505600,https://media-2.api-sports.io/basketball/teams/176.png
 2023-02-18T23:00:00+00:00,alabama,georgia,,,home,1676761200,https://media-3.api-sports.io/basketball/teams/176.png

@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T02:00:00+00:00,utah valley state,utah state,58 - 75,L,away,1667872800,https://media-2.api-sports.io/basketball/teams/5887.png
-2022-11-10T01:00:00+00:00,utah valley state,western colorado,64 - 91,W,home,1668042000,https://media-2.api-sports.io/basketball/teams/5887.png
-2022-11-12T21:00:00+00:00,utah valley state,northern arizona,69 - 73,W,home,1668286800,https://media-1.api-sports.io/basketball/teams/5887.png
-2022-11-16T00:00:00+00:00,utah valley state,wake forest,65 - 68,L,away,1668556800,https://media-3.api-sports.io/basketball/teams/5887.png
+2022-11-08T02:00:00+00:00,utah valley state,utah state,58 - 75,L,away,1667872800,https://media-1.api-sports.io/basketball/teams/5887.png
+2022-11-10T01:00:00+00:00,utah valley state,western colorado,64 - 91,W,home,1668042000,https://media-1.api-sports.io/basketball/teams/5887.png
+2022-11-12T21:00:00+00:00,utah valley state,northern arizona,69 - 73,W,home,1668286800,https://media-2.api-sports.io/basketball/teams/5887.png
+2022-11-16T00:00:00+00:00,utah valley state,wake forest,65 - 68,L,away,1668556800,https://media-1.api-sports.io/basketball/teams/5887.png
 2022-11-19T00:00:00+00:00,utah valley state,morgan state,72 - 73,L,away,1668816000,https://media-1.api-sports.io/basketball/teams/5887.png
-2022-11-21T00:30:00+00:00,utah valley state,wisc. green bay,56 - 79,W,home,1668990600,https://media-1.api-sports.io/basketball/teams/5887.png
+2022-11-21T00:30:00+00:00,utah valley state,wisc. green bay,56 - 79,W,home,1668990600,https://media-2.api-sports.io/basketball/teams/5887.png
 2022-11-26T21:00:00+00:00,utah valley state,boise state,69 - 87,L,away,1669496400,https://media-2.api-sports.io/basketball/teams/5887.png
 2022-12-03T21:00:00+00:00,utah valley state,long beach state,78 - 88,W,home,1670101200,https://media-1.api-sports.io/basketball/teams/5887.png
 2022-12-08T02:00:00+00:00,utah valley state,brigham young,75 - 60,W,away,1670464800,https://media-3.api-sports.io/basketball/teams/5887.png
 2022-12-10T21:00:00+00:00,utah valley state,northern arizona,80 - 75,W,away,1670706000,https://media-1.api-sports.io/basketball/teams/5887.png
-2022-12-14T01:00:00+00:00,utah valley state,sagu,54 - 100,W,home,1670979600,https://media-3.api-sports.io/basketball/teams/5887.png
+2022-12-14T01:00:00+00:00,utah valley state,sagu,54 - 100,W,home,1670979600,https://media-2.api-sports.io/basketball/teams/5887.png
 2022-12-17T01:00:00+00:00,utah valley state,antelope valley,54 - 80,W,home,1671238800,https://media-1.api-sports.io/basketball/teams/5887.png
-2022-12-21T03:30:00+00:00,utah valley state,oregon,77 - 72,W,away,1671593400,https://media-3.api-sports.io/basketball/teams/5887.png
+2022-12-21T03:30:00+00:00,utah valley state,oregon,77 - 72,W,away,1671593400,https://media-1.api-sports.io/basketball/teams/5887.png
 2022-12-30T01:00:00+00:00,utah valley state,sam houston st.,64 - 80,W,home,1672362000,https://media-2.api-sports.io/basketball/teams/5887.png
-2022-12-31T21:00:00+00:00,utah valley state,utah tech,60 - 71,W,home,1672520400,https://media-3.api-sports.io/basketball/teams/5887.png
-2023-01-06T01:00:00+00:00,utah valley state,ut arlington,72 - 64,W,away,1672966800,https://media-2.api-sports.io/basketball/teams/5887.png
+2022-12-31T21:00:00+00:00,utah valley state,utah tech,60 - 71,W,home,1672520400,https://media-2.api-sports.io/basketball/teams/5887.png
+2023-01-06T01:00:00+00:00,utah valley state,ut arlington,72 - 64,W,away,1672966800,https://media-3.api-sports.io/basketball/teams/5887.png
 2023-01-08T00:30:00+00:00,utah valley state,utrgv,75 - 61,W,away,1673137800,https://media-1.api-sports.io/basketball/teams/5887.png
 2023-01-12T03:00:00+00:00,utah valley state,california baptist,71 - 67,W,away,1673492400,https://media-1.api-sports.io/basketball/teams/5887.png
-2023-01-15T01:00:00+00:00,utah valley state,seattle,,,home,1673744400,https://media-2.api-sports.io/basketball/teams/5887.png
+2023-01-15T01:00:00+00:00,utah valley state,seattle,,,home,1673744400,https://media-3.api-sports.io/basketball/teams/5887.png
 2023-01-19T01:00:00+00:00,utah valley state,abilene christian,,,home,1674090000,https://media-3.api-sports.io/basketball/teams/5887.png
 2023-01-22T01:00:00+00:00,utah valley state,grand canyon,,,away,1674349200,https://media-2.api-sports.io/basketball/teams/5887.png
 2023-01-27T02:00:00+00:00,utah valley state,southern utah,,,away,1674784800,https://media-3.api-sports.io/basketball/teams/5887.png
-2023-01-28T21:00:00+00:00,utah valley state,new mexico state,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/5887.png
-2023-02-03T02:00:00+00:00,utah valley state,utah tech,,,away,1675389600,https://media-3.api-sports.io/basketball/teams/5887.png
-2023-02-09T01:00:00+00:00,utah valley state,california baptist,,,home,1675904400,https://media-3.api-sports.io/basketball/teams/5887.png
-2023-02-12T01:00:00+00:00,utah valley state,southern utah,,,home,1676163600,https://media-3.api-sports.io/basketball/teams/5887.png
+2023-01-28T21:00:00+00:00,utah valley state,new mexico state,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/5887.png
+2023-02-03T02:00:00+00:00,utah valley state,utah tech,,,away,1675389600,https://media-1.api-sports.io/basketball/teams/5887.png
+2023-02-09T01:00:00+00:00,utah valley state,california baptist,,,home,1675904400,https://media-1.api-sports.io/basketball/teams/5887.png
+2023-02-12T01:00:00+00:00,utah valley state,southern utah,,,home,1676163600,https://media-1.api-sports.io/basketball/teams/5887.png

@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T01:00:00+00:00,tcu,arkansas-pine bluff,72 - 73,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/202.png
 2022-11-12T01:00:00+00:00,tcu,lamar,66 - 77,W,home,1668214800,https://media-2.api-sports.io/basketball/teams/202.png
-2022-11-15T01:00:00+00:00,tcu,northwestern st.,64 - 63,L,home,1668474000,https://media-3.api-sports.io/basketball/teams/202.png
-2022-11-18T01:00:00+00:00,tcu,louisiana monroe,60 - 95,W,home,1668733200,https://media-2.api-sports.io/basketball/teams/202.png
-2022-11-26T03:00:00+00:00,tcu,california,48 - 59,W,home,1669431600,https://media-3.api-sports.io/basketball/teams/202.png
-2022-11-27T00:00:00+00:00,tcu,iowa,66 - 79,W,home,1669507200,https://media-3.api-sports.io/basketball/teams/202.png
+2022-11-15T01:00:00+00:00,tcu,northwestern st.,64 - 63,L,home,1668474000,https://media-1.api-sports.io/basketball/teams/202.png
+2022-11-18T01:00:00+00:00,tcu,louisiana monroe,60 - 95,W,home,1668733200,https://media-3.api-sports.io/basketball/teams/202.png
+2022-11-26T03:00:00+00:00,tcu,california,48 - 59,W,home,1669431600,https://media-2.api-sports.io/basketball/teams/202.png
+2022-11-27T00:00:00+00:00,tcu,iowa,66 - 79,W,home,1669507200,https://media-2.api-sports.io/basketball/teams/202.png
 2022-12-01T01:00:00+00:00,tcu,providence,62 - 75,W,home,1669856400,https://media-3.api-sports.io/basketball/teams/202.png
-2022-12-07T01:00:00+00:00,tcu,jackson state,51 - 78,W,home,1670374800,https://media-1.api-sports.io/basketball/teams/202.png
+2022-12-07T01:00:00+00:00,tcu,jackson state,51 - 78,W,home,1670374800,https://media-3.api-sports.io/basketball/teams/202.png
 2022-12-11T03:00:00+00:00,tcu,smu mustangs,83 - 75,W,away,1670727600,https://media-3.api-sports.io/basketball/teams/202.png
-2022-12-18T23:00:00+00:00,tcu,miss. valley st.,43 - 88,W,home,1671404400,https://media-2.api-sports.io/basketball/teams/202.png
+2022-12-18T23:00:00+00:00,tcu,miss. valley st.,43 - 88,W,home,1671404400,https://media-1.api-sports.io/basketball/teams/202.png
 2022-12-22T02:00:00+00:00,tcu,utah utes,75 - 71,W,away,1671674400,https://media-3.api-sports.io/basketball/teams/202.png
-2022-12-28T22:00:00+00:00,tcu,central arkansas,57 - 103,W,home,1672264800,https://media-2.api-sports.io/basketball/teams/202.png
-2022-12-31T17:00:00+00:00,tcu,texas tech,61 - 67,W,home,1672506000,https://media-1.api-sports.io/basketball/teams/202.png
+2022-12-28T22:00:00+00:00,tcu,central arkansas,57 - 103,W,home,1672264800,https://media-1.api-sports.io/basketball/teams/202.png
+2022-12-31T17:00:00+00:00,tcu,texas tech,61 - 67,W,home,1672506000,https://media-3.api-sports.io/basketball/teams/202.png
 2023-01-05T02:00:00+00:00,tcu,baylor,88 - 87,W,away,1672884000,https://media-1.api-sports.io/basketball/teams/202.png
 2023-01-07T19:00:00+00:00,tcu,iowa state,69 - 67,L,home,1673118000,https://media-3.api-sports.io/basketball/teams/202.png
-2023-01-12T02:00:00+00:00,tcu,texas,75 - 79,L,away,1673488800,https://media-3.api-sports.io/basketball/teams/202.png
-2023-01-14T19:00:00+00:00,tcu,kansas state,,,home,1673722800,https://media-3.api-sports.io/basketball/teams/202.png
+2023-01-12T02:00:00+00:00,tcu,texas,75 - 79,L,away,1673488800,https://media-2.api-sports.io/basketball/teams/202.png
+2023-01-14T19:00:00+00:00,tcu,kansas state,,,home,1673722800,https://media-2.api-sports.io/basketball/teams/202.png
 2023-01-19T00:00:00+00:00,tcu,west virginia,,,away,1674086400,https://media-3.api-sports.io/basketball/teams/202.png
-2023-01-21T18:00:00+00:00,tcu,kansas,,,away,1674324000,https://media-3.api-sports.io/basketball/teams/202.png
-2023-01-25T01:00:00+00:00,tcu,oklahoma,,,home,1674608400,https://media-1.api-sports.io/basketball/teams/202.png
-2023-01-28T21:00:00+00:00,tcu,mississippi st.,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/202.png
+2023-01-21T18:00:00+00:00,tcu,kansas,,,away,1674324000,https://media-2.api-sports.io/basketball/teams/202.png
+2023-01-25T01:00:00+00:00,tcu,oklahoma,,,home,1674608400,https://media-3.api-sports.io/basketball/teams/202.png
+2023-01-28T21:00:00+00:00,tcu,mississippi st.,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/202.png
 2023-02-01T02:00:00+00:00,tcu,west virginia,,,home,1675216800,https://media-3.api-sports.io/basketball/teams/202.png
-2023-02-04T19:00:00+00:00,tcu,oklahoma state,,,away,1675537200,https://media-1.api-sports.io/basketball/teams/202.png
+2023-02-04T19:00:00+00:00,tcu,oklahoma state,,,away,1675537200,https://media-2.api-sports.io/basketball/teams/202.png
 2023-02-08T02:00:00+00:00,tcu,kansas state,,,away,1675821600,https://media-2.api-sports.io/basketball/teams/202.png
-2023-02-11T21:00:00+00:00,tcu,baylor,,,home,1676149200,https://media-3.api-sports.io/basketball/teams/202.png
-2023-02-16T02:00:00+00:00,tcu,iowa state,,,away,1676512800,https://media-2.api-sports.io/basketball/teams/202.png
-2023-02-18T19:00:00+00:00,tcu,oklahoma state,,,home,1676746800,https://media-2.api-sports.io/basketball/teams/202.png
+2023-02-11T21:00:00+00:00,tcu,baylor,,,home,1676149200,https://media-1.api-sports.io/basketball/teams/202.png
+2023-02-16T02:00:00+00:00,tcu,iowa state,,,away,1676512800,https://media-3.api-sports.io/basketball/teams/202.png
+2023-02-18T19:00:00+00:00,tcu,oklahoma state,,,home,1676746800,https://media-1.api-sports.io/basketball/teams/202.png

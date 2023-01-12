@@ -3,24 +3,24 @@ Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-12T21:00:00+00:00,niagara,bucknell,50 - 68,L,away,1668286800,https://media-1.api-sports.io/basketball/teams/2036.png
 2022-11-18T16:00:00+00:00,niagara,central arkansas,64 - 73,W,home,1668787200,https://media-2.api-sports.io/basketball/teams/2036.png
 2022-11-19T17:00:00+00:00,niagara,stetson,66 - 62,W,away,1668877200,https://media-1.api-sports.io/basketball/teams/2036.png
-2022-11-23T20:00:00+00:00,niagara,d'youville university,53 - 91,W,home,1669233600,https://media-1.api-sports.io/basketball/teams/2036.png
+2022-11-23T20:00:00+00:00,niagara,d'youville university,53 - 91,W,home,1669233600,https://media-3.api-sports.io/basketball/teams/2036.png
 2022-11-26T19:00:00+00:00,niagara,st. john's (n.y.),70 - 78,L,away,1669489200,https://media-3.api-sports.io/basketball/teams/2036.png
-2022-12-03T00:00:00+00:00,niagara,iona,56 - 78,L,away,1670025600,https://media-1.api-sports.io/basketball/teams/2036.png
-2022-12-04T20:00:00+00:00,niagara,quinnipiac,64 - 60,W,away,1670184000,https://media-3.api-sports.io/basketball/teams/2036.png
-2022-12-11T18:00:00+00:00,niagara,eastern michigan,60 - 67,W,home,1670781600,https://media-1.api-sports.io/basketball/teams/2036.png
+2022-12-03T00:00:00+00:00,niagara,iona,56 - 78,L,away,1670025600,https://media-2.api-sports.io/basketball/teams/2036.png
+2022-12-04T20:00:00+00:00,niagara,quinnipiac,64 - 60,W,away,1670184000,https://media-1.api-sports.io/basketball/teams/2036.png
+2022-12-11T18:00:00+00:00,niagara,eastern michigan,60 - 67,W,home,1670781600,https://media-2.api-sports.io/basketball/teams/2036.png
 2022-12-18T19:00:00+00:00,niagara,njit,53 - 62,L,away,1671390000,https://media-2.api-sports.io/basketball/teams/2036.png
-2022-12-22T00:00:00+00:00,niagara,binghamton,67 - 73,W,home,1671667200,https://media-3.api-sports.io/basketball/teams/2036.png
-2022-12-31T17:00:00+00:00,niagara,mount st. mary's,55 - 67,W,home,1672506000,https://media-2.api-sports.io/basketball/teams/2036.png
-2023-01-02T17:00:00+00:00,niagara,rider,59 - 61,W,home,1672678800,https://media-2.api-sports.io/basketball/teams/2036.png
-2023-01-07T00:00:00+00:00,niagara,fairfield,77 - 69,W,away,1673049600,https://media-3.api-sports.io/basketball/teams/2036.png
-2023-01-08T19:00:00+00:00,niagara,manhattan,59 - 64,L,away,1673204400,https://media-1.api-sports.io/basketball/teams/2036.png
-2023-01-14T00:00:00+00:00,niagara,siena,,,home,1673654400,https://media-2.api-sports.io/basketball/teams/2036.png
-2023-01-15T18:00:00+00:00,niagara,marist,,,home,1673805600,https://media-2.api-sports.io/basketball/teams/2036.png
-2023-01-21T00:00:00+00:00,niagara,rider,,,away,1674259200,https://media-3.api-sports.io/basketball/teams/2036.png
-2023-01-22T19:00:00+00:00,niagara,st. peters,,,away,1674414000,https://media-1.api-sports.io/basketball/teams/2036.png
+2022-12-22T00:00:00+00:00,niagara,binghamton,67 - 73,W,home,1671667200,https://media-1.api-sports.io/basketball/teams/2036.png
+2022-12-31T17:00:00+00:00,niagara,mount st. mary's,55 - 67,W,home,1672506000,https://media-1.api-sports.io/basketball/teams/2036.png
+2023-01-02T17:00:00+00:00,niagara,rider,59 - 61,W,home,1672678800,https://media-3.api-sports.io/basketball/teams/2036.png
+2023-01-07T00:00:00+00:00,niagara,fairfield,77 - 69,W,away,1673049600,https://media-1.api-sports.io/basketball/teams/2036.png
+2023-01-08T19:00:00+00:00,niagara,manhattan,59 - 64,L,away,1673204400,https://media-3.api-sports.io/basketball/teams/2036.png
+2023-01-14T00:00:00+00:00,niagara,siena,,,home,1673654400,https://media-1.api-sports.io/basketball/teams/2036.png
+2023-01-15T18:00:00+00:00,niagara,marist,,,home,1673805600,https://media-3.api-sports.io/basketball/teams/2036.png
+2023-01-21T00:00:00+00:00,niagara,rider,,,away,1674259200,https://media-2.api-sports.io/basketball/teams/2036.png
+2023-01-22T19:00:00+00:00,niagara,st. peters,,,away,1674414000,https://media-3.api-sports.io/basketball/teams/2036.png
 2023-01-28T00:00:00+00:00,niagara,manhattan,,,home,1674864000,https://media-2.api-sports.io/basketball/teams/2036.png
-2023-02-04T01:00:00+00:00,niagara,canisius,,,home,1675472400,https://media-3.api-sports.io/basketball/teams/2036.png
-2023-02-05T19:00:00+00:00,niagara,siena,,,away,1675623600,https://media-2.api-sports.io/basketball/teams/2036.png
+2023-02-04T01:00:00+00:00,niagara,canisius,,,home,1675472400,https://media-2.api-sports.io/basketball/teams/2036.png
+2023-02-05T19:00:00+00:00,niagara,siena,,,away,1675623600,https://media-1.api-sports.io/basketball/teams/2036.png
 2023-02-11T00:00:00+00:00,niagara,quinnipiac,,,home,1676073600,https://media-2.api-sports.io/basketball/teams/2036.png
-2023-02-12T18:00:00+00:00,niagara,iona,,,home,1676224800,https://media-3.api-sports.io/basketball/teams/2036.png
-2023-02-18T00:00:00+00:00,niagara,mount st. mary's,,,away,1676678400,https://media-2.api-sports.io/basketball/teams/2036.png
+2023-02-12T18:00:00+00:00,niagara,iona,,,home,1676224800,https://media-1.api-sports.io/basketball/teams/2036.png
+2023-02-18T00:00:00+00:00,niagara,mount st. mary's,,,away,1676678400,https://media-3.api-sports.io/basketball/teams/2036.png

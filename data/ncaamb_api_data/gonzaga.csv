@@ -2,30 +2,30 @@ Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T02:00:00+00:00,gonzaga,north florida,63 - 104,W,home,1667872800,https://media-2.api-sports.io/basketball/teams/1927.png
 2022-11-11T23:30:00+00:00,gonzaga,michigan state,63 - 64,W,home,1668209400,https://media-3.api-sports.io/basketball/teams/1927.png
 2022-11-17T02:30:00+00:00,gonzaga,texas,74 - 93,L,away,1668652200,https://media-1.api-sports.io/basketball/teams/1927.png
-2022-11-21T00:30:00+00:00,gonzaga,kentucky,72 - 88,W,home,1668990600,https://media-3.api-sports.io/basketball/teams/1927.png
-2022-11-25T05:30:00+00:00,gonzaga,portland state,78 - 102,W,home,1669354200,https://media-3.api-sports.io/basketball/teams/1927.png
+2022-11-21T00:30:00+00:00,gonzaga,kentucky,72 - 88,W,home,1668990600,https://media-1.api-sports.io/basketball/teams/1927.png
+2022-11-25T05:30:00+00:00,gonzaga,portland state,78 - 102,W,home,1669354200,https://media-2.api-sports.io/basketball/teams/1927.png
 2022-11-26T04:30:00+00:00,gonzaga,purdue,84 - 66,L,home,1669437000,https://media-3.api-sports.io/basketball/teams/1927.png
-2022-11-28T00:30:00+00:00,gonzaga,xavier,84 - 88,W,home,1669595400,https://media-1.api-sports.io/basketball/teams/1927.png
-2022-12-03T01:00:00+00:00,gonzaga,baylor,64 - 63,L,home,1670029200,https://media-1.api-sports.io/basketball/teams/1927.png
-2022-12-06T02:00:00+00:00,gonzaga,kent state,66 - 73,W,home,1670292000,https://media-2.api-sports.io/basketball/teams/1927.png
-2022-12-10T02:00:00+00:00,gonzaga,washington,60 - 77,W,home,1670637600,https://media-1.api-sports.io/basketball/teams/1927.png
-2022-12-13T02:00:00+00:00,gonzaga,northern illinois,67 - 88,W,home,1670896800,https://media-3.api-sports.io/basketball/teams/1927.png
-2022-12-17T18:00:00+00:00,gonzaga,alabama,100 - 90,W,away,1671300000,https://media-3.api-sports.io/basketball/teams/1927.png
-2022-12-21T02:00:00+00:00,gonzaga,montana,75 - 85,W,home,1671588000,https://media-2.api-sports.io/basketball/teams/1927.png
-2022-12-28T22:00:00+00:00,gonzaga,eastern oregon,42 - 120,W,home,1672264800,https://media-1.api-sports.io/basketball/teams/1927.png
-2022-12-31T22:00:00+00:00,gonzaga,pepperdine,88 - 111,W,home,1672524000,https://media-2.api-sports.io/basketball/teams/1927.png
-2023-01-06T04:00:00+00:00,gonzaga,san francisco,77 - 75,W,away,1672977600,https://media-3.api-sports.io/basketball/teams/1927.png
-2023-01-08T03:00:00+00:00,gonzaga,santa clara,81 - 76,W,away,1673146800,https://media-1.api-sports.io/basketball/teams/1927.png
+2022-11-28T00:30:00+00:00,gonzaga,xavier,84 - 88,W,home,1669595400,https://media-3.api-sports.io/basketball/teams/1927.png
+2022-12-03T01:00:00+00:00,gonzaga,baylor,64 - 63,L,home,1670029200,https://media-2.api-sports.io/basketball/teams/1927.png
+2022-12-06T02:00:00+00:00,gonzaga,kent state,66 - 73,W,home,1670292000,https://media-3.api-sports.io/basketball/teams/1927.png
+2022-12-10T02:00:00+00:00,gonzaga,washington,60 - 77,W,home,1670637600,https://media-2.api-sports.io/basketball/teams/1927.png
+2022-12-13T02:00:00+00:00,gonzaga,northern illinois,67 - 88,W,home,1670896800,https://media-1.api-sports.io/basketball/teams/1927.png
+2022-12-17T18:00:00+00:00,gonzaga,alabama,100 - 90,W,away,1671300000,https://media-1.api-sports.io/basketball/teams/1927.png
+2022-12-21T02:00:00+00:00,gonzaga,montana,75 - 85,W,home,1671588000,https://media-1.api-sports.io/basketball/teams/1927.png
+2022-12-28T22:00:00+00:00,gonzaga,eastern oregon,42 - 120,W,home,1672264800,https://media-2.api-sports.io/basketball/teams/1927.png
+2022-12-31T22:00:00+00:00,gonzaga,pepperdine,88 - 111,W,home,1672524000,https://media-3.api-sports.io/basketball/teams/1927.png
+2023-01-06T04:00:00+00:00,gonzaga,san francisco,77 - 75,W,away,1672977600,https://media-1.api-sports.io/basketball/teams/1927.png
+2023-01-08T03:00:00+00:00,gonzaga,santa clara,81 - 76,W,away,1673146800,https://media-3.api-sports.io/basketball/teams/1927.png
 2023-01-13T02:30:00+00:00,gonzaga,brigham young,,,away,1673577000,https://media-1.api-sports.io/basketball/teams/1927.png
-2023-01-15T03:00:00+00:00,gonzaga,portland,,,home,1673751600,https://media-1.api-sports.io/basketball/teams/1927.png
-2023-01-19T21:00:00+00:00,gonzaga,loyola marymount,,,home,1674162000,https://media-2.api-sports.io/basketball/teams/1927.png
-2023-01-22T03:00:00+00:00,gonzaga,pacific,,,away,1674356400,https://media-1.api-sports.io/basketball/teams/1927.png
+2023-01-15T03:00:00+00:00,gonzaga,portland,,,home,1673751600,https://media-2.api-sports.io/basketball/teams/1927.png
+2023-01-19T21:00:00+00:00,gonzaga,loyola marymount,,,home,1674162000,https://media-3.api-sports.io/basketball/teams/1927.png
+2023-01-22T03:00:00+00:00,gonzaga,pacific,,,away,1674356400,https://media-2.api-sports.io/basketball/teams/1927.png
 2023-01-29T00:00:00+00:00,gonzaga,portland,,,away,1674950400,https://media-1.api-sports.io/basketball/teams/1927.png
-2023-02-03T04:00:00+00:00,gonzaga,santa clara,,,home,1675396800,https://media-1.api-sports.io/basketball/teams/1927.png
+2023-02-03T04:00:00+00:00,gonzaga,santa clara,,,home,1675396800,https://media-3.api-sports.io/basketball/teams/1927.png
 2023-02-04T21:00:00+00:00,gonzaga,st. marys (ca),,,away,1675544400,https://media-2.api-sports.io/basketball/teams/1927.png
 2023-02-10T02:00:00+00:00,gonzaga,san francisco,,,home,1675994400,https://media-3.api-sports.io/basketball/teams/1927.png
-2023-02-12T03:00:00+00:00,gonzaga,brigham young,,,home,1676170800,https://media-3.api-sports.io/basketball/teams/1927.png
-2023-02-17T04:00:00+00:00,gonzaga,loyola marymount,,,away,1676606400,https://media-2.api-sports.io/basketball/teams/1927.png
-2023-02-18T21:00:00+00:00,gonzaga,pepperdine,None - None,tie,away,1676754000,https://media-3.api-sports.io/basketball/teams/1927.png
-2023-02-23T21:00:00+00:00,gonzaga,san diego toreros,None - None,tie,home,1677186000,https://media-1.api-sports.io/basketball/teams/1927.png
-2023-02-25T21:00:00+00:00,gonzaga,st. marys (ca),None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/1927.png
+2023-02-12T03:00:00+00:00,gonzaga,brigham young,,,home,1676170800,https://media-1.api-sports.io/basketball/teams/1927.png
+2023-02-17T04:00:00+00:00,gonzaga,loyola marymount,,,away,1676606400,https://media-3.api-sports.io/basketball/teams/1927.png
+2023-02-18T21:00:00+00:00,gonzaga,pepperdine,None - None,tie,away,1676754000,https://media-1.api-sports.io/basketball/teams/1927.png
+2023-02-23T21:00:00+00:00,gonzaga,san diego toreros,None - None,tie,home,1677186000,https://media-2.api-sports.io/basketball/teams/1927.png
+2023-02-25T21:00:00+00:00,gonzaga,st. marys (ca),None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/1927.png

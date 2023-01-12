@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-11T01:00:00+00:00,central michigan,marquette,73 - 97,L,away,1668128400,https://media-3.api-sports.io/basketball/teams/211.png
-2022-11-13T19:00:00+00:00,central michigan,eastern illinois,60 - 76,W,home,1668366000,https://media-1.api-sports.io/basketball/teams/211.png
+2022-11-13T19:00:00+00:00,central michigan,eastern illinois,60 - 76,W,home,1668366000,https://media-3.api-sports.io/basketball/teams/211.png
 2022-11-18T02:00:00+00:00,central michigan,minnesota,60 - 68,L,away,1668736800,https://media-3.api-sports.io/basketball/teams/211.png
-2022-11-21T22:30:00+00:00,central michigan,high point,68 - 67,L,home,1669069800,https://media-1.api-sports.io/basketball/teams/211.png
+2022-11-21T22:30:00+00:00,central michigan,high point,68 - 67,L,home,1669069800,https://media-3.api-sports.io/basketball/teams/211.png
 2022-11-23T20:00:00+00:00,central michigan,cs northridge,66 - 82,W,home,1669233600,https://media-3.api-sports.io/basketball/teams/211.png
-2022-11-27T01:00:00+00:00,central michigan,california baptist,61 - 77,L,away,1669510800,https://media-1.api-sports.io/basketball/teams/211.png
-2022-11-30T00:00:00+00:00,central michigan,purdue northwest,67 - 74,W,home,1669766400,https://media-1.api-sports.io/basketball/teams/211.png
-2022-12-03T21:30:00+00:00,central michigan,alma college,50 - 89,W,home,1670103000,https://media-1.api-sports.io/basketball/teams/211.png
-2022-12-08T00:00:00+00:00,central michigan,robert morris,71 - 66,L,home,1670457600,https://media-2.api-sports.io/basketball/teams/211.png
+2022-11-27T01:00:00+00:00,central michigan,california baptist,61 - 77,L,away,1669510800,https://media-3.api-sports.io/basketball/teams/211.png
+2022-11-30T00:00:00+00:00,central michigan,purdue northwest,67 - 74,W,home,1669766400,https://media-2.api-sports.io/basketball/teams/211.png
+2022-12-03T21:30:00+00:00,central michigan,alma college,50 - 89,W,home,1670103000,https://media-2.api-sports.io/basketball/teams/211.png
+2022-12-08T00:00:00+00:00,central michigan,robert morris,71 - 66,L,home,1670457600,https://media-1.api-sports.io/basketball/teams/211.png
 2022-12-10T20:00:00+00:00,central michigan,tulsa,63 - 70,L,away,1670702400,https://media-3.api-sports.io/basketball/teams/211.png
-2022-12-18T23:00:00+00:00,central michigan,missouri state,58 - 79,L,away,1671404400,https://media-2.api-sports.io/basketball/teams/211.png
+2022-12-18T23:00:00+00:00,central michigan,missouri state,58 - 79,L,away,1671404400,https://media-3.api-sports.io/basketball/teams/211.png
 2022-12-22T00:00:00+00:00,central michigan,youngstown state,76 - 65,L,home,1671667200,https://media-2.api-sports.io/basketball/teams/211.png
-2022-12-30T00:00:00+00:00,central michigan,michigan,63 - 61,W,away,1672358400,https://media-1.api-sports.io/basketball/teams/211.png
-2023-01-04T00:00:00+00:00,central michigan,miami (ohio),56 - 68,W,home,1672790400,https://media-1.api-sports.io/basketball/teams/211.png
+2022-12-30T00:00:00+00:00,central michigan,michigan,63 - 61,W,away,1672358400,https://media-3.api-sports.io/basketball/teams/211.png
+2023-01-04T00:00:00+00:00,central michigan,miami (ohio),56 - 68,W,home,1672790400,https://media-2.api-sports.io/basketball/teams/211.png
 2023-01-07T19:00:00+00:00,central michigan,eastern michigan,56 - 62,L,away,1673118000,https://media-3.api-sports.io/basketball/teams/211.png
-2023-01-11T01:00:00+00:00,central michigan,northern illinois,54 - 73,L,away,1673398800,https://media-2.api-sports.io/basketball/teams/211.png
-2023-01-14T21:30:00+00:00,central michigan,buffalo,,,home,1673731800,https://media-2.api-sports.io/basketball/teams/211.png
-2023-01-18T00:00:00+00:00,central michigan,akron,,,home,1674000000,https://media-3.api-sports.io/basketball/teams/211.png
+2023-01-11T01:00:00+00:00,central michigan,northern illinois,54 - 73,L,away,1673398800,https://media-1.api-sports.io/basketball/teams/211.png
+2023-01-14T21:30:00+00:00,central michigan,buffalo,,,home,1673731800,https://media-3.api-sports.io/basketball/teams/211.png
+2023-01-18T00:00:00+00:00,central michigan,akron,,,home,1674000000,https://media-2.api-sports.io/basketball/teams/211.png
 2023-01-21T19:00:00+00:00,central michigan,ohio,,,away,1674327600,https://media-1.api-sports.io/basketball/teams/211.png
-2023-01-25T00:00:00+00:00,central michigan,bowling green,,,home,1674604800,https://media-2.api-sports.io/basketball/teams/211.png
-2023-01-28T21:00:00+00:00,central michigan,western michigan,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/211.png
+2023-01-25T00:00:00+00:00,central michigan,bowling green,,,home,1674604800,https://media-3.api-sports.io/basketball/teams/211.png
+2023-01-28T21:00:00+00:00,central michigan,western michigan,,,home,1674939600,https://media-1.api-sports.io/basketball/teams/211.png
 2023-02-01T00:00:00+00:00,central michigan,kent state,,,away,1675209600,https://media-1.api-sports.io/basketball/teams/211.png
 2023-02-05T00:00:00+00:00,central michigan,toledo,,,away,1675555200,https://media-3.api-sports.io/basketball/teams/211.png
 2023-02-08T00:00:00+00:00,central michigan,ball state,,,home,1675814400,https://media-3.api-sports.io/basketball/teams/211.png
 2023-02-11T20:30:00+00:00,central michigan,miami (ohio),,,away,1676147400,https://media-2.api-sports.io/basketball/teams/211.png
 2023-02-15T00:00:00+00:00,central michigan,bowling green,,,away,1676419200,https://media-3.api-sports.io/basketball/teams/211.png
-2023-02-18T21:00:00+00:00,central michigan,ohio,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/211.png
+2023-02-18T21:00:00+00:00,central michigan,ohio,,,home,1676754000,https://media-1.api-sports.io/basketball/teams/211.png

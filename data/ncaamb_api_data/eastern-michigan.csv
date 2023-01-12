@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,eastern michigan,wayne state (mi),66 - 75,W,home,1667867400,https://media-2.api-sports.io/basketball/teams/1896.png
-2022-11-12T02:00:00+00:00,eastern michigan,michigan,83 - 88,L,away,1668218400,https://media-3.api-sports.io/basketball/teams/1896.png
-2022-11-16T01:00:00+00:00,eastern michigan,bradley,61 - 89,L,away,1668560400,https://media-3.api-sports.io/basketball/teams/1896.png
+2022-11-08T00:30:00+00:00,eastern michigan,wayne state (mi),66 - 75,W,home,1667867400,https://media-3.api-sports.io/basketball/teams/1896.png
+2022-11-12T02:00:00+00:00,eastern michigan,michigan,83 - 88,L,away,1668218400,https://media-1.api-sports.io/basketball/teams/1896.png
+2022-11-16T01:00:00+00:00,eastern michigan,bradley,61 - 89,L,away,1668560400,https://media-1.api-sports.io/basketball/teams/1896.png
 2022-11-19T20:00:00+00:00,eastern michigan,oakland,90 - 92,L,away,1668888000,https://media-3.api-sports.io/basketball/teams/1896.png
 2022-11-22T17:30:00+00:00,eastern michigan,ipfw,74 - 67,L,home,1669138200,https://media-3.api-sports.io/basketball/teams/1896.png
-2022-11-23T17:30:00+00:00,eastern michigan,winthrop,87 - 101,L,away,1669224600,https://media-2.api-sports.io/basketball/teams/1896.png
-2022-11-27T19:00:00+00:00,eastern michigan,uc san diego,66 - 63,L,home,1669575600,https://media-3.api-sports.io/basketball/teams/1896.png
-2022-12-01T00:00:00+00:00,eastern michigan,florida international,80 - 68,W,away,1669852800,https://media-3.api-sports.io/basketball/teams/1896.png
-2022-12-04T19:30:00+00:00,eastern michigan,florida atlantic,101 - 73,L,home,1670182200,https://media-3.api-sports.io/basketball/teams/1896.png
-2022-12-08T01:00:00+00:00,eastern michigan,illinois state,81 - 87,L,away,1670461200,https://media-1.api-sports.io/basketball/teams/1896.png
+2022-11-23T17:30:00+00:00,eastern michigan,winthrop,87 - 101,L,away,1669224600,https://media-1.api-sports.io/basketball/teams/1896.png
+2022-11-27T19:00:00+00:00,eastern michigan,uc san diego,66 - 63,L,home,1669575600,https://media-2.api-sports.io/basketball/teams/1896.png
+2022-12-01T00:00:00+00:00,eastern michigan,florida international,80 - 68,W,away,1669852800,https://media-2.api-sports.io/basketball/teams/1896.png
+2022-12-04T19:30:00+00:00,eastern michigan,florida atlantic,101 - 73,L,home,1670182200,https://media-1.api-sports.io/basketball/teams/1896.png
+2022-12-08T01:00:00+00:00,eastern michigan,illinois state,81 - 87,L,away,1670461200,https://media-3.api-sports.io/basketball/teams/1896.png
 2022-12-11T18:00:00+00:00,eastern michigan,niagara,60 - 67,L,away,1670781600,https://media-1.api-sports.io/basketball/teams/1896.png
 2022-12-18T20:00:00+00:00,eastern michigan,detroit,77 - 79,W,home,1671393600,https://media-1.api-sports.io/basketball/teams/1896.png
 2022-12-31T00:00:00+00:00,eastern michigan,south carolina,64 - 74,L,away,1672444800,https://media-1.api-sports.io/basketball/teams/1896.png
-2023-01-04T00:00:00+00:00,eastern michigan,bowling green,91 - 65,L,home,1672790400,https://media-2.api-sports.io/basketball/teams/1896.png
-2023-01-07T19:00:00+00:00,eastern michigan,central michigan,56 - 62,W,home,1673118000,https://media-3.api-sports.io/basketball/teams/1896.png
-2023-01-11T00:00:00+00:00,eastern michigan,western michigan,79 - 85,L,away,1673395200,https://media-2.api-sports.io/basketball/teams/1896.png
-2023-01-14T00:00:00+00:00,eastern michigan,akron,,,away,1673654400,https://media-1.api-sports.io/basketball/teams/1896.png
+2023-01-04T00:00:00+00:00,eastern michigan,bowling green,91 - 65,L,home,1672790400,https://media-1.api-sports.io/basketball/teams/1896.png
+2023-01-07T19:00:00+00:00,eastern michigan,central michigan,56 - 62,W,home,1673118000,https://media-1.api-sports.io/basketball/teams/1896.png
+2023-01-11T00:00:00+00:00,eastern michigan,western michigan,79 - 85,L,away,1673395200,https://media-3.api-sports.io/basketball/teams/1896.png
+2023-01-14T00:00:00+00:00,eastern michigan,akron,,,away,1673654400,https://media-2.api-sports.io/basketball/teams/1896.png
 2023-01-18T00:00:00+00:00,eastern michigan,kent state,,,home,1674000000,https://media-1.api-sports.io/basketball/teams/1896.png
-2023-01-21T20:30:00+00:00,eastern michigan,northern illinois,,,home,1674333000,https://media-1.api-sports.io/basketball/teams/1896.png
+2023-01-21T20:30:00+00:00,eastern michigan,northern illinois,,,home,1674333000,https://media-3.api-sports.io/basketball/teams/1896.png
 2023-01-25T00:00:00+00:00,eastern michigan,toledo,,,away,1674604800,https://media-3.api-sports.io/basketball/teams/1896.png
-2023-01-28T20:30:00+00:00,eastern michigan,miami (ohio),,,away,1674937800,https://media-3.api-sports.io/basketball/teams/1896.png
-2023-02-01T00:00:00+00:00,eastern michigan,ohio,,,home,1675209600,https://media-1.api-sports.io/basketball/teams/1896.png
+2023-01-28T20:30:00+00:00,eastern michigan,miami (ohio),,,away,1674937800,https://media-1.api-sports.io/basketball/teams/1896.png
+2023-02-01T00:00:00+00:00,eastern michigan,ohio,,,home,1675209600,https://media-3.api-sports.io/basketball/teams/1896.png
 2023-02-04T19:00:00+00:00,eastern michigan,ball state,,,away,1675537200,https://media-1.api-sports.io/basketball/teams/1896.png
-2023-02-08T00:00:00+00:00,eastern michigan,buffalo,,,away,1675814400,https://media-3.api-sports.io/basketball/teams/1896.png
-2023-02-12T00:30:00+00:00,eastern michigan,toledo,,,home,1676161800,https://media-3.api-sports.io/basketball/teams/1896.png
-2023-02-15T00:00:00+00:00,eastern michigan,akron,,,home,1676419200,https://media-3.api-sports.io/basketball/teams/1896.png
+2023-02-08T00:00:00+00:00,eastern michigan,buffalo,,,away,1675814400,https://media-2.api-sports.io/basketball/teams/1896.png
+2023-02-12T00:30:00+00:00,eastern michigan,toledo,,,home,1676161800,https://media-2.api-sports.io/basketball/teams/1896.png
+2023-02-15T00:00:00+00:00,eastern michigan,akron,,,home,1676419200,https://media-1.api-sports.io/basketball/teams/1896.png
 2023-02-18T21:00:00+00:00,eastern michigan,kent state,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/1896.png

@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:00:00+00:00,old dominion,md.-east. shore,65 - 84,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/2061.png
 2022-11-12T00:00:00+00:00,old dominion,drexel,59 - 71,L,away,1668211200,https://media-3.api-sports.io/basketball/teams/2061.png
-2022-11-15T00:00:00+00:00,old dominion,va wesleyan,58 - 72,W,home,1668470400,https://media-2.api-sports.io/basketball/teams/2061.png
-2022-11-17T19:00:00+00:00,old dominion,virginia tech,71 - 75,L,away,1668711600,https://media-3.api-sports.io/basketball/teams/2061.png
-2022-11-18T19:30:00+00:00,old dominion,furman,77 - 82,W,home,1668799800,https://media-1.api-sports.io/basketball/teams/2061.png
+2022-11-15T00:00:00+00:00,old dominion,va wesleyan,58 - 72,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/2061.png
+2022-11-17T19:00:00+00:00,old dominion,virginia tech,71 - 75,L,away,1668711600,https://media-1.api-sports.io/basketball/teams/2061.png
+2022-11-18T19:30:00+00:00,old dominion,furman,77 - 82,W,home,1668799800,https://media-3.api-sports.io/basketball/teams/2061.png
 2022-11-20T18:00:00+00:00,old dominion,davidson,61 - 66,L,away,1668967200,https://media-1.api-sports.io/basketball/teams/2061.png
-2022-11-27T00:00:00+00:00,old dominion,east carolina,50 - 71,W,home,1669507200,https://media-3.api-sports.io/basketball/teams/2061.png
+2022-11-27T00:00:00+00:00,old dominion,east carolina,50 - 71,W,home,1669507200,https://media-1.api-sports.io/basketball/teams/2061.png
 2022-11-30T00:00:00+00:00,old dominion,charleston,60 - 75,L,away,1669766400,https://media-1.api-sports.io/basketball/teams/2061.png
 2022-12-04T00:00:00+00:00,old dominion,norfolk state,62 - 68,W,home,1670112000,https://media-3.api-sports.io/basketball/teams/2061.png
-2022-12-08T00:00:00+00:00,old dominion,william & mary,62 - 72,W,home,1670457600,https://media-1.api-sports.io/basketball/teams/2061.png
+2022-12-08T00:00:00+00:00,old dominion,william & mary,62 - 72,W,home,1670457600,https://media-2.api-sports.io/basketball/teams/2061.png
 2022-12-11T01:00:00+00:00,old dominion,gardner webb,43 - 44,W,home,1670720400,https://media-1.api-sports.io/basketball/teams/2061.png
 2022-12-21T21:00:00+00:00,old dominion,george mason,77 - 78,W,home,1671656400,https://media-2.api-sports.io/basketball/teams/2061.png
-2022-12-30T00:00:00+00:00,old dominion,arkansas state,60 - 57,L,home,1672358400,https://media-1.api-sports.io/basketball/teams/2061.png
+2022-12-30T00:00:00+00:00,old dominion,arkansas state,60 - 57,L,home,1672358400,https://media-2.api-sports.io/basketball/teams/2061.png
 2022-12-31T19:00:00+00:00,old dominion,louisiana lafayette,66 - 70,W,home,1672513200,https://media-2.api-sports.io/basketball/teams/2061.png
 2023-01-06T00:00:00+00:00,old dominion,troy,71 - 78,L,away,1672963200,https://media-3.api-sports.io/basketball/teams/2061.png
-2023-01-07T20:00:00+00:00,old dominion,georgia southern,81 - 75,W,away,1673121600,https://media-3.api-sports.io/basketball/teams/2061.png
+2023-01-07T20:00:00+00:00,old dominion,georgia southern,81 - 75,W,away,1673121600,https://media-2.api-sports.io/basketball/teams/2061.png
 2023-01-13T00:00:00+00:00,old dominion,coastal carolina,,,home,1673568000,https://media-2.api-sports.io/basketball/teams/2061.png
-2023-01-15T00:00:00+00:00,old dominion,marshall,,,away,1673740800,https://media-2.api-sports.io/basketball/teams/2061.png
-2023-01-20T00:00:00+00:00,old dominion,georgia state,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/2061.png
-2023-01-22T00:00:00+00:00,old dominion,appalachian state,,,home,1674345600,https://media-2.api-sports.io/basketball/teams/2061.png
-2023-01-27T01:00:00+00:00,old dominion,south alabama,,,away,1674781200,https://media-1.api-sports.io/basketball/teams/2061.png
+2023-01-15T00:00:00+00:00,old dominion,marshall,,,away,1673740800,https://media-1.api-sports.io/basketball/teams/2061.png
+2023-01-20T00:00:00+00:00,old dominion,georgia state,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/2061.png
+2023-01-22T00:00:00+00:00,old dominion,appalachian state,,,home,1674345600,https://media-1.api-sports.io/basketball/teams/2061.png
+2023-01-27T01:00:00+00:00,old dominion,south alabama,,,away,1674781200,https://media-2.api-sports.io/basketball/teams/2061.png
 2023-01-28T21:00:00+00:00,old dominion,coastal carolina,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/2061.png
-2023-02-03T00:00:00+00:00,old dominion,james madison,,,home,1675382400,https://media-1.api-sports.io/basketball/teams/2061.png
-2023-02-05T00:00:00+00:00,old dominion,georgia southern,,,home,1675555200,https://media-1.api-sports.io/basketball/teams/2061.png
+2023-02-03T00:00:00+00:00,old dominion,james madison,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/2061.png
+2023-02-05T00:00:00+00:00,old dominion,georgia southern,,,home,1675555200,https://media-2.api-sports.io/basketball/teams/2061.png
 2023-02-10T00:00:00+00:00,old dominion,georgia state,,,away,1675987200,https://media-1.api-sports.io/basketball/teams/2061.png
 2023-02-11T22:00:00+00:00,old dominion,texas state,,,away,1676152800,https://media-3.api-sports.io/basketball/teams/2061.png
-2023-02-17T00:00:00+00:00,old dominion,james madison,,,away,1676592000,https://media-2.api-sports.io/basketball/teams/2061.png
-2023-02-18T21:00:00+00:00,old dominion,appalachian state,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/2061.png
+2023-02-17T00:00:00+00:00,old dominion,james madison,,,away,1676592000,https://media-3.api-sports.io/basketball/teams/2061.png
+2023-02-18T21:00:00+00:00,old dominion,appalachian state,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/2061.png
 2023-02-22T21:00:00+00:00,old dominion,southern miss,None - None,tie,home,1677099600,https://media-2.api-sports.io/basketball/teams/2061.png
-2023-02-24T21:00:00+00:00,old dominion,marshall,None - None,tie,home,1677272400,https://media-2.api-sports.io/basketball/teams/2061.png
+2023-02-24T21:00:00+00:00,old dominion,marshall,None - None,tie,home,1677272400,https://media-1.api-sports.io/basketball/teams/2061.png

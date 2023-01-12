@@ -24,6 +24,11 @@ leaguesoccer:
 run: 
 	make setup
 	make text
+datacollect:
+	make internationalsoccer
+	make bball
+	make football
+	make leaguesoccer
 
 
 	

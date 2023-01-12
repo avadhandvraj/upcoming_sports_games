@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T03:00:00+00:00,california baptist,long beach state,79 - 64,L,home,1667876400,https://media-3.api-sports.io/basketball/teams/210.png
-2022-11-12T03:00:00+00:00,california baptist,njit,43 - 59,W,home,1668222000,https://media-2.api-sports.io/basketball/teams/210.png
-2022-11-16T03:00:00+00:00,california baptist,cs northridge,55 - 62,W,home,1668567600,https://media-2.api-sports.io/basketball/teams/210.png
-2022-11-18T04:00:00+00:00,california baptist,washington,73 - 64,W,away,1668744000,https://media-3.api-sports.io/basketball/teams/210.png
+2022-11-08T03:00:00+00:00,california baptist,long beach state,79 - 64,L,home,1667876400,https://media-2.api-sports.io/basketball/teams/210.png
+2022-11-12T03:00:00+00:00,california baptist,njit,43 - 59,W,home,1668222000,https://media-3.api-sports.io/basketball/teams/210.png
+2022-11-16T03:00:00+00:00,california baptist,cs northridge,55 - 62,W,home,1668567600,https://media-3.api-sports.io/basketball/teams/210.png
+2022-11-18T04:00:00+00:00,california baptist,washington,73 - 64,W,away,1668744000,https://media-1.api-sports.io/basketball/teams/210.png
 2022-11-22T03:30:00+00:00,california baptist,minnesota,61 - 62,L,away,1669087800,https://media-2.api-sports.io/basketball/teams/210.png
 2022-11-24T06:00:00+00:00,california baptist,southern illinois,64 - 61,L,home,1669269600,https://media-1.api-sports.io/basketball/teams/210.png
-2022-11-27T01:00:00+00:00,california baptist,central michigan,61 - 77,W,home,1669510800,https://media-2.api-sports.io/basketball/teams/210.png
-2022-12-01T03:00:00+00:00,california baptist,uc riverside,60 - 65,W,home,1669863600,https://media-3.api-sports.io/basketball/teams/210.png
-2022-12-04T02:00:00+00:00,california baptist,cal poly,53 - 64,L,away,1670119200,https://media-2.api-sports.io/basketball/teams/210.png
-2022-12-08T03:00:00+00:00,california baptist,weber state,52 - 64,W,home,1670468400,https://media-1.api-sports.io/basketball/teams/210.png
+2022-11-27T01:00:00+00:00,california baptist,central michigan,61 - 77,W,home,1669510800,https://media-3.api-sports.io/basketball/teams/210.png
+2022-12-01T03:00:00+00:00,california baptist,uc riverside,60 - 65,W,home,1669863600,https://media-1.api-sports.io/basketball/teams/210.png
+2022-12-04T02:00:00+00:00,california baptist,cal poly,53 - 64,L,away,1670119200,https://media-1.api-sports.io/basketball/teams/210.png
+2022-12-08T03:00:00+00:00,california baptist,weber state,52 - 64,W,home,1670468400,https://media-3.api-sports.io/basketball/teams/210.png
 2022-12-11T03:00:00+00:00,california baptist,san diego toreros,76 - 73,W,away,1670727600,https://media-2.api-sports.io/basketball/teams/210.png
 2022-12-19T03:00:00+00:00,california baptist,sonoma state,67 - 88,W,home,1671418800,https://media-2.api-sports.io/basketball/teams/210.png
-2022-12-23T03:00:00+00:00,california baptist,portland state,74 - 72,L,home,1671764400,https://media-3.api-sports.io/basketball/teams/210.png
+2022-12-23T03:00:00+00:00,california baptist,portland state,74 - 72,L,home,1671764400,https://media-1.api-sports.io/basketball/teams/210.png
 2022-12-30T01:00:00+00:00,california baptist,grand canyon,59 - 73,L,away,1672362000,https://media-1.api-sports.io/basketball/teams/210.png
-2022-12-31T23:00:00+00:00,california baptist,seattle,65 - 71,L,away,1672527600,https://media-1.api-sports.io/basketball/teams/210.png
-2023-01-06T03:00:00+00:00,california baptist,utah tech,58 - 72,W,home,1672974000,https://media-3.api-sports.io/basketball/teams/210.png
+2022-12-31T23:00:00+00:00,california baptist,seattle,65 - 71,L,away,1672527600,https://media-3.api-sports.io/basketball/teams/210.png
+2023-01-06T03:00:00+00:00,california baptist,utah tech,58 - 72,W,home,1672974000,https://media-1.api-sports.io/basketball/teams/210.png
 2023-01-08T02:00:00+00:00,california baptist,new mexico state,70 - 61,W,away,1673143200,https://media-2.api-sports.io/basketball/teams/210.png
-2023-01-12T03:00:00+00:00,california baptist,utah valley state,71 - 67,L,home,1673492400,https://media-1.api-sports.io/basketball/teams/210.png
-2023-01-15T03:00:00+00:00,california baptist,grand canyon,,,home,1673751600,https://media-3.api-sports.io/basketball/teams/210.png
+2023-01-12T03:00:00+00:00,california baptist,utah valley state,71 - 67,L,home,1673492400,https://media-3.api-sports.io/basketball/teams/210.png
+2023-01-15T03:00:00+00:00,california baptist,grand canyon,,,home,1673751600,https://media-1.api-sports.io/basketball/teams/210.png
 2023-01-22T03:00:00+00:00,california baptist,tarleton,,,home,1674356400,https://media-2.api-sports.io/basketball/teams/210.png
-2023-01-26T01:00:00+00:00,california baptist,ut arlington,,,away,1674694800,https://media-2.api-sports.io/basketball/teams/210.png
-2023-01-29T00:30:00+00:00,california baptist,utrgv,,,away,1674952200,https://media-1.api-sports.io/basketball/teams/210.png
-2023-02-02T03:00:00+00:00,california baptist,southern utah,,,home,1675306800,https://media-1.api-sports.io/basketball/teams/210.png
+2023-01-26T01:00:00+00:00,california baptist,ut arlington,,,away,1674694800,https://media-3.api-sports.io/basketball/teams/210.png
+2023-01-29T00:30:00+00:00,california baptist,utrgv,,,away,1674952200,https://media-3.api-sports.io/basketball/teams/210.png
+2023-02-02T03:00:00+00:00,california baptist,southern utah,,,home,1675306800,https://media-3.api-sports.io/basketball/teams/210.png
 2023-02-05T03:00:00+00:00,california baptist,abilene christian,,,home,1675566000,https://media-1.api-sports.io/basketball/teams/210.png
-2023-02-09T01:00:00+00:00,california baptist,utah valley state,,,away,1675904400,https://media-1.api-sports.io/basketball/teams/210.png
-2023-02-12T03:00:00+00:00,california baptist,new mexico state,,,home,1676170800,https://media-1.api-sports.io/basketball/teams/210.png
-2023-02-16T03:00:00+00:00,california baptist,seattle,,,home,1676516400,https://media-3.api-sports.io/basketball/teams/210.png
+2023-02-09T01:00:00+00:00,california baptist,utah valley state,,,away,1675904400,https://media-3.api-sports.io/basketball/teams/210.png
+2023-02-12T03:00:00+00:00,california baptist,new mexico state,,,home,1676170800,https://media-2.api-sports.io/basketball/teams/210.png
+2023-02-16T03:00:00+00:00,california baptist,seattle,,,home,1676516400,https://media-2.api-sports.io/basketball/teams/210.png

@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-11T01:00:00+00:00,notre dame,radford,76 - 79,W,home,1668128400,https://media-3.api-sports.io/basketball/teams/2055.png
-2022-11-13T21:00:00+00:00,notre dame,youngstown state,81 - 88,W,home,1668373200,https://media-3.api-sports.io/basketball/teams/2055.png
-2022-11-17T01:00:00+00:00,notre dame,southern indiana,70 - 82,W,home,1668646800,https://media-1.api-sports.io/basketball/teams/2055.png
-2022-11-19T00:00:00+00:00,notre dame,lipscomb,65 - 66,W,home,1668816000,https://media-1.api-sports.io/basketball/teams/2055.png
-2022-11-22T23:30:00+00:00,notre dame,bowling green,66 - 82,W,home,1669159800,https://media-2.api-sports.io/basketball/teams/2055.png
-2022-11-25T21:00:00+00:00,notre dame,st. bonaventure,63 - 51,L,home,1669410000,https://media-2.api-sports.io/basketball/teams/2055.png
-2022-12-01T02:15:00+00:00,notre dame,michigan state,52 - 70,W,home,1669860900,https://media-2.api-sports.io/basketball/teams/2055.png
-2022-12-03T17:00:00+00:00,notre dame,syracuse,62 - 61,L,home,1670086800,https://media-1.api-sports.io/basketball/teams/2055.png
-2022-12-08T00:00:00+00:00,notre dame,boston university,75 - 81,W,home,1670457600,https://media-2.api-sports.io/basketball/teams/2055.png
-2022-12-11T21:00:00+00:00,notre dame,marquette,79 - 64,L,home,1670792400,https://media-3.api-sports.io/basketball/teams/2055.png
-2022-12-18T22:30:00+00:00,notre dame,georgia,62 - 77,L,away,1671402600,https://media-2.api-sports.io/basketball/teams/2055.png
-2022-12-22T01:30:00+00:00,notre dame,florida state,72 - 73,L,away,1671672600,https://media-3.api-sports.io/basketball/teams/2055.png
-2022-12-28T00:00:00+00:00,notre dame,jacksonville,43 - 59,W,home,1672185600,https://media-2.api-sports.io/basketball/teams/2055.png
+2022-11-13T21:00:00+00:00,notre dame,youngstown state,81 - 88,W,home,1668373200,https://media-1.api-sports.io/basketball/teams/2055.png
+2022-11-17T01:00:00+00:00,notre dame,southern indiana,70 - 82,W,home,1668646800,https://media-3.api-sports.io/basketball/teams/2055.png
+2022-11-19T00:00:00+00:00,notre dame,lipscomb,65 - 66,W,home,1668816000,https://media-2.api-sports.io/basketball/teams/2055.png
+2022-11-22T23:30:00+00:00,notre dame,bowling green,66 - 82,W,home,1669159800,https://media-3.api-sports.io/basketball/teams/2055.png
+2022-11-25T21:00:00+00:00,notre dame,st. bonaventure,63 - 51,L,home,1669410000,https://media-3.api-sports.io/basketball/teams/2055.png
+2022-12-01T02:15:00+00:00,notre dame,michigan state,52 - 70,W,home,1669860900,https://media-1.api-sports.io/basketball/teams/2055.png
+2022-12-03T17:00:00+00:00,notre dame,syracuse,62 - 61,L,home,1670086800,https://media-2.api-sports.io/basketball/teams/2055.png
+2022-12-08T00:00:00+00:00,notre dame,boston university,75 - 81,W,home,1670457600,https://media-3.api-sports.io/basketball/teams/2055.png
+2022-12-11T21:00:00+00:00,notre dame,marquette,79 - 64,L,home,1670792400,https://media-1.api-sports.io/basketball/teams/2055.png
+2022-12-18T22:30:00+00:00,notre dame,georgia,62 - 77,L,away,1671402600,https://media-1.api-sports.io/basketball/teams/2055.png
+2022-12-22T01:30:00+00:00,notre dame,florida state,72 - 73,L,away,1671672600,https://media-1.api-sports.io/basketball/teams/2055.png
+2022-12-28T00:00:00+00:00,notre dame,jacksonville,43 - 59,W,home,1672185600,https://media-1.api-sports.io/basketball/teams/2055.png
 2022-12-30T19:00:00+00:00,notre dame,miami (fl),76 - 65,L,home,1672426800,https://media-3.api-sports.io/basketball/teams/2055.png
-2023-01-04T00:00:00+00:00,notre dame,boston college,63 - 70,L,away,1672790400,https://media-3.api-sports.io/basketball/teams/2055.png
-2023-01-07T16:30:00+00:00,notre dame,north carolina,64 - 81,L,away,1673109000,https://media-1.api-sports.io/basketball/teams/2055.png
-2023-01-11T00:00:00+00:00,notre dame,georgia tech,72 - 73,W,home,1673395200,https://media-2.api-sports.io/basketball/teams/2055.png
-2023-01-15T00:00:00+00:00,notre dame,syracuse,,,away,1673740800,https://media-1.api-sports.io/basketball/teams/2055.png
-2023-01-18T00:00:00+00:00,notre dame,florida state,,,home,1674000000,https://media-1.api-sports.io/basketball/teams/2055.png
+2023-01-04T00:00:00+00:00,notre dame,boston college,63 - 70,L,away,1672790400,https://media-2.api-sports.io/basketball/teams/2055.png
+2023-01-07T16:30:00+00:00,notre dame,north carolina,64 - 81,L,away,1673109000,https://media-2.api-sports.io/basketball/teams/2055.png
+2023-01-11T00:00:00+00:00,notre dame,georgia tech,72 - 73,W,home,1673395200,https://media-3.api-sports.io/basketball/teams/2055.png
+2023-01-15T00:00:00+00:00,notre dame,syracuse,,,away,1673740800,https://media-2.api-sports.io/basketball/teams/2055.png
+2023-01-18T00:00:00+00:00,notre dame,florida state,,,home,1674000000,https://media-2.api-sports.io/basketball/teams/2055.png
 2023-01-21T19:00:00+00:00,notre dame,boston college,,,home,1674327600,https://media-3.api-sports.io/basketball/teams/2055.png
 2023-01-25T00:00:00+00:00,notre dame,nc state,,,away,1674604800,https://media-2.api-sports.io/basketball/teams/2055.png
 2023-01-28T17:00:00+00:00,notre dame,louisville,,,home,1674925200,https://media-3.api-sports.io/basketball/teams/2055.png
-2023-02-04T18:00:00+00:00,notre dame,wake forest,,,home,1675533600,https://media-3.api-sports.io/basketball/teams/2055.png
-2023-02-09T00:00:00+00:00,notre dame,georgia tech,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/2055.png
+2023-02-04T18:00:00+00:00,notre dame,wake forest,,,home,1675533600,https://media-1.api-sports.io/basketball/teams/2055.png
+2023-02-09T00:00:00+00:00,notre dame,georgia tech,,,away,1675900800,https://media-2.api-sports.io/basketball/teams/2055.png
 2023-02-11T19:00:00+00:00,notre dame,virginia tech,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/2055.png
-2023-02-15T00:00:00+00:00,notre dame,duke,,,away,1676419200,https://media-2.api-sports.io/basketball/teams/2055.png
+2023-02-15T00:00:00+00:00,notre dame,duke,,,away,1676419200,https://media-3.api-sports.io/basketball/teams/2055.png
 2023-02-18T17:00:00+00:00,notre dame,virginia,,,away,1676739600,https://media-3.api-sports.io/basketball/teams/2055.png

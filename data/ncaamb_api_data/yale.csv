@@ -1,26 +1,26 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,yale,sarah lawrence,41 - 96,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/2217.png
-2022-11-12T02:30:00+00:00,yale,east. washington,74 - 60,W,away,1668220200,https://media-2.api-sports.io/basketball/teams/2217.png
-2022-11-14T00:30:00+00:00,yale,miss. valley st.,51 - 80,W,home,1668385800,https://media-2.api-sports.io/basketball/teams/2217.png
+2022-11-08T00:00:00+00:00,yale,sarah lawrence,41 - 96,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/2217.png
+2022-11-12T02:30:00+00:00,yale,east. washington,74 - 60,W,away,1668220200,https://media-3.api-sports.io/basketball/teams/2217.png
+2022-11-14T00:30:00+00:00,yale,miss. valley st.,51 - 80,W,home,1668385800,https://media-1.api-sports.io/basketball/teams/2217.png
 2022-11-15T04:59:00+00:00,yale,hawaii,62 - 59,W,away,1668488340,https://media-3.api-sports.io/basketball/teams/2217.png
-2022-11-20T19:00:00+00:00,yale,john jay,55 - 112,W,home,1668970800,https://media-3.api-sports.io/basketball/teams/2217.png
-2022-11-23T00:00:00+00:00,yale,vermont,44 - 73,W,home,1669161600,https://media-1.api-sports.io/basketball/teams/2217.png
-2022-11-27T20:00:00+00:00,yale,colorado,62 - 65,L,away,1669579200,https://media-1.api-sports.io/basketball/teams/2217.png
-2022-12-01T00:00:00+00:00,yale,howard,40 - 86,W,home,1669852800,https://media-3.api-sports.io/basketball/teams/2217.png
-2022-12-03T23:30:00+00:00,yale,stony brook,77 - 72,W,away,1670110200,https://media-3.api-sports.io/basketball/teams/2217.png
-2022-12-06T23:30:00+00:00,yale,butler,61 - 71,L,away,1670369400,https://media-1.api-sports.io/basketball/teams/2217.png
-2022-12-10T18:00:00+00:00,yale,kentucky,59 - 69,L,away,1670695200,https://media-2.api-sports.io/basketball/teams/2217.png
+2022-11-20T19:00:00+00:00,yale,john jay,55 - 112,W,home,1668970800,https://media-2.api-sports.io/basketball/teams/2217.png
+2022-11-23T00:00:00+00:00,yale,vermont,44 - 73,W,home,1669161600,https://media-2.api-sports.io/basketball/teams/2217.png
+2022-11-27T20:00:00+00:00,yale,colorado,62 - 65,L,away,1669579200,https://media-3.api-sports.io/basketball/teams/2217.png
+2022-12-01T00:00:00+00:00,yale,howard,40 - 86,W,home,1669852800,https://media-1.api-sports.io/basketball/teams/2217.png
+2022-12-03T23:30:00+00:00,yale,stony brook,77 - 72,W,away,1670110200,https://media-1.api-sports.io/basketball/teams/2217.png
+2022-12-06T23:30:00+00:00,yale,butler,61 - 71,L,away,1670369400,https://media-3.api-sports.io/basketball/teams/2217.png
+2022-12-10T18:00:00+00:00,yale,kentucky,59 - 69,L,away,1670695200,https://media-1.api-sports.io/basketball/teams/2217.png
 2022-12-13T00:00:00+00:00,yale,fairfield,77 - 64,W,away,1670889600,https://media-1.api-sports.io/basketball/teams/2217.png
-2022-12-23T00:00:00+00:00,yale,monmouth,76 - 44,W,away,1671753600,https://media-3.api-sports.io/basketball/teams/2217.png
-2022-12-31T17:00:00+00:00,yale,columbia,60 - 62,L,away,1672506000,https://media-3.api-sports.io/basketball/teams/2217.png
+2022-12-23T00:00:00+00:00,yale,monmouth,76 - 44,W,away,1671753600,https://media-1.api-sports.io/basketball/teams/2217.png
+2022-12-31T17:00:00+00:00,yale,columbia,60 - 62,L,away,1672506000,https://media-1.api-sports.io/basketball/teams/2217.png
 2023-01-07T00:00:00+00:00,yale,dartmouth,81 - 77,L,home,1673049600,https://media-1.api-sports.io/basketball/teams/2217.png
-2023-01-08T00:00:00+00:00,yale,harvard,54 - 58,W,home,1673136000,https://media-3.api-sports.io/basketball/teams/2217.png
-2023-01-13T22:00:00+00:00,yale,cornell,,,away,1673647200,https://media-3.api-sports.io/basketball/teams/2217.png
-2023-01-16T22:00:00+00:00,yale,brown,,,home,1673906400,https://media-1.api-sports.io/basketball/teams/2217.png
-2023-01-21T23:00:00+00:00,yale,penn,,,home,1674342000,https://media-3.api-sports.io/basketball/teams/2217.png
-2023-01-29T00:00:00+00:00,yale,princeton,,,home,1674950400,https://media-1.api-sports.io/basketball/teams/2217.png
-2023-02-03T22:00:00+00:00,yale,harvard,,,away,1675461600,https://media-1.api-sports.io/basketball/teams/2217.png
+2023-01-08T00:00:00+00:00,yale,harvard,54 - 58,W,home,1673136000,https://media-1.api-sports.io/basketball/teams/2217.png
+2023-01-13T22:00:00+00:00,yale,cornell,,,away,1673647200,https://media-2.api-sports.io/basketball/teams/2217.png
+2023-01-16T22:00:00+00:00,yale,brown,,,home,1673906400,https://media-3.api-sports.io/basketball/teams/2217.png
+2023-01-21T23:00:00+00:00,yale,penn,,,home,1674342000,https://media-1.api-sports.io/basketball/teams/2217.png
+2023-01-29T00:00:00+00:00,yale,princeton,,,home,1674950400,https://media-3.api-sports.io/basketball/teams/2217.png
+2023-02-03T22:00:00+00:00,yale,harvard,,,away,1675461600,https://media-3.api-sports.io/basketball/teams/2217.png
 2023-02-04T23:00:00+00:00,yale,dartmouth,,,away,1675551600,https://media-3.api-sports.io/basketball/teams/2217.png
-2023-02-12T00:00:00+00:00,yale,columbia,,,home,1676160000,https://media-2.api-sports.io/basketball/teams/2217.png
+2023-02-12T00:00:00+00:00,yale,columbia,,,home,1676160000,https://media-3.api-sports.io/basketball/teams/2217.png
 2023-02-18T00:00:00+00:00,yale,penn,,,away,1676678400,https://media-3.api-sports.io/basketball/teams/2217.png
 2023-02-18T23:00:00+00:00,yale,princeton,,,away,1676761200,https://media-3.api-sports.io/basketball/teams/2217.png

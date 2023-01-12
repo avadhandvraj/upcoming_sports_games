@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T03:00:00+00:00,csu bakersfield,san diego christian,35 - 68,W,home,1667876400,https://media-2.api-sports.io/basketball/teams/5722.png
-2022-11-12T00:00:00+00:00,csu bakersfield,utah utes,44 - 72,L,away,1668211200,https://media-3.api-sports.io/basketball/teams/5722.png
-2022-11-17T02:00:00+00:00,csu bakersfield,idaho,52 - 43,W,away,1668650400,https://media-2.api-sports.io/basketball/teams/5722.png
+2022-11-08T03:00:00+00:00,csu bakersfield,san diego christian,35 - 68,W,home,1667876400,https://media-1.api-sports.io/basketball/teams/5722.png
+2022-11-12T00:00:00+00:00,csu bakersfield,utah utes,44 - 72,L,away,1668211200,https://media-2.api-sports.io/basketball/teams/5722.png
+2022-11-17T02:00:00+00:00,csu bakersfield,idaho,52 - 43,W,away,1668650400,https://media-3.api-sports.io/basketball/teams/5722.png
 2022-11-22T23:00:00+00:00,csu bakersfield,texas a&m-cc,73 - 63,W,away,1669158000,https://media-1.api-sports.io/basketball/teams/5722.png
-2022-11-24T02:00:00+00:00,csu bakersfield,utep,67 - 68,L,away,1669255200,https://media-2.api-sports.io/basketball/teams/5722.png
+2022-11-24T02:00:00+00:00,csu bakersfield,utep,67 - 68,L,away,1669255200,https://media-1.api-sports.io/basketball/teams/5722.png
 2022-11-25T18:00:00+00:00,csu bakersfield,alcorn state,62 - 54,L,home,1669399200,https://media-3.api-sports.io/basketball/teams/5722.png
 2022-11-30T03:00:00+00:00,csu bakersfield,la sierra,49 - 90,W,home,1669777200,https://media-3.api-sports.io/basketball/teams/5722.png
 2022-12-03T19:00:00+00:00,csu bakersfield,dartmouth,54 - 79,L,away,1670094000,https://media-3.api-sports.io/basketball/teams/5722.png
-2022-12-07T03:00:00+00:00,csu bakersfield,san jose state,48 - 58,L,away,1670382000,https://media-3.api-sports.io/basketball/teams/5722.png
-2022-12-18T03:00:00+00:00,csu bakersfield,abilene christian,65 - 59,L,home,1671332400,https://media-2.api-sports.io/basketball/teams/5722.png
+2022-12-07T03:00:00+00:00,csu bakersfield,san jose state,48 - 58,L,away,1670382000,https://media-2.api-sports.io/basketball/teams/5722.png
+2022-12-18T03:00:00+00:00,csu bakersfield,abilene christian,65 - 59,L,home,1671332400,https://media-1.api-sports.io/basketball/teams/5722.png
 2022-12-21T03:00:00+00:00,csu bakersfield,fresno state,56 - 48,L,home,1671591600,https://media-1.api-sports.io/basketball/teams/5722.png
 2022-12-30T01:00:00+00:00,csu bakersfield,uc riverside,59 - 71,L,away,1672362000,https://media-3.api-sports.io/basketball/teams/5722.png
 2022-12-31T21:00:00+00:00,csu bakersfield,uc irvine,79 - 75,L,home,1672520400,https://media-1.api-sports.io/basketball/teams/5722.png
 2023-01-06T03:00:00+00:00,csu bakersfield,cal poly,51 - 61,W,home,1672974000,https://media-2.api-sports.io/basketball/teams/5722.png
-2023-01-08T01:00:00+00:00,csu bakersfield,uc davis,48 - 67,L,away,1673139600,https://media-2.api-sports.io/basketball/teams/5722.png
+2023-01-08T01:00:00+00:00,csu bakersfield,uc davis,48 - 67,L,away,1673139600,https://media-3.api-sports.io/basketball/teams/5722.png
 2023-01-12T03:00:00+00:00,csu bakersfield,uc santa barbara,60 - 48,L,home,1673492400,https://media-3.api-sports.io/basketball/teams/5722.png
-2023-01-14T22:00:00+00:00,csu bakersfield,uc san diego,,,home,1673733600,https://media-2.api-sports.io/basketball/teams/5722.png
-2023-01-17T03:00:00+00:00,csu bakersfield,cs fullerton,,,away,1673924400,https://media-3.api-sports.io/basketball/teams/5722.png
+2023-01-14T22:00:00+00:00,csu bakersfield,uc san diego,,,home,1673733600,https://media-1.api-sports.io/basketball/teams/5722.png
+2023-01-17T03:00:00+00:00,csu bakersfield,cs fullerton,,,away,1673924400,https://media-1.api-sports.io/basketball/teams/5722.png
 2023-01-22T03:00:00+00:00,csu bakersfield,uc santa barbara,,,away,1674356400,https://media-1.api-sports.io/basketball/teams/5722.png
-2023-01-27T03:00:00+00:00,csu bakersfield,uc davis,,,home,1674788400,https://media-3.api-sports.io/basketball/teams/5722.png
-2023-01-29T04:59:00+00:00,csu bakersfield,hawaii,,,away,1674968340,https://media-2.api-sports.io/basketball/teams/5722.png
-2023-02-03T03:00:00+00:00,csu bakersfield,uc riverside,,,home,1675393200,https://media-2.api-sports.io/basketball/teams/5722.png
-2023-02-05T03:00:00+00:00,csu bakersfield,uc san diego,,,away,1675566000,https://media-1.api-sports.io/basketball/teams/5722.png
+2023-01-27T03:00:00+00:00,csu bakersfield,uc davis,,,home,1674788400,https://media-1.api-sports.io/basketball/teams/5722.png
+2023-01-29T04:59:00+00:00,csu bakersfield,hawaii,,,away,1674968340,https://media-3.api-sports.io/basketball/teams/5722.png
+2023-02-03T03:00:00+00:00,csu bakersfield,uc riverside,,,home,1675393200,https://media-3.api-sports.io/basketball/teams/5722.png
+2023-02-05T03:00:00+00:00,csu bakersfield,uc san diego,,,away,1675566000,https://media-2.api-sports.io/basketball/teams/5722.png
 2023-02-10T03:00:00+00:00,csu bakersfield,cs northridge,,,home,1675998000,https://media-1.api-sports.io/basketball/teams/5722.png
-2023-02-12T03:00:00+00:00,csu bakersfield,long beach state,,,home,1676170800,https://media-2.api-sports.io/basketball/teams/5722.png
+2023-02-12T03:00:00+00:00,csu bakersfield,long beach state,,,home,1676170800,https://media-1.api-sports.io/basketball/teams/5722.png
 2023-02-16T03:00:00+00:00,csu bakersfield,cal poly,,,away,1676516400,https://media-2.api-sports.io/basketball/teams/5722.png
-2023-02-20T21:00:00+00:00,csu bakersfield,hawaii,None - None,tie,home,1676926800,https://media-1.api-sports.io/basketball/teams/225.png
-2023-02-23T21:00:00+00:00,csu bakersfield,cs northridge,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/225.png
-2023-02-25T21:00:00+00:00,csu bakersfield,cs fullerton,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/225.png
+2023-02-20T21:00:00+00:00,csu bakersfield,hawaii,None - None,tie,home,1676926800,https://media-2.api-sports.io/basketball/teams/225.png
+2023-02-23T21:00:00+00:00,csu bakersfield,cs northridge,None - None,tie,away,1677186000,https://media-2.api-sports.io/basketball/teams/225.png
+2023-02-25T21:00:00+00:00,csu bakersfield,cs fullerton,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/225.png

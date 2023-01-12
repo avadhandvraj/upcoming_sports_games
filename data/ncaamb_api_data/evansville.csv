@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T01:30:00+00:00,evansville,miami (ohio),78 - 74,W,away,1667871000,https://media-1.api-sports.io/basketball/teams/1904.png
-2022-11-13T00:00:00+00:00,evansville,st. louis,65 - 83,L,away,1668297600,https://media-3.api-sports.io/basketball/teams/1904.png
-2022-11-17T01:00:00+00:00,evansville,southeast missouri state,67 - 61,L,home,1668646800,https://media-3.api-sports.io/basketball/teams/1904.png
+2022-11-13T00:00:00+00:00,evansville,st. louis,65 - 83,L,away,1668297600,https://media-2.api-sports.io/basketball/teams/1904.png
+2022-11-17T01:00:00+00:00,evansville,southeast missouri state,67 - 61,L,home,1668646800,https://media-1.api-sports.io/basketball/teams/1904.png
 2022-11-19T20:00:00+00:00,evansville,smu mustangs,47 - 55,L,away,1668888000,https://media-3.api-sports.io/basketball/teams/1904.png
-2022-11-24T00:00:00+00:00,evansville,ucf knights,56 - 76,L,away,1669248000,https://media-3.api-sports.io/basketball/teams/1904.png
-2022-11-25T23:30:00+00:00,evansville,south alabama,78 - 67,L,home,1669419000,https://media-3.api-sports.io/basketball/teams/1904.png
-2022-11-26T22:00:00+00:00,evansville,robert morris,53 - 54,W,home,1669500000,https://media-2.api-sports.io/basketball/teams/1904.png
-2022-11-28T00:30:00+00:00,evansville,fairfield,63 - 56,L,home,1669595400,https://media-2.api-sports.io/basketball/teams/1904.png
-2022-12-01T01:00:00+00:00,evansville,southern illinois,80 - 53,L,home,1669856400,https://media-1.api-sports.io/basketball/teams/1904.png
-2022-12-03T19:00:00+00:00,evansville,northern iowa,55 - 72,L,away,1670094000,https://media-1.api-sports.io/basketball/teams/1904.png
-2022-12-08T01:00:00+00:00,evansville,campbell,66 - 72,W,home,1670461200,https://media-2.api-sports.io/basketball/teams/1904.png
-2022-12-10T19:00:00+00:00,evansville,ball state,69 - 88,L,away,1670698800,https://media-2.api-sports.io/basketball/teams/1904.png
-2022-12-22T01:00:00+00:00,evansville,bellarmine,61 - 73,W,home,1671670800,https://media-2.api-sports.io/basketball/teams/1904.png
-2022-12-30T01:00:00+00:00,evansville,indiana state,63 - 91,L,away,1672362000,https://media-2.api-sports.io/basketball/teams/1904.png
-2023-01-01T19:00:00+00:00,evansville,murray state,78 - 61,L,home,1672599600,https://media-3.api-sports.io/basketball/teams/1904.png
+2022-11-24T00:00:00+00:00,evansville,ucf knights,56 - 76,L,away,1669248000,https://media-2.api-sports.io/basketball/teams/1904.png
+2022-11-25T23:30:00+00:00,evansville,south alabama,78 - 67,L,home,1669419000,https://media-2.api-sports.io/basketball/teams/1904.png
+2022-11-26T22:00:00+00:00,evansville,robert morris,53 - 54,W,home,1669500000,https://media-1.api-sports.io/basketball/teams/1904.png
+2022-11-28T00:30:00+00:00,evansville,fairfield,63 - 56,L,home,1669595400,https://media-3.api-sports.io/basketball/teams/1904.png
+2022-12-01T01:00:00+00:00,evansville,southern illinois,80 - 53,L,home,1669856400,https://media-3.api-sports.io/basketball/teams/1904.png
+2022-12-03T19:00:00+00:00,evansville,northern iowa,55 - 72,L,away,1670094000,https://media-3.api-sports.io/basketball/teams/1904.png
+2022-12-08T01:00:00+00:00,evansville,campbell,66 - 72,W,home,1670461200,https://media-3.api-sports.io/basketball/teams/1904.png
+2022-12-10T19:00:00+00:00,evansville,ball state,69 - 88,L,away,1670698800,https://media-1.api-sports.io/basketball/teams/1904.png
+2022-12-22T01:00:00+00:00,evansville,bellarmine,61 - 73,W,home,1671670800,https://media-3.api-sports.io/basketball/teams/1904.png
+2022-12-30T01:00:00+00:00,evansville,indiana state,63 - 91,L,away,1672362000,https://media-3.api-sports.io/basketball/teams/1904.png
+2023-01-01T19:00:00+00:00,evansville,murray state,78 - 61,L,home,1672599600,https://media-1.api-sports.io/basketball/teams/1904.png
 2023-01-05T01:00:00+00:00,evansville,missouri state,62 - 85,L,away,1672880400,https://media-1.api-sports.io/basketball/teams/1904.png
-2023-01-07T19:00:00+00:00,evansville,illinois state,69 - 61,L,home,1673118000,https://media-1.api-sports.io/basketball/teams/1904.png
+2023-01-07T19:00:00+00:00,evansville,illinois state,69 - 61,L,home,1673118000,https://media-2.api-sports.io/basketball/teams/1904.png
 2023-01-12T01:00:00+00:00,evansville,bradley,46 - 91,L,away,1673485200,https://media-2.api-sports.io/basketball/teams/1904.png
-2023-01-14T21:00:00+00:00,evansville,valparaiso,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/1904.png
+2023-01-14T21:00:00+00:00,evansville,valparaiso,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/1904.png
 2023-01-18T01:00:00+00:00,evansville,southern illinois,,,away,1674003600,https://media-1.api-sports.io/basketball/teams/1904.png
 2023-01-21T21:00:00+00:00,evansville,drake,,,home,1674334800,https://media-3.api-sports.io/basketball/teams/1904.png
-2023-01-26T01:00:00+00:00,evansville,belmont,,,home,1674694800,https://media-2.api-sports.io/basketball/teams/1904.png
+2023-01-26T01:00:00+00:00,evansville,belmont,,,home,1674694800,https://media-3.api-sports.io/basketball/teams/1904.png
 2023-01-29T00:00:00+00:00,evansville,valparaiso,,,away,1674950400,https://media-2.api-sports.io/basketball/teams/1904.png
 2023-02-02T01:00:00+00:00,evansville,indiana state,,,home,1675299600,https://media-3.api-sports.io/basketball/teams/1904.png
 2023-02-05T01:00:00+00:00,evansville,illinois (chi.),,,away,1675558800,https://media-3.api-sports.io/basketball/teams/1904.png
-2023-02-09T01:00:00+00:00,evansville,northern iowa,,,home,1675904400,https://media-2.api-sports.io/basketball/teams/1904.png
-2023-02-12T19:00:00+00:00,evansville,missouri state,,,home,1676228400,https://media-2.api-sports.io/basketball/teams/1904.png
-2023-02-16T00:30:00+00:00,evansville,belmont,,,away,1676507400,https://media-1.api-sports.io/basketball/teams/1904.png
-2023-02-18T21:00:00+00:00,evansville,murray state,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/1904.png
+2023-02-09T01:00:00+00:00,evansville,northern iowa,,,home,1675904400,https://media-3.api-sports.io/basketball/teams/1904.png
+2023-02-12T19:00:00+00:00,evansville,missouri state,,,home,1676228400,https://media-1.api-sports.io/basketball/teams/1904.png
+2023-02-16T00:30:00+00:00,evansville,belmont,,,away,1676507400,https://media-3.api-sports.io/basketball/teams/1904.png
+2023-02-18T21:00:00+00:00,evansville,murray state,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/1904.png

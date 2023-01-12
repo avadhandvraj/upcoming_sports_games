@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:00:00+00:00,robert morris,ohio state,53 - 91,L,away,1667865600,https://media-3.api-sports.io/basketball/teams/242.png
-2022-11-10T00:00:00+00:00,robert morris,pittsburgh - greensburg,49 - 84,W,home,1668038400,https://media-1.api-sports.io/basketball/teams/242.png
-2022-11-17T00:00:00+00:00,robert morris,west virginia wesleyan,56 - 111,W,home,1668643200,https://media-1.api-sports.io/basketball/teams/242.png
-2022-11-19T18:00:00+00:00,robert morris,dayton,51 - 60,L,away,1668880800,https://media-3.api-sports.io/basketball/teams/242.png
+2022-11-10T00:00:00+00:00,robert morris,pittsburgh - greensburg,49 - 84,W,home,1668038400,https://media-3.api-sports.io/basketball/teams/242.png
+2022-11-17T00:00:00+00:00,robert morris,west virginia wesleyan,56 - 111,W,home,1668643200,https://media-2.api-sports.io/basketball/teams/242.png
+2022-11-19T18:00:00+00:00,robert morris,dayton,51 - 60,L,away,1668880800,https://media-1.api-sports.io/basketball/teams/242.png
 2022-11-26T02:00:00+00:00,robert morris,mercer,72 - 66,L,home,1669428000,https://media-2.api-sports.io/basketball/teams/242.png
-2022-11-26T22:00:00+00:00,robert morris,evansville,53 - 54,L,away,1669500000,https://media-1.api-sports.io/basketball/teams/242.png
+2022-11-26T22:00:00+00:00,robert morris,evansville,53 - 54,L,away,1669500000,https://media-2.api-sports.io/basketball/teams/242.png
 2022-11-27T19:30:00+00:00,robert morris,south alabama,84 - 70,L,home,1669577400,https://media-3.api-sports.io/basketball/teams/242.png
 2022-12-02T00:00:00+00:00,robert morris,wright state,80 - 59,W,away,1669939200,https://media-2.api-sports.io/basketball/teams/242.png
-2022-12-03T23:00:00+00:00,robert morris,northern kentucky,56 - 60,L,away,1670108400,https://media-3.api-sports.io/basketball/teams/242.png
-2022-12-08T00:00:00+00:00,robert morris,central michigan,71 - 66,W,away,1670457600,https://media-2.api-sports.io/basketball/teams/242.png
-2022-12-11T00:00:00+00:00,robert morris,marshall,69 - 60,L,home,1670716800,https://media-2.api-sports.io/basketball/teams/242.png
-2022-12-18T19:00:00+00:00,robert morris,mount st. mary's,68 - 59,W,away,1671390000,https://media-3.api-sports.io/basketball/teams/242.png
+2022-12-03T23:00:00+00:00,robert morris,northern kentucky,56 - 60,L,away,1670108400,https://media-1.api-sports.io/basketball/teams/242.png
+2022-12-08T00:00:00+00:00,robert morris,central michigan,71 - 66,W,away,1670457600,https://media-3.api-sports.io/basketball/teams/242.png
+2022-12-11T00:00:00+00:00,robert morris,marshall,69 - 60,L,home,1670716800,https://media-3.api-sports.io/basketball/teams/242.png
+2022-12-18T19:00:00+00:00,robert morris,mount st. mary's,68 - 59,W,away,1671390000,https://media-1.api-sports.io/basketball/teams/242.png
 2022-12-22T00:00:00+00:00,robert morris,st. francis (pa),66 - 77,W,home,1671667200,https://media-3.api-sports.io/basketball/teams/242.png
-2022-12-30T00:00:00+00:00,robert morris,ipfw,70 - 75,W,home,1672358400,https://media-1.api-sports.io/basketball/teams/242.png
+2022-12-30T00:00:00+00:00,robert morris,ipfw,70 - 75,W,home,1672358400,https://media-3.api-sports.io/basketball/teams/242.png
 2022-12-31T20:00:00+00:00,robert morris,cleveland state,63 - 54,L,home,1672516800,https://media-1.api-sports.io/basketball/teams/242.png
 2023-01-06T00:00:00+00:00,robert morris,youngstown state,56 - 78,L,away,1672963200,https://media-2.api-sports.io/basketball/teams/242.png
-2023-01-10T00:00:00+00:00,robert morris,iupui,70 - 77,W,home,1673308800,https://media-2.api-sports.io/basketball/teams/242.png
+2023-01-10T00:00:00+00:00,robert morris,iupui,70 - 77,W,home,1673308800,https://media-1.api-sports.io/basketball/teams/242.png
 2023-01-13T00:00:00+00:00,robert morris,oakland,,,away,1673568000,https://media-3.api-sports.io/basketball/teams/242.png
-2023-01-14T18:00:00+00:00,robert morris,detroit,,,away,1673719200,https://media-1.api-sports.io/basketball/teams/242.png
-2023-01-20T01:00:00+00:00,robert morris,wisc. milwaukee,,,away,1674176400,https://media-3.api-sports.io/basketball/teams/242.png
-2023-01-22T00:00:00+00:00,robert morris,wisc. green bay,,,away,1674345600,https://media-3.api-sports.io/basketball/teams/242.png
-2023-01-28T00:00:00+00:00,robert morris,detroit,,,home,1674864000,https://media-1.api-sports.io/basketball/teams/242.png
-2023-01-29T18:00:00+00:00,robert morris,oakland,,,home,1675015200,https://media-2.api-sports.io/basketball/teams/242.png
-2023-02-03T00:00:00+00:00,robert morris,northern kentucky,,,home,1675382400,https://media-2.api-sports.io/basketball/teams/242.png
-2023-02-05T00:00:00+00:00,robert morris,wright state,,,home,1675555200,https://media-2.api-sports.io/basketball/teams/242.png
-2023-02-11T00:00:00+00:00,robert morris,cleveland state,,,away,1676073600,https://media-1.api-sports.io/basketball/teams/242.png
+2023-01-14T18:00:00+00:00,robert morris,detroit,,,away,1673719200,https://media-3.api-sports.io/basketball/teams/242.png
+2023-01-20T01:00:00+00:00,robert morris,wisc. milwaukee,,,away,1674176400,https://media-2.api-sports.io/basketball/teams/242.png
+2023-01-22T00:00:00+00:00,robert morris,wisc. green bay,,,away,1674345600,https://media-2.api-sports.io/basketball/teams/242.png
+2023-01-28T00:00:00+00:00,robert morris,detroit,,,home,1674864000,https://media-2.api-sports.io/basketball/teams/242.png
+2023-01-29T18:00:00+00:00,robert morris,oakland,,,home,1675015200,https://media-3.api-sports.io/basketball/teams/242.png
+2023-02-03T00:00:00+00:00,robert morris,northern kentucky,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/242.png
+2023-02-05T00:00:00+00:00,robert morris,wright state,,,home,1675555200,https://media-1.api-sports.io/basketball/teams/242.png
+2023-02-11T00:00:00+00:00,robert morris,cleveland state,,,away,1676073600,https://media-3.api-sports.io/basketball/teams/242.png
 2023-02-12T18:00:00+00:00,robert morris,ipfw,,,away,1676224800,https://media-1.api-sports.io/basketball/teams/242.png
-2023-02-17T00:00:00+00:00,robert morris,wisc. green bay,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/242.png
-2023-02-18T21:00:00+00:00,robert morris,wisc. milwaukee,None - None,tie,home,1676754000,https://media-3.api-sports.io/basketball/teams/242.png
-2023-02-21T21:00:00+00:00,robert morris,youngstown state,None - None,tie,home,1677013200,https://media-3.api-sports.io/basketball/teams/242.png
-2023-02-23T21:00:00+00:00,robert morris,iupui,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/242.png
+2023-02-17T00:00:00+00:00,robert morris,wisc. green bay,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/242.png
+2023-02-18T21:00:00+00:00,robert morris,wisc. milwaukee,None - None,tie,home,1676754000,https://media-2.api-sports.io/basketball/teams/242.png
+2023-02-21T21:00:00+00:00,robert morris,youngstown state,None - None,tie,home,1677013200,https://media-2.api-sports.io/basketball/teams/242.png
+2023-02-23T21:00:00+00:00,robert morris,iupui,None - None,tie,away,1677186000,https://media-2.api-sports.io/basketball/teams/242.png

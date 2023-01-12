@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T03:00:00+00:00,cs fullerton,san diego state,57 - 80,L,away,1667876400,https://media-1.api-sports.io/basketball/teams/5720.png
+2022-11-08T03:00:00+00:00,cs fullerton,san diego state,57 - 80,L,away,1667876400,https://media-2.api-sports.io/basketball/teams/5720.png
 2022-11-12T03:00:00+00:00,cs fullerton,pepperdine,71 - 74,W,home,1668222000,https://media-1.api-sports.io/basketball/teams/5720.png
-2022-11-14T01:00:00+00:00,cs fullerton,vermont,85 - 94,W,home,1668387600,https://media-2.api-sports.io/basketball/teams/5720.png
+2022-11-14T01:00:00+00:00,cs fullerton,vermont,85 - 94,W,home,1668387600,https://media-1.api-sports.io/basketball/teams/5720.png
 2022-11-19T03:00:00+00:00,cs fullerton,pacific,94 - 91,W,away,1668826800,https://media-2.api-sports.io/basketball/teams/5720.png
 2022-11-23T03:00:00+00:00,cs fullerton,westcliff,57 - 78,W,home,1669172400,https://media-1.api-sports.io/basketball/teams/5720.png
-2022-11-26T19:00:00+00:00,cs fullerton,utah tech,60 - 66,L,away,1669489200,https://media-2.api-sports.io/basketball/teams/5720.png
+2022-11-26T19:00:00+00:00,cs fullerton,utah tech,60 - 66,L,away,1669489200,https://media-3.api-sports.io/basketball/teams/5720.png
 2022-11-27T19:00:00+00:00,cs fullerton,north dakota,57 - 73,L,away,1669575600,https://media-3.api-sports.io/basketball/teams/5720.png
-2022-12-01T03:00:00+00:00,cs fullerton,seattle,62 - 69,L,away,1669863600,https://media-3.api-sports.io/basketball/teams/5720.png
+2022-12-01T03:00:00+00:00,cs fullerton,seattle,62 - 69,L,away,1669863600,https://media-2.api-sports.io/basketball/teams/5720.png
 2022-12-08T04:00:00+00:00,cs fullerton,usc,50 - 64,L,away,1670472000,https://media-1.api-sports.io/basketball/teams/5720.png
-2022-12-11T00:00:00+00:00,cs fullerton,southern utah,60 - 67,L,away,1670716800,https://media-3.api-sports.io/basketball/teams/5720.png
-2022-12-20T03:00:00+00:00,cs fullerton,san diego christian,35 - 87,W,home,1671505200,https://media-1.api-sports.io/basketball/teams/5720.png
-2022-12-22T02:00:00+00:00,cs fullerton,sacramento state,49 - 59,W,home,1671674400,https://media-2.api-sports.io/basketball/teams/5720.png
-2022-12-30T02:00:00+00:00,cs fullerton,uc santa barbara,66 - 58,L,home,1672365600,https://media-3.api-sports.io/basketball/teams/5720.png
-2023-01-01T00:00:00+00:00,cs fullerton,cs northridge,52 - 64,W,home,1672531200,https://media-1.api-sports.io/basketball/teams/5720.png
+2022-12-11T00:00:00+00:00,cs fullerton,southern utah,60 - 67,L,away,1670716800,https://media-1.api-sports.io/basketball/teams/5720.png
+2022-12-20T03:00:00+00:00,cs fullerton,san diego christian,35 - 87,W,home,1671505200,https://media-3.api-sports.io/basketball/teams/5720.png
+2022-12-22T02:00:00+00:00,cs fullerton,sacramento state,49 - 59,W,home,1671674400,https://media-1.api-sports.io/basketball/teams/5720.png
+2022-12-30T02:00:00+00:00,cs fullerton,uc santa barbara,66 - 58,L,home,1672365600,https://media-2.api-sports.io/basketball/teams/5720.png
+2023-01-01T00:00:00+00:00,cs fullerton,cs northridge,52 - 64,W,home,1672531200,https://media-2.api-sports.io/basketball/teams/5720.png
 2023-01-06T03:00:00+00:00,cs fullerton,uc riverside,77 - 62,W,away,1672974000,https://media-2.api-sports.io/basketball/teams/5720.png
-2023-01-08T02:00:00+00:00,cs fullerton,hawaii,72 - 79,W,home,1673143200,https://media-1.api-sports.io/basketball/teams/5720.png
-2023-01-12T03:00:00+00:00,cs fullerton,uc irvine,65 - 70,L,away,1673492400,https://media-2.api-sports.io/basketball/teams/5720.png
+2023-01-08T02:00:00+00:00,cs fullerton,hawaii,72 - 79,W,home,1673143200,https://media-3.api-sports.io/basketball/teams/5720.png
+2023-01-12T03:00:00+00:00,cs fullerton,uc irvine,65 - 70,L,away,1673492400,https://media-1.api-sports.io/basketball/teams/5720.png
 2023-01-14T22:00:00+00:00,cs fullerton,uc davis,,,away,1673733600,https://media-1.api-sports.io/basketball/teams/5720.png
-2023-01-17T03:00:00+00:00,cs fullerton,csu bakersfield,,,home,1673924400,https://media-3.api-sports.io/basketball/teams/5720.png
+2023-01-17T03:00:00+00:00,cs fullerton,csu bakersfield,,,home,1673924400,https://media-2.api-sports.io/basketball/teams/5720.png
 2023-01-20T03:00:00+00:00,cs fullerton,long beach state,,,away,1674183600,https://media-3.api-sports.io/basketball/teams/5720.png
 2023-01-22T03:00:00+00:00,cs fullerton,cs northridge,,,away,1674356400,https://media-1.api-sports.io/basketball/teams/5720.png
-2023-01-27T03:00:00+00:00,cs fullerton,uc irvine,,,home,1674788400,https://media-1.api-sports.io/basketball/teams/5720.png
-2023-01-29T03:00:00+00:00,cs fullerton,cal poly,,,away,1674961200,https://media-3.api-sports.io/basketball/teams/5720.png
+2023-01-27T03:00:00+00:00,cs fullerton,uc irvine,,,home,1674788400,https://media-3.api-sports.io/basketball/teams/5720.png
+2023-01-29T03:00:00+00:00,cs fullerton,cal poly,,,away,1674961200,https://media-2.api-sports.io/basketball/teams/5720.png
 2023-02-03T03:00:00+00:00,cs fullerton,long beach state,,,home,1675393200,https://media-2.api-sports.io/basketball/teams/5720.png
 2023-02-05T02:00:00+00:00,cs fullerton,uc riverside,,,home,1675562400,https://media-2.api-sports.io/basketball/teams/5720.png
-2023-02-12T04:59:00+00:00,cs fullerton,hawaii,,,away,1676177940,https://media-2.api-sports.io/basketball/teams/5720.png
-2023-02-16T03:00:00+00:00,cs fullerton,uc san diego,,,away,1676516400,https://media-3.api-sports.io/basketball/teams/5720.png
+2023-02-12T04:59:00+00:00,cs fullerton,hawaii,,,away,1676177940,https://media-1.api-sports.io/basketball/teams/5720.png
+2023-02-16T03:00:00+00:00,cs fullerton,uc san diego,,,away,1676516400,https://media-2.api-sports.io/basketball/teams/5720.png
 2023-02-18T21:00:00+00:00,cs fullerton,cal poly,None - None,tie,home,1676754000,https://media-2.api-sports.io/basketball/teams/224.png
 2023-02-20T21:00:00+00:00,cs fullerton,uc santa barbara,None - None,tie,away,1676926800,https://media-3.api-sports.io/basketball/teams/224.png
 2023-02-23T21:00:00+00:00,cs fullerton,uc davis,None - None,tie,home,1677186000,https://media-1.api-sports.io/basketball/teams/224.png
-2023-02-25T21:00:00+00:00,cs fullerton,csu bakersfield,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/224.png
+2023-02-25T21:00:00+00:00,cs fullerton,csu bakersfield,None - None,tie,away,1677358800,https://media-2.api-sports.io/basketball/teams/224.png

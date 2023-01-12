@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-10T01:00:00+00:00,south alabama,mobile,59 - 97,W,home,1668042000,https://media-3.api-sports.io/basketball/teams/2115.png
-2022-11-12T02:00:00+00:00,south alabama,new mexico,74 - 80,L,away,1668218400,https://media-3.api-sports.io/basketball/teams/2115.png
-2022-11-16T03:00:00+00:00,south alabama,alabama,65 - 55,L,home,1668567600,https://media-2.api-sports.io/basketball/teams/2115.png
+2022-11-10T01:00:00+00:00,south alabama,mobile,59 - 97,W,home,1668042000,https://media-1.api-sports.io/basketball/teams/2115.png
+2022-11-12T02:00:00+00:00,south alabama,new mexico,74 - 80,L,away,1668218400,https://media-2.api-sports.io/basketball/teams/2115.png
+2022-11-16T03:00:00+00:00,south alabama,alabama,65 - 55,L,home,1668567600,https://media-1.api-sports.io/basketball/teams/2115.png
 2022-11-19T01:00:00+00:00,south alabama,oklahoma,60 - 64,L,away,1668819600,https://media-1.api-sports.io/basketball/teams/2115.png
-2022-11-25T23:30:00+00:00,south alabama,evansville,78 - 67,W,away,1669419000,https://media-1.api-sports.io/basketball/teams/2115.png
+2022-11-25T23:30:00+00:00,south alabama,evansville,78 - 67,W,away,1669419000,https://media-3.api-sports.io/basketball/teams/2115.png
 2022-11-26T19:30:00+00:00,south alabama,towson,62 - 60,L,home,1669491000,https://media-3.api-sports.io/basketball/teams/2115.png
-2022-11-27T19:30:00+00:00,south alabama,robert morris,84 - 70,W,away,1669577400,https://media-2.api-sports.io/basketball/teams/2115.png
-2022-12-01T00:00:00+00:00,south alabama,florida atlantic,59 - 84,L,away,1669852800,https://media-3.api-sports.io/basketball/teams/2115.png
-2022-12-04T19:00:00+00:00,south alabama,uab,68 - 76,L,away,1670180400,https://media-2.api-sports.io/basketball/teams/2115.png
-2022-12-13T00:00:00+00:00,south alabama,alabama a&m,78 - 71,W,away,1670889600,https://media-2.api-sports.io/basketball/teams/2115.png
+2022-11-27T19:30:00+00:00,south alabama,robert morris,84 - 70,W,away,1669577400,https://media-3.api-sports.io/basketball/teams/2115.png
+2022-12-01T00:00:00+00:00,south alabama,florida atlantic,59 - 84,L,away,1669852800,https://media-2.api-sports.io/basketball/teams/2115.png
+2022-12-04T19:00:00+00:00,south alabama,uab,68 - 76,L,away,1670180400,https://media-1.api-sports.io/basketball/teams/2115.png
+2022-12-13T00:00:00+00:00,south alabama,alabama a&m,78 - 71,W,away,1670889600,https://media-1.api-sports.io/basketball/teams/2115.png
 2022-12-20T01:00:00+00:00,south alabama,spring hill,53 - 82,W,home,1671498000,https://media-1.api-sports.io/basketball/teams/2115.png
 2022-12-21T19:00:00+00:00,south alabama,jacksonville state,66 - 71,W,home,1671649200,https://media-2.api-sports.io/basketball/teams/2115.png
-2022-12-30T01:00:00+00:00,south alabama,georgia southern,50 - 64,L,away,1672362000,https://media-2.api-sports.io/basketball/teams/2115.png
+2022-12-30T01:00:00+00:00,south alabama,georgia southern,50 - 64,L,away,1672362000,https://media-3.api-sports.io/basketball/teams/2115.png
 2022-12-31T19:00:00+00:00,south alabama,georgia state,58 - 68,L,away,1672513200,https://media-3.api-sports.io/basketball/teams/2115.png
 2023-01-06T01:00:00+00:00,south alabama,arkansas state,45 - 63,W,home,1672966800,https://media-2.api-sports.io/basketball/teams/2115.png
-2023-01-07T20:00:00+00:00,south alabama,texas state,64 - 58,L,home,1673121600,https://media-1.api-sports.io/basketball/teams/2115.png
-2023-01-13T01:00:00+00:00,south alabama,james madison,,,home,1673571600,https://media-2.api-sports.io/basketball/teams/2115.png
-2023-01-14T21:00:00+00:00,south alabama,louisiana lafayette,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/2115.png
-2023-01-20T01:00:00+00:00,south alabama,southern miss,,,away,1674176400,https://media-1.api-sports.io/basketball/teams/2115.png
+2023-01-07T20:00:00+00:00,south alabama,texas state,64 - 58,L,home,1673121600,https://media-3.api-sports.io/basketball/teams/2115.png
+2023-01-13T01:00:00+00:00,south alabama,james madison,,,home,1673571600,https://media-3.api-sports.io/basketball/teams/2115.png
+2023-01-14T21:00:00+00:00,south alabama,louisiana lafayette,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/2115.png
+2023-01-20T01:00:00+00:00,south alabama,southern miss,,,away,1674176400,https://media-2.api-sports.io/basketball/teams/2115.png
 2023-01-21T19:00:00+00:00,south alabama,coastal carolina,,,away,1674327600,https://media-1.api-sports.io/basketball/teams/2115.png
 2023-01-27T01:00:00+00:00,south alabama,old dominion,,,home,1674781200,https://media-3.api-sports.io/basketball/teams/2115.png
 2023-01-28T21:00:00+00:00,south alabama,troy,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/2115.png
-2023-02-03T01:00:00+00:00,south alabama,arkansas state,,,away,1675386000,https://media-2.api-sports.io/basketball/teams/2115.png
-2023-02-04T20:00:00+00:00,south alabama,louisiana monroe,,,away,1675540800,https://media-2.api-sports.io/basketball/teams/2115.png
+2023-02-03T01:00:00+00:00,south alabama,arkansas state,,,away,1675386000,https://media-3.api-sports.io/basketball/teams/2115.png
+2023-02-04T20:00:00+00:00,south alabama,louisiana monroe,,,away,1675540800,https://media-1.api-sports.io/basketball/teams/2115.png
 2023-02-10T01:15:00+00:00,south alabama,troy,,,away,1675991700,https://media-1.api-sports.io/basketball/teams/2115.png
-2023-02-11T23:00:00+00:00,south alabama,appalachian state,,,home,1676156400,https://media-3.api-sports.io/basketball/teams/2115.png
-2023-02-14T01:00:00+00:00,south alabama,hartford,,,home,1676336400,https://media-2.api-sports.io/basketball/teams/2115.png
-2023-02-17T01:00:00+00:00,south alabama,southern miss,,,home,1676595600,https://media-2.api-sports.io/basketball/teams/2115.png
+2023-02-11T23:00:00+00:00,south alabama,appalachian state,,,home,1676156400,https://media-1.api-sports.io/basketball/teams/2115.png
+2023-02-14T01:00:00+00:00,south alabama,hartford,,,home,1676336400,https://media-1.api-sports.io/basketball/teams/2115.png
+2023-02-17T01:00:00+00:00,south alabama,southern miss,,,home,1676595600,https://media-3.api-sports.io/basketball/teams/2115.png
 2023-02-18T21:00:00+00:00,south alabama,louisiana monroe,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/2115.png
-2023-02-22T21:00:00+00:00,south alabama,texas state,None - None,tie,away,1677099600,https://media-3.api-sports.io/basketball/teams/2115.png
-2023-02-24T21:00:00+00:00,south alabama,louisiana lafayette,None - None,tie,away,1677272400,https://media-1.api-sports.io/basketball/teams/2115.png
+2023-02-22T21:00:00+00:00,south alabama,texas state,None - None,tie,away,1677099600,https://media-1.api-sports.io/basketball/teams/2115.png
+2023-02-24T21:00:00+00:00,south alabama,louisiana lafayette,None - None,tie,away,1677272400,https://media-3.api-sports.io/basketball/teams/2115.png
