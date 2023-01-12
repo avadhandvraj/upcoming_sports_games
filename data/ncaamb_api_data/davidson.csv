@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,davidson,guilford,64 - 87,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/183.png
+2022-11-08T00:00:00+00:00,davidson,guilford,64 - 87,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/183.png
 2022-11-10T00:00:00+00:00,davidson,wright state,102 - 97,W,away,1668038400,https://media-2.api-sports.io/basketball/teams/183.png
-2022-11-13T19:00:00+00:00,davidson,vmi,71 - 75,W,home,1668366000,https://media-1.api-sports.io/basketball/teams/183.png
-2022-11-18T00:00:00+00:00,davidson,charleston,66 - 89,L,away,1668729600,https://media-2.api-sports.io/basketball/teams/183.png
-2022-11-19T00:30:00+00:00,davidson,south carolina,60 - 69,W,home,1668817800,https://media-1.api-sports.io/basketball/teams/183.png
-2022-11-20T18:00:00+00:00,davidson,old dominion,61 - 66,W,home,1668967200,https://media-1.api-sports.io/basketball/teams/183.png
-2022-11-25T19:00:00+00:00,davidson,san francisco,80 - 89,W,home,1669402800,https://media-3.api-sports.io/basketball/teams/183.png
-2022-11-30T00:00:00+00:00,davidson,charlotte,68 - 66,L,home,1669766400,https://media-3.api-sports.io/basketball/teams/183.png
-2022-12-03T19:00:00+00:00,davidson,delaware,67 - 69,L,away,1670094000,https://media-3.api-sports.io/basketball/teams/183.png
-2022-12-08T00:00:00+00:00,davidson,western carolina,64 - 72,W,home,1670457600,https://media-3.api-sports.io/basketball/teams/183.png
-2022-12-17T23:15:00+00:00,davidson,purdue,61 - 69,L,away,1671318900,https://media-1.api-sports.io/basketball/teams/183.png
+2022-11-13T19:00:00+00:00,davidson,vmi,71 - 75,W,home,1668366000,https://media-3.api-sports.io/basketball/teams/183.png
+2022-11-18T00:00:00+00:00,davidson,charleston,66 - 89,L,away,1668729600,https://media-1.api-sports.io/basketball/teams/183.png
+2022-11-19T00:30:00+00:00,davidson,south carolina,60 - 69,W,home,1668817800,https://media-2.api-sports.io/basketball/teams/183.png
+2022-11-20T18:00:00+00:00,davidson,old dominion,61 - 66,W,home,1668967200,https://media-2.api-sports.io/basketball/teams/183.png
+2022-11-25T19:00:00+00:00,davidson,san francisco,80 - 89,W,home,1669402800,https://media-1.api-sports.io/basketball/teams/183.png
+2022-11-30T00:00:00+00:00,davidson,charlotte,68 - 66,L,home,1669766400,https://media-1.api-sports.io/basketball/teams/183.png
+2022-12-03T19:00:00+00:00,davidson,delaware,67 - 69,L,away,1670094000,https://media-2.api-sports.io/basketball/teams/183.png
+2022-12-08T00:00:00+00:00,davidson,western carolina,64 - 72,W,home,1670457600,https://media-1.api-sports.io/basketball/teams/183.png
+2022-12-17T23:15:00+00:00,davidson,purdue,61 - 69,L,away,1671318900,https://media-3.api-sports.io/basketball/teams/183.png
 2022-12-21T18:00:00+00:00,davidson,northeastern,73 - 70,L,home,1671645600,https://media-2.api-sports.io/basketball/teams/183.png
-2022-12-29T00:00:00+00:00,davidson,fordham,57 - 43,W,away,1672272000,https://media-3.api-sports.io/basketball/teams/183.png
-2022-12-31T19:00:00+00:00,davidson,dayton,69 - 55,L,home,1672513200,https://media-1.api-sports.io/basketball/teams/183.png
-2023-01-05T00:00:00+00:00,davidson,loyola chicago,57 - 80,W,home,1672876800,https://media-1.api-sports.io/basketball/teams/183.png
-2023-01-07T17:00:00+00:00,davidson,vcu rams,72 - 89,L,away,1673110800,https://media-2.api-sports.io/basketball/teams/183.png
-2023-01-12T00:00:00+00:00,davidson,richmond,,,home,1673481600,https://media-3.api-sports.io/basketball/teams/183.png
-2023-01-14T17:00:00+00:00,davidson,george mason,,,away,1673715600,https://media-3.api-sports.io/basketball/teams/183.png
-2023-01-18T00:00:00+00:00,davidson,dayton,,,away,1674000000,https://media-3.api-sports.io/basketball/teams/183.png
-2023-01-25T00:00:00+00:00,davidson,la salle,,,away,1674604800,https://media-1.api-sports.io/basketball/teams/183.png
-2023-01-28T00:00:00+00:00,davidson,st. louis,,,home,1674864000,https://media-2.api-sports.io/basketball/teams/183.png
-2023-02-01T00:00:00+00:00,davidson,vcu rams,,,home,1675209600,https://media-2.api-sports.io/basketball/teams/183.png
-2023-02-04T17:30:00+00:00,davidson,umass,,,away,1675531800,https://media-1.api-sports.io/basketball/teams/183.png
+2022-12-29T00:00:00+00:00,davidson,fordham,57 - 43,W,away,1672272000,https://media-1.api-sports.io/basketball/teams/183.png
+2022-12-31T19:00:00+00:00,davidson,dayton,69 - 55,L,home,1672513200,https://media-2.api-sports.io/basketball/teams/183.png
+2023-01-05T00:00:00+00:00,davidson,loyola chicago,57 - 80,W,home,1672876800,https://media-2.api-sports.io/basketball/teams/183.png
+2023-01-07T17:00:00+00:00,davidson,vcu rams,72 - 89,L,away,1673110800,https://media-1.api-sports.io/basketball/teams/183.png
+2023-01-12T00:00:00+00:00,davidson,richmond,61 - 57,L,home,1673481600,https://media-3.api-sports.io/basketball/teams/183.png
+2023-01-14T17:00:00+00:00,davidson,george mason,,,away,1673715600,https://media-1.api-sports.io/basketball/teams/183.png
+2023-01-18T00:00:00+00:00,davidson,dayton,,,away,1674000000,https://media-1.api-sports.io/basketball/teams/183.png
+2023-01-25T00:00:00+00:00,davidson,la salle,,,away,1674604800,https://media-3.api-sports.io/basketball/teams/183.png
+2023-01-28T00:00:00+00:00,davidson,st. louis,,,home,1674864000,https://media-3.api-sports.io/basketball/teams/183.png
+2023-02-01T00:00:00+00:00,davidson,vcu rams,,,home,1675209600,https://media-1.api-sports.io/basketball/teams/183.png
+2023-02-04T17:30:00+00:00,davidson,umass,,,away,1675531800,https://media-3.api-sports.io/basketball/teams/183.png
 2023-02-11T19:30:00+00:00,davidson,fordham,,,home,1676143800,https://media-2.api-sports.io/basketball/teams/183.png
-2023-02-16T02:00:00+00:00,davidson,st. louis,,,away,1676512800,https://media-3.api-sports.io/basketball/teams/183.png
-2023-02-18T17:30:00+00:00,davidson,saint josephs,,,home,1676741400,https://media-3.api-sports.io/basketball/teams/183.png
+2023-02-16T02:00:00+00:00,davidson,st. louis,,,away,1676512800,https://media-1.api-sports.io/basketball/teams/183.png
+2023-02-18T17:30:00+00:00,davidson,saint josephs,,,home,1676741400,https://media-2.api-sports.io/basketball/teams/183.png

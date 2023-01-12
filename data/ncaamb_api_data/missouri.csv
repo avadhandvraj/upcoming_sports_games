@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,missouri,southern indiana,91 - 97,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/2006.png
-2022-11-12T01:00:00+00:00,missouri,penn,85 - 92,W,home,1668214800,https://media-3.api-sports.io/basketball/teams/2006.png
-2022-11-13T23:00:00+00:00,missouri,lindenwood,53 - 82,W,home,1668380400,https://media-1.api-sports.io/basketball/teams/2006.png
-2022-11-16T01:00:00+00:00,missouri,siu edwardsville,80 - 105,W,home,1668560400,https://media-1.api-sports.io/basketball/teams/2006.png
-2022-11-21T00:30:00+00:00,missouri,miss. valley st.,62 - 83,W,home,1668990600,https://media-3.api-sports.io/basketball/teams/2006.png
-2022-11-24T00:00:00+00:00,missouri,coastal carolina,51 - 89,W,home,1669248000,https://media-2.api-sports.io/basketball/teams/2006.png
-2022-11-26T17:00:00+00:00,missouri,houston christian,69 - 105,W,home,1669482000,https://media-3.api-sports.io/basketball/teams/2006.png
-2022-11-30T01:00:00+00:00,missouri,wichita state,88 - 84,W,away,1669770000,https://media-2.api-sports.io/basketball/teams/2006.png
-2022-12-04T21:00:00+00:00,missouri,southeast missouri state,89 - 96,W,home,1670187600,https://media-2.api-sports.io/basketball/teams/2006.png
-2022-12-10T22:15:00+00:00,missouri,kansas,95 - 67,L,home,1670710500,https://media-1.api-sports.io/basketball/teams/2006.png
-2022-12-17T17:00:00+00:00,missouri,ucf knights,68 - 66,W,away,1671296400,https://media-1.api-sports.io/basketball/teams/2006.png
-2022-12-23T02:00:00+00:00,missouri,illinois,71 - 93,W,home,1671760800,https://media-3.api-sports.io/basketball/teams/2006.png
-2022-12-29T00:00:00+00:00,missouri,kentucky,75 - 89,W,home,1672272000,https://media-1.api-sports.io/basketball/teams/2006.png
+2022-11-08T01:00:00+00:00,missouri,southern indiana,91 - 97,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/2006.png
+2022-11-12T01:00:00+00:00,missouri,penn,85 - 92,W,home,1668214800,https://media-2.api-sports.io/basketball/teams/2006.png
+2022-11-13T23:00:00+00:00,missouri,lindenwood,53 - 82,W,home,1668380400,https://media-2.api-sports.io/basketball/teams/2006.png
+2022-11-16T01:00:00+00:00,missouri,siu edwardsville,80 - 105,W,home,1668560400,https://media-3.api-sports.io/basketball/teams/2006.png
+2022-11-21T00:30:00+00:00,missouri,miss. valley st.,62 - 83,W,home,1668990600,https://media-1.api-sports.io/basketball/teams/2006.png
+2022-11-24T00:00:00+00:00,missouri,coastal carolina,51 - 89,W,home,1669248000,https://media-1.api-sports.io/basketball/teams/2006.png
+2022-11-26T17:00:00+00:00,missouri,houston christian,69 - 105,W,home,1669482000,https://media-2.api-sports.io/basketball/teams/2006.png
+2022-11-30T01:00:00+00:00,missouri,wichita state,88 - 84,W,away,1669770000,https://media-3.api-sports.io/basketball/teams/2006.png
+2022-12-04T21:00:00+00:00,missouri,southeast missouri state,89 - 96,W,home,1670187600,https://media-1.api-sports.io/basketball/teams/2006.png
+2022-12-10T22:15:00+00:00,missouri,kansas,95 - 67,L,home,1670710500,https://media-3.api-sports.io/basketball/teams/2006.png
+2022-12-17T17:00:00+00:00,missouri,ucf knights,68 - 66,W,away,1671296400,https://media-3.api-sports.io/basketball/teams/2006.png
+2022-12-23T02:00:00+00:00,missouri,illinois,71 - 93,W,home,1671760800,https://media-2.api-sports.io/basketball/teams/2006.png
+2022-12-29T00:00:00+00:00,missouri,kentucky,75 - 89,W,home,1672272000,https://media-3.api-sports.io/basketball/teams/2006.png
 2023-01-05T01:30:00+00:00,missouri,arkansas,68 - 74,L,away,1672882200,https://media-1.api-sports.io/basketball/teams/2006.png
 2023-01-07T17:00:00+00:00,missouri,vanderbilt,82 - 85,W,home,1673110800,https://media-1.api-sports.io/basketball/teams/2006.png
-2023-01-12T01:30:00+00:00,missouri,texas a&m,,,away,1673487000,https://media-1.api-sports.io/basketball/teams/2006.png
-2023-01-14T20:30:00+00:00,missouri,florida,,,away,1673728200,https://media-1.api-sports.io/basketball/teams/2006.png
-2023-01-19T02:00:00+00:00,missouri,arkansas,,,home,1674093600,https://media-1.api-sports.io/basketball/teams/2006.png
+2023-01-12T01:30:00+00:00,missouri,texas a&m,64 - 82,L,away,1673487000,https://media-3.api-sports.io/basketball/teams/2006.png
+2023-01-14T20:30:00+00:00,missouri,florida,,,away,1673728200,https://media-2.api-sports.io/basketball/teams/2006.png
+2023-01-19T02:00:00+00:00,missouri,arkansas,,,home,1674093600,https://media-3.api-sports.io/basketball/teams/2006.png
 2023-01-21T23:00:00+00:00,missouri,alabama,,,home,1674342000,https://media-3.api-sports.io/basketball/teams/2006.png
 2023-01-25T00:00:00+00:00,missouri,ole miss,,,away,1674604800,https://media-2.api-sports.io/basketball/teams/2006.png
-2023-01-28T19:00:00+00:00,missouri,iowa state,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/2006.png
+2023-01-28T19:00:00+00:00,missouri,iowa state,,,home,1674932400,https://media-2.api-sports.io/basketball/teams/2006.png
 2023-02-02T02:00:00+00:00,missouri,lsu,,,home,1675303200,https://media-2.api-sports.io/basketball/teams/2006.png
 2023-02-04T23:00:00+00:00,missouri,mississippi st.,,,away,1675551600,https://media-1.api-sports.io/basketball/teams/2006.png
 2023-02-08T02:00:00+00:00,missouri,south carolina,,,home,1675821600,https://media-1.api-sports.io/basketball/teams/2006.png
-2023-02-11T23:00:00+00:00,missouri,tennessee,,,away,1676156400,https://media-2.api-sports.io/basketball/teams/2006.png
+2023-02-11T23:00:00+00:00,missouri,tennessee,,,away,1676156400,https://media-1.api-sports.io/basketball/teams/2006.png
 2023-02-15T00:00:00+00:00,missouri,auburn,,,away,1676419200,https://media-3.api-sports.io/basketball/teams/2006.png
-2023-02-18T23:00:00+00:00,missouri,texas a&m,,,home,1676761200,https://media-3.api-sports.io/basketball/teams/2006.png
+2023-02-18T23:00:00+00:00,missouri,texas a&m,,,home,1676761200,https://media-2.api-sports.io/basketball/teams/2006.png

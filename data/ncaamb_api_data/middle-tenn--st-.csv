@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-07T17:00:00+00:00,middle tenn. st.,brescia,52 - 79,W,home,1667840400,https://media-1.api-sports.io/basketball/teams/5799.png
-2022-11-12T21:00:00+00:00,middle tenn. st.,winthrop,68 - 76,L,away,1668286800,https://media-3.api-sports.io/basketball/teams/5799.png
+2022-11-12T21:00:00+00:00,middle tenn. st.,winthrop,68 - 76,L,away,1668286800,https://media-1.api-sports.io/basketball/teams/5799.png
 2022-11-16T00:00:00+00:00,middle tenn. st.,rice,46 - 81,W,home,1668556800,https://media-2.api-sports.io/basketball/teams/5799.png
 2022-11-19T20:00:00+00:00,middle tenn. st.,missouri state,51 - 75,L,away,1668888000,https://media-1.api-sports.io/basketball/teams/5799.png
 2022-11-26T00:00:00+00:00,middle tenn. st.,hofstra,54 - 64,W,home,1669420800,https://media-1.api-sports.io/basketball/teams/5799.png
-2022-11-26T21:30:00+00:00,middle tenn. st.,stephen f. austin,63 - 75,W,home,1669498200,https://media-1.api-sports.io/basketball/teams/5799.png
+2022-11-26T21:30:00+00:00,middle tenn. st.,stephen f. austin,63 - 75,W,home,1669498200,https://media-3.api-sports.io/basketball/teams/5799.png
 2022-11-27T18:30:00+00:00,middle tenn. st.,montana state,71 - 72,W,home,1669573800,https://media-3.api-sports.io/basketball/teams/5799.png
 2022-12-01T00:00:00+00:00,middle tenn. st.,st. bonaventure,64 - 71,L,away,1669852800,https://media-3.api-sports.io/basketball/teams/5799.png
 2022-12-03T20:00:00+00:00,middle tenn. st.,maryville,46 - 69,W,home,1670097600,https://media-2.api-sports.io/basketball/teams/5799.png
-2022-12-10T22:00:00+00:00,middle tenn. st.,belmont,85 - 75,W,away,1670709600,https://media-2.api-sports.io/basketball/teams/5799.png
+2022-12-10T22:00:00+00:00,middle tenn. st.,belmont,85 - 75,W,away,1670709600,https://media-1.api-sports.io/basketball/teams/5799.png
 2022-12-16T00:00:00+00:00,middle tenn. st.,chattanooga mocs,82 - 73,L,home,1671148800,https://media-1.api-sports.io/basketball/teams/5799.png
-2022-12-22T00:00:00+00:00,middle tenn. st.,murray state,67 - 83,W,home,1671667200,https://media-2.api-sports.io/basketball/teams/5799.png
-2022-12-29T23:00:00+00:00,middle tenn. st.,charlotte,67 - 82,L,away,1672354800,https://media-2.api-sports.io/basketball/teams/5799.png
+2022-12-22T00:00:00+00:00,middle tenn. st.,murray state,67 - 83,W,home,1671667200,https://media-1.api-sports.io/basketball/teams/5799.png
+2022-12-29T23:00:00+00:00,middle tenn. st.,charlotte,67 - 82,L,away,1672354800,https://media-3.api-sports.io/basketball/teams/5799.png
 2022-12-31T21:00:00+00:00,middle tenn. st.,western kentucky,60 - 65,W,home,1672520400,https://media-1.api-sports.io/basketball/teams/5799.png
-2023-01-06T01:00:00+00:00,middle tenn. st.,utsa roadrunners,72 - 75,L,away,1672966800,https://media-1.api-sports.io/basketball/teams/5799.png
-2023-01-07T23:00:00+00:00,middle tenn. st.,north texas,56 - 51,L,home,1673132400,https://media-2.api-sports.io/basketball/teams/5799.png
-2023-01-12T01:00:00+00:00,middle tenn. st.,rice,,,away,1673485200,https://media-1.api-sports.io/basketball/teams/5799.png
-2023-01-17T02:00:00+00:00,middle tenn. st.,uab,,,home,1673920800,https://media-3.api-sports.io/basketball/teams/5799.png
-2023-01-20T00:00:00+00:00,middle tenn. st.,charlotte,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/5799.png
-2023-01-21T22:00:00+00:00,middle tenn. st.,louisiana tech,,,away,1674338400,https://media-1.api-sports.io/basketball/teams/5799.png
-2023-01-27T00:00:00+00:00,middle tenn. st.,florida atlantic,,,away,1674777600,https://media-3.api-sports.io/basketball/teams/5799.png
-2023-01-29T00:00:00+00:00,middle tenn. st.,florida international,,,away,1674950400,https://media-2.api-sports.io/basketball/teams/5799.png
-2023-02-03T02:00:00+00:00,middle tenn. st.,utep,,,home,1675389600,https://media-1.api-sports.io/basketball/teams/5799.png
-2023-02-04T23:00:00+00:00,middle tenn. st.,utsa roadrunners,,,home,1675551600,https://media-2.api-sports.io/basketball/teams/5799.png
-2023-02-10T01:00:00+00:00,middle tenn. st.,western kentucky,,,away,1675990800,https://media-1.api-sports.io/basketball/teams/5799.png
-2023-02-11T21:00:00+00:00,middle tenn. st.,uab,,,away,1676149200,https://media-2.api-sports.io/basketball/teams/5799.png
-2023-02-17T00:00:00+00:00,middle tenn. st.,florida atlantic,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/5799.png
+2023-01-06T01:00:00+00:00,middle tenn. st.,utsa roadrunners,72 - 75,L,away,1672966800,https://media-2.api-sports.io/basketball/teams/5799.png
+2023-01-07T23:00:00+00:00,middle tenn. st.,north texas,56 - 51,L,home,1673132400,https://media-1.api-sports.io/basketball/teams/5799.png
+2023-01-12T01:00:00+00:00,middle tenn. st.,rice,71 - 68,W,away,1673485200,https://media-1.api-sports.io/basketball/teams/5799.png
+2023-01-17T02:00:00+00:00,middle tenn. st.,uab,,,home,1673920800,https://media-2.api-sports.io/basketball/teams/5799.png
+2023-01-20T00:00:00+00:00,middle tenn. st.,charlotte,,,home,1674172800,https://media-3.api-sports.io/basketball/teams/5799.png
+2023-01-21T22:00:00+00:00,middle tenn. st.,louisiana tech,,,away,1674338400,https://media-2.api-sports.io/basketball/teams/5799.png
+2023-01-27T00:00:00+00:00,middle tenn. st.,florida atlantic,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/5799.png
+2023-01-29T00:00:00+00:00,middle tenn. st.,florida international,,,away,1674950400,https://media-3.api-sports.io/basketball/teams/5799.png
+2023-02-03T02:00:00+00:00,middle tenn. st.,utep,,,home,1675389600,https://media-2.api-sports.io/basketball/teams/5799.png
+2023-02-04T23:00:00+00:00,middle tenn. st.,utsa roadrunners,,,home,1675551600,https://media-3.api-sports.io/basketball/teams/5799.png
+2023-02-10T01:00:00+00:00,middle tenn. st.,western kentucky,,,away,1675990800,https://media-2.api-sports.io/basketball/teams/5799.png
+2023-02-11T21:00:00+00:00,middle tenn. st.,uab,,,away,1676149200,https://media-1.api-sports.io/basketball/teams/5799.png
+2023-02-17T00:00:00+00:00,middle tenn. st.,florida atlantic,,,home,1676592000,https://media-1.api-sports.io/basketball/teams/5799.png
 2023-02-18T23:00:00+00:00,middle tenn. st.,florida international,,,home,1676761200,https://media-2.api-sports.io/basketball/teams/5799.png

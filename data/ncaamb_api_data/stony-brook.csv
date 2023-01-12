@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T01:00:00+00:00,stony brook,florida,45 - 81,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/220.png
 2022-11-11T23:30:00+00:00,stony brook,miami-hamilton,65 - 86,W,home,1668209400,https://media-3.api-sports.io/basketball/teams/220.png
-2022-11-16T00:00:00+00:00,stony brook,rhode island,64 - 74,L,away,1668556800,https://media-3.api-sports.io/basketball/teams/220.png
-2022-11-18T00:00:00+00:00,stony brook,brown,53 - 64,L,away,1668729600,https://media-3.api-sports.io/basketball/teams/220.png
-2022-11-24T00:00:00+00:00,stony brook,florida international,50 - 83,L,away,1669248000,https://media-1.api-sports.io/basketball/teams/220.png
-2022-11-25T22:30:00+00:00,stony brook,east. washington,52 - 81,L,away,1669415400,https://media-2.api-sports.io/basketball/teams/220.png
-2022-11-29T23:30:00+00:00,stony brook,st. joseph's (ny-li),48 - 89,W,home,1669764600,https://media-3.api-sports.io/basketball/teams/220.png
-2022-12-03T23:30:00+00:00,stony brook,yale,77 - 72,L,home,1670110200,https://media-2.api-sports.io/basketball/teams/220.png
+2022-11-16T00:00:00+00:00,stony brook,rhode island,64 - 74,L,away,1668556800,https://media-1.api-sports.io/basketball/teams/220.png
+2022-11-18T00:00:00+00:00,stony brook,brown,53 - 64,L,away,1668729600,https://media-1.api-sports.io/basketball/teams/220.png
+2022-11-24T00:00:00+00:00,stony brook,florida international,50 - 83,L,away,1669248000,https://media-3.api-sports.io/basketball/teams/220.png
+2022-11-25T22:30:00+00:00,stony brook,east. washington,52 - 81,L,away,1669415400,https://media-3.api-sports.io/basketball/teams/220.png
+2022-11-29T23:30:00+00:00,stony brook,st. joseph's (ny-li),48 - 89,W,home,1669764600,https://media-1.api-sports.io/basketball/teams/220.png
+2022-12-03T23:30:00+00:00,stony brook,yale,77 - 72,L,home,1670110200,https://media-3.api-sports.io/basketball/teams/220.png
 2022-12-09T23:00:00+00:00,stony brook,bryant university,60 - 79,L,away,1670626800,https://media-3.api-sports.io/basketball/teams/220.png
 2022-12-12T23:30:00+00:00,stony brook,sacred heart,64 - 71,W,home,1670887800,https://media-1.api-sports.io/basketball/teams/220.png
-2022-12-16T00:00:00+00:00,stony brook,wagner,55 - 58,L,away,1671148800,https://media-3.api-sports.io/basketball/teams/220.png
-2022-12-18T18:00:00+00:00,stony brook,army,59 - 66,W,home,1671386400,https://media-2.api-sports.io/basketball/teams/220.png
-2022-12-22T23:00:00+00:00,stony brook,west virginia,64 - 75,L,away,1671750000,https://media-3.api-sports.io/basketball/teams/220.png
-2022-12-31T17:00:00+00:00,stony brook,northeastern,65 - 61,W,away,1672506000,https://media-3.api-sports.io/basketball/teams/220.png
-2023-01-06T00:00:00+00:00,stony brook,monmouth,67 - 56,W,away,1672963200,https://media-3.api-sports.io/basketball/teams/220.png
-2023-01-07T23:30:00+00:00,stony brook,towson,67 - 55,L,home,1673134200,https://media-1.api-sports.io/basketball/teams/220.png
+2022-12-16T00:00:00+00:00,stony brook,wagner,55 - 58,L,away,1671148800,https://media-2.api-sports.io/basketball/teams/220.png
+2022-12-18T18:00:00+00:00,stony brook,army,59 - 66,W,home,1671386400,https://media-3.api-sports.io/basketball/teams/220.png
+2022-12-22T23:00:00+00:00,stony brook,west virginia,64 - 75,L,away,1671750000,https://media-1.api-sports.io/basketball/teams/220.png
+2022-12-31T17:00:00+00:00,stony brook,northeastern,65 - 61,W,away,1672506000,https://media-1.api-sports.io/basketball/teams/220.png
+2023-01-06T00:00:00+00:00,stony brook,monmouth,67 - 56,W,away,1672963200,https://media-2.api-sports.io/basketball/teams/220.png
+2023-01-07T23:30:00+00:00,stony brook,towson,67 - 55,L,home,1673134200,https://media-2.api-sports.io/basketball/teams/220.png
 2023-01-13T00:00:00+00:00,stony brook,drexel,,,home,1673568000,https://media-2.api-sports.io/basketball/teams/220.png
-2023-01-14T19:00:00+00:00,stony brook,n. carolina a&t,,,away,1673722800,https://media-1.api-sports.io/basketball/teams/220.png
-2023-01-20T00:00:00+00:00,stony brook,northeastern,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/220.png
-2023-01-21T18:00:00+00:00,stony brook,nc wilmington,,,home,1674324000,https://media-2.api-sports.io/basketball/teams/220.png
+2023-01-14T19:00:00+00:00,stony brook,n. carolina a&t,,,away,1673722800,https://media-3.api-sports.io/basketball/teams/220.png
+2023-01-20T00:00:00+00:00,stony brook,northeastern,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/220.png
+2023-01-21T18:00:00+00:00,stony brook,nc wilmington,,,home,1674324000,https://media-3.api-sports.io/basketball/teams/220.png
 2023-01-27T00:00:00+00:00,stony brook,william & mary,,,away,1674777600,https://media-1.api-sports.io/basketball/teams/220.png
 2023-01-28T21:00:00+00:00,stony brook,hampton,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/220.png
-2023-02-03T00:00:00+00:00,stony brook,elon,,,home,1675382400,https://media-2.api-sports.io/basketball/teams/220.png
+2023-02-03T00:00:00+00:00,stony brook,elon,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/220.png
 2023-02-04T21:00:00+00:00,stony brook,hofstra,,,away,1675544400,https://media-1.api-sports.io/basketball/teams/220.png
 2023-02-08T23:30:00+00:00,stony brook,monmouth,,,home,1675899000,https://media-3.api-sports.io/basketball/teams/220.png
 2023-02-11T19:00:00+00:00,stony brook,n. carolina a&t,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/220.png
-2023-02-14T00:00:00+00:00,stony brook,delaware,,,away,1676332800,https://media-3.api-sports.io/basketball/teams/220.png
-2023-02-17T00:00:00+00:00,stony brook,william & mary,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/220.png
+2023-02-14T00:00:00+00:00,stony brook,delaware,,,away,1676332800,https://media-2.api-sports.io/basketball/teams/220.png
+2023-02-17T00:00:00+00:00,stony brook,william & mary,,,home,1676592000,https://media-3.api-sports.io/basketball/teams/220.png
 2023-02-18T23:30:00+00:00,stony brook,hofstra,,,home,1676763000,https://media-2.api-sports.io/basketball/teams/220.png
-2023-02-23T21:00:00+00:00,stony brook,nc wilmington,None - None,tie,away,1677186000,https://media-2.api-sports.io/basketball/teams/220.png
-2023-02-25T21:00:00+00:00,stony brook,charleston,None - None,tie,away,1677358800,https://media-2.api-sports.io/basketball/teams/220.png
+2023-02-23T21:00:00+00:00,stony brook,nc wilmington,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/220.png
+2023-02-25T21:00:00+00:00,stony brook,charleston,None - None,tie,away,1677358800,https://media-3.api-sports.io/basketball/teams/220.png

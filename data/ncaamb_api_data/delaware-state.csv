@@ -1,26 +1,26 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T02:00:00+00:00,delaware state,virginia tech,57 - 95,L,away,1667872800,https://media-3.api-sports.io/basketball/teams/1885.png
-2022-11-11T00:00:00+00:00,delaware state,immaculata,67 - 104,W,home,1668124800,https://media-1.api-sports.io/basketball/teams/1885.png
+2022-11-08T02:00:00+00:00,delaware state,virginia tech,57 - 95,L,away,1667872800,https://media-2.api-sports.io/basketball/teams/1885.png
+2022-11-11T00:00:00+00:00,delaware state,immaculata,67 - 104,W,home,1668124800,https://media-3.api-sports.io/basketball/teams/1885.png
 2022-11-14T23:30:00+00:00,delaware state,villanova,50 - 60,L,away,1668468600,https://media-1.api-sports.io/basketball/teams/1885.png
-2022-11-17T00:00:00+00:00,delaware state,columbia,65 - 70,L,away,1668643200,https://media-1.api-sports.io/basketball/teams/1885.png
-2022-11-20T22:00:00+00:00,delaware state,uconn,60 - 95,L,away,1668981600,https://media-3.api-sports.io/basketball/teams/1885.png
+2022-11-17T00:00:00+00:00,delaware state,columbia,65 - 70,L,away,1668643200,https://media-3.api-sports.io/basketball/teams/1885.png
+2022-11-20T22:00:00+00:00,delaware state,uconn,60 - 95,L,away,1668981600,https://media-1.api-sports.io/basketball/teams/1885.png
 2022-11-26T22:00:00+00:00,delaware state,liberty,53 - 80,L,away,1669500000,https://media-1.api-sports.io/basketball/teams/1885.png
-2022-12-01T00:30:00+00:00,delaware state,st. francis brooklyn,73 - 81,L,away,1669854600,https://media-1.api-sports.io/basketball/teams/1885.png
-2022-12-03T20:00:00+00:00,delaware state,longwood,75 - 49,L,home,1670097600,https://media-3.api-sports.io/basketball/teams/1885.png
+2022-12-01T00:30:00+00:00,delaware state,st. francis brooklyn,73 - 81,L,away,1669854600,https://media-2.api-sports.io/basketball/teams/1885.png
+2022-12-03T20:00:00+00:00,delaware state,longwood,75 - 49,L,home,1670097600,https://media-1.api-sports.io/basketball/teams/1885.png
 2022-12-08T00:00:00+00:00,delaware state,delaware,69 - 77,L,away,1670457600,https://media-2.api-sports.io/basketball/teams/1885.png
-2022-12-10T20:30:00+00:00,delaware state,georgian court univ.,75 - 69,L,home,1670704200,https://media-2.api-sports.io/basketball/teams/1885.png
-2022-12-17T19:00:00+00:00,delaware state,drexel,52 - 85,L,away,1671303600,https://media-2.api-sports.io/basketball/teams/1885.png
-2022-12-20T23:00:00+00:00,delaware state,wagner,58 - 51,L,home,1671577200,https://media-1.api-sports.io/basketball/teams/1885.png
+2022-12-10T20:30:00+00:00,delaware state,georgian court univ.,75 - 69,L,home,1670704200,https://media-1.api-sports.io/basketball/teams/1885.png
+2022-12-17T19:00:00+00:00,delaware state,drexel,52 - 85,L,away,1671303600,https://media-1.api-sports.io/basketball/teams/1885.png
+2022-12-20T23:00:00+00:00,delaware state,wagner,58 - 51,L,home,1671577200,https://media-3.api-sports.io/basketball/teams/1885.png
 2022-12-29T19:00:00+00:00,delaware state,penn state,46 - 60,L,away,1672340400,https://media-2.api-sports.io/basketball/teams/1885.png
-2023-01-07T21:00:00+00:00,delaware state,howard,64 - 84,L,away,1673125200,https://media-3.api-sports.io/basketball/teams/1885.png
-2023-01-10T00:30:00+00:00,delaware state,norfolk state,,,home,1673310600,https://media-2.api-sports.io/basketball/teams/1885.png
-2023-01-14T21:00:00+00:00,delaware state,md.-east. shore,,,away,1673730000,https://media-3.api-sports.io/basketball/teams/1885.png
+2023-01-07T21:00:00+00:00,delaware state,howard,64 - 84,L,away,1673125200,https://media-2.api-sports.io/basketball/teams/1885.png
+2023-01-10T00:30:00+00:00,delaware state,norfolk state,78 - 65,L,home,1673310600,https://media-3.api-sports.io/basketball/teams/1885.png
+2023-01-14T21:00:00+00:00,delaware state,md.-east. shore,,,away,1673730000,https://media-2.api-sports.io/basketball/teams/1885.png
 2023-01-21T21:00:00+00:00,delaware state,n. carolina central,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/1885.png
-2023-01-24T00:30:00+00:00,delaware state,south carolina st,,,away,1674520200,https://media-1.api-sports.io/basketball/teams/1885.png
-2023-01-28T21:00:00+00:00,delaware state,morgan state,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/1885.png
+2023-01-24T00:30:00+00:00,delaware state,south carolina st,,,away,1674520200,https://media-3.api-sports.io/basketball/teams/1885.png
+2023-01-28T21:00:00+00:00,delaware state,morgan state,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/1885.png
 2023-01-31T00:30:00+00:00,delaware state,coppin state,,,away,1675125000,https://media-2.api-sports.io/basketball/teams/1885.png
-2023-02-04T21:00:00+00:00,delaware state,morgan state,,,home,1675544400,https://media-3.api-sports.io/basketball/teams/1885.png
-2023-02-08T00:00:00+00:00,delaware state,chicago state,,,home,1675814400,https://media-1.api-sports.io/basketball/teams/1885.png
-2023-02-11T21:00:00+00:00,delaware state,howard,,,home,1676149200,https://media-1.api-sports.io/basketball/teams/1885.png
+2023-02-04T21:00:00+00:00,delaware state,morgan state,,,home,1675544400,https://media-2.api-sports.io/basketball/teams/1885.png
+2023-02-08T00:00:00+00:00,delaware state,chicago state,,,home,1675814400,https://media-3.api-sports.io/basketball/teams/1885.png
+2023-02-11T21:00:00+00:00,delaware state,howard,,,home,1676149200,https://media-3.api-sports.io/basketball/teams/1885.png
 2023-02-14T00:30:00+00:00,delaware state,norfolk state,,,away,1676334600,https://media-3.api-sports.io/basketball/teams/1885.png
 2023-02-18T21:00:00+00:00,delaware state,n. carolina central,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/1885.png

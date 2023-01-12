@@ -2,86 +2,86 @@ Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-10-03T23:30:00+00:00,brooklyn nets,philadelphia 76ers,127 - 108,L,home,1664839800,https://media-3.api-sports.io/basketball/teams/134.png
 2022-10-06T23:30:00+00:00,brooklyn nets,miami heat,109 - 80,L,home,1665099000,https://media-1.api-sports.io/basketball/teams/134.png
 2022-10-12T23:30:00+00:00,brooklyn nets,milwaukee bucks,107 - 97,W,away,1665617400,https://media-3.api-sports.io/basketball/teams/134.png
-2022-10-15T00:00:00+00:00,brooklyn nets,minnesota timberwolves,112 - 102,W,away,1665792000,https://media-1.api-sports.io/basketball/teams/134.png
-2022-10-19T23:30:00+00:00,brooklyn nets,new orleans pelicans,130 - 108,L,home,1666222200,https://media-2.api-sports.io/basketball/teams/134.png
-2022-10-21T23:30:00+00:00,brooklyn nets,toronto raptors,105 - 109,W,home,1666395000,https://media-3.api-sports.io/basketball/teams/134.png
-2022-10-25T00:00:00+00:00,brooklyn nets,memphis grizzlies,124 - 134,L,away,1666656000,https://media-1.api-sports.io/basketball/teams/134.png
-2022-10-26T23:30:00+00:00,brooklyn nets,milwaukee bucks,99 - 110,L,away,1666827000,https://media-3.api-sports.io/basketball/teams/134.png
-2022-10-27T23:30:00+00:00,brooklyn nets,dallas mavericks,129 - 125,L,home,1666913400,https://media-3.api-sports.io/basketball/teams/134.png
-2022-10-29T23:30:00+00:00,brooklyn nets,indiana pacers,125 - 116,L,home,1667086200,https://media-2.api-sports.io/basketball/teams/134.png
-2022-10-31T23:30:00+00:00,brooklyn nets,indiana pacers,109 - 116,W,home,1667259000,https://media-3.api-sports.io/basketball/teams/134.png
-2022-11-01T23:30:00+00:00,brooklyn nets,chicago bulls,108 - 99,L,home,1667345400,https://media-2.api-sports.io/basketball/teams/134.png
-2022-11-04T23:00:00+00:00,brooklyn nets,washington wizards,128 - 86,W,away,1667602800,https://media-1.api-sports.io/basketball/teams/134.png
-2022-11-05T23:00:00+00:00,brooklyn nets,charlotte hornets,98 - 94,W,away,1667689200,https://media-1.api-sports.io/basketball/teams/134.png
+2022-10-15T00:00:00+00:00,brooklyn nets,minnesota timberwolves,112 - 102,W,away,1665792000,https://media-2.api-sports.io/basketball/teams/134.png
+2022-10-19T23:30:00+00:00,brooklyn nets,new orleans pelicans,130 - 108,L,home,1666222200,https://media-1.api-sports.io/basketball/teams/134.png
+2022-10-21T23:30:00+00:00,brooklyn nets,toronto raptors,105 - 109,W,home,1666395000,https://media-1.api-sports.io/basketball/teams/134.png
+2022-10-25T00:00:00+00:00,brooklyn nets,memphis grizzlies,124 - 134,L,away,1666656000,https://media-3.api-sports.io/basketball/teams/134.png
+2022-10-26T23:30:00+00:00,brooklyn nets,milwaukee bucks,99 - 110,L,away,1666827000,https://media-2.api-sports.io/basketball/teams/134.png
+2022-10-27T23:30:00+00:00,brooklyn nets,dallas mavericks,129 - 125,L,home,1666913400,https://media-2.api-sports.io/basketball/teams/134.png
+2022-10-29T23:30:00+00:00,brooklyn nets,indiana pacers,125 - 116,L,home,1667086200,https://media-1.api-sports.io/basketball/teams/134.png
+2022-10-31T23:30:00+00:00,brooklyn nets,indiana pacers,109 - 116,W,home,1667259000,https://media-1.api-sports.io/basketball/teams/134.png
+2022-11-01T23:30:00+00:00,brooklyn nets,chicago bulls,108 - 99,L,home,1667345400,https://media-1.api-sports.io/basketball/teams/134.png
+2022-11-04T23:00:00+00:00,brooklyn nets,washington wizards,128 - 86,W,away,1667602800,https://media-2.api-sports.io/basketball/teams/134.png
+2022-11-05T23:00:00+00:00,brooklyn nets,charlotte hornets,98 - 94,W,away,1667689200,https://media-2.api-sports.io/basketball/teams/134.png
 2022-11-08T02:45:00+00:00,brooklyn nets,dallas mavericks,94 - 96,L,away,1667875500,https://media-2.api-sports.io/basketball/teams/134.png
-2022-11-10T00:30:00+00:00,brooklyn nets,new york knicks,85 - 112,W,home,1668040200,https://media-2.api-sports.io/basketball/teams/134.png
+2022-11-10T00:30:00+00:00,brooklyn nets,new york knicks,85 - 112,W,home,1668040200,https://media-3.api-sports.io/basketball/teams/134.png
 2022-11-12T21:00:00+00:00,brooklyn nets,los angeles clippers,110 - 95,W,away,1668286800,https://media-2.api-sports.io/basketball/teams/134.png
-2022-11-14T02:30:00+00:00,brooklyn nets,los angeles lakers,103 - 116,L,away,1668393000,https://media-1.api-sports.io/basketball/teams/134.png
+2022-11-14T02:30:00+00:00,brooklyn nets,los angeles lakers,103 - 116,L,away,1668393000,https://media-3.api-sports.io/basketball/teams/134.png
 2022-11-16T03:00:00+00:00,brooklyn nets,sacramento kings,121 - 153,L,away,1668567600,https://media-1.api-sports.io/basketball/teams/134.png
 2022-11-18T03:00:00+00:00,brooklyn nets,portland trail blazers,109 - 107,W,away,1668740400,https://media-1.api-sports.io/basketball/teams/134.png
-2022-11-21T00:00:00+00:00,brooklyn nets,memphis grizzlies,115 - 127,W,home,1668988800,https://media-2.api-sports.io/basketball/teams/134.png
-2022-11-23T00:30:00+00:00,brooklyn nets,philadelphia 76ers,106 - 115,L,away,1669163400,https://media-3.api-sports.io/basketball/teams/134.png
-2022-11-24T00:30:00+00:00,brooklyn nets,toronto raptors,112 - 98,W,away,1669249800,https://media-3.api-sports.io/basketball/teams/134.png
+2022-11-21T00:00:00+00:00,brooklyn nets,memphis grizzlies,115 - 127,W,home,1668988800,https://media-3.api-sports.io/basketball/teams/134.png
+2022-11-23T00:30:00+00:00,brooklyn nets,philadelphia 76ers,106 - 115,L,away,1669163400,https://media-1.api-sports.io/basketball/teams/134.png
+2022-11-24T00:30:00+00:00,brooklyn nets,toronto raptors,112 - 98,W,away,1669249800,https://media-2.api-sports.io/basketball/teams/134.png
 2022-11-26T01:00:00+00:00,brooklyn nets,indiana pacers,117 - 128,L,away,1669424400,https://media-2.api-sports.io/basketball/teams/134.png
-2022-11-27T20:00:00+00:00,brooklyn nets,portland trail blazers,97 - 111,W,home,1669579200,https://media-1.api-sports.io/basketball/teams/134.png
+2022-11-27T20:00:00+00:00,brooklyn nets,portland trail blazers,97 - 111,W,home,1669579200,https://media-2.api-sports.io/basketball/teams/134.png
 2022-11-29T00:30:00+00:00,brooklyn nets,orlando magic,102 - 109,W,home,1669681800,https://media-2.api-sports.io/basketball/teams/134.png
-2022-12-01T00:30:00+00:00,brooklyn nets,washington wizards,107 - 113,W,home,1669854600,https://media-3.api-sports.io/basketball/teams/134.png
-2022-12-03T00:30:00+00:00,brooklyn nets,toronto raptors,105 - 114,W,home,1670027400,https://media-3.api-sports.io/basketball/teams/134.png
-2022-12-04T23:00:00+00:00,brooklyn nets,boston celtics,103 - 92,L,home,1670194800,https://media-2.api-sports.io/basketball/teams/134.png
-2022-12-08T00:30:00+00:00,brooklyn nets,charlotte hornets,116 - 122,W,home,1670459400,https://media-3.api-sports.io/basketball/teams/134.png
+2022-12-01T00:30:00+00:00,brooklyn nets,washington wizards,107 - 113,W,home,1669854600,https://media-2.api-sports.io/basketball/teams/134.png
+2022-12-03T00:30:00+00:00,brooklyn nets,toronto raptors,105 - 114,W,home,1670027400,https://media-1.api-sports.io/basketball/teams/134.png
+2022-12-04T23:00:00+00:00,brooklyn nets,boston celtics,103 - 92,L,home,1670194800,https://media-1.api-sports.io/basketball/teams/134.png
+2022-12-08T00:30:00+00:00,brooklyn nets,charlotte hornets,116 - 122,W,home,1670459400,https://media-1.api-sports.io/basketball/teams/134.png
 2022-12-10T00:30:00+00:00,brooklyn nets,atlanta hawks,116 - 120,W,home,1670632200,https://media-2.api-sports.io/basketball/teams/134.png
-2022-12-11T00:00:00+00:00,brooklyn nets,indiana pacers,136 - 133,W,away,1670716800,https://media-2.api-sports.io/basketball/teams/134.png
+2022-12-11T00:00:00+00:00,brooklyn nets,indiana pacers,136 - 133,W,away,1670716800,https://media-3.api-sports.io/basketball/teams/134.png
 2022-12-13T00:00:00+00:00,brooklyn nets,washington wizards,112 - 100,W,away,1670889600,https://media-3.api-sports.io/basketball/teams/134.png
 2022-12-17T00:30:00+00:00,brooklyn nets,toronto raptors,119 - 116,W,away,1671237000,https://media-1.api-sports.io/basketball/teams/134.png
 2022-12-18T23:00:00+00:00,brooklyn nets,detroit pistons,124 - 121,W,away,1671404400,https://media-1.api-sports.io/basketball/teams/134.png
-2022-12-22T00:30:00+00:00,brooklyn nets,golden state warriors,113 - 143,W,home,1671669000,https://media-3.api-sports.io/basketball/teams/134.png
-2022-12-24T00:30:00+00:00,brooklyn nets,milwaukee bucks,100 - 118,W,home,1671841800,https://media-2.api-sports.io/basketball/teams/134.png
+2022-12-22T00:30:00+00:00,brooklyn nets,golden state warriors,113 - 143,W,home,1671669000,https://media-2.api-sports.io/basketball/teams/134.png
+2022-12-24T00:30:00+00:00,brooklyn nets,milwaukee bucks,100 - 118,W,home,1671841800,https://media-3.api-sports.io/basketball/teams/134.png
 2022-12-27T00:00:00+00:00,brooklyn nets,cleveland cavaliers,125 - 117,W,away,1672099200,https://media-2.api-sports.io/basketball/teams/134.png
-2022-12-29T00:30:00+00:00,brooklyn nets,atlanta hawks,108 - 107,W,away,1672273800,https://media-3.api-sports.io/basketball/teams/134.png
+2022-12-29T00:30:00+00:00,brooklyn nets,atlanta hawks,108 - 107,W,away,1672273800,https://media-2.api-sports.io/basketball/teams/134.png
 2023-01-01T00:00:00+00:00,brooklyn nets,charlotte hornets,123 - 106,W,away,1672531200,https://media-1.api-sports.io/basketball/teams/134.png
 2023-01-03T00:30:00+00:00,brooklyn nets,san antonio spurs,103 - 139,W,home,1672705800,https://media-1.api-sports.io/basketball/teams/134.png
 2023-01-05T01:00:00+00:00,brooklyn nets,chicago bulls,112 - 121,L,away,1672880400,https://media-1.api-sports.io/basketball/teams/134.png
-2023-01-07T00:30:00+00:00,brooklyn nets,new orleans pelicans,108 - 102,W,away,1673051400,https://media-3.api-sports.io/basketball/teams/134.png
-2023-01-08T23:00:00+00:00,brooklyn nets,miami heat,102 - 101,W,away,1673218800,https://media-1.api-sports.io/basketball/teams/134.png
+2023-01-07T00:30:00+00:00,brooklyn nets,new orleans pelicans,108 - 102,W,away,1673051400,https://media-2.api-sports.io/basketball/teams/134.png
+2023-01-08T23:00:00+00:00,brooklyn nets,miami heat,102 - 101,W,away,1673218800,https://media-3.api-sports.io/basketball/teams/134.png
 2023-01-13T00:30:00+00:00,brooklyn nets,boston celtics,,,home,1673569800,https://media-3.api-sports.io/basketball/teams/134.png
-2023-01-15T23:00:00+00:00,brooklyn nets,oklahoma city thunder,,,home,1673823600,https://media-2.api-sports.io/basketball/teams/134.png
-2023-01-18T01:00:00+00:00,brooklyn nets,san antonio spurs,,,away,1674003600,https://media-3.api-sports.io/basketball/teams/134.png
-2023-01-20T03:00:00+00:00,brooklyn nets,phoenix suns,,,away,1674183600,https://media-2.api-sports.io/basketball/teams/134.png
-2023-01-21T02:00:00+00:00,brooklyn nets,utah jazz,,,away,1674266400,https://media-2.api-sports.io/basketball/teams/134.png
+2023-01-15T23:00:00+00:00,brooklyn nets,oklahoma city thunder,,,home,1673823600,https://media-3.api-sports.io/basketball/teams/134.png
+2023-01-18T01:00:00+00:00,brooklyn nets,san antonio spurs,,,away,1674003600,https://media-2.api-sports.io/basketball/teams/134.png
+2023-01-20T03:00:00+00:00,brooklyn nets,phoenix suns,,,away,1674183600,https://media-3.api-sports.io/basketball/teams/134.png
+2023-01-21T02:00:00+00:00,brooklyn nets,utah jazz,,,away,1674266400,https://media-3.api-sports.io/basketball/teams/134.png
 2023-01-23T01:30:00+00:00,brooklyn nets,golden state warriors,,,away,1674437400,https://media-3.api-sports.io/basketball/teams/134.png
 2023-01-26T00:30:00+00:00,brooklyn nets,philadelphia 76ers,,,away,1674693000,https://media-1.api-sports.io/basketball/teams/134.png
-2023-01-27T00:30:00+00:00,brooklyn nets,detroit pistons,,,home,1674779400,https://media-3.api-sports.io/basketball/teams/134.png
-2023-01-28T22:30:00+00:00,brooklyn nets,new york knicks,,,home,1674945000,https://media-3.api-sports.io/basketball/teams/134.png
-2023-01-31T00:30:00+00:00,brooklyn nets,los angeles lakers,,,home,1675125000,https://media-3.api-sports.io/basketball/teams/134.png
+2023-01-27T00:30:00+00:00,brooklyn nets,detroit pistons,,,home,1674779400,https://media-1.api-sports.io/basketball/teams/134.png
+2023-01-28T22:30:00+00:00,brooklyn nets,new york knicks,,,home,1674945000,https://media-2.api-sports.io/basketball/teams/134.png
+2023-01-31T00:30:00+00:00,brooklyn nets,los angeles lakers,,,home,1675125000,https://media-1.api-sports.io/basketball/teams/134.png
 2023-02-02T00:30:00+00:00,brooklyn nets,boston celtics,,,away,1675297800,https://media-3.api-sports.io/basketball/teams/134.png
-2023-02-04T23:00:00+00:00,brooklyn nets,washington wizards,,,home,1675551600,https://media-2.api-sports.io/basketball/teams/134.png
-2023-02-07T00:30:00+00:00,brooklyn nets,los angeles clippers,,,home,1675729800,https://media-2.api-sports.io/basketball/teams/134.png
+2023-02-04T23:00:00+00:00,brooklyn nets,washington wizards,,,home,1675551600,https://media-1.api-sports.io/basketball/teams/134.png
+2023-02-07T00:30:00+00:00,brooklyn nets,los angeles clippers,,,home,1675729800,https://media-1.api-sports.io/basketball/teams/134.png
 2023-02-08T00:30:00+00:00,brooklyn nets,phoenix suns,,,home,1675816200,https://media-3.api-sports.io/basketball/teams/134.png
-2023-02-10T00:30:00+00:00,brooklyn nets,chicago bulls,,,home,1675989000,https://media-1.api-sports.io/basketball/teams/134.png
+2023-02-10T00:30:00+00:00,brooklyn nets,chicago bulls,,,home,1675989000,https://media-3.api-sports.io/basketball/teams/134.png
 2023-02-11T23:00:00+00:00,brooklyn nets,philadelphia 76ers,,,home,1676156400,https://media-2.api-sports.io/basketball/teams/134.png
-2023-02-14T00:30:00+00:00,brooklyn nets,new york knicks,,,away,1676334600,https://media-1.api-sports.io/basketball/teams/134.png
-2023-02-16T00:30:00+00:00,brooklyn nets,miami heat,,,home,1676507400,https://media-3.api-sports.io/basketball/teams/134.png
-2023-02-25T03:00:00+00:00,brooklyn nets,chicago bulls,,,away,1677294000,https://media-2.api-sports.io/basketball/teams/134.png
-2023-02-26T20:00:00+00:00,brooklyn nets,atlanta hawks,,,away,1677441600,https://media-3.api-sports.io/basketball/teams/134.png
-2023-03-01T00:30:00+00:00,brooklyn nets,milwaukee bucks,,,home,1677630600,https://media-3.api-sports.io/basketball/teams/134.png
-2023-03-02T00:30:00+00:00,brooklyn nets,new york knicks,,,away,1677717000,https://media-2.api-sports.io/basketball/teams/134.png
-2023-03-04T00:30:00+00:00,brooklyn nets,boston celtics,,,away,1677889800,https://media-3.api-sports.io/basketball/teams/134.png
-2023-03-05T23:00:00+00:00,brooklyn nets,charlotte hornets,,,home,1678057200,https://media-3.api-sports.io/basketball/teams/134.png
-2023-03-08T01:00:00+00:00,brooklyn nets,houston rockets,,,away,1678237200,https://media-3.api-sports.io/basketball/teams/134.png
+2023-02-14T00:30:00+00:00,brooklyn nets,new york knicks,,,away,1676334600,https://media-2.api-sports.io/basketball/teams/134.png
+2023-02-16T00:30:00+00:00,brooklyn nets,miami heat,,,home,1676507400,https://media-2.api-sports.io/basketball/teams/134.png
+2023-02-25T03:00:00+00:00,brooklyn nets,chicago bulls,,,away,1677294000,https://media-1.api-sports.io/basketball/teams/134.png
+2023-02-26T20:00:00+00:00,brooklyn nets,atlanta hawks,,,away,1677441600,https://media-2.api-sports.io/basketball/teams/134.png
+2023-03-01T00:30:00+00:00,brooklyn nets,milwaukee bucks,,,home,1677630600,https://media-2.api-sports.io/basketball/teams/134.png
+2023-03-02T00:30:00+00:00,brooklyn nets,new york knicks,,,away,1677717000,https://media-1.api-sports.io/basketball/teams/134.png
+2023-03-04T00:30:00+00:00,brooklyn nets,boston celtics,,,away,1677889800,https://media-2.api-sports.io/basketball/teams/134.png
+2023-03-05T23:00:00+00:00,brooklyn nets,charlotte hornets,,,home,1678057200,https://media-1.api-sports.io/basketball/teams/134.png
+2023-03-08T01:00:00+00:00,brooklyn nets,houston rockets,,,away,1678237200,https://media-1.api-sports.io/basketball/teams/134.png
 2023-03-10T00:30:00+00:00,brooklyn nets,milwaukee bucks,,,away,1678408200,https://media-1.api-sports.io/basketball/teams/134.png
-2023-03-11T01:00:00+00:00,brooklyn nets,minnesota timberwolves,,,away,1678496400,https://media-1.api-sports.io/basketball/teams/134.png
+2023-03-11T01:00:00+00:00,brooklyn nets,minnesota timberwolves,,,away,1678496400,https://media-2.api-sports.io/basketball/teams/134.png
 2023-03-12T19:30:00+00:00,brooklyn nets,denver nuggets,,,away,1678649400,https://media-2.api-sports.io/basketball/teams/134.png
-2023-03-15T00:00:00+00:00,brooklyn nets,oklahoma city thunder,,,away,1678838400,https://media-3.api-sports.io/basketball/teams/134.png
+2023-03-15T00:00:00+00:00,brooklyn nets,oklahoma city thunder,,,away,1678838400,https://media-2.api-sports.io/basketball/teams/134.png
 2023-03-16T23:30:00+00:00,brooklyn nets,sacramento kings,,,home,1679009400,https://media-3.api-sports.io/basketball/teams/134.png
 2023-03-19T19:30:00+00:00,brooklyn nets,denver nuggets,,,home,1679254200,https://media-2.api-sports.io/basketball/teams/134.png
 2023-03-21T23:30:00+00:00,brooklyn nets,cleveland cavaliers,,,home,1679441400,https://media-3.api-sports.io/basketball/teams/134.png
-2023-03-23T23:30:00+00:00,brooklyn nets,cleveland cavaliers,,,home,1679614200,https://media-2.api-sports.io/basketball/teams/134.png
-2023-03-26T00:00:00+00:00,brooklyn nets,miami heat,,,away,1679788800,https://media-1.api-sports.io/basketball/teams/134.png
-2023-03-26T22:00:00+00:00,brooklyn nets,orlando magic,,,away,1679868000,https://media-3.api-sports.io/basketball/teams/134.png
-2023-03-29T23:30:00+00:00,brooklyn nets,houston rockets,,,home,1680132600,https://media-2.api-sports.io/basketball/teams/134.png
+2023-03-23T23:30:00+00:00,brooklyn nets,cleveland cavaliers,,,home,1679614200,https://media-3.api-sports.io/basketball/teams/134.png
+2023-03-26T00:00:00+00:00,brooklyn nets,miami heat,,,away,1679788800,https://media-3.api-sports.io/basketball/teams/134.png
+2023-03-26T22:00:00+00:00,brooklyn nets,orlando magic,,,away,1679868000,https://media-1.api-sports.io/basketball/teams/134.png
+2023-03-29T23:30:00+00:00,brooklyn nets,houston rockets,,,home,1680132600,https://media-1.api-sports.io/basketball/teams/134.png
 2023-03-31T23:30:00+00:00,brooklyn nets,atlanta hawks,,,home,1680305400,https://media-3.api-sports.io/basketball/teams/134.png
-2023-04-02T19:30:00+00:00,brooklyn nets,utah jazz,,,home,1680463800,https://media-3.api-sports.io/basketball/teams/134.png
+2023-04-02T19:30:00+00:00,brooklyn nets,utah jazz,,,home,1680463800,https://media-1.api-sports.io/basketball/teams/134.png
 2023-04-04T23:30:00+00:00,brooklyn nets,minnesota timberwolves,,,home,1680651000,https://media-2.api-sports.io/basketball/teams/134.png
 2023-04-05T23:00:00+00:00,brooklyn nets,detroit pistons,,,away,1680735600,https://media-3.api-sports.io/basketball/teams/134.png
 2023-04-07T23:30:00+00:00,brooklyn nets,orlando magic,,,home,1680910200,https://media-2.api-sports.io/basketball/teams/134.png
-2023-04-09T17:00:00+00:00,brooklyn nets,philadelphia 76ers,None - None,tie,home,1681059600,https://media-3.api-sports.io/basketball/teams/134.png
+2023-04-09T17:00:00+00:00,brooklyn nets,philadelphia 76ers,,,home,1681059600,https://media-3.api-sports.io/basketball/teams/134.png

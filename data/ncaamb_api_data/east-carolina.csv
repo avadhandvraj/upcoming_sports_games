@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-09T00:00:00+00:00,east carolina,mercer,75 - 77,W,home,1667952000,https://media-2.api-sports.io/basketball/teams/1892.png
-2022-11-12T21:00:00+00:00,east carolina,presbyterian,57 - 77,W,home,1668286800,https://media-1.api-sports.io/basketball/teams/1892.png
-2022-11-17T00:00:00+00:00,east carolina,hampton,73 - 82,W,home,1668643200,https://media-3.api-sports.io/basketball/teams/1892.png
+2022-11-09T00:00:00+00:00,east carolina,mercer,75 - 77,W,home,1667952000,https://media-3.api-sports.io/basketball/teams/1892.png
+2022-11-12T21:00:00+00:00,east carolina,presbyterian,57 - 77,W,home,1668286800,https://media-3.api-sports.io/basketball/teams/1892.png
+2022-11-17T00:00:00+00:00,east carolina,hampton,73 - 82,W,home,1668643200,https://media-2.api-sports.io/basketball/teams/1892.png
 2022-11-21T18:30:00+00:00,east carolina,indiana state,75 - 79,L,away,1669055400,https://media-1.api-sports.io/basketball/teams/1892.png
-2022-11-22T16:00:00+00:00,east carolina,toledo,86 - 75,W,away,1669132800,https://media-1.api-sports.io/basketball/teams/1892.png
+2022-11-22T16:00:00+00:00,east carolina,toledo,86 - 75,W,away,1669132800,https://media-2.api-sports.io/basketball/teams/1892.png
 2022-11-23T18:30:00+00:00,east carolina,ut arlington,65 - 79,W,home,1669228200,https://media-3.api-sports.io/basketball/teams/1892.png
-2022-11-27T00:00:00+00:00,east carolina,old dominion,50 - 71,L,away,1669507200,https://media-2.api-sports.io/basketball/teams/1892.png
-2022-11-30T00:00:00+00:00,east carolina,south carolina st,73 - 68,L,home,1669766400,https://media-2.api-sports.io/basketball/teams/1892.png
-2022-12-03T00:00:00+00:00,east carolina,campbell,69 - 79,W,home,1670025600,https://media-2.api-sports.io/basketball/teams/1892.png
+2022-11-27T00:00:00+00:00,east carolina,old dominion,50 - 71,L,away,1669507200,https://media-1.api-sports.io/basketball/teams/1892.png
+2022-11-30T00:00:00+00:00,east carolina,south carolina st,73 - 68,L,home,1669766400,https://media-1.api-sports.io/basketball/teams/1892.png
+2022-12-03T00:00:00+00:00,east carolina,campbell,69 - 79,W,home,1670025600,https://media-1.api-sports.io/basketball/teams/1892.png
 2022-12-07T00:00:00+00:00,east carolina,nc wilmington,61 - 74,L,away,1670371200,https://media-1.api-sports.io/basketball/teams/1892.png
-2022-12-11T19:00:00+00:00,east carolina,coppin state,75 - 84,W,home,1670785200,https://media-1.api-sports.io/basketball/teams/1892.png
-2022-12-17T19:00:00+00:00,east carolina,south carolina,64 - 56,W,away,1671303600,https://media-3.api-sports.io/basketball/teams/1892.png
+2022-12-11T19:00:00+00:00,east carolina,coppin state,75 - 84,W,home,1670785200,https://media-2.api-sports.io/basketball/teams/1892.png
+2022-12-17T19:00:00+00:00,east carolina,south carolina,64 - 56,W,away,1671303600,https://media-2.api-sports.io/basketball/teams/1892.png
 2022-12-21T23:00:00+00:00,east carolina,high point,49 - 60,W,home,1671663600,https://media-2.api-sports.io/basketball/teams/1892.png
-2022-12-29T00:00:00+00:00,east carolina,temple,59 - 57,L,home,1672272000,https://media-3.api-sports.io/basketball/teams/1892.png
+2022-12-29T00:00:00+00:00,east carolina,temple,59 - 57,L,home,1672272000,https://media-1.api-sports.io/basketball/teams/1892.png
 2022-12-31T21:00:00+00:00,east carolina,wichita state,79 - 69,W,away,1672520400,https://media-1.api-sports.io/basketball/teams/1892.png
 2023-01-05T00:00:00+00:00,east carolina,ucf knights,64 - 61,L,home,1672876800,https://media-1.api-sports.io/basketball/teams/1892.png
 2023-01-07T19:00:00+00:00,east carolina,memphis,59 - 69,L,away,1673118000,https://media-3.api-sports.io/basketball/teams/1892.png
-2023-01-12T02:00:00+00:00,east carolina,cincinnati,,,away,1673488800,https://media-1.api-sports.io/basketball/teams/1892.png
-2023-01-15T18:00:00+00:00,east carolina,south florida,,,home,1673805600,https://media-2.api-sports.io/basketball/teams/1892.png
-2023-01-19T00:00:00+00:00,east carolina,temple,,,away,1674086400,https://media-2.api-sports.io/basketball/teams/1892.png
+2023-01-12T02:00:00+00:00,east carolina,cincinnati,55 - 83,L,away,1673488800,https://media-2.api-sports.io/basketball/teams/1892.png
+2023-01-15T18:00:00+00:00,east carolina,south florida,,,home,1673805600,https://media-3.api-sports.io/basketball/teams/1892.png
+2023-01-19T00:00:00+00:00,east carolina,temple,,,away,1674086400,https://media-1.api-sports.io/basketball/teams/1892.png
 2023-01-25T00:00:00+00:00,east carolina,tulsa,,,home,1674604800,https://media-1.api-sports.io/basketball/teams/1892.png
-2023-01-29T17:00:00+00:00,east carolina,wichita state,,,home,1675011600,https://media-3.api-sports.io/basketball/teams/1892.png
+2023-01-29T17:00:00+00:00,east carolina,wichita state,,,home,1675011600,https://media-1.api-sports.io/basketball/teams/1892.png
 2023-02-02T00:00:00+00:00,east carolina,south florida,,,away,1675296000,https://media-3.api-sports.io/basketball/teams/1892.png
-2023-02-04T21:00:00+00:00,east carolina,smu mustangs,,,home,1675544400,https://media-1.api-sports.io/basketball/teams/1892.png
-2023-02-11T19:00:00+00:00,east carolina,tulane,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/1892.png
+2023-02-04T21:00:00+00:00,east carolina,smu mustangs,,,home,1675544400,https://media-2.api-sports.io/basketball/teams/1892.png
+2023-02-11T19:00:00+00:00,east carolina,tulane,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/1892.png
 2023-02-16T00:00:00+00:00,east carolina,cincinnati,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/1892.png

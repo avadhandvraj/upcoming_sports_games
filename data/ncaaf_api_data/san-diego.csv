@@ -1,12 +1,12 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-09-03,san diego,la verne,0 - 58,W,home,1662166800,https://media-2.api-sports.io/american-football/teams/300.png
-2022-09-10,san diego,cal poly,27 - 28,L,away,1662843600,https://media-1.api-sports.io/american-football/teams/300.png
-2022-09-17,san diego,uc davis,13 - 43,L,away,1663380000,https://media-1.api-sports.io/american-football/teams/300.png
-2022-09-24,san diego,valparaiso,21 - 28,L,away,1664038800,https://media-1.api-sports.io/american-football/teams/300.png
-2022-10-01,san diego,stetson,None - None,tie,home,1664654400,https://media-1.api-sports.io/american-football/teams/300.png
+2022-09-03,san diego,la verne,0 - 58,W,home,1662166800,https://media-1.api-sports.io/american-football/teams/300.png
+2022-09-10,san diego,cal poly,27 - 28,L,away,1662843600,https://media-2.api-sports.io/american-football/teams/300.png
+2022-09-17,san diego,uc davis,13 - 43,L,away,1663380000,https://media-3.api-sports.io/american-football/teams/300.png
+2022-09-24,san diego,valparaiso,21 - 28,L,away,1664038800,https://media-3.api-sports.io/american-football/teams/300.png
+2022-10-01,san diego,stetson,None - None,tie,home,1664654400,https://media-2.api-sports.io/american-football/teams/300.png
 2022-10-08,san diego,drake,22 - 10,W,away,1665252000,https://media-2.api-sports.io/american-football/teams/300.png
-2022-10-15,san diego,presbyterian,3 - 28,W,home,1665867600,https://media-2.api-sports.io/american-football/teams/300.png
-2022-10-29,san diego,st. thomas - minnesota,42 - 49,L,away,1667062800,https://media-2.api-sports.io/american-football/teams/300.png
-2022-11-05,san diego,butler,26 - 23,L,home,1667678400,https://media-1.api-sports.io/american-football/teams/300.png
-2022-11-12,san diego,davidson,14 - 31,W,home,1668290400,https://media-3.api-sports.io/american-football/teams/300.png
-2022-11-19,san diego,morehead state,14 - 9,W,away,1668877200,https://media-3.api-sports.io/american-football/teams/300.png
+2022-10-15,san diego,presbyterian,3 - 28,W,home,1665867600,https://media-1.api-sports.io/american-football/teams/300.png
+2022-10-29,san diego,st. thomas - minnesota,42 - 49,L,away,1667062800,https://media-1.api-sports.io/american-football/teams/300.png
+2022-11-05,san diego,butler,26 - 23,L,home,1667678400,https://media-2.api-sports.io/american-football/teams/300.png
+2022-11-12,san diego,davidson,14 - 31,W,home,1668290400,https://media-1.api-sports.io/american-football/teams/300.png
+2022-11-19,san diego,morehead state,14 - 9,W,away,1668877200,https://media-1.api-sports.io/american-football/teams/300.png

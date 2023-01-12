@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:30:00+00:00,ohio,belmont,69 - 70,L,away,1667867400,https://media-3.api-sports.io/basketball/teams/2057.png
-2022-11-12T18:00:00+00:00,ohio,cleveland state,70 - 81,W,home,1668276000,https://media-2.api-sports.io/basketball/teams/2057.png
-2022-11-17T00:00:00+00:00,ohio,detroit,74 - 88,L,away,1668643200,https://media-3.api-sports.io/basketball/teams/2057.png
-2022-11-21T00:30:00+00:00,ohio,michigan,66 - 70,L,away,1668990600,https://media-1.api-sports.io/basketball/teams/2057.png
-2022-11-25T19:00:00+00:00,ohio,eastern illinois,67 - 78,W,home,1669402800,https://media-1.api-sports.io/basketball/teams/2057.png
+2022-11-12T18:00:00+00:00,ohio,cleveland state,70 - 81,W,home,1668276000,https://media-1.api-sports.io/basketball/teams/2057.png
+2022-11-17T00:00:00+00:00,ohio,detroit,74 - 88,L,away,1668643200,https://media-2.api-sports.io/basketball/teams/2057.png
+2022-11-21T00:30:00+00:00,ohio,michigan,66 - 70,L,away,1668990600,https://media-3.api-sports.io/basketball/teams/2057.png
+2022-11-25T19:00:00+00:00,ohio,eastern illinois,67 - 78,W,home,1669402800,https://media-3.api-sports.io/basketball/teams/2057.png
 2022-11-27T19:00:00+00:00,ohio,alabama state,58 - 72,W,home,1669575600,https://media-3.api-sports.io/basketball/teams/2057.png
 2022-12-01T00:00:00+00:00,ohio,cincinnati-clermont,44 - 113,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/2057.png
 2022-12-03T22:00:00+00:00,ohio,marshall,69 - 83,L,away,1670104800,https://media-2.api-sports.io/basketball/teams/2057.png
-2022-12-11T19:00:00+00:00,ohio,youngstown state,81 - 79,W,away,1670785200,https://media-2.api-sports.io/basketball/teams/2057.png
+2022-12-11T19:00:00+00:00,ohio,youngstown state,81 - 79,W,away,1670785200,https://media-3.api-sports.io/basketball/teams/2057.png
 2022-12-15T00:00:00+00:00,ohio,florida,48 - 82,L,away,1671062400,https://media-2.api-sports.io/basketball/teams/2057.png
-2022-12-17T19:00:00+00:00,ohio,stetson,66 - 85,W,home,1671303600,https://media-3.api-sports.io/basketball/teams/2057.png
+2022-12-17T19:00:00+00:00,ohio,stetson,66 - 85,W,home,1671303600,https://media-2.api-sports.io/basketball/teams/2057.png
 2022-12-22T00:00:00+00:00,ohio,delaware,95 - 76,W,away,1671667200,https://media-3.api-sports.io/basketball/teams/2057.png
 2022-12-31T00:00:00+00:00,ohio,chicago state,59 - 76,W,home,1672444800,https://media-2.api-sports.io/basketball/teams/2057.png
 2023-01-04T00:00:00+00:00,ohio,buffalo,72 - 75,L,away,1672790400,https://media-1.api-sports.io/basketball/teams/2057.png
-2023-01-07T22:00:00+00:00,ohio,bowling green,79 - 88,L,away,1673128800,https://media-2.api-sports.io/basketball/teams/2057.png
-2023-01-11T00:00:00+00:00,ohio,ball state,,,home,1673395200,https://media-3.api-sports.io/basketball/teams/2057.png
-2023-01-13T23:30:00+00:00,ohio,kent state,,,home,1673652600,https://media-1.api-sports.io/basketball/teams/2057.png
-2023-01-18T00:00:00+00:00,ohio,toledo,,,away,1674000000,https://media-3.api-sports.io/basketball/teams/2057.png
-2023-01-21T19:00:00+00:00,ohio,central michigan,,,home,1674327600,https://media-2.api-sports.io/basketball/teams/2057.png
-2023-01-25T00:00:00+00:00,ohio,western michigan,,,home,1674604800,https://media-2.api-sports.io/basketball/teams/2057.png
-2023-01-28T19:00:00+00:00,ohio,akron,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/2057.png
-2023-02-01T00:00:00+00:00,ohio,eastern michigan,,,away,1675209600,https://media-1.api-sports.io/basketball/teams/2057.png
-2023-02-04T19:00:00+00:00,ohio,miami (ohio),,,home,1675537200,https://media-3.api-sports.io/basketball/teams/2057.png
-2023-02-08T01:00:00+00:00,ohio,northern illinois,,,away,1675818000,https://media-3.api-sports.io/basketball/teams/2057.png
-2023-02-11T19:00:00+00:00,ohio,akron,,,home,1676142000,https://media-2.api-sports.io/basketball/teams/2057.png
-2023-02-15T00:00:00+00:00,ohio,buffalo,,,home,1676419200,https://media-1.api-sports.io/basketball/teams/2057.png
-2023-02-18T21:00:00+00:00,ohio,central michigan,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/2057.png
+2023-01-07T22:00:00+00:00,ohio,bowling green,79 - 88,L,away,1673128800,https://media-3.api-sports.io/basketball/teams/2057.png
+2023-01-11T00:00:00+00:00,ohio,ball state,71 - 76,W,home,1673395200,https://media-2.api-sports.io/basketball/teams/2057.png
+2023-01-13T23:30:00+00:00,ohio,kent state,,,home,1673652600,https://media-3.api-sports.io/basketball/teams/2057.png
+2023-01-18T00:00:00+00:00,ohio,toledo,,,away,1674000000,https://media-2.api-sports.io/basketball/teams/2057.png
+2023-01-21T19:00:00+00:00,ohio,central michigan,,,home,1674327600,https://media-3.api-sports.io/basketball/teams/2057.png
+2023-01-25T00:00:00+00:00,ohio,western michigan,,,home,1674604800,https://media-3.api-sports.io/basketball/teams/2057.png
+2023-01-28T19:00:00+00:00,ohio,akron,,,away,1674932400,https://media-3.api-sports.io/basketball/teams/2057.png
+2023-02-01T00:00:00+00:00,ohio,eastern michigan,,,away,1675209600,https://media-3.api-sports.io/basketball/teams/2057.png
+2023-02-04T19:00:00+00:00,ohio,miami (ohio),,,home,1675537200,https://media-1.api-sports.io/basketball/teams/2057.png
+2023-02-08T01:00:00+00:00,ohio,northern illinois,,,away,1675818000,https://media-2.api-sports.io/basketball/teams/2057.png
+2023-02-11T19:00:00+00:00,ohio,akron,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/2057.png
+2023-02-15T00:00:00+00:00,ohio,buffalo,,,home,1676419200,https://media-3.api-sports.io/basketball/teams/2057.png
+2023-02-18T21:00:00+00:00,ohio,central michigan,,,away,1676754000,https://media-1.api-sports.io/basketball/teams/2057.png

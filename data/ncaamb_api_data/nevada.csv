@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T03:00:00+00:00,nevada,utah tech,71 - 84,W,home,1667876400,https://media-1.api-sports.io/basketball/teams/2032.png
-2022-11-12T21:00:00+00:00,nevada,grand canyon,46 - 59,W,home,1668286800,https://media-1.api-sports.io/basketball/teams/2032.png
+2022-11-08T03:00:00+00:00,nevada,utah tech,71 - 84,W,home,1667876400,https://media-2.api-sports.io/basketball/teams/2032.png
+2022-11-12T21:00:00+00:00,nevada,grand canyon,46 - 59,W,home,1668286800,https://media-3.api-sports.io/basketball/teams/2032.png
 2022-11-16T03:00:00+00:00,nevada,william jessup,54 - 98,W,home,1668567600,https://media-2.api-sports.io/basketball/teams/2032.png
-2022-11-19T01:00:00+00:00,nevada,ut arlington,62 - 43,W,away,1668819600,https://media-1.api-sports.io/basketball/teams/2032.png
-2022-11-21T22:00:00+00:00,nevada,tulane,66 - 75,W,home,1669068000,https://media-1.api-sports.io/basketball/teams/2032.png
-2022-11-23T00:30:00+00:00,nevada,kansas state,87 - 96,L,away,1669163400,https://media-3.api-sports.io/basketball/teams/2032.png
+2022-11-19T01:00:00+00:00,nevada,ut arlington,62 - 43,W,away,1668819600,https://media-3.api-sports.io/basketball/teams/2032.png
+2022-11-21T22:00:00+00:00,nevada,tulane,66 - 75,W,home,1669068000,https://media-2.api-sports.io/basketball/teams/2032.png
+2022-11-23T00:30:00+00:00,nevada,kansas state,87 - 96,L,away,1669163400,https://media-1.api-sports.io/basketball/teams/2032.png
 2022-11-23T22:00:00+00:00,nevada,akron,58 - 62,W,home,1669240800,https://media-1.api-sports.io/basketball/teams/2032.png
-2022-11-29T03:00:00+00:00,nevada,sam houston st.,60 - 78,W,home,1669690800,https://media-3.api-sports.io/basketball/teams/2032.png
-2022-12-04T03:00:00+00:00,nevada,loyola marymount,52 - 64,L,away,1670122800,https://media-1.api-sports.io/basketball/teams/2032.png
+2022-11-29T03:00:00+00:00,nevada,sam houston st.,60 - 78,W,home,1669690800,https://media-1.api-sports.io/basketball/teams/2032.png
+2022-12-04T03:00:00+00:00,nevada,loyola marymount,52 - 64,L,away,1670122800,https://media-2.api-sports.io/basketball/teams/2032.png
 2022-12-07T04:00:00+00:00,nevada,pepperdine,85 - 77,W,away,1670385600,https://media-3.api-sports.io/basketball/teams/2032.png
-2022-12-11T00:00:00+00:00,nevada,oregon,65 - 78,L,away,1670716800,https://media-1.api-sports.io/basketball/teams/2032.png
-2022-12-15T03:00:00+00:00,nevada,uc san diego,56 - 64,W,home,1671073200,https://media-3.api-sports.io/basketball/teams/2032.png
+2022-12-11T00:00:00+00:00,nevada,oregon,65 - 78,L,away,1670716800,https://media-3.api-sports.io/basketball/teams/2032.png
+2022-12-15T03:00:00+00:00,nevada,uc san diego,56 - 64,W,home,1671073200,https://media-1.api-sports.io/basketball/teams/2032.png
 2022-12-21T22:00:00+00:00,nevada,norfolk state,66 - 78,W,home,1671660000,https://media-3.api-sports.io/basketball/teams/2032.png
 2022-12-29T03:00:00+00:00,nevada,boise state,72 - 74,W,home,1672282800,https://media-3.api-sports.io/basketball/teams/2032.png
-2022-12-31T19:00:00+00:00,nevada,air force,75 - 69,W,away,1672513200,https://media-1.api-sports.io/basketball/teams/2032.png
-2023-01-05T03:30:00+00:00,nevada,colorado state,69 - 80,W,home,1672889400,https://media-2.api-sports.io/basketball/teams/2032.png
+2022-12-31T19:00:00+00:00,nevada,air force,75 - 69,W,away,1672513200,https://media-3.api-sports.io/basketball/teams/2032.png
+2023-01-05T03:30:00+00:00,nevada,colorado state,69 - 80,W,home,1672889400,https://media-1.api-sports.io/basketball/teams/2032.png
 2023-01-07T21:00:00+00:00,nevada,san jose state,67 - 40,W,away,1673125200,https://media-2.api-sports.io/basketball/teams/2032.png
-2023-01-11T04:00:00+00:00,nevada,san diego state,,,away,1673409600,https://media-1.api-sports.io/basketball/teams/2032.png
-2023-01-14T04:00:00+00:00,nevada,utah state,,,home,1673668800,https://media-2.api-sports.io/basketball/teams/2032.png
+2023-01-11T04:00:00+00:00,nevada,san diego state,65 - 74,L,away,1673409600,https://media-2.api-sports.io/basketball/teams/2032.png
+2023-01-14T04:00:00+00:00,nevada,utah state,,,home,1673668800,https://media-1.api-sports.io/basketball/teams/2032.png
 2023-01-18T02:00:00+00:00,nevada,boise state,,,away,1674007200,https://media-1.api-sports.io/basketball/teams/2032.png
 2023-01-24T02:00:00+00:00,nevada,new mexico,,,home,1674525600,https://media-3.api-sports.io/basketball/teams/2032.png
-2023-01-29T03:00:00+00:00,nevada,unlv,,,away,1674961200,https://media-2.api-sports.io/basketball/teams/2032.png
-2023-02-01T04:00:00+00:00,nevada,san diego state,,,home,1675224000,https://media-1.api-sports.io/basketball/teams/2032.png
+2023-01-29T03:00:00+00:00,nevada,unlv,,,away,1674961200,https://media-1.api-sports.io/basketball/teams/2032.png
+2023-02-01T04:00:00+00:00,nevada,san diego state,,,home,1675224000,https://media-3.api-sports.io/basketball/teams/2032.png
 2023-02-04T04:00:00+00:00,nevada,air force,,,home,1675483200,https://media-1.api-sports.io/basketball/teams/2032.png
 2023-02-08T03:30:00+00:00,nevada,new mexico,,,away,1675827000,https://media-3.api-sports.io/basketball/teams/2032.png
 2023-02-11T04:00:00+00:00,nevada,fresno state,,,home,1676088000,https://media-2.api-sports.io/basketball/teams/2032.png

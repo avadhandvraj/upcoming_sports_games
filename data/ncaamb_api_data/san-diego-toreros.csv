@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T03:30:00+00:00,san diego toreros,sonoma state,59 - 81,W,home,1667878200,https://media-1.api-sports.io/basketball/teams/5528.png
-2022-11-10T03:00:00+00:00,san diego toreros,florida gulf coast,73 - 79,W,home,1668049200,https://media-2.api-sports.io/basketball/teams/199.png
-2022-11-13T22:00:00+00:00,san diego toreros,njit,64 - 74,W,home,1668376800,https://media-2.api-sports.io/basketball/teams/5528.png
+2022-11-10T03:00:00+00:00,san diego toreros,florida gulf coast,73 - 79,W,home,1668049200,https://media-1.api-sports.io/basketball/teams/199.png
+2022-11-13T22:00:00+00:00,san diego toreros,njit,64 - 74,W,home,1668376800,https://media-1.api-sports.io/basketball/teams/5528.png
 2022-11-18T03:00:00+00:00,san diego toreros,utah state,91 - 89,L,home,1668740400,https://media-2.api-sports.io/basketball/teams/5528.png
-2022-11-22T03:00:00+00:00,san diego toreros,san diego christian,69 - 98,W,home,1669086000,https://media-1.api-sports.io/basketball/teams/5528.png
-2022-11-26T02:30:00+00:00,san diego toreros,new mexico state,77 - 90,L,away,1669429800,https://media-3.api-sports.io/basketball/teams/5528.png
+2022-11-22T03:00:00+00:00,san diego toreros,san diego christian,69 - 98,W,home,1669086000,https://media-3.api-sports.io/basketball/teams/5528.png
+2022-11-26T02:30:00+00:00,san diego toreros,new mexico state,77 - 90,L,away,1669429800,https://media-2.api-sports.io/basketball/teams/5528.png
 2022-11-27T00:00:00+00:00,san diego toreros,nicholls state,72 - 70,L,home,1669507200,https://media-2.api-sports.io/basketball/teams/5528.png
-2022-11-29T02:00:00+00:00,san diego toreros,longwood,68 - 71,W,home,1669687200,https://media-2.api-sports.io/basketball/teams/5528.png
+2022-11-29T02:00:00+00:00,san diego toreros,longwood,68 - 71,W,home,1669687200,https://media-3.api-sports.io/basketball/teams/5528.png
 2022-12-04T03:00:00+00:00,san diego toreros,unlv,95 - 78,L,home,1670122800,https://media-3.api-sports.io/basketball/teams/5528.png
 2022-12-11T03:00:00+00:00,san diego toreros,california baptist,76 - 73,L,home,1670727600,https://media-2.api-sports.io/basketball/teams/5528.png
-2022-12-13T03:00:00+00:00,san diego toreros,uc san diego,58 - 84,W,home,1670900400,https://media-2.api-sports.io/basketball/teams/5528.png
-2022-12-19T00:00:00+00:00,san diego toreros,arizona state,67 - 91,L,away,1671408000,https://media-2.api-sports.io/basketball/teams/5528.png
-2022-12-21T03:00:00+00:00,san diego toreros,uc riverside,92 - 84,W,away,1671591600,https://media-1.api-sports.io/basketball/teams/5528.png
-2022-12-22T21:00:00+00:00,san diego toreros,cs northridge,78 - 83,L,away,1671742800,https://media-3.api-sports.io/basketball/teams/5528.png
-2022-12-30T02:00:00+00:00,san diego toreros,st. marys (ca),58 - 85,L,away,1672365600,https://media-1.api-sports.io/basketball/teams/5528.png
+2022-12-13T03:00:00+00:00,san diego toreros,uc san diego,58 - 84,W,home,1670900400,https://media-1.api-sports.io/basketball/teams/5528.png
+2022-12-19T00:00:00+00:00,san diego toreros,arizona state,67 - 91,L,away,1671408000,https://media-1.api-sports.io/basketball/teams/5528.png
+2022-12-21T03:00:00+00:00,san diego toreros,uc riverside,92 - 84,W,away,1671591600,https://media-2.api-sports.io/basketball/teams/5528.png
+2022-12-22T21:00:00+00:00,san diego toreros,cs northridge,78 - 83,L,away,1671742800,https://media-1.api-sports.io/basketball/teams/5528.png
+2022-12-30T02:00:00+00:00,san diego toreros,st. marys (ca),58 - 85,L,away,1672365600,https://media-3.api-sports.io/basketball/teams/5528.png
 2023-01-01T00:00:00+00:00,san diego toreros,san francisco,80 - 68,W,away,1672531200,https://media-2.api-sports.io/basketball/teams/5528.png
-2023-01-06T03:00:00+00:00,san diego toreros,pacific,84 - 82,L,home,1672974000,https://media-2.api-sports.io/basketball/teams/5528.png
-2023-01-08T01:00:00+00:00,san diego toreros,brigham young,68 - 48,L,home,1673139600,https://media-3.api-sports.io/basketball/teams/5528.png
+2023-01-06T03:00:00+00:00,san diego toreros,pacific,84 - 82,L,home,1672974000,https://media-3.api-sports.io/basketball/teams/5528.png
+2023-01-08T01:00:00+00:00,san diego toreros,brigham young,68 - 48,L,home,1673139600,https://media-1.api-sports.io/basketball/teams/5528.png
 2023-01-13T03:00:00+00:00,san diego toreros,pepperdine,,,home,1673578800,https://media-2.api-sports.io/basketball/teams/5528.png
-2023-01-14T21:00:00+00:00,san diego toreros,loyola marymount,,,away,1673730000,https://media-1.api-sports.io/basketball/teams/5528.png
-2023-01-20T02:00:00+00:00,san diego toreros,portland,,,away,1674180000,https://media-1.api-sports.io/basketball/teams/5528.png
+2023-01-15T03:00:00+00:00,san diego toreros,loyola marymount,,,away,1673751600,https://media-3.api-sports.io/basketball/teams/5528.png
+2023-01-20T02:00:00+00:00,san diego toreros,portland,,,away,1674180000,https://media-3.api-sports.io/basketball/teams/5528.png
 2023-01-26T21:00:00+00:00,san diego toreros,pepperdine,,,away,1674766800,https://media-2.api-sports.io/basketball/teams/5528.png
 2023-01-29T03:00:00+00:00,san diego toreros,san francisco,,,home,1674961200,https://media-2.api-sports.io/basketball/teams/5528.png
-2023-02-03T03:00:00+00:00,san diego toreros,portland,,,home,1675393200,https://media-3.api-sports.io/basketball/teams/5528.png
-2023-02-05T03:00:00+00:00,san diego toreros,loyola marymount,,,home,1675566000,https://media-1.api-sports.io/basketball/teams/5528.png
-2023-02-10T03:00:00+00:00,san diego toreros,santa clara,,,away,1675998000,https://media-2.api-sports.io/basketball/teams/5528.png
-2023-02-11T21:00:00+00:00,san diego toreros,pacific,,,away,1676149200,https://media-2.api-sports.io/basketball/teams/5528.png
+2023-02-03T03:00:00+00:00,san diego toreros,portland,,,home,1675393200,https://media-1.api-sports.io/basketball/teams/5528.png
+2023-02-05T03:00:00+00:00,san diego toreros,loyola marymount,,,home,1675566000,https://media-2.api-sports.io/basketball/teams/5528.png
+2023-02-10T03:00:00+00:00,san diego toreros,santa clara,,,away,1675998000,https://media-1.api-sports.io/basketball/teams/5528.png
+2023-02-11T21:00:00+00:00,san diego toreros,pacific,,,away,1676149200,https://media-1.api-sports.io/basketball/teams/5528.png
 2023-02-17T03:00:00+00:00,san diego toreros,st. marys (ca),,,home,1676602800,https://media-2.api-sports.io/basketball/teams/5528.png
-2023-02-23T21:00:00+00:00,san diego toreros,gonzaga,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/199.png
-2023-02-25T21:00:00+00:00,san diego toreros,santa clara,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/199.png
+2023-02-23T21:00:00+00:00,san diego toreros,gonzaga,None - None,tie,away,1677186000,https://media-2.api-sports.io/basketball/teams/199.png
+2023-02-25T21:00:00+00:00,san diego toreros,santa clara,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/199.png

@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,denver,idaho,63 - 68,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/1886.png
+2022-11-08T00:00:00+00:00,denver,idaho,63 - 68,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/1886.png
 2022-11-11T02:00:00+00:00,denver,colorado college,68 - 90,W,home,1668132000,https://media-3.api-sports.io/basketball/teams/1886.png
-2022-11-15T02:00:00+00:00,denver,sacramento state,73 - 69,L,home,1668477600,https://media-1.api-sports.io/basketball/teams/1886.png
-2022-11-19T02:00:00+00:00,denver,idaho state,70 - 69,W,away,1668823200,https://media-1.api-sports.io/basketball/teams/1886.png
-2022-11-23T22:00:00+00:00,denver,iupui,86 - 64,W,away,1669240800,https://media-2.api-sports.io/basketball/teams/1886.png
-2022-11-24T23:00:00+00:00,denver,citadel,74 - 71,W,away,1669330800,https://media-2.api-sports.io/basketball/teams/1886.png
-2022-11-25T20:00:00+00:00,denver,new orleans,77 - 76,W,away,1669406400,https://media-1.api-sports.io/basketball/teams/1886.png
-2022-12-02T01:00:00+00:00,denver,houston christian,93 - 83,W,away,1669942800,https://media-2.api-sports.io/basketball/teams/1886.png
-2022-12-04T21:00:00+00:00,denver,tx a&m commerce,75 - 84,W,home,1670187600,https://media-3.api-sports.io/basketball/teams/1886.png
+2022-11-15T02:00:00+00:00,denver,sacramento state,73 - 69,L,home,1668477600,https://media-3.api-sports.io/basketball/teams/1886.png
+2022-11-19T02:00:00+00:00,denver,idaho state,70 - 69,W,away,1668823200,https://media-2.api-sports.io/basketball/teams/1886.png
+2022-11-23T22:00:00+00:00,denver,iupui,86 - 64,W,away,1669240800,https://media-1.api-sports.io/basketball/teams/1886.png
+2022-11-24T23:00:00+00:00,denver,citadel,74 - 71,W,away,1669330800,https://media-3.api-sports.io/basketball/teams/1886.png
+2022-11-25T20:00:00+00:00,denver,new orleans,77 - 76,W,away,1669406400,https://media-3.api-sports.io/basketball/teams/1886.png
+2022-12-02T01:00:00+00:00,denver,houston christian,93 - 83,W,away,1669942800,https://media-3.api-sports.io/basketball/teams/1886.png
+2022-12-04T21:00:00+00:00,denver,tx a&m commerce,75 - 84,W,home,1670187600,https://media-1.api-sports.io/basketball/teams/1886.png
 2022-12-08T03:00:00+00:00,denver,sacramento state,85 - 87,L,away,1670468400,https://media-3.api-sports.io/basketball/teams/1886.png
 2022-12-10T20:00:00+00:00,denver,ucla,64 - 87,L,away,1670702400,https://media-3.api-sports.io/basketball/teams/1886.png
-2022-12-15T02:00:00+00:00,denver,colorado christian,74 - 85,W,home,1671069600,https://media-3.api-sports.io/basketball/teams/1886.png
-2022-12-20T01:00:00+00:00,denver,nebraska o.,66 - 83,L,away,1671498000,https://media-2.api-sports.io/basketball/teams/1886.png
-2022-12-22T03:00:00+00:00,denver,oregon state,52 - 57,L,away,1671678000,https://media-3.api-sports.io/basketball/teams/1886.png
+2022-12-15T02:00:00+00:00,denver,colorado christian,74 - 85,W,home,1671069600,https://media-1.api-sports.io/basketball/teams/1886.png
+2022-12-20T01:00:00+00:00,denver,nebraska o.,66 - 83,L,away,1671498000,https://media-3.api-sports.io/basketball/teams/1886.png
+2022-12-22T03:00:00+00:00,denver,oregon state,52 - 57,L,away,1671678000,https://media-1.api-sports.io/basketball/teams/1886.png
 2022-12-30T02:00:00+00:00,denver,umkc,83 - 85,W,home,1672365600,https://media-2.api-sports.io/basketball/teams/1886.png
-2022-12-31T20:00:00+00:00,denver,oral roberts,80 - 62,L,home,1672516800,https://media-1.api-sports.io/basketball/teams/1886.png
-2023-01-06T01:00:00+00:00,denver,st. thomas (minn.),71 - 81,L,away,1672966800,https://media-3.api-sports.io/basketball/teams/1886.png
-2023-01-07T20:00:00+00:00,denver,western illinois,74 - 91,L,away,1673121600,https://media-1.api-sports.io/basketball/teams/1886.png
-2023-01-13T02:00:00+00:00,denver,north dakota st,,,home,1673575200,https://media-1.api-sports.io/basketball/teams/1886.png
-2023-01-14T20:00:00+00:00,denver,north dakota,,,home,1673726400,https://media-2.api-sports.io/basketball/teams/1886.png
+2022-12-31T20:00:00+00:00,denver,oral roberts,80 - 62,L,home,1672516800,https://media-2.api-sports.io/basketball/teams/1886.png
+2023-01-06T01:00:00+00:00,denver,st. thomas (minn.),71 - 81,L,away,1672966800,https://media-1.api-sports.io/basketball/teams/1886.png
+2023-01-07T20:00:00+00:00,denver,western illinois,74 - 91,L,away,1673121600,https://media-2.api-sports.io/basketball/teams/1886.png
+2023-01-13T02:00:00+00:00,denver,north dakota st,,,home,1673575200,https://media-3.api-sports.io/basketball/teams/1886.png
+2023-01-14T20:00:00+00:00,denver,north dakota,,,home,1673726400,https://media-1.api-sports.io/basketball/teams/1886.png
 2023-01-20T01:00:00+00:00,denver,south dakota coyotes,,,away,1674176400,https://media-1.api-sports.io/basketball/teams/1886.png
 2023-01-21T20:00:00+00:00,denver,south dakota st.,,,away,1674331200,https://media-1.api-sports.io/basketball/teams/1886.png
-2023-01-27T01:00:00+00:00,denver,oral roberts,,,away,1674781200,https://media-2.api-sports.io/basketball/teams/1886.png
+2023-01-27T01:00:00+00:00,denver,oral roberts,,,away,1674781200,https://media-3.api-sports.io/basketball/teams/1886.png
 2023-01-29T01:00:00+00:00,denver,umkc,,,away,1674954000,https://media-1.api-sports.io/basketball/teams/1886.png
-2023-02-03T02:00:00+00:00,denver,western illinois,,,home,1675389600,https://media-3.api-sports.io/basketball/teams/1886.png
+2023-02-03T02:00:00+00:00,denver,western illinois,,,home,1675389600,https://media-1.api-sports.io/basketball/teams/1886.png
 2023-02-04T23:00:00+00:00,denver,st. thomas (minn.),,,home,1675551600,https://media-3.api-sports.io/basketball/teams/1886.png
 2023-02-10T01:00:00+00:00,denver,north dakota,,,away,1675990800,https://media-2.api-sports.io/basketball/teams/1886.png
 2023-02-11T19:00:00+00:00,denver,north dakota st,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/1886.png
 2023-02-17T02:00:00+00:00,denver,south dakota st.,,,home,1676599200,https://media-2.api-sports.io/basketball/teams/1886.png
-2023-02-18T20:00:00+00:00,denver,south dakota coyotes,,,home,1676750400,https://media-2.api-sports.io/basketball/teams/1886.png
+2023-02-18T20:00:00+00:00,denver,south dakota coyotes,,,home,1676750400,https://media-1.api-sports.io/basketball/teams/1886.png
 2023-02-25T21:00:00+00:00,denver,nebraska o.,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/1886.png

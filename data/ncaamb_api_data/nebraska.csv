@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,nebraska,maine black bears,66 - 79,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/195.png
-2022-11-11T01:00:00+00:00,nebraska,nebraska o.,61 - 75,W,home,1668128400,https://media-2.api-sports.io/basketball/teams/195.png
+2022-11-08T01:00:00+00:00,nebraska,maine black bears,66 - 79,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/195.png
+2022-11-11T01:00:00+00:00,nebraska,nebraska o.,61 - 75,W,home,1668128400,https://media-3.api-sports.io/basketball/teams/195.png
 2022-11-17T23:30:00+00:00,nebraska,st. john's (n.y.),50 - 70,L,away,1668727800,https://media-3.api-sports.io/basketball/teams/195.png
 2022-11-20T20:30:00+00:00,nebraska,arkansas-pine bluff,58 - 82,W,home,1668976200,https://media-1.api-sports.io/basketball/teams/195.png
-2022-11-24T22:00:00+00:00,nebraska,oklahoma,69 - 56,L,home,1669327200,https://media-1.api-sports.io/basketball/teams/195.png
-2022-11-25T22:30:00+00:00,nebraska,memphis,61 - 73,L,away,1669415400,https://media-3.api-sports.io/basketball/teams/195.png
-2022-11-28T00:30:00+00:00,nebraska,florida state,58 - 75,W,home,1669595400,https://media-1.api-sports.io/basketball/teams/195.png
-2022-12-01T02:15:00+00:00,nebraska,boston college,67 - 88,W,home,1669860900,https://media-2.api-sports.io/basketball/teams/195.png
+2022-11-24T22:00:00+00:00,nebraska,oklahoma,69 - 56,L,home,1669327200,https://media-2.api-sports.io/basketball/teams/195.png
+2022-11-25T22:30:00+00:00,nebraska,memphis,61 - 73,L,away,1669415400,https://media-1.api-sports.io/basketball/teams/195.png
+2022-11-28T00:30:00+00:00,nebraska,florida state,58 - 75,W,home,1669595400,https://media-3.api-sports.io/basketball/teams/195.png
+2022-12-01T02:15:00+00:00,nebraska,boston college,67 - 88,W,home,1669860900,https://media-3.api-sports.io/basketball/teams/195.png
 2022-12-04T21:30:00+00:00,nebraska,creighton,63 - 53,W,away,1670189400,https://media-1.api-sports.io/basketball/teams/195.png
-2022-12-08T01:30:00+00:00,nebraska,indiana,65 - 81,L,away,1670463000,https://media-2.api-sports.io/basketball/teams/195.png
-2022-12-10T19:15:00+00:00,nebraska,purdue,65 - 62,L,home,1670699700,https://media-1.api-sports.io/basketball/teams/195.png
-2022-12-18T00:00:00+00:00,nebraska,kansas state,56 - 71,L,away,1671321600,https://media-1.api-sports.io/basketball/teams/195.png
+2022-12-08T01:30:00+00:00,nebraska,indiana,65 - 81,L,away,1670463000,https://media-1.api-sports.io/basketball/teams/195.png
+2022-12-10T19:15:00+00:00,nebraska,purdue,65 - 62,L,home,1670699700,https://media-3.api-sports.io/basketball/teams/195.png
+2022-12-18T00:00:00+00:00,nebraska,kansas state,56 - 71,L,away,1671321600,https://media-2.api-sports.io/basketball/teams/195.png
 2022-12-21T00:30:00+00:00,nebraska,queens royals,65 - 75,W,home,1671582600,https://media-2.api-sports.io/basketball/teams/195.png
-2022-12-30T00:00:00+00:00,nebraska,iowa,50 - 66,W,home,1672358400,https://media-1.api-sports.io/basketball/teams/195.png
+2022-12-30T00:00:00+00:00,nebraska,iowa,50 - 66,W,home,1672358400,https://media-3.api-sports.io/basketball/teams/195.png
 2023-01-04T00:00:00+00:00,nebraska,michigan state,56 - 74,L,away,1672790400,https://media-1.api-sports.io/basketball/teams/195.png
 2023-01-07T17:00:00+00:00,nebraska,minnesota,81 - 79,W,away,1673110800,https://media-2.api-sports.io/basketball/teams/195.png
-2023-01-11T02:00:00+00:00,nebraska,illinois,,,home,1673402400,https://media-1.api-sports.io/basketball/teams/195.png
-2023-01-14T00:00:00+00:00,nebraska,purdue,,,away,1673654400,https://media-1.api-sports.io/basketball/teams/195.png
+2023-01-11T02:00:00+00:00,nebraska,illinois,76 - 50,L,home,1673402400,https://media-2.api-sports.io/basketball/teams/195.png
+2023-01-14T00:00:00+00:00,nebraska,purdue,,,away,1673654400,https://media-2.api-sports.io/basketball/teams/195.png
 2023-01-19T00:00:00+00:00,nebraska,ohio state,,,home,1674086400,https://media-1.api-sports.io/basketball/teams/195.png
 2023-01-21T19:15:00+00:00,nebraska,penn state,,,away,1674328500,https://media-1.api-sports.io/basketball/teams/195.png
-2023-01-25T01:30:00+00:00,nebraska,northwestern,,,home,1674610200,https://media-3.api-sports.io/basketball/teams/195.png
-2023-01-28T21:30:00+00:00,nebraska,maryland,,,away,1674941400,https://media-1.api-sports.io/basketball/teams/195.png
-2023-02-01T00:30:00+00:00,nebraska,illinois,,,away,1675211400,https://media-3.api-sports.io/basketball/teams/195.png
-2023-02-05T21:30:00+00:00,nebraska,penn state,,,home,1675632600,https://media-1.api-sports.io/basketball/teams/195.png
-2023-02-08T23:30:00+00:00,nebraska,michigan,,,away,1675899000,https://media-1.api-sports.io/basketball/teams/195.png
+2023-01-25T01:30:00+00:00,nebraska,northwestern,,,home,1674610200,https://media-1.api-sports.io/basketball/teams/195.png
+2023-01-28T21:30:00+00:00,nebraska,maryland,,,away,1674941400,https://media-2.api-sports.io/basketball/teams/195.png
+2023-02-01T00:30:00+00:00,nebraska,illinois,,,away,1675211400,https://media-1.api-sports.io/basketball/teams/195.png
+2023-02-05T21:30:00+00:00,nebraska,penn state,,,home,1675632600,https://media-2.api-sports.io/basketball/teams/195.png
+2023-02-08T23:30:00+00:00,nebraska,michigan,,,away,1675899000,https://media-3.api-sports.io/basketball/teams/195.png
 2023-02-11T21:00:00+00:00,nebraska,wisconsin,,,home,1676149200,https://media-2.api-sports.io/basketball/teams/195.png
-2023-02-15T01:00:00+00:00,nebraska,rutgers,,,away,1676422800,https://media-2.api-sports.io/basketball/teams/195.png
+2023-02-15T01:00:00+00:00,nebraska,rutgers,,,away,1676422800,https://media-3.api-sports.io/basketball/teams/195.png

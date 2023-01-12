@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-10T02:00:00+00:00,boise state,south dakota st.,68 - 66,L,home,1668045600,https://media-3.api-sports.io/basketball/teams/1835.png
 2022-11-13T00:00:00+00:00,boise state,washington state,61 - 71,W,home,1668297600,https://media-3.api-sports.io/basketball/teams/1835.png
-2022-11-18T00:00:00+00:00,boise state,charlotte,42 - 54,L,away,1668729600,https://media-2.api-sports.io/basketball/teams/1835.png
+2022-11-18T00:00:00+00:00,boise state,charlotte,42 - 54,L,away,1668729600,https://media-1.api-sports.io/basketball/teams/1835.png
 2022-11-19T02:30:00+00:00,boise state,loyola chicago,70 - 48,W,away,1668825000,https://media-3.api-sports.io/basketball/teams/1835.png
 2022-11-21T00:00:00+00:00,boise state,colorado,55 - 68,W,home,1668988800,https://media-2.api-sports.io/basketball/teams/1835.png
-2022-11-26T21:00:00+00:00,boise state,utah valley state,69 - 87,W,home,1669496400,https://media-3.api-sports.io/basketball/teams/1835.png
-2022-11-30T02:00:00+00:00,boise state,cs northridge,46 - 55,W,home,1669773600,https://media-3.api-sports.io/basketball/teams/1835.png
-2022-12-04T00:00:00+00:00,boise state,texas a&m,86 - 71,W,away,1670112000,https://media-1.api-sports.io/basketball/teams/1835.png
+2022-11-26T21:00:00+00:00,boise state,utah valley state,69 - 87,W,home,1669496400,https://media-1.api-sports.io/basketball/teams/1835.png
+2022-11-30T02:00:00+00:00,boise state,cs northridge,46 - 55,W,home,1669773600,https://media-1.api-sports.io/basketball/teams/1835.png
+2022-12-04T00:00:00+00:00,boise state,texas a&m,86 - 71,W,away,1670112000,https://media-2.api-sports.io/basketball/teams/1835.png
 2022-12-07T02:00:00+00:00,boise state,eastern oregon,54 - 90,W,home,1670378400,https://media-1.api-sports.io/basketball/teams/1835.png
-2022-12-11T01:00:00+00:00,boise state,st. louis,57 - 52,W,away,1670720400,https://media-2.api-sports.io/basketball/teams/1835.png
-2022-12-14T02:00:00+00:00,boise state,new orleans,50 - 91,W,home,1670983200,https://media-2.api-sports.io/basketball/teams/1835.png
-2022-12-18T21:00:00+00:00,boise state,oakland,57 - 77,W,home,1671397200,https://media-1.api-sports.io/basketball/teams/1835.png
+2022-12-11T01:00:00+00:00,boise state,st. louis,57 - 52,W,away,1670720400,https://media-1.api-sports.io/basketball/teams/1835.png
+2022-12-14T02:00:00+00:00,boise state,new orleans,50 - 91,W,home,1670983200,https://media-1.api-sports.io/basketball/teams/1835.png
+2022-12-18T21:00:00+00:00,boise state,oakland,57 - 77,W,home,1671397200,https://media-2.api-sports.io/basketball/teams/1835.png
 2022-12-22T22:00:00+00:00,boise state,santa clara,58 - 73,L,away,1671746400,https://media-1.api-sports.io/basketball/teams/1835.png
 2022-12-29T03:00:00+00:00,boise state,nevada,72 - 74,L,away,1672282800,https://media-3.api-sports.io/basketball/teams/1835.png
-2023-01-04T02:00:00+00:00,boise state,san jose state,64 - 67,W,home,1672797600,https://media-1.api-sports.io/basketball/teams/1835.png
-2023-01-07T23:30:00+00:00,boise state,utah state,59 - 82,W,home,1673134200,https://media-1.api-sports.io/basketball/teams/1835.png
-2023-01-12T04:00:00+00:00,boise state,unlv,,,away,1673496000,https://media-2.api-sports.io/basketball/teams/1835.png
+2023-01-04T02:00:00+00:00,boise state,san jose state,64 - 67,W,home,1672797600,https://media-2.api-sports.io/basketball/teams/1835.png
+2023-01-07T23:30:00+00:00,boise state,utah state,59 - 82,W,home,1673134200,https://media-2.api-sports.io/basketball/teams/1835.png
+2023-01-12T04:00:00+00:00,boise state,unlv,84 - 66,W,away,1673496000,https://media-3.api-sports.io/basketball/teams/1835.png
 2023-01-15T04:00:00+00:00,boise state,wyoming,,,away,1673755200,https://media-1.api-sports.io/basketball/teams/1835.png
 2023-01-18T02:00:00+00:00,boise state,nevada,,,home,1674007200,https://media-3.api-sports.io/basketball/teams/1835.png
-2023-01-21T04:00:00+00:00,boise state,new mexico,,,away,1674273600,https://media-3.api-sports.io/basketball/teams/1835.png
+2023-01-21T04:00:00+00:00,boise state,new mexico,,,away,1674273600,https://media-1.api-sports.io/basketball/teams/1835.png
 2023-01-25T02:00:00+00:00,boise state,fresno state,,,home,1674612000,https://media-3.api-sports.io/basketball/teams/1835.png
-2023-01-29T01:00:00+00:00,boise state,colorado state,,,home,1674954000,https://media-3.api-sports.io/basketball/teams/1835.png
-2023-02-01T02:00:00+00:00,boise state,air force,,,away,1675216800,https://media-3.api-sports.io/basketball/teams/1835.png
-2023-02-04T02:00:00+00:00,boise state,san diego state,,,away,1675476000,https://media-3.api-sports.io/basketball/teams/1835.png
-2023-02-12T01:00:00+00:00,boise state,wyoming,,,home,1676163600,https://media-2.api-sports.io/basketball/teams/1835.png
+2023-01-29T01:00:00+00:00,boise state,colorado state,,,home,1674954000,https://media-2.api-sports.io/basketball/teams/1835.png
+2023-02-01T02:00:00+00:00,boise state,air force,,,away,1675216800,https://media-2.api-sports.io/basketball/teams/1835.png
+2023-02-04T02:00:00+00:00,boise state,san diego state,,,away,1675476000,https://media-1.api-sports.io/basketball/teams/1835.png
+2023-02-12T01:00:00+00:00,boise state,wyoming,,,home,1676163600,https://media-1.api-sports.io/basketball/teams/1835.png
 2023-02-15T21:00:00+00:00,boise state,colorado state,,,away,1676494800,https://media-2.api-sports.io/basketball/teams/1835.png

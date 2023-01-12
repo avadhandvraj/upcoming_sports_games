@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T02:00:00+00:00,idaho state,brigham young,56 - 60,L,away,1667872800,https://media-1.api-sports.io/basketball/teams/1943.png
-2022-11-11T02:00:00+00:00,idaho state,westcliff,56 - 97,W,home,1668132000,https://media-3.api-sports.io/basketball/teams/1943.png
-2022-11-15T01:00:00+00:00,idaho state,utah utes,58 - 70,L,away,1668474000,https://media-3.api-sports.io/basketball/teams/1943.png
-2022-11-19T02:00:00+00:00,idaho state,denver,70 - 69,L,home,1668823200,https://media-1.api-sports.io/basketball/teams/1943.png
+2022-11-11T02:00:00+00:00,idaho state,westcliff,56 - 97,W,home,1668132000,https://media-1.api-sports.io/basketball/teams/1943.png
+2022-11-15T01:00:00+00:00,idaho state,utah utes,58 - 70,L,away,1668474000,https://media-2.api-sports.io/basketball/teams/1943.png
+2022-11-19T02:00:00+00:00,idaho state,denver,70 - 69,L,home,1668823200,https://media-2.api-sports.io/basketball/teams/1943.png
 2022-11-24T01:00:00+00:00,idaho state,lindenwood,76 - 77,L,away,1669251600,https://media-3.api-sports.io/basketball/teams/1943.png
 2022-11-26T21:00:00+00:00,idaho state,bethune-cookman,68 - 66,L,home,1669496400,https://media-1.api-sports.io/basketball/teams/1943.png
 2022-11-27T21:30:00+00:00,idaho state,central arkansas,77 - 81,L,away,1669584600,https://media-3.api-sports.io/basketball/teams/1943.png
 2022-11-30T01:00:00+00:00,idaho state,umkc,75 - 65,W,away,1669770000,https://media-1.api-sports.io/basketball/teams/1943.png
-2022-12-04T01:00:00+00:00,idaho state,southern utah,69 - 59,L,home,1670115600,https://media-1.api-sports.io/basketball/teams/1943.png
-2022-12-07T02:00:00+00:00,idaho state,montana western,53 - 61,W,home,1670378400,https://media-2.api-sports.io/basketball/teams/1943.png
-2022-12-11T01:00:00+00:00,idaho state,st. thomas (minn.),76 - 70,L,home,1670720400,https://media-2.api-sports.io/basketball/teams/1943.png
-2022-12-18T03:00:00+00:00,idaho state,washington,55 - 90,L,away,1671332400,https://media-3.api-sports.io/basketball/teams/1943.png
-2022-12-21T02:00:00+00:00,idaho state,grand canyon,66 - 68,L,away,1671588000,https://media-1.api-sports.io/basketball/teams/1943.png
+2022-12-04T01:00:00+00:00,idaho state,southern utah,69 - 59,L,home,1670115600,https://media-2.api-sports.io/basketball/teams/1943.png
+2022-12-07T02:00:00+00:00,idaho state,montana western,53 - 61,W,home,1670378400,https://media-1.api-sports.io/basketball/teams/1943.png
+2022-12-11T01:00:00+00:00,idaho state,st. thomas (minn.),76 - 70,L,home,1670720400,https://media-1.api-sports.io/basketball/teams/1943.png
+2022-12-18T03:00:00+00:00,idaho state,washington,55 - 90,L,away,1671332400,https://media-1.api-sports.io/basketball/teams/1943.png
+2022-12-21T02:00:00+00:00,idaho state,grand canyon,66 - 68,L,away,1671588000,https://media-2.api-sports.io/basketball/teams/1943.png
 2022-12-30T02:00:00+00:00,idaho state,northern arizona,53 - 79,W,home,1672365600,https://media-3.api-sports.io/basketball/teams/1943.png
-2023-01-01T01:00:00+00:00,idaho state,northern colorado,83 - 90,W,home,1672534800,https://media-2.api-sports.io/basketball/teams/1943.png
-2023-01-08T02:00:00+00:00,idaho state,weber state,67 - 57,W,away,1673143200,https://media-3.api-sports.io/basketball/teams/1943.png
+2023-01-01T01:00:00+00:00,idaho state,northern colorado,83 - 90,W,home,1672534800,https://media-3.api-sports.io/basketball/teams/1943.png
+2023-01-08T02:00:00+00:00,idaho state,weber state,67 - 57,W,away,1673143200,https://media-2.api-sports.io/basketball/teams/1943.png
 2023-01-13T02:00:00+00:00,idaho state,montana state,,,away,1673575200,https://media-1.api-sports.io/basketball/teams/1943.png
 2023-01-15T02:00:00+00:00,idaho state,montana,,,away,1673748000,https://media-3.api-sports.io/basketball/teams/1943.png
-2023-01-20T02:00:00+00:00,idaho state,sacramento state,,,home,1674180000,https://media-1.api-sports.io/basketball/teams/1943.png
-2023-01-22T01:00:00+00:00,idaho state,portland state,,,home,1674349200,https://media-1.api-sports.io/basketball/teams/1943.png
+2023-01-20T02:00:00+00:00,idaho state,sacramento state,,,home,1674180000,https://media-3.api-sports.io/basketball/teams/1943.png
+2023-01-22T01:00:00+00:00,idaho state,portland state,,,home,1674349200,https://media-2.api-sports.io/basketball/teams/1943.png
 2023-01-27T02:00:00+00:00,idaho state,east. washington,,,away,1674784800,https://media-1.api-sports.io/basketball/teams/1943.png
 2023-01-28T22:00:00+00:00,idaho state,idaho,,,away,1674943200,https://media-1.api-sports.io/basketball/teams/1943.png
-2023-02-05T01:00:00+00:00,idaho state,weber state,,,home,1675558800,https://media-3.api-sports.io/basketball/teams/1943.png
-2023-02-07T01:00:00+00:00,idaho state,northern arizona,,,away,1675731600,https://media-3.api-sports.io/basketball/teams/1943.png
-2023-02-10T02:00:00+00:00,idaho state,montana,,,home,1675994400,https://media-1.api-sports.io/basketball/teams/1943.png
-2023-02-12T01:00:00+00:00,idaho state,montana state,,,home,1676163600,https://media-3.api-sports.io/basketball/teams/1943.png
-2023-02-17T03:00:00+00:00,idaho state,portland state,,,away,1676602800,https://media-1.api-sports.io/basketball/teams/1943.png
-2023-02-18T21:00:00+00:00,idaho state,sacramento state,None - None,tie,away,1676754000,https://media-2.api-sports.io/basketball/teams/1943.png
-2023-02-23T21:00:00+00:00,idaho state,idaho,None - None,tie,home,1677186000,https://media-3.api-sports.io/basketball/teams/1943.png
-2023-02-25T21:00:00+00:00,idaho state,east. washington,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/1943.png
+2023-02-05T01:00:00+00:00,idaho state,weber state,,,home,1675558800,https://media-2.api-sports.io/basketball/teams/1943.png
+2023-02-07T01:00:00+00:00,idaho state,northern arizona,,,away,1675731600,https://media-2.api-sports.io/basketball/teams/1943.png
+2023-02-10T02:00:00+00:00,idaho state,montana,,,home,1675994400,https://media-3.api-sports.io/basketball/teams/1943.png
+2023-02-12T01:00:00+00:00,idaho state,montana state,,,home,1676163600,https://media-2.api-sports.io/basketball/teams/1943.png
+2023-02-17T03:00:00+00:00,idaho state,portland state,,,away,1676602800,https://media-3.api-sports.io/basketball/teams/1943.png
+2023-02-18T21:00:00+00:00,idaho state,sacramento state,None - None,tie,away,1676754000,https://media-1.api-sports.io/basketball/teams/1943.png
+2023-02-23T21:00:00+00:00,idaho state,idaho,None - None,tie,home,1677186000,https://media-2.api-sports.io/basketball/teams/1943.png
+2023-02-25T21:00:00+00:00,idaho state,east. washington,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/1943.png

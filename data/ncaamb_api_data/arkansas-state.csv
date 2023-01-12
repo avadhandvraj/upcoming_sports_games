@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,arkansas state,harding,55 - 86,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/1817.png
-2022-11-12T23:00:00+00:00,arkansas state,lsu,52 - 61,L,away,1668294000,https://media-1.api-sports.io/basketball/teams/1817.png
+2022-11-08T01:00:00+00:00,arkansas state,harding,55 - 86,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/1817.png
+2022-11-12T23:00:00+00:00,arkansas state,lsu,52 - 61,L,away,1668294000,https://media-2.api-sports.io/basketball/teams/1817.png
 2022-11-15T01:00:00+00:00,arkansas state,lyon,58 - 82,W,home,1668474000,https://media-3.api-sports.io/basketball/teams/1817.png
-2022-11-19T02:00:00+00:00,arkansas state,uc davis,60 - 75,L,away,1668823200,https://media-3.api-sports.io/basketball/teams/1817.png
-2022-11-22T23:00:00+00:00,arkansas state,ut martin,64 - 70,W,home,1669158000,https://media-1.api-sports.io/basketball/teams/1817.png
+2022-11-19T02:00:00+00:00,arkansas state,uc davis,60 - 75,L,away,1668823200,https://media-2.api-sports.io/basketball/teams/1817.png
+2022-11-22T23:00:00+00:00,arkansas state,ut martin,64 - 70,W,home,1669158000,https://media-2.api-sports.io/basketball/teams/1817.png
 2022-11-26T01:00:00+00:00,arkansas state,prairie view a&m,67 - 59,L,home,1669424400,https://media-1.api-sports.io/basketball/teams/1817.png
-2022-11-27T20:00:00+00:00,arkansas state,bethel (tn),65 - 90,W,home,1669579200,https://media-2.api-sports.io/basketball/teams/1817.png
-2022-12-02T01:00:00+00:00,arkansas state,miss. valley st.,38 - 58,W,home,1669942800,https://media-3.api-sports.io/basketball/teams/1817.png
-2022-12-07T01:00:00+00:00,arkansas state,central arkansas,67 - 72,L,away,1670374800,https://media-1.api-sports.io/basketball/teams/1817.png
-2022-12-10T02:00:00+00:00,arkansas state,air force,55 - 80,L,away,1670637600,https://media-1.api-sports.io/basketball/teams/1817.png
-2022-12-15T01:00:00+00:00,arkansas state,southeast missouri state,61 - 68,W,home,1671066000,https://media-1.api-sports.io/basketball/teams/1817.png
-2022-12-20T01:00:00+00:00,arkansas state,alabama state,65 - 72,W,home,1671498000,https://media-2.api-sports.io/basketball/teams/1817.png
-2022-12-22T20:00:00+00:00,arkansas state,ualr,75 - 77,W,home,1671739200,https://media-3.api-sports.io/basketball/teams/1817.png
+2022-11-27T20:00:00+00:00,arkansas state,bethel (tn),65 - 90,W,home,1669579200,https://media-1.api-sports.io/basketball/teams/1817.png
+2022-12-02T01:00:00+00:00,arkansas state,miss. valley st.,38 - 58,W,home,1669942800,https://media-2.api-sports.io/basketball/teams/1817.png
+2022-12-07T01:00:00+00:00,arkansas state,central arkansas,67 - 72,L,away,1670374800,https://media-3.api-sports.io/basketball/teams/1817.png
+2022-12-10T02:00:00+00:00,arkansas state,air force,55 - 80,L,away,1670637600,https://media-3.api-sports.io/basketball/teams/1817.png
+2022-12-15T01:00:00+00:00,arkansas state,southeast missouri state,61 - 68,W,home,1671066000,https://media-3.api-sports.io/basketball/teams/1817.png
+2022-12-20T01:00:00+00:00,arkansas state,alabama state,65 - 72,W,home,1671498000,https://media-1.api-sports.io/basketball/teams/1817.png
+2022-12-22T20:00:00+00:00,arkansas state,ualr,75 - 77,W,home,1671739200,https://media-1.api-sports.io/basketball/teams/1817.png
 2022-12-30T00:00:00+00:00,arkansas state,old dominion,60 - 57,W,away,1672358400,https://media-2.api-sports.io/basketball/teams/1817.png
 2022-12-31T20:00:00+00:00,arkansas state,louisiana monroe,84 - 72,L,home,1672516800,https://media-2.api-sports.io/basketball/teams/1817.png
 2023-01-06T01:00:00+00:00,arkansas state,south alabama,45 - 63,L,away,1672966800,https://media-2.api-sports.io/basketball/teams/1817.png
-2023-01-07T22:00:00+00:00,arkansas state,troy,54 - 66,L,away,1673128800,https://media-2.api-sports.io/basketball/teams/1817.png
+2023-01-07T22:00:00+00:00,arkansas state,troy,54 - 66,L,away,1673128800,https://media-1.api-sports.io/basketball/teams/1817.png
 2023-01-13T01:00:00+00:00,arkansas state,texas state,,,home,1673571600,https://media-1.api-sports.io/basketball/teams/1817.png
-2023-01-14T20:00:00+00:00,arkansas state,southern miss,,,home,1673726400,https://media-1.api-sports.io/basketball/teams/1817.png
-2023-01-20T01:00:00+00:00,arkansas state,louisiana lafayette,,,home,1674176400,https://media-3.api-sports.io/basketball/teams/1817.png
+2023-01-14T20:00:00+00:00,arkansas state,southern miss,,,home,1673726400,https://media-3.api-sports.io/basketball/teams/1817.png
+2023-01-20T01:00:00+00:00,arkansas state,louisiana lafayette,,,home,1674176400,https://media-1.api-sports.io/basketball/teams/1817.png
 2023-01-21T20:00:00+00:00,arkansas state,marshall,,,home,1674331200,https://media-3.api-sports.io/basketball/teams/1817.png
 2023-01-27T01:00:00+00:00,arkansas state,southern miss,,,away,1674781200,https://media-3.api-sports.io/basketball/teams/1817.png
 2023-01-28T21:30:00+00:00,arkansas state,appalachian state,,,away,1674941400,https://media-3.api-sports.io/basketball/teams/1817.png
 2023-02-03T01:00:00+00:00,arkansas state,south alabama,,,home,1675386000,https://media-1.api-sports.io/basketball/teams/1817.png
-2023-02-04T20:00:00+00:00,arkansas state,coastal carolina,,,home,1675540800,https://media-1.api-sports.io/basketball/teams/1817.png
+2023-02-04T20:00:00+00:00,arkansas state,coastal carolina,,,home,1675540800,https://media-2.api-sports.io/basketball/teams/1817.png
 2023-02-10T01:00:00+00:00,arkansas state,texas state,,,away,1675990800,https://media-2.api-sports.io/basketball/teams/1817.png
-2023-02-11T20:00:00+00:00,arkansas state,georgia southern,,,away,1676145600,https://media-2.api-sports.io/basketball/teams/1817.png
-2023-02-17T01:30:00+00:00,arkansas state,troy,,,home,1676597400,https://media-2.api-sports.io/basketball/teams/1817.png
+2023-02-11T20:00:00+00:00,arkansas state,georgia southern,,,away,1676145600,https://media-3.api-sports.io/basketball/teams/1817.png
+2023-02-17T01:30:00+00:00,arkansas state,troy,,,home,1676597400,https://media-1.api-sports.io/basketball/teams/1817.png
 2023-02-18T20:00:00+00:00,arkansas state,georgia state,,,home,1676750400,https://media-1.api-sports.io/basketball/teams/1817.png
-2023-02-22T21:00:00+00:00,arkansas state,louisiana lafayette,None - None,tie,away,1677099600,https://media-2.api-sports.io/basketball/teams/1817.png
-2023-02-24T21:00:00+00:00,arkansas state,louisiana monroe,None - None,tie,away,1677272400,https://media-2.api-sports.io/basketball/teams/1817.png
+2023-02-22T21:00:00+00:00,arkansas state,louisiana lafayette,None - None,tie,away,1677099600,https://media-1.api-sports.io/basketball/teams/1817.png
+2023-02-24T21:00:00+00:00,arkansas state,louisiana monroe,None - None,tie,away,1677272400,https://media-3.api-sports.io/basketball/teams/1817.png

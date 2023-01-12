@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Friday, August 05 02:00 PM",arsenal,crystal palace,2 - 0,W,away,1659726000,https://media-1.api-sports.io/football/teams/42.png
-"Saturday, August 13 09:00 AM",arsenal,leicester,2 - 4,W,home,1660399200,https://media-3.api-sports.io/football/teams/42.png
-"Saturday, August 20 11:30 AM",arsenal,bournemouth,3 - 0,W,away,1661013000,https://media-3.api-sports.io/football/teams/42.png
-"Saturday, August 27 11:30 AM",arsenal,fulham,1 - 2,W,home,1661617800,https://media-3.api-sports.io/football/teams/42.png
-"Wednesday, August 31 01:30 PM",arsenal,aston villa,1 - 2,W,home,1661970600,https://media-3.api-sports.io/football/teams/42.png
+"Friday, August 05 02:00 PM",arsenal,crystal palace,2 - 0,W,away,1659726000,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, August 13 09:00 AM",arsenal,leicester,2 - 4,W,home,1660399200,https://media-1.api-sports.io/football/teams/42.png
+"Saturday, August 20 11:30 AM",arsenal,bournemouth,3 - 0,W,away,1661013000,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, August 27 11:30 AM",arsenal,fulham,1 - 2,W,home,1661617800,https://media-1.api-sports.io/football/teams/42.png
+"Wednesday, August 31 01:30 PM",arsenal,aston villa,1 - 2,W,home,1661970600,https://media-1.api-sports.io/football/teams/42.png
 "Sunday, September 04 10:30 AM",arsenal,manchester united,1 - 3,L,away,1662305400,https://media-1.api-sports.io/football/teams/42.png
-"Sunday, September 11 08:00 AM",arsenal,everton,,,home,1662901200,https://media-3.api-sports.io/football/teams/42.png
+"Sunday, September 11 08:00 AM",arsenal,everton,,,home,1662901200,https://media-2.api-sports.io/football/teams/42.png
 "Sunday, September 18 06:00 AM",arsenal,brentford,3 - 0,W,away,1663498800,https://media-3.api-sports.io/football/teams/42.png
-"Saturday, October 01 06:30 AM",arsenal,tottenham,1 - 3,W,home,1664623800,https://media-3.api-sports.io/football/teams/42.png
-"Sunday, October 09 10:30 AM",arsenal,liverpool,2 - 3,W,home,1665329400,https://media-3.api-sports.io/football/teams/42.png
+"Saturday, October 01 06:30 AM",arsenal,tottenham,1 - 3,W,home,1664623800,https://media-1.api-sports.io/football/teams/42.png
+"Sunday, October 09 10:30 AM",arsenal,liverpool,2 - 3,W,home,1665329400,https://media-1.api-sports.io/football/teams/42.png
 "Sunday, October 16 08:00 AM",arsenal,leeds,1 - 0,W,away,1665925200,https://media-3.api-sports.io/football/teams/42.png
-"Wednesday, February 15 01:30 PM",arsenal,manchester city,,,home,1676489400,https://media-1.api-sports.io/football/teams/42.png
-"Sunday, October 23 08:00 AM",arsenal,southampton,1 - 1,tie,away,1666530000,https://media-1.api-sports.io/football/teams/42.png
-"Sunday, October 30 09:00 AM",arsenal,nottingham forest,0 - 5,W,home,1667138400,https://media-2.api-sports.io/football/teams/42.png
-"Sunday, November 06 06:00 AM",arsenal,chelsea,1 - 0,W,away,1667736000,https://media-3.api-sports.io/football/teams/42.png
+"Wednesday, February 15 01:30 PM",arsenal,manchester city,,,home,1676489400,https://media-2.api-sports.io/football/teams/42.png
+"Sunday, October 23 08:00 AM",arsenal,southampton,1 - 1,tie,away,1666530000,https://media-3.api-sports.io/football/teams/42.png
+"Sunday, October 30 09:00 AM",arsenal,nottingham forest,0 - 5,W,home,1667138400,https://media-3.api-sports.io/football/teams/42.png
+"Sunday, November 06 06:00 AM",arsenal,chelsea,1 - 0,W,away,1667736000,https://media-2.api-sports.io/football/teams/42.png
 "Saturday, November 12 01:45 PM",arsenal,wolves,2 - 0,W,away,1668282300,https://media-3.api-sports.io/football/teams/42.png
 "Monday, December 26 02:00 PM",arsenal,west ham,1 - 3,W,home,1672084800,https://media-2.api-sports.io/football/teams/42.png
-"Saturday, December 31 11:30 AM",arsenal,brighton,4 - 2,W,away,1672507800,https://media-2.api-sports.io/football/teams/42.png
-"Tuesday, January 03 01:45 PM",arsenal,newcastle,0 - 0,tie,home,1672775100,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, December 31 11:30 AM",arsenal,brighton,4 - 2,W,away,1672507800,https://media-3.api-sports.io/football/teams/42.png
+"Tuesday, January 03 01:45 PM",arsenal,newcastle,0 - 0,tie,home,1672775100,https://media-1.api-sports.io/football/teams/42.png
 "Sunday, January 15 10:30 AM",arsenal,tottenham,,,away,1673800200,https://media-3.api-sports.io/football/teams/42.png
 "Sunday, January 22 10:30 AM",arsenal,manchester united,,,home,1674405000,https://media-2.api-sports.io/football/teams/42.png
 "Saturday, February 04 06:30 AM",arsenal,everton,,,away,1675513800,https://media-2.api-sports.io/football/teams/42.png
-"Saturday, February 11 09:00 AM",arsenal,brentford,,,home,1676127600,https://media-2.api-sports.io/football/teams/42.png
-"Saturday, February 18 06:30 AM",arsenal,aston villa,,,away,1676723400,https://media-2.api-sports.io/football/teams/42.png
-"Saturday, February 25 09:00 AM",arsenal,leicester,,,away,1677337200,https://media-1.api-sports.io/football/teams/42.png
-"Saturday, March 04 09:00 AM",arsenal,bournemouth,,,home,1677942000,https://media-1.api-sports.io/football/teams/42.png
-"Saturday, March 11 09:00 AM",arsenal,fulham,,,away,1678546800,https://media-2.api-sports.io/football/teams/42.png
-"Saturday, March 18 10:00 AM",arsenal,crystal palace,,,home,1679151600,https://media-1.api-sports.io/football/teams/42.png
-"Saturday, April 01 09:00 AM",arsenal,leeds,,,home,1680357600,https://media-3.api-sports.io/football/teams/42.png
-"Saturday, April 08 09:00 AM",arsenal,liverpool,,,away,1680962400,https://media-3.api-sports.io/football/teams/42.png
-"Saturday, April 15 09:00 AM",arsenal,west ham,,,away,1681567200,https://media-1.api-sports.io/football/teams/42.png
-"Saturday, April 22 09:00 AM",arsenal,southampton,,,home,1682172000,https://media-2.api-sports.io/football/teams/42.png
-"Wednesday, April 26 02:00 PM",arsenal,manchester city,,,away,1682535600,https://media-3.api-sports.io/football/teams/42.png
+"Saturday, February 11 09:00 AM",arsenal,brentford,,,home,1676127600,https://media-1.api-sports.io/football/teams/42.png
+"Saturday, February 18 06:30 AM",arsenal,aston villa,,,away,1676723400,https://media-3.api-sports.io/football/teams/42.png
+"Saturday, February 25 09:00 AM",arsenal,leicester,,,away,1677337200,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, March 04 09:00 AM",arsenal,bournemouth,,,home,1677942000,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, March 11 09:00 AM",arsenal,fulham,,,away,1678546800,https://media-3.api-sports.io/football/teams/42.png
+"Saturday, March 18 10:00 AM",arsenal,crystal palace,,,home,1679151600,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, April 01 09:00 AM",arsenal,leeds,,,home,1680357600,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, April 08 09:00 AM",arsenal,liverpool,,,away,1680962400,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, April 15 09:00 AM",arsenal,west ham,,,away,1681567200,https://media-3.api-sports.io/football/teams/42.png
+"Saturday, April 22 09:00 AM",arsenal,southampton,,,home,1682172000,https://media-1.api-sports.io/football/teams/42.png
+"Wednesday, April 26 02:00 PM",arsenal,manchester city,,,away,1682535600,https://media-1.api-sports.io/football/teams/42.png
 "Saturday, April 29 09:00 AM",arsenal,chelsea,,,home,1682776800,https://media-2.api-sports.io/football/teams/42.png
 "Saturday, May 06 09:00 AM",arsenal,newcastle,,,away,1683381600,https://media-3.api-sports.io/football/teams/42.png
-"Saturday, May 13 09:00 AM",arsenal,brighton,,,home,1683986400,https://media-1.api-sports.io/football/teams/42.png
-"Saturday, May 20 09:00 AM",arsenal,nottingham forest,,,away,1684591200,https://media-3.api-sports.io/football/teams/42.png
-"Sunday, May 28 10:00 AM",arsenal,wolves,,,home,1685286000,https://media-2.api-sports.io/football/teams/42.png
+"Saturday, May 13 09:00 AM",arsenal,brighton,,,home,1683986400,https://media-3.api-sports.io/football/teams/42.png
+"Saturday, May 20 09:00 AM",arsenal,nottingham forest,,,away,1684591200,https://media-1.api-sports.io/football/teams/42.png
+"Sunday, May 28 10:00 AM",arsenal,wolves,,,home,1685286000,https://media-3.api-sports.io/football/teams/42.png

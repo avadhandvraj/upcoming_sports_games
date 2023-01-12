@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-07T23:30:00+00:00,la salle,villanova,68 - 81,L,away,1667863800,https://media-1.api-sports.io/basketball/teams/1968.png
 2022-11-12T20:00:00+00:00,la salle,wagner,69 - 77,W,home,1668283200,https://media-2.api-sports.io/basketball/teams/1968.png
-2022-11-16T00:00:00+00:00,la salle,queens royals,60 - 72,W,home,1668556800,https://media-2.api-sports.io/basketball/teams/1968.png
-2022-11-18T19:00:00+00:00,la salle,wake forest,63 - 75,L,away,1668798000,https://media-1.api-sports.io/basketball/teams/1968.png
+2022-11-16T00:00:00+00:00,la salle,queens royals,60 - 72,W,home,1668556800,https://media-3.api-sports.io/basketball/teams/1968.png
+2022-11-18T19:00:00+00:00,la salle,wake forest,63 - 75,L,away,1668798000,https://media-2.api-sports.io/basketball/teams/1968.png
 2022-11-20T17:00:00+00:00,la salle,georgetown,62 - 69,L,away,1668963600,https://media-2.api-sports.io/basketball/teams/1968.png
 2022-11-26T19:00:00+00:00,la salle,binghamton,62 - 65,W,home,1669489200,https://media-1.api-sports.io/basketball/teams/1968.png
 2022-11-30T23:00:00+00:00,la salle,temple,67 - 51,L,home,1669849200,https://media-3.api-sports.io/basketball/teams/1968.png
-2022-12-03T19:00:00+00:00,la salle,penn,84 - 81,W,away,1670094000,https://media-1.api-sports.io/basketball/teams/1968.png
+2022-12-03T19:00:00+00:00,la salle,penn,84 - 81,W,away,1670094000,https://media-3.api-sports.io/basketball/teams/1968.png
 2022-12-07T00:00:00+00:00,la salle,bucknell,72 - 82,W,home,1670371200,https://media-3.api-sports.io/basketball/teams/1968.png
-2022-12-10T17:00:00+00:00,la salle,drexel,65 - 58,L,home,1670691600,https://media-1.api-sports.io/basketball/teams/1968.png
-2022-12-17T19:00:00+00:00,la salle,cincinnati,60 - 78,L,away,1671303600,https://media-2.api-sports.io/basketball/teams/1968.png
-2022-12-21T19:00:00+00:00,la salle,lafayette,90 - 65,L,home,1671649200,https://media-2.api-sports.io/basketball/teams/1968.png
-2022-12-29T19:00:00+00:00,la salle,howard,80 - 76,W,away,1672340400,https://media-2.api-sports.io/basketball/teams/1968.png
+2022-12-10T17:00:00+00:00,la salle,drexel,65 - 58,L,home,1670691600,https://media-3.api-sports.io/basketball/teams/1968.png
+2022-12-17T19:00:00+00:00,la salle,cincinnati,60 - 78,L,away,1671303600,https://media-3.api-sports.io/basketball/teams/1968.png
+2022-12-21T19:00:00+00:00,la salle,lafayette,90 - 65,L,home,1671649200,https://media-3.api-sports.io/basketball/teams/1968.png
+2022-12-29T19:00:00+00:00,la salle,howard,80 - 76,W,away,1672340400,https://media-1.api-sports.io/basketball/teams/1968.png
 2022-12-31T19:00:00+00:00,la salle,vcu rams,67 - 80,L,away,1672513200,https://media-2.api-sports.io/basketball/teams/1968.png
 2023-01-07T19:00:00+00:00,la salle,rhode island,75 - 77,W,home,1673118000,https://media-1.api-sports.io/basketball/teams/1968.png
-2023-01-12T00:00:00+00:00,la salle,umass,,,away,1673481600,https://media-2.api-sports.io/basketball/teams/1968.png
+2023-01-12T00:00:00+00:00,la salle,umass,78 - 77,W,away,1673481600,https://media-3.api-sports.io/basketball/teams/1968.png
 2023-01-14T20:00:00+00:00,la salle,fordham,,,home,1673726400,https://media-3.api-sports.io/basketball/teams/1968.png
 2023-01-16T19:00:00+00:00,la salle,saint josephs,,,home,1673895600,https://media-1.api-sports.io/basketball/teams/1968.png
 2023-01-21T19:30:00+00:00,la salle,st. louis,,,away,1674329400,https://media-2.api-sports.io/basketball/teams/1968.png
-2023-01-25T00:00:00+00:00,la salle,davidson,,,home,1674604800,https://media-2.api-sports.io/basketball/teams/1968.png
-2023-01-28T19:00:00+00:00,la salle,rhode island,,,away,1674932400,https://media-3.api-sports.io/basketball/teams/1968.png
-2023-02-02T00:00:00+00:00,la salle,george washington,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/1968.png
+2023-01-25T00:00:00+00:00,la salle,davidson,,,home,1674604800,https://media-1.api-sports.io/basketball/teams/1968.png
+2023-01-28T19:00:00+00:00,la salle,rhode island,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/1968.png
+2023-02-02T00:00:00+00:00,la salle,george washington,,,home,1675296000,https://media-2.api-sports.io/basketball/teams/1968.png
 2023-02-05T17:00:00+00:00,la salle,saint josephs,,,away,1675616400,https://media-2.api-sports.io/basketball/teams/1968.png
 2023-02-09T00:00:00+00:00,la salle,st. bonaventure,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1968.png
-2023-02-11T19:00:00+00:00,la salle,umass,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/1968.png
+2023-02-11T19:00:00+00:00,la salle,umass,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/1968.png
 2023-02-16T00:00:00+00:00,la salle,richmond,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/1968.png
 2023-02-18T21:00:00+00:00,la salle,george mason,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/1968.png

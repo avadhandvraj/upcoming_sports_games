@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T02:00:00+00:00,colorado state,gardner webb,63 - 65,W,home,1667872800,https://media-1.api-sports.io/basketball/teams/1870.png
-2022-11-12T02:30:00+00:00,colorado state,se louisiana,69 - 80,W,home,1668220200,https://media-3.api-sports.io/basketball/teams/1870.png
-2022-11-15T02:00:00+00:00,colorado state,weber state,52 - 77,W,home,1668477600,https://media-2.api-sports.io/basketball/teams/1870.png
-2022-11-17T22:00:00+00:00,colorado state,south carolina,85 - 53,W,away,1668722400,https://media-2.api-sports.io/basketball/teams/1870.png
-2022-11-18T22:00:00+00:00,colorado state,charleston,64 - 74,L,away,1668808800,https://media-2.api-sports.io/basketball/teams/1870.png
-2022-11-20T23:00:00+00:00,colorado state,penn state,68 - 56,L,home,1668985200,https://media-2.api-sports.io/basketball/teams/1870.png
-2022-11-26T21:00:00+00:00,colorado state,miss. valley st.,45 - 88,W,home,1669496400,https://media-1.api-sports.io/basketball/teams/1870.png
-2022-12-01T02:00:00+00:00,colorado state,loyola marymount,71 - 87,W,home,1669860000,https://media-2.api-sports.io/basketball/teams/1870.png
-2022-12-03T21:30:00+00:00,colorado state,northern colorado,88 - 83,L,home,1670103000,https://media-3.api-sports.io/basketball/teams/1870.png
+2022-11-12T02:30:00+00:00,colorado state,se louisiana,69 - 80,W,home,1668220200,https://media-1.api-sports.io/basketball/teams/1870.png
+2022-11-15T02:00:00+00:00,colorado state,weber state,52 - 77,W,home,1668477600,https://media-1.api-sports.io/basketball/teams/1870.png
+2022-11-17T22:00:00+00:00,colorado state,south carolina,85 - 53,W,away,1668722400,https://media-3.api-sports.io/basketball/teams/1870.png
+2022-11-18T22:00:00+00:00,colorado state,charleston,64 - 74,L,away,1668808800,https://media-1.api-sports.io/basketball/teams/1870.png
+2022-11-20T23:00:00+00:00,colorado state,penn state,68 - 56,L,home,1668985200,https://media-3.api-sports.io/basketball/teams/1870.png
+2022-11-26T21:00:00+00:00,colorado state,miss. valley st.,45 - 88,W,home,1669496400,https://media-3.api-sports.io/basketball/teams/1870.png
+2022-12-01T02:00:00+00:00,colorado state,loyola marymount,71 - 87,W,home,1669860000,https://media-1.api-sports.io/basketball/teams/1870.png
+2022-12-03T21:30:00+00:00,colorado state,northern colorado,88 - 83,L,home,1670103000,https://media-1.api-sports.io/basketball/teams/1870.png
 2022-12-09T02:00:00+00:00,colorado state,colorado,65 - 93,L,away,1670551200,https://media-1.api-sports.io/basketball/teams/1870.png
 2022-12-11T21:00:00+00:00,colorado state,peru state,72 - 115,W,home,1670792400,https://media-3.api-sports.io/basketball/teams/1870.png
 2022-12-19T01:00:00+00:00,colorado state,st. marys (ca),62 - 60,W,away,1671411600,https://media-2.api-sports.io/basketball/teams/1870.png
-2022-12-22T04:00:00+00:00,colorado state,usc,64 - 73,L,away,1671681600,https://media-2.api-sports.io/basketball/teams/1870.png
-2022-12-29T02:00:00+00:00,colorado state,new mexico,69 - 88,L,away,1672279200,https://media-2.api-sports.io/basketball/teams/1870.png
-2022-12-31T21:00:00+00:00,colorado state,san jose state,78 - 70,L,home,1672520400,https://media-1.api-sports.io/basketball/teams/1870.png
-2023-01-05T03:30:00+00:00,colorado state,nevada,69 - 80,L,away,1672889400,https://media-3.api-sports.io/basketball/teams/1870.png
-2023-01-07T21:30:00+00:00,colorado state,fresno state,57 - 79,W,home,1673127000,https://media-1.api-sports.io/basketball/teams/1870.png
-2023-01-11T02:00:00+00:00,colorado state,air force,,,home,1673402400,https://media-3.api-sports.io/basketball/teams/1870.png
-2023-01-15T00:00:00+00:00,colorado state,unlv,,,away,1673740800,https://media-2.api-sports.io/basketball/teams/1870.png
-2023-01-19T03:30:00+00:00,colorado state,san diego state,,,home,1674099000,https://media-2.api-sports.io/basketball/teams/1870.png
-2023-01-21T21:00:00+00:00,colorado state,wyoming,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/1870.png
-2023-01-29T01:00:00+00:00,colorado state,boise state,,,away,1674954000,https://media-1.api-sports.io/basketball/teams/1870.png
+2022-12-22T04:00:00+00:00,colorado state,usc,64 - 73,L,away,1671681600,https://media-1.api-sports.io/basketball/teams/1870.png
+2022-12-29T02:00:00+00:00,colorado state,new mexico,69 - 88,L,away,1672279200,https://media-3.api-sports.io/basketball/teams/1870.png
+2022-12-31T21:00:00+00:00,colorado state,san jose state,78 - 70,L,home,1672520400,https://media-3.api-sports.io/basketball/teams/1870.png
+2023-01-05T03:30:00+00:00,colorado state,nevada,69 - 80,L,away,1672889400,https://media-1.api-sports.io/basketball/teams/1870.png
+2023-01-07T21:30:00+00:00,colorado state,fresno state,57 - 79,W,home,1673127000,https://media-3.api-sports.io/basketball/teams/1870.png
+2023-01-11T02:00:00+00:00,colorado state,air force,85 - 74,L,home,1673402400,https://media-3.api-sports.io/basketball/teams/1870.png
+2023-01-15T00:00:00+00:00,colorado state,unlv,,,away,1673740800,https://media-3.api-sports.io/basketball/teams/1870.png
+2023-01-19T03:30:00+00:00,colorado state,san diego state,,,home,1674099000,https://media-1.api-sports.io/basketball/teams/1870.png
+2023-01-21T21:00:00+00:00,colorado state,wyoming,,,away,1674334800,https://media-1.api-sports.io/basketball/teams/1870.png
+2023-01-29T01:00:00+00:00,colorado state,boise state,,,away,1674954000,https://media-2.api-sports.io/basketball/teams/1870.png
 2023-02-01T02:00:00+00:00,colorado state,unlv,,,home,1675216800,https://media-1.api-sports.io/basketball/teams/1870.png
-2023-02-05T01:00:00+00:00,colorado state,utah state,,,home,1675558800,https://media-1.api-sports.io/basketball/teams/1870.png
-2023-02-08T02:00:00+00:00,colorado state,air force,,,away,1675821600,https://media-1.api-sports.io/basketball/teams/1870.png
-2023-02-15T21:00:00+00:00,colorado state,boise state,,,home,1676494800,https://media-2.api-sports.io/basketball/teams/1870.png
-2023-02-18T22:00:00+00:00,colorado state,fresno state,,,away,1676757600,https://media-2.api-sports.io/basketball/teams/1870.png
+2023-02-05T01:00:00+00:00,colorado state,utah state,,,home,1675558800,https://media-3.api-sports.io/basketball/teams/1870.png
+2023-02-08T02:00:00+00:00,colorado state,air force,,,away,1675821600,https://media-3.api-sports.io/basketball/teams/1870.png
+2023-02-15T21:00:00+00:00,colorado state,boise state,,,home,1676494800,https://media-3.api-sports.io/basketball/teams/1870.png
+2023-02-18T22:00:00+00:00,colorado state,fresno state,,,away,1676757600,https://media-1.api-sports.io/basketball/teams/1870.png

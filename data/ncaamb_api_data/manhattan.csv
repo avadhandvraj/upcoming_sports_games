@@ -1,26 +1,26 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,manhattan,vcu rams,56 - 73,L,away,1667865600,https://media-1.api-sports.io/basketball/teams/1981.png
+2022-11-08T00:00:00+00:00,manhattan,vcu rams,56 - 73,L,away,1667865600,https://media-2.api-sports.io/basketball/teams/1981.png
 2022-11-12T00:00:00+00:00,manhattan,central connecticut state,None - None,tie,home,1668211200,https://media-2.api-sports.io/basketball/teams/1981.png
-2022-11-13T22:00:00+00:00,manhattan,fairleigh dickinson,74 - 77,L,away,1668376800,https://media-3.api-sports.io/basketball/teams/1981.png
-2022-11-19T00:00:00+00:00,manhattan,mount st. vincent,39 - 86,W,home,1668816000,https://media-2.api-sports.io/basketball/teams/1981.png
+2022-11-13T22:00:00+00:00,manhattan,fairleigh dickinson,74 - 77,L,away,1668376800,https://media-1.api-sports.io/basketball/teams/1981.png
+2022-11-19T00:00:00+00:00,manhattan,mount st. vincent,39 - 86,W,home,1668816000,https://media-1.api-sports.io/basketball/teams/1981.png
 2022-11-24T17:00:00+00:00,manhattan,northeastern,67 - 69,L,away,1669309200,https://media-2.api-sports.io/basketball/teams/1981.png
-2022-11-26T14:30:00+00:00,manhattan,army,72 - 71,W,away,1669473000,https://media-1.api-sports.io/basketball/teams/1981.png
-2022-12-02T00:00:00+00:00,manhattan,fairfield,53 - 56,W,home,1669939200,https://media-3.api-sports.io/basketball/teams/1981.png
-2022-12-04T19:00:00+00:00,manhattan,monmouth,76 - 69,L,home,1670180400,https://media-2.api-sports.io/basketball/teams/1981.png
-2022-12-08T01:30:00+00:00,manhattan,providence,59 - 99,L,away,1670463000,https://media-1.api-sports.io/basketball/teams/1981.png
+2022-11-26T14:30:00+00:00,manhattan,army,72 - 71,W,away,1669473000,https://media-2.api-sports.io/basketball/teams/1981.png
+2022-12-02T00:00:00+00:00,manhattan,fairfield,53 - 56,W,home,1669939200,https://media-1.api-sports.io/basketball/teams/1981.png
+2022-12-04T19:00:00+00:00,manhattan,monmouth,76 - 69,L,home,1670180400,https://media-1.api-sports.io/basketball/teams/1981.png
+2022-12-08T01:30:00+00:00,manhattan,providence,59 - 99,L,away,1670463000,https://media-2.api-sports.io/basketball/teams/1981.png
 2022-12-11T19:00:00+00:00,manhattan,bryant university,104 - 97,L,home,1670785200,https://media-1.api-sports.io/basketball/teams/1981.png
-2022-12-17T00:00:00+00:00,manhattan,central connecticut state,78 - 67,L,home,1671235200,https://media-1.api-sports.io/basketball/teams/1981.png
+2022-12-17T00:00:00+00:00,manhattan,central connecticut state,78 - 67,L,home,1671235200,https://media-3.api-sports.io/basketball/teams/1981.png
 2022-12-20T00:00:00+00:00,manhattan,marist,80 - 69,W,away,1671494400,https://media-3.api-sports.io/basketball/teams/1981.png
 2022-12-30T19:00:00+00:00,manhattan,st. peters,57 - 67,L,away,1672426800,https://media-3.api-sports.io/basketball/teams/1981.png
-2023-01-01T21:00:00+00:00,manhattan,quinnipiac,84 - 65,L,home,1672606800,https://media-3.api-sports.io/basketball/teams/1981.png
-2023-01-07T00:00:00+00:00,manhattan,canisius,64 - 57,L,home,1673049600,https://media-3.api-sports.io/basketball/teams/1981.png
-2023-01-08T19:00:00+00:00,manhattan,niagara,59 - 64,W,home,1673204400,https://media-1.api-sports.io/basketball/teams/1981.png
-2023-01-14T00:00:00+00:00,manhattan,mount st. mary's,,,away,1673654400,https://media-3.api-sports.io/basketball/teams/1981.png
-2023-01-21T00:00:00+00:00,manhattan,iona,,,home,1674259200,https://media-2.api-sports.io/basketball/teams/1981.png
-2023-01-22T19:00:00+00:00,manhattan,rider,,,away,1674414000,https://media-3.api-sports.io/basketball/teams/1981.png
+2023-01-01T21:00:00+00:00,manhattan,quinnipiac,84 - 65,L,home,1672606800,https://media-2.api-sports.io/basketball/teams/1981.png
+2023-01-07T00:00:00+00:00,manhattan,canisius,64 - 57,L,home,1673049600,https://media-1.api-sports.io/basketball/teams/1981.png
+2023-01-08T19:00:00+00:00,manhattan,niagara,59 - 64,W,home,1673204400,https://media-3.api-sports.io/basketball/teams/1981.png
+2023-01-14T00:00:00+00:00,manhattan,mount st. mary's,,,away,1673654400,https://media-2.api-sports.io/basketball/teams/1981.png
+2023-01-21T00:00:00+00:00,manhattan,iona,,,home,1674259200,https://media-1.api-sports.io/basketball/teams/1981.png
+2023-01-22T19:00:00+00:00,manhattan,rider,,,away,1674414000,https://media-1.api-sports.io/basketball/teams/1981.png
 2023-01-28T00:00:00+00:00,manhattan,niagara,,,away,1674864000,https://media-3.api-sports.io/basketball/teams/1981.png
-2023-01-29T18:00:00+00:00,manhattan,canisius,,,away,1675015200,https://media-2.api-sports.io/basketball/teams/1981.png
-2023-02-04T00:00:00+00:00,manhattan,siena,,,home,1675468800,https://media-2.api-sports.io/basketball/teams/1981.png
-2023-02-05T19:00:00+00:00,manhattan,rider,,,home,1675623600,https://media-3.api-sports.io/basketball/teams/1981.png
-2023-02-12T19:00:00+00:00,manhattan,st. peters,,,home,1676228400,https://media-1.api-sports.io/basketball/teams/1981.png
-2023-02-18T00:00:00+00:00,manhattan,iona,,,away,1676678400,https://media-2.api-sports.io/basketball/teams/1981.png
+2023-01-29T18:00:00+00:00,manhattan,canisius,,,away,1675015200,https://media-3.api-sports.io/basketball/teams/1981.png
+2023-02-04T00:00:00+00:00,manhattan,siena,,,home,1675468800,https://media-1.api-sports.io/basketball/teams/1981.png
+2023-02-05T19:00:00+00:00,manhattan,rider,,,home,1675623600,https://media-2.api-sports.io/basketball/teams/1981.png
+2023-02-12T19:00:00+00:00,manhattan,st. peters,,,home,1676228400,https://media-2.api-sports.io/basketball/teams/1981.png
+2023-02-18T00:00:00+00:00,manhattan,iona,,,away,1676678400,https://media-1.api-sports.io/basketball/teams/1981.png

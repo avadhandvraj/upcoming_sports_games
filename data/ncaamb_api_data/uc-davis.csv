@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T04:00:00+00:00,uc davis,california,75 - 65,W,away,1667880000,https://media-3.api-sports.io/basketball/teams/2161.png
+2022-11-08T04:00:00+00:00,uc davis,california,75 - 65,W,away,1667880000,https://media-2.api-sports.io/basketball/teams/2161.png
 2022-11-10T02:00:00+00:00,uc davis,california maritime,67 - 90,W,home,1668045600,https://media-2.api-sports.io/basketball/teams/2161.png
-2022-11-13T03:00:00+00:00,uc davis,loyola marymount,75 - 85,L,away,1668308400,https://media-2.api-sports.io/basketball/teams/2161.png
-2022-11-19T02:00:00+00:00,uc davis,arkansas state,60 - 75,W,home,1668823200,https://media-3.api-sports.io/basketball/teams/2161.png
-2022-11-23T03:30:00+00:00,uc davis,sacramento state,71 - 82,W,home,1669174200,https://media-3.api-sports.io/basketball/teams/2161.png
+2022-11-13T03:00:00+00:00,uc davis,loyola marymount,75 - 85,L,away,1668308400,https://media-1.api-sports.io/basketball/teams/2161.png
+2022-11-19T02:00:00+00:00,uc davis,arkansas state,60 - 75,W,home,1668823200,https://media-2.api-sports.io/basketball/teams/2161.png
+2022-11-23T03:30:00+00:00,uc davis,sacramento state,71 - 82,W,home,1669174200,https://media-1.api-sports.io/basketball/teams/2161.png
 2022-11-26T22:00:00+00:00,uc davis,wisc. milwaukee,85 - 87,L,away,1669500000,https://media-3.api-sports.io/basketball/teams/2161.png
-2022-11-27T18:00:00+00:00,uc davis,southeast missouri state,71 - 73,W,home,1669572000,https://media-3.api-sports.io/basketball/teams/2161.png
-2022-11-28T19:00:00+00:00,uc davis,boston university,81 - 70,W,away,1669662000,https://media-1.api-sports.io/basketball/teams/2161.png
-2022-12-02T02:00:00+00:00,uc davis,pacific,74 - 72,L,home,1669946400,https://media-1.api-sports.io/basketball/teams/2161.png
-2022-12-14T02:00:00+00:00,uc davis,holy names,55 - 107,W,home,1670983200,https://media-1.api-sports.io/basketball/teams/2161.png
-2022-12-17T21:00:00+00:00,uc davis,east. washington,68 - 79,L,away,1671310800,https://media-1.api-sports.io/basketball/teams/2161.png
-2022-12-21T22:00:00+00:00,uc davis,ucla,54 - 81,L,away,1671660000,https://media-3.api-sports.io/basketball/teams/2161.png
+2022-11-27T18:00:00+00:00,uc davis,southeast missouri state,71 - 73,W,home,1669572000,https://media-2.api-sports.io/basketball/teams/2161.png
+2022-11-28T19:00:00+00:00,uc davis,boston university,81 - 70,W,away,1669662000,https://media-3.api-sports.io/basketball/teams/2161.png
+2022-12-02T02:00:00+00:00,uc davis,pacific,74 - 72,L,home,1669946400,https://media-2.api-sports.io/basketball/teams/2161.png
+2022-12-14T02:00:00+00:00,uc davis,holy names,55 - 107,W,home,1670983200,https://media-3.api-sports.io/basketball/teams/2161.png
+2022-12-17T21:00:00+00:00,uc davis,east. washington,68 - 79,L,away,1671310800,https://media-2.api-sports.io/basketball/teams/2161.png
+2022-12-21T22:00:00+00:00,uc davis,ucla,54 - 81,L,away,1671660000,https://media-2.api-sports.io/basketball/teams/2161.png
 2022-12-30T04:59:00+00:00,uc davis,hawaii,66 - 74,L,away,1672376340,https://media-3.api-sports.io/basketball/teams/2161.png
 2023-01-06T02:00:00+00:00,uc davis,uc irvine,88 - 83,L,home,1672970400,https://media-1.api-sports.io/basketball/teams/2161.png
 2023-01-08T01:00:00+00:00,uc davis,csu bakersfield,48 - 67,W,home,1673139600,https://media-3.api-sports.io/basketball/teams/2161.png
-2023-01-12T03:00:00+00:00,uc davis,cs northridge,,,away,1673492400,https://media-3.api-sports.io/basketball/teams/2161.png
+2023-01-12T03:00:00+00:00,uc davis,cs northridge,62 - 54,W,away,1673492400,https://media-1.api-sports.io/basketball/teams/2161.png
 2023-01-14T22:00:00+00:00,uc davis,cs fullerton,,,home,1673733600,https://media-2.api-sports.io/basketball/teams/2161.png
-2023-01-16T23:00:00+00:00,uc davis,uc san diego,,,away,1673910000,https://media-1.api-sports.io/basketball/teams/2161.png
-2023-01-20T02:00:00+00:00,uc davis,uc riverside,,,home,1674180000,https://media-1.api-sports.io/basketball/teams/2161.png
-2023-01-21T23:00:00+00:00,uc davis,cal poly,,,home,1674342000,https://media-1.api-sports.io/basketball/teams/2161.png
-2023-01-27T03:00:00+00:00,uc davis,csu bakersfield,,,away,1674788400,https://media-2.api-sports.io/basketball/teams/2161.png
-2023-01-28T21:00:00+00:00,uc davis,long beach state,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/2161.png
+2023-01-16T23:00:00+00:00,uc davis,uc san diego,,,away,1673910000,https://media-2.api-sports.io/basketball/teams/2161.png
+2023-01-20T02:00:00+00:00,uc davis,uc riverside,,,home,1674180000,https://media-2.api-sports.io/basketball/teams/2161.png
+2023-01-21T23:00:00+00:00,uc davis,cal poly,,,home,1674342000,https://media-2.api-sports.io/basketball/teams/2161.png
+2023-01-27T03:00:00+00:00,uc davis,csu bakersfield,,,away,1674788400,https://media-1.api-sports.io/basketball/teams/2161.png
+2023-01-28T21:00:00+00:00,uc davis,long beach state,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/2161.png
 2023-02-03T02:00:00+00:00,uc davis,hawaii,,,home,1675389600,https://media-1.api-sports.io/basketball/teams/2161.png
-2023-02-10T03:00:00+00:00,uc davis,uc riverside,,,away,1675998000,https://media-2.api-sports.io/basketball/teams/2161.png
+2023-02-10T03:00:00+00:00,uc davis,uc riverside,,,away,1675998000,https://media-1.api-sports.io/basketball/teams/2161.png
 2023-02-12T03:00:00+00:00,uc davis,uc santa barbara,,,away,1676170800,https://media-1.api-sports.io/basketball/teams/2161.png
-2023-02-16T02:00:00+00:00,uc davis,cs northridge,,,home,1676512800,https://media-3.api-sports.io/basketball/teams/2161.png
-2023-02-18T21:00:00+00:00,uc davis,uc irvine,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/2161.png
-2023-02-20T21:00:00+00:00,uc davis,uc san diego,None - None,tie,home,1676926800,https://media-3.api-sports.io/basketball/teams/2161.png
-2023-02-23T21:00:00+00:00,uc davis,cs fullerton,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/2161.png
-2023-02-25T21:00:00+00:00,uc davis,cal poly,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/2161.png
+2023-02-16T02:00:00+00:00,uc davis,cs northridge,,,home,1676512800,https://media-1.api-sports.io/basketball/teams/2161.png
+2023-02-18T21:00:00+00:00,uc davis,uc irvine,,,away,1676754000,https://media-1.api-sports.io/basketball/teams/2161.png
+2023-02-20T21:00:00+00:00,uc davis,uc san diego,None - None,tie,home,1676926800,https://media-2.api-sports.io/basketball/teams/2161.png
+2023-02-23T21:00:00+00:00,uc davis,cs fullerton,None - None,tie,away,1677186000,https://media-2.api-sports.io/basketball/teams/2161.png
+2023-02-25T21:00:00+00:00,uc davis,cal poly,None - None,tie,away,1677358800,https://media-3.api-sports.io/basketball/teams/2161.png

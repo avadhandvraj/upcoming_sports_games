@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T01:00:00+00:00,georgia,western carolina,55 - 68,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/1924.png
-2022-11-12T01:30:00+00:00,georgia,wake forest,71 - 81,L,away,1668216600,https://media-2.api-sports.io/basketball/teams/1924.png
-2022-11-15T00:00:00+00:00,georgia,miami (ohio),70 - 77,W,home,1668470400,https://media-3.api-sports.io/basketball/teams/1924.png
-2022-11-19T00:00:00+00:00,georgia,bucknell,61 - 65,W,home,1668816000,https://media-2.api-sports.io/basketball/teams/1924.png
-2022-11-22T01:30:00+00:00,georgia,saint josephs,66 - 53,W,away,1669080600,https://media-3.api-sports.io/basketball/teams/1924.png
-2022-11-22T21:00:00+00:00,georgia,uab,87 - 73,L,home,1669150800,https://media-1.api-sports.io/basketball/teams/1924.png
-2022-11-27T18:00:00+00:00,georgia,east tennessee st,47 - 62,W,home,1669572000,https://media-1.api-sports.io/basketball/teams/1924.png
-2022-12-01T00:00:00+00:00,georgia,hampton,54 - 73,W,home,1669852800,https://media-3.api-sports.io/basketball/teams/1924.png
-2022-12-03T00:00:00+00:00,georgia,florida a&m,46 - 68,W,home,1670025600,https://media-1.api-sports.io/basketball/teams/1924.png
+2022-11-12T01:30:00+00:00,georgia,wake forest,71 - 81,L,away,1668216600,https://media-3.api-sports.io/basketball/teams/1924.png
+2022-11-15T00:00:00+00:00,georgia,miami (ohio),70 - 77,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/1924.png
+2022-11-19T00:00:00+00:00,georgia,bucknell,61 - 65,W,home,1668816000,https://media-1.api-sports.io/basketball/teams/1924.png
+2022-11-22T01:30:00+00:00,georgia,saint josephs,66 - 53,W,away,1669080600,https://media-2.api-sports.io/basketball/teams/1924.png
+2022-11-22T21:00:00+00:00,georgia,uab,87 - 73,L,home,1669150800,https://media-2.api-sports.io/basketball/teams/1924.png
+2022-11-27T18:00:00+00:00,georgia,east tennessee st,47 - 62,W,home,1669572000,https://media-3.api-sports.io/basketball/teams/1924.png
+2022-12-01T00:00:00+00:00,georgia,hampton,54 - 73,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/1924.png
+2022-12-03T00:00:00+00:00,georgia,florida a&m,46 - 68,W,home,1670025600,https://media-2.api-sports.io/basketball/teams/1924.png
 2022-12-07T00:00:00+00:00,georgia,georgia tech,77 - 79,L,away,1670371200,https://media-3.api-sports.io/basketball/teams/1924.png
-2022-12-18T22:30:00+00:00,georgia,notre dame,62 - 77,W,home,1671402600,https://media-3.api-sports.io/basketball/teams/1924.png
-2022-12-21T20:00:00+00:00,georgia,chattanooga mocs,65 - 72,W,home,1671652800,https://media-1.api-sports.io/basketball/teams/1924.png
-2022-12-29T00:00:00+00:00,georgia,rider,72 - 78,W,home,1672272000,https://media-2.api-sports.io/basketball/teams/1924.png
+2022-12-18T22:30:00+00:00,georgia,notre dame,62 - 77,W,home,1671402600,https://media-1.api-sports.io/basketball/teams/1924.png
+2022-12-21T20:00:00+00:00,georgia,chattanooga mocs,65 - 72,W,home,1671652800,https://media-2.api-sports.io/basketball/teams/1924.png
+2022-12-29T00:00:00+00:00,georgia,rider,72 - 78,W,home,1672272000,https://media-1.api-sports.io/basketball/teams/1924.png
 2023-01-04T23:30:00+00:00,georgia,auburn,64 - 76,W,home,1672875000,https://media-1.api-sports.io/basketball/teams/1924.png
-2023-01-07T18:00:00+00:00,georgia,florida,75 - 82,L,away,1673114400,https://media-1.api-sports.io/basketball/teams/1924.png
-2023-01-11T23:30:00+00:00,georgia,mississippi st.,,,home,1673479800,https://media-2.api-sports.io/basketball/teams/1924.png
-2023-01-14T18:00:00+00:00,georgia,ole miss,,,away,1673719200,https://media-3.api-sports.io/basketball/teams/1924.png
-2023-01-18T02:00:00+00:00,georgia,kentucky,,,away,1674007200,https://media-2.api-sports.io/basketball/teams/1924.png
-2023-01-21T18:00:00+00:00,georgia,vanderbilt,,,home,1674324000,https://media-2.api-sports.io/basketball/teams/1924.png
-2023-01-26T00:00:00+00:00,georgia,tennessee,,,away,1674691200,https://media-2.api-sports.io/basketball/teams/1924.png
-2023-01-28T23:00:00+00:00,georgia,south carolina,,,home,1674946800,https://media-1.api-sports.io/basketball/teams/1924.png
+2023-01-07T18:00:00+00:00,georgia,florida,75 - 82,L,away,1673114400,https://media-3.api-sports.io/basketball/teams/1924.png
+2023-01-11T23:30:00+00:00,georgia,mississippi st.,50 - 58,W,home,1673479800,https://media-3.api-sports.io/basketball/teams/1924.png
+2023-01-14T18:00:00+00:00,georgia,ole miss,,,away,1673719200,https://media-1.api-sports.io/basketball/teams/1924.png
+2023-01-18T02:00:00+00:00,georgia,kentucky,,,away,1674007200,https://media-1.api-sports.io/basketball/teams/1924.png
+2023-01-21T18:00:00+00:00,georgia,vanderbilt,,,home,1674324000,https://media-1.api-sports.io/basketball/teams/1924.png
+2023-01-26T00:00:00+00:00,georgia,tennessee,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/1924.png
+2023-01-28T23:00:00+00:00,georgia,south carolina,,,home,1674946800,https://media-3.api-sports.io/basketball/teams/1924.png
 2023-02-02T00:00:00+00:00,georgia,auburn,,,away,1675296000,https://media-1.api-sports.io/basketball/teams/1924.png
 2023-02-05T01:30:00+00:00,georgia,texas a&m,,,away,1675560600,https://media-3.api-sports.io/basketball/teams/1924.png
 2023-02-08T00:00:00+00:00,georgia,ole miss,,,home,1675814400,https://media-3.api-sports.io/basketball/teams/1924.png
-2023-02-11T17:00:00+00:00,georgia,kentucky,,,home,1676134800,https://media-1.api-sports.io/basketball/teams/1924.png
-2023-02-15T01:30:00+00:00,georgia,lsu,,,home,1676424600,https://media-2.api-sports.io/basketball/teams/1924.png
-2023-02-18T23:00:00+00:00,georgia,alabama,,,away,1676761200,https://media-2.api-sports.io/basketball/teams/1924.png
+2023-02-11T17:00:00+00:00,georgia,kentucky,,,home,1676134800,https://media-2.api-sports.io/basketball/teams/1924.png
+2023-02-15T01:30:00+00:00,georgia,lsu,,,home,1676424600,https://media-3.api-sports.io/basketball/teams/1924.png
+2023-02-18T23:00:00+00:00,georgia,alabama,,,away,1676761200,https://media-3.api-sports.io/basketball/teams/1924.png

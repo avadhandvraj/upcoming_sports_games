@@ -1,36 +1,36 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Sunday, February 27 06:00 PM",real salt lake,houston dynamo,0 - 0,tie,away,1646006400,https://media-3.api-sports.io/football/teams/1606.png
-"Saturday, March 05 05:00 PM",real salt lake,seattle sounders,0 - 1,W,home,1646521200,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, March 12 06:30 PM",real salt lake,new england revolution,3 - 2,W,away,1647131400,https://media-1.api-sports.io/football/teams/1606.png
-"Saturday, March 19 08:30 PM",real salt lake,nashville sc,1 - 2,W,home,1647739800,https://media-2.api-sports.io/football/teams/1606.png
+"Sunday, February 27 06:00 PM",real salt lake,houston dynamo,0 - 0,tie,away,1646006400,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, March 05 05:00 PM",real salt lake,seattle sounders,0 - 1,W,home,1646521200,https://media-3.api-sports.io/football/teams/1606.png
+"Saturday, March 12 06:30 PM",real salt lake,new england revolution,3 - 2,W,away,1647131400,https://media-3.api-sports.io/football/teams/1606.png
+"Saturday, March 19 08:30 PM",real salt lake,nashville sc,1 - 2,W,home,1647739800,https://media-3.api-sports.io/football/teams/1606.png
 "Sunday, March 27 05:00 PM",real salt lake,sporting kansas city,0 - 1,L,away,1648418400,https://media-1.api-sports.io/football/teams/1606.png
-"Saturday, April 02 08:00 PM",real salt lake,colorado rapids,1 - 1,tie,away,1648947600,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, April 09 07:00 PM",real salt lake,toronto fc,2 - 2,tie,home,1649548800,https://media-3.api-sports.io/football/teams/1606.png
-"Sunday, April 17 12:00 PM",real salt lake,new york city fc,0 - 6,L,away,1650214800,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, April 23 09:00 PM",real salt lake,portland timbers,0 - 0,tie,away,1650765600,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, April 02 08:00 PM",real salt lake,colorado rapids,1 - 1,tie,away,1648947600,https://media-3.api-sports.io/football/teams/1606.png
+"Saturday, April 09 07:00 PM",real salt lake,toronto fc,2 - 2,tie,home,1649548800,https://media-1.api-sports.io/football/teams/1606.png
+"Sunday, April 17 12:00 PM",real salt lake,new york city fc,0 - 6,L,away,1650214800,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, April 23 09:00 PM",real salt lake,portland timbers,0 - 0,tie,away,1650765600,https://media-2.api-sports.io/football/teams/1606.png
 "Saturday, April 30 02:30 PM",real salt lake,los angeles galaxy,0 - 1,W,home,1651347000,https://media-2.api-sports.io/football/teams/1606.png
-"Sunday, May 08 04:00 PM",real salt lake,nashville sc,0 - 2,L,away,1652043600,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, May 14 08:30 PM",real salt lake,austin,1 - 2,W,home,1652578200,https://media-1.api-sports.io/football/teams/1606.png
-"Sunday, May 22 03:00 PM",real salt lake,montreal impact,2 - 1,W,away,1653249600,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, May 28 08:30 PM",real salt lake,houston dynamo,0 - 3,W,home,1653787800,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, June 04 06:00 PM",real salt lake,vancouver whitecaps,1 - 2,L,away,1654383600,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, June 18 08:30 PM",real salt lake,san jose earthquakes,0 - 2,W,home,1655602200,https://media-1.api-sports.io/football/teams/1606.png
+"Sunday, May 08 04:00 PM",real salt lake,nashville sc,0 - 2,L,away,1652043600,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, May 14 08:30 PM",real salt lake,austin,1 - 2,W,home,1652578200,https://media-3.api-sports.io/football/teams/1606.png
+"Sunday, May 22 03:00 PM",real salt lake,montreal impact,2 - 1,W,away,1653249600,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, May 28 08:30 PM",real salt lake,houston dynamo,0 - 3,W,home,1653787800,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, June 04 06:00 PM",real salt lake,vancouver whitecaps,1 - 2,L,away,1654383600,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, June 18 08:30 PM",real salt lake,san jose earthquakes,0 - 2,W,home,1655602200,https://media-2.api-sports.io/football/teams/1606.png
 "Saturday, June 25 09:00 PM",real salt lake,columbus crew,0 - 0,tie,home,1656208800,https://media-1.api-sports.io/football/teams/1606.png
 "Sunday, July 03 07:00 PM",real salt lake,minnesota united fc,2 - 3,L,away,1656892800,https://media-1.api-sports.io/football/teams/1606.png
 "Saturday, July 09 09:00 PM",real salt lake,colorado rapids,2 - 2,tie,home,1657418400,https://media-2.api-sports.io/football/teams/1606.png
-"Wednesday, July 13 06:30 PM",real salt lake,atlanta united fc,1 - 2,L,away,1657755000,https://media-2.api-sports.io/football/teams/1606.png
-"Sunday, July 17 08:30 PM",real salt lake,sporting kansas city,0 - 3,W,home,1658107800,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, July 23 09:00 PM",real salt lake,fc dallas,1 - 0,L,home,1658628000,https://media-1.api-sports.io/football/teams/1606.png
-"Saturday, July 30 09:00 PM",real salt lake,san jose earthquakes,2 - 2,tie,away,1659232800,https://media-3.api-sports.io/football/teams/1606.png
-"Saturday, August 06 09:00 PM",real salt lake,los angeles fc,4 - 1,L,home,1659837600,https://media-1.api-sports.io/football/teams/1606.png
-"Sunday, August 14 09:00 PM",real salt lake,seattle sounders,2 - 1,W,away,1660528800,https://media-3.api-sports.io/football/teams/1606.png
+"Wednesday, July 13 06:30 PM",real salt lake,atlanta united fc,1 - 2,L,away,1657755000,https://media-1.api-sports.io/football/teams/1606.png
+"Sunday, July 17 08:30 PM",real salt lake,sporting kansas city,0 - 3,W,home,1658107800,https://media-3.api-sports.io/football/teams/1606.png
+"Saturday, July 23 09:00 PM",real salt lake,fc dallas,1 - 0,L,home,1658628000,https://media-2.api-sports.io/football/teams/1606.png
+"Saturday, July 30 09:00 PM",real salt lake,san jose earthquakes,2 - 2,tie,away,1659232800,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, August 06 09:00 PM",real salt lake,los angeles fc,4 - 1,L,home,1659837600,https://media-3.api-sports.io/football/teams/1606.png
+"Sunday, August 14 09:00 PM",real salt lake,seattle sounders,2 - 1,W,away,1660528800,https://media-1.api-sports.io/football/teams/1606.png
 "Saturday, August 20 09:00 PM",real salt lake,vancouver whitecaps,1 - 1,tie,home,1661047200,https://media-2.api-sports.io/football/teams/1606.png
-"Saturday, August 27 08:00 PM",real salt lake,fc dallas,1 - 1,tie,away,1661648400,https://media-2.api-sports.io/football/teams/1606.png
-"Wednesday, August 31 08:30 PM",real salt lake,minnesota united fc,0 - 3,W,home,1661995800,https://media-3.api-sports.io/football/teams/1606.png
-"Sunday, September 04 09:30 PM",real salt lake,los angeles fc,0 - 2,L,away,1662345000,https://media-3.api-sports.io/football/teams/1606.png
-"Saturday, September 10 08:30 PM",real salt lake,dc united,0 - 0,tie,home,1662859800,https://media-3.api-sports.io/football/teams/1606.png
-"Wednesday, September 14 08:15 PM",real salt lake,austin,0 - 3,L,away,1663204500,https://media-1.api-sports.io/football/teams/1606.png
-"Saturday, September 17 08:30 PM",real salt lake,fc cincinnati,2 - 1,L,home,1663464600,https://media-1.api-sports.io/football/teams/1606.png
-"Saturday, October 01 09:30 PM",real salt lake,los angeles galaxy,1 - 1,tie,away,1664677800,https://media-2.api-sports.io/football/teams/1606.png
-"Sunday, October 09 04:00 PM",real salt lake,portland timbers,1 - 3,W,home,1665349200,https://media-3.api-sports.io/football/teams/1606.png
+"Saturday, August 27 08:00 PM",real salt lake,fc dallas,1 - 1,tie,away,1661648400,https://media-1.api-sports.io/football/teams/1606.png
+"Wednesday, August 31 08:30 PM",real salt lake,minnesota united fc,0 - 3,W,home,1661995800,https://media-2.api-sports.io/football/teams/1606.png
+"Sunday, September 04 09:30 PM",real salt lake,los angeles fc,0 - 2,L,away,1662345000,https://media-1.api-sports.io/football/teams/1606.png
+"Saturday, September 10 08:30 PM",real salt lake,dc united,0 - 0,tie,home,1662859800,https://media-2.api-sports.io/football/teams/1606.png
+"Wednesday, September 14 08:15 PM",real salt lake,austin,0 - 3,L,away,1663204500,https://media-3.api-sports.io/football/teams/1606.png
+"Saturday, September 17 08:30 PM",real salt lake,fc cincinnati,2 - 1,L,home,1663464600,https://media-2.api-sports.io/football/teams/1606.png
+"Saturday, October 01 09:30 PM",real salt lake,los angeles galaxy,1 - 1,tie,away,1664677800,https://media-1.api-sports.io/football/teams/1606.png
+"Sunday, October 09 04:00 PM",real salt lake,portland timbers,1 - 3,W,home,1665349200,https://media-1.api-sports.io/football/teams/1606.png
 "Sunday, October 16 02:00 PM",real salt lake,austin,2(1) - 2(3),L,away,1665946800,https://media-1.api-sports.io/football/teams/1606.png

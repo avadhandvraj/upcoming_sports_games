@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:30:00+00:00,marquette,radford,69 - 79,W,home,1667871000,https://media-2.api-sports.io/basketball/teams/1983.png
-2022-11-11T01:00:00+00:00,marquette,central michigan,73 - 97,W,home,1668128400,https://media-3.api-sports.io/basketball/teams/1983.png
-2022-11-16T01:30:00+00:00,marquette,purdue,70 - 75,L,away,1668562200,https://media-2.api-sports.io/basketball/teams/1983.png
+2022-11-08T01:30:00+00:00,marquette,radford,69 - 79,W,home,1667871000,https://media-1.api-sports.io/basketball/teams/1983.png
+2022-11-11T01:00:00+00:00,marquette,central michigan,73 - 97,W,home,1668128400,https://media-2.api-sports.io/basketball/teams/1983.png
+2022-11-16T01:30:00+00:00,marquette,purdue,70 - 75,L,away,1668562200,https://media-1.api-sports.io/basketball/teams/1983.png
 2022-11-18T01:30:00+00:00,marquette,liu sharks,58 - 95,W,home,1668735000,https://media-3.api-sports.io/basketball/teams/1983.png
 2022-11-22T01:30:00+00:00,marquette,mississippi st.,58 - 55,L,home,1669080600,https://media-3.api-sports.io/basketball/teams/1983.png
-2022-11-23T23:00:00+00:00,marquette,georgia tech,60 - 84,W,home,1669244400,https://media-1.api-sports.io/basketball/teams/1983.png
+2022-11-23T23:00:00+00:00,marquette,georgia tech,60 - 84,W,home,1669244400,https://media-3.api-sports.io/basketball/teams/1983.png
 2022-11-27T01:30:00+00:00,marquette,chicago state,68 - 82,W,home,1669512600,https://media-2.api-sports.io/basketball/teams/1983.png
-2022-11-30T01:30:00+00:00,marquette,baylor,70 - 96,W,home,1669771800,https://media-1.api-sports.io/basketball/teams/1983.png
-2022-12-03T21:30:00+00:00,marquette,wisconsin,80 - 77,L,home,1670103000,https://media-2.api-sports.io/basketball/teams/1983.png
-2022-12-07T01:30:00+00:00,marquette,n. carolina central,78 - 90,W,home,1670376600,https://media-2.api-sports.io/basketball/teams/1983.png
-2022-12-11T21:00:00+00:00,marquette,notre dame,79 - 64,W,away,1670792400,https://media-2.api-sports.io/basketball/teams/1983.png
+2022-11-30T01:30:00+00:00,marquette,baylor,70 - 96,W,home,1669771800,https://media-3.api-sports.io/basketball/teams/1983.png
+2022-12-03T21:30:00+00:00,marquette,wisconsin,80 - 77,L,home,1670103000,https://media-1.api-sports.io/basketball/teams/1983.png
+2022-12-07T01:30:00+00:00,marquette,n. carolina central,78 - 90,W,home,1670376600,https://media-3.api-sports.io/basketball/teams/1983.png
+2022-12-11T21:00:00+00:00,marquette,notre dame,79 - 64,W,away,1670792400,https://media-3.api-sports.io/basketball/teams/1983.png
 2022-12-17T01:30:00+00:00,marquette,creighton,58 - 69,W,home,1671240600,https://media-1.api-sports.io/basketball/teams/1983.png
-2022-12-21T00:00:00+00:00,marquette,providence,98 - 103,L,away,1671580800,https://media-1.api-sports.io/basketball/teams/1983.png
-2022-12-28T01:00:00+00:00,marquette,seton hall,69 - 83,W,home,1672189200,https://media-3.api-sports.io/basketball/teams/1983.png
+2022-12-21T00:00:00+00:00,marquette,providence,98 - 103,L,away,1671580800,https://media-2.api-sports.io/basketball/teams/1983.png
+2022-12-28T01:00:00+00:00,marquette,seton hall,69 - 83,W,home,1672189200,https://media-2.api-sports.io/basketball/teams/1983.png
 2022-12-31T19:00:00+00:00,marquette,villanova,68 - 66,W,away,1672513200,https://media-3.api-sports.io/basketball/teams/1983.png
 2023-01-03T23:30:00+00:00,marquette,st. john's (n.y.),96 - 85,W,away,1672788600,https://media-3.api-sports.io/basketball/teams/1983.png
-2023-01-07T19:00:00+00:00,marquette,georgetown,73 - 95,W,home,1673118000,https://media-3.api-sports.io/basketball/teams/1983.png
-2023-01-12T00:00:00+00:00,marquette,uconn,,,home,1673481600,https://media-3.api-sports.io/basketball/teams/1983.png
-2023-01-15T17:00:00+00:00,marquette,xavier,,,away,1673802000,https://media-1.api-sports.io/basketball/teams/1983.png
-2023-01-19T02:00:00+00:00,marquette,providence,,,home,1674093600,https://media-1.api-sports.io/basketball/teams/1983.png
-2023-01-21T21:00:00+00:00,marquette,seton hall,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/1983.png
-2023-01-28T19:00:00+00:00,marquette,depaul,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/1983.png
-2023-02-02T01:30:00+00:00,marquette,villanova,,,home,1675301400,https://media-2.api-sports.io/basketball/teams/1983.png
-2023-02-04T19:00:00+00:00,marquette,butler,,,home,1675537200,https://media-3.api-sports.io/basketball/teams/1983.png
+2023-01-07T19:00:00+00:00,marquette,georgetown,73 - 95,W,home,1673118000,https://media-1.api-sports.io/basketball/teams/1983.png
+2023-01-12T00:00:00+00:00,marquette,uconn,76 - 82,W,home,1673481600,https://media-2.api-sports.io/basketball/teams/1983.png
+2023-01-15T17:00:00+00:00,marquette,xavier,,,away,1673802000,https://media-3.api-sports.io/basketball/teams/1983.png
+2023-01-19T02:00:00+00:00,marquette,providence,,,home,1674093600,https://media-3.api-sports.io/basketball/teams/1983.png
+2023-01-21T21:00:00+00:00,marquette,seton hall,,,away,1674334800,https://media-1.api-sports.io/basketball/teams/1983.png
+2023-01-28T19:00:00+00:00,marquette,depaul,,,away,1674932400,https://media-3.api-sports.io/basketball/teams/1983.png
+2023-02-02T01:30:00+00:00,marquette,villanova,,,home,1675301400,https://media-1.api-sports.io/basketball/teams/1983.png
+2023-02-04T19:00:00+00:00,marquette,butler,,,home,1675537200,https://media-2.api-sports.io/basketball/teams/1983.png
 2023-02-07T23:30:00+00:00,marquette,uconn,,,away,1675812600,https://media-2.api-sports.io/basketball/teams/1983.png
 2023-02-11T17:00:00+00:00,marquette,georgetown,,,away,1676134800,https://media-3.api-sports.io/basketball/teams/1983.png
 2023-02-16T00:00:00+00:00,marquette,xavier,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/1983.png

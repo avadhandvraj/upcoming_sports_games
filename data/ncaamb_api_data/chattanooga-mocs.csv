@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,chattanooga mocs,charleston,78 - 85,L,away,1667867400,https://media-2.api-sports.io/basketball/teams/5734.png
-2022-11-11T00:00:00+00:00,chattanooga mocs,oakland city,49 - 93,W,home,1668124800,https://media-1.api-sports.io/basketball/teams/5734.png
-2022-11-16T00:30:00+00:00,chattanooga mocs,ole miss,58 - 70,L,away,1668558600,https://media-2.api-sports.io/basketball/teams/5734.png
-2022-11-19T19:00:00+00:00,chattanooga mocs,covenant,55 - 108,W,home,1668884400,https://media-1.api-sports.io/basketball/teams/5734.png
-2022-11-23T21:00:00+00:00,chattanooga mocs,lipscomb,72 - 66,L,home,1669237200,https://media-1.api-sports.io/basketball/teams/5734.png
-2022-11-27T00:00:00+00:00,chattanooga mocs,murray state,66 - 69,W,home,1669507200,https://media-3.api-sports.io/basketball/teams/5734.png
+2022-11-08T00:30:00+00:00,chattanooga mocs,charleston,78 - 85,L,away,1667867400,https://media-1.api-sports.io/basketball/teams/5734.png
+2022-11-11T00:00:00+00:00,chattanooga mocs,oakland city,49 - 93,W,home,1668124800,https://media-3.api-sports.io/basketball/teams/5734.png
+2022-11-16T00:30:00+00:00,chattanooga mocs,ole miss,58 - 70,L,away,1668558600,https://media-3.api-sports.io/basketball/teams/5734.png
+2022-11-19T19:00:00+00:00,chattanooga mocs,covenant,55 - 108,W,home,1668884400,https://media-2.api-sports.io/basketball/teams/5734.png
+2022-11-23T21:00:00+00:00,chattanooga mocs,lipscomb,72 - 66,L,home,1669237200,https://media-2.api-sports.io/basketball/teams/5734.png
+2022-11-27T00:00:00+00:00,chattanooga mocs,murray state,66 - 69,W,home,1669507200,https://media-1.api-sports.io/basketball/teams/5734.png
 2022-12-01T00:00:00+00:00,chattanooga mocs,tennessee tech,81 - 74,W,away,1669852800,https://media-1.api-sports.io/basketball/teams/5734.png
-2022-12-03T17:00:00+00:00,chattanooga mocs,gardner webb,82 - 71,W,away,1670086800,https://media-2.api-sports.io/basketball/teams/5734.png
-2022-12-07T00:00:00+00:00,chattanooga mocs,wisc. milwaukee,76 - 88,W,home,1670371200,https://media-1.api-sports.io/basketball/teams/5734.png
-2022-12-10T17:00:00+00:00,chattanooga mocs,johnson royals,47 - 97,W,home,1670691600,https://media-2.api-sports.io/basketball/teams/5734.png
+2022-12-03T17:00:00+00:00,chattanooga mocs,gardner webb,82 - 71,W,away,1670086800,https://media-1.api-sports.io/basketball/teams/5734.png
+2022-12-07T00:00:00+00:00,chattanooga mocs,wisc. milwaukee,76 - 88,W,home,1670371200,https://media-3.api-sports.io/basketball/teams/5734.png
+2022-12-10T17:00:00+00:00,chattanooga mocs,johnson royals,47 - 97,W,home,1670691600,https://media-3.api-sports.io/basketball/teams/5734.png
 2022-12-16T00:00:00+00:00,chattanooga mocs,middle tenn. st.,82 - 73,W,away,1671148800,https://media-1.api-sports.io/basketball/teams/5734.png
-2022-12-18T19:00:00+00:00,chattanooga mocs,belmont,83 - 79,L,home,1671390000,https://media-2.api-sports.io/basketball/teams/5734.png
-2022-12-21T20:00:00+00:00,chattanooga mocs,georgia,65 - 72,L,away,1671652800,https://media-1.api-sports.io/basketball/teams/5734.png
-2022-12-30T00:00:00+00:00,chattanooga mocs,citadel,68 - 76,L,away,1672358400,https://media-3.api-sports.io/basketball/teams/5734.png
-2022-12-31T19:00:00+00:00,chattanooga mocs,mercer,80 - 51,W,away,1672513200,https://media-1.api-sports.io/basketball/teams/5734.png
+2022-12-18T19:00:00+00:00,chattanooga mocs,belmont,83 - 79,L,home,1671390000,https://media-1.api-sports.io/basketball/teams/5734.png
+2022-12-21T20:00:00+00:00,chattanooga mocs,georgia,65 - 72,L,away,1671652800,https://media-2.api-sports.io/basketball/teams/5734.png
+2022-12-30T00:00:00+00:00,chattanooga mocs,citadel,68 - 76,L,away,1672358400,https://media-2.api-sports.io/basketball/teams/5734.png
+2022-12-31T19:00:00+00:00,chattanooga mocs,mercer,80 - 51,W,away,1672513200,https://media-2.api-sports.io/basketball/teams/5734.png
 2023-01-05T00:00:00+00:00,chattanooga mocs,nc greensboro,61 - 73,L,away,1672876800,https://media-1.api-sports.io/basketball/teams/5734.png
-2023-01-07T19:00:00+00:00,chattanooga mocs,vmi,78 - 85,W,home,1673118000,https://media-2.api-sports.io/basketball/teams/5734.png
-2023-01-12T00:00:00+00:00,chattanooga mocs,western carolina,,,home,1673481600,https://media-3.api-sports.io/basketball/teams/5734.png
-2023-01-14T23:00:00+00:00,chattanooga mocs,samford,,,away,1673737200,https://media-1.api-sports.io/basketball/teams/5734.png
-2023-01-19T00:00:00+00:00,chattanooga mocs,furman,,,home,1674086400,https://media-1.api-sports.io/basketball/teams/5734.png
+2023-01-07T19:00:00+00:00,chattanooga mocs,vmi,78 - 85,W,home,1673118000,https://media-3.api-sports.io/basketball/teams/5734.png
+2023-01-12T00:00:00+00:00,chattanooga mocs,western carolina,76 - 95,W,home,1673481600,https://media-1.api-sports.io/basketball/teams/5734.png
+2023-01-14T23:00:00+00:00,chattanooga mocs,samford,,,away,1673737200,https://media-3.api-sports.io/basketball/teams/5734.png
+2023-01-19T00:00:00+00:00,chattanooga mocs,furman,,,home,1674086400,https://media-3.api-sports.io/basketball/teams/5734.png
 2023-01-21T20:00:00+00:00,chattanooga mocs,east tennessee st,,,home,1674331200,https://media-1.api-sports.io/basketball/teams/5734.png
-2023-01-26T00:00:00+00:00,chattanooga mocs,wofford,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/5734.png
+2023-01-26T00:00:00+00:00,chattanooga mocs,wofford,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/5734.png
 2023-01-28T21:00:00+00:00,chattanooga mocs,east tennessee st,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/5734.png
 2023-02-02T00:00:00+00:00,chattanooga mocs,furman,,,away,1675296000,https://media-2.api-sports.io/basketball/teams/5734.png
 2023-02-04T19:00:00+00:00,chattanooga mocs,western carolina,,,away,1675537200,https://media-2.api-sports.io/basketball/teams/5734.png
 2023-02-09T00:00:00+00:00,chattanooga mocs,citadel,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/5734.png
 2023-02-11T20:30:00+00:00,chattanooga mocs,mercer,,,home,1676147400,https://media-3.api-sports.io/basketball/teams/5734.png
-2023-02-16T00:00:00+00:00,chattanooga mocs,vmi,,,away,1676505600,https://media-2.api-sports.io/basketball/teams/5734.png
-2023-02-18T17:00:00+00:00,chattanooga mocs,nc greensboro,,,home,1676739600,https://media-2.api-sports.io/basketball/teams/5734.png
+2023-02-16T00:00:00+00:00,chattanooga mocs,vmi,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/5734.png
+2023-02-18T17:00:00+00:00,chattanooga mocs,nc greensboro,,,home,1676739600,https://media-3.api-sports.io/basketball/teams/5734.png

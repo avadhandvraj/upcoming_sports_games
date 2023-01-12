@@ -1,87 +1,87 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-10-06T16:00:00+00:00,atlanta hawks,milwaukee bucks,113 - 123,W,home,1665072000,https://media-1.api-sports.io/basketball/teams/132.png
-2022-10-08T16:00:00+00:00,atlanta hawks,milwaukee bucks,118 - 109,W,away,1665244800,https://media-2.api-sports.io/basketball/teams/132.png
-2022-10-12T23:00:00+00:00,atlanta hawks,cleveland cavaliers,99 - 105,L,away,1665615600,https://media-2.api-sports.io/basketball/teams/132.png
-2022-10-15T00:00:00+00:00,atlanta hawks,new orleans pelicans,120 - 111,L,home,1665792000,https://media-2.api-sports.io/basketball/teams/132.png
-2022-10-19T23:30:00+00:00,atlanta hawks,houston rockets,107 - 117,W,home,1666222200,https://media-2.api-sports.io/basketball/teams/132.png
+2022-10-06T16:00:00+00:00,atlanta hawks,milwaukee bucks,113 - 123,W,home,1665072000,https://media-2.api-sports.io/basketball/teams/132.png
+2022-10-08T16:00:00+00:00,atlanta hawks,milwaukee bucks,118 - 109,W,away,1665244800,https://media-1.api-sports.io/basketball/teams/132.png
+2022-10-12T23:00:00+00:00,atlanta hawks,cleveland cavaliers,99 - 105,L,away,1665615600,https://media-3.api-sports.io/basketball/teams/132.png
+2022-10-15T00:00:00+00:00,atlanta hawks,new orleans pelicans,120 - 111,L,home,1665792000,https://media-3.api-sports.io/basketball/teams/132.png
+2022-10-19T23:30:00+00:00,atlanta hawks,houston rockets,107 - 117,W,home,1666222200,https://media-3.api-sports.io/basketball/teams/132.png
 2022-10-21T23:30:00+00:00,atlanta hawks,orlando magic,98 - 108,W,home,1666395000,https://media-2.api-sports.io/basketball/teams/132.png
-2022-10-23T21:00:00+00:00,atlanta hawks,charlotte hornets,126 - 109,L,home,1666558800,https://media-1.api-sports.io/basketball/teams/132.png
+2022-10-23T21:00:00+00:00,atlanta hawks,charlotte hornets,126 - 109,L,home,1666558800,https://media-2.api-sports.io/basketball/teams/132.png
 2022-10-26T23:00:00+00:00,atlanta hawks,detroit pistons,118 - 113,W,away,1666825200,https://media-1.api-sports.io/basketball/teams/132.png
-2022-10-28T23:00:00+00:00,atlanta hawks,detroit pistons,136 - 112,W,away,1666998000,https://media-3.api-sports.io/basketball/teams/132.png
+2022-10-28T23:00:00+00:00,atlanta hawks,detroit pistons,136 - 112,W,away,1666998000,https://media-1.api-sports.io/basketball/teams/132.png
 2022-10-30T01:00:00+00:00,atlanta hawks,milwaukee bucks,115 - 123,L,away,1667091600,https://media-3.api-sports.io/basketball/teams/132.png
-2022-10-31T23:30:00+00:00,atlanta hawks,toronto raptors,109 - 139,L,away,1667259000,https://media-3.api-sports.io/basketball/teams/132.png
-2022-11-02T23:30:00+00:00,atlanta hawks,new york knicks,112 - 99,W,away,1667431800,https://media-1.api-sports.io/basketball/teams/132.png
+2022-10-31T23:30:00+00:00,atlanta hawks,toronto raptors,109 - 139,L,away,1667259000,https://media-2.api-sports.io/basketball/teams/132.png
+2022-11-02T23:30:00+00:00,atlanta hawks,new york knicks,112 - 99,W,away,1667431800,https://media-3.api-sports.io/basketball/teams/132.png
 2022-11-05T23:30:00+00:00,atlanta hawks,new orleans pelicans,121 - 124,W,home,1667691000,https://media-3.api-sports.io/basketball/teams/132.png
 2022-11-08T01:15:00+00:00,atlanta hawks,milwaukee bucks,98 - 117,W,home,1667870100,https://media-3.api-sports.io/basketball/teams/132.png
-2022-11-10T00:30:00+00:00,atlanta hawks,utah jazz,125 - 119,L,home,1668040200,https://media-3.api-sports.io/basketball/teams/132.png
+2022-11-10T00:30:00+00:00,atlanta hawks,utah jazz,125 - 119,L,home,1668040200,https://media-1.api-sports.io/basketball/teams/132.png
 2022-11-11T00:30:00+00:00,atlanta hawks,philadelphia 76ers,95 - 104,W,home,1668126600,https://media-1.api-sports.io/basketball/teams/132.png
 2022-11-13T00:30:00+00:00,atlanta hawks,philadelphia 76ers,109 - 121,L,away,1668299400,https://media-2.api-sports.io/basketball/teams/132.png
-2022-11-15T01:00:00+00:00,atlanta hawks,milwaukee bucks,121 - 106,W,away,1668474000,https://media-1.api-sports.io/basketball/teams/132.png
-2022-11-17T00:30:00+00:00,atlanta hawks,boston celtics,126 - 101,L,home,1668645000,https://media-3.api-sports.io/basketball/teams/132.png
+2022-11-15T01:00:00+00:00,atlanta hawks,milwaukee bucks,121 - 106,W,away,1668474000,https://media-3.api-sports.io/basketball/teams/132.png
+2022-11-17T00:30:00+00:00,atlanta hawks,boston celtics,126 - 101,L,home,1668645000,https://media-1.api-sports.io/basketball/teams/132.png
 2022-11-19T23:00:00+00:00,atlanta hawks,toronto raptors,122 - 124,W,home,1668898800,https://media-3.api-sports.io/basketball/teams/132.png
 2022-11-22T00:00:00+00:00,atlanta hawks,cleveland cavaliers,102 - 114,L,away,1669075200,https://media-1.api-sports.io/basketball/teams/132.png
 2022-11-24T00:30:00+00:00,atlanta hawks,sacramento kings,106 - 115,W,home,1669249800,https://media-1.api-sports.io/basketball/teams/132.png
 2022-11-26T01:00:00+00:00,atlanta hawks,houston rockets,122 - 128,L,away,1669424400,https://media-3.api-sports.io/basketball/teams/132.png
-2022-11-27T22:00:00+00:00,atlanta hawks,miami heat,106 - 98,L,home,1669586400,https://media-3.api-sports.io/basketball/teams/132.png
-2022-11-29T00:00:00+00:00,atlanta hawks,philadelphia 76ers,101 - 104,L,away,1669680000,https://media-3.api-sports.io/basketball/teams/132.png
-2022-12-01T00:00:00+00:00,atlanta hawks,orlando magic,125 - 108,W,away,1669852800,https://media-2.api-sports.io/basketball/teams/132.png
-2022-12-03T00:30:00+00:00,atlanta hawks,denver nuggets,109 - 117,W,home,1670027400,https://media-3.api-sports.io/basketball/teams/132.png
-2022-12-06T00:30:00+00:00,atlanta hawks,oklahoma city thunder,121 - 114,L,home,1670286600,https://media-3.api-sports.io/basketball/teams/132.png
+2022-11-27T22:00:00+00:00,atlanta hawks,miami heat,106 - 98,L,home,1669586400,https://media-2.api-sports.io/basketball/teams/132.png
+2022-11-29T00:00:00+00:00,atlanta hawks,philadelphia 76ers,101 - 104,L,away,1669680000,https://media-2.api-sports.io/basketball/teams/132.png
+2022-12-01T00:00:00+00:00,atlanta hawks,orlando magic,125 - 108,W,away,1669852800,https://media-3.api-sports.io/basketball/teams/132.png
+2022-12-03T00:30:00+00:00,atlanta hawks,denver nuggets,109 - 117,W,home,1670027400,https://media-2.api-sports.io/basketball/teams/132.png
+2022-12-06T00:30:00+00:00,atlanta hawks,oklahoma city thunder,121 - 114,L,home,1670286600,https://media-2.api-sports.io/basketball/teams/132.png
 2022-12-08T00:30:00+00:00,atlanta hawks,new york knicks,89 - 113,L,away,1670459400,https://media-2.api-sports.io/basketball/teams/132.png
-2022-12-10T00:30:00+00:00,atlanta hawks,brooklyn nets,116 - 120,L,away,1670632200,https://media-3.api-sports.io/basketball/teams/132.png
-2022-12-11T23:30:00+00:00,atlanta hawks,chicago bulls,122 - 123,W,home,1670801400,https://media-2.api-sports.io/basketball/teams/132.png
-2022-12-13T01:00:00+00:00,atlanta hawks,memphis grizzlies,103 - 128,L,away,1670893200,https://media-3.api-sports.io/basketball/teams/132.png
-2022-12-15T00:00:00+00:00,atlanta hawks,orlando magic,124 - 135,L,away,1671062400,https://media-2.api-sports.io/basketball/teams/132.png
-2022-12-17T00:00:00+00:00,atlanta hawks,charlotte hornets,125 - 106,W,away,1671235200,https://media-1.api-sports.io/basketball/teams/132.png
-2022-12-20T00:30:00+00:00,atlanta hawks,orlando magic,125 - 126,W,home,1671496200,https://media-2.api-sports.io/basketball/teams/132.png
+2022-12-10T00:30:00+00:00,atlanta hawks,brooklyn nets,116 - 120,L,away,1670632200,https://media-1.api-sports.io/basketball/teams/132.png
+2022-12-11T23:30:00+00:00,atlanta hawks,chicago bulls,122 - 123,W,home,1670801400,https://media-1.api-sports.io/basketball/teams/132.png
+2022-12-13T01:00:00+00:00,atlanta hawks,memphis grizzlies,103 - 128,L,away,1670893200,https://media-1.api-sports.io/basketball/teams/132.png
+2022-12-15T00:00:00+00:00,atlanta hawks,orlando magic,124 - 135,L,away,1671062400,https://media-3.api-sports.io/basketball/teams/132.png
+2022-12-17T00:00:00+00:00,atlanta hawks,charlotte hornets,125 - 106,W,away,1671235200,https://media-3.api-sports.io/basketball/teams/132.png
+2022-12-20T00:30:00+00:00,atlanta hawks,orlando magic,125 - 126,W,home,1671496200,https://media-1.api-sports.io/basketball/teams/132.png
 2022-12-22T00:30:00+00:00,atlanta hawks,chicago bulls,110 - 108,L,home,1671669000,https://media-2.api-sports.io/basketball/teams/132.png
-2022-12-24T00:30:00+00:00,atlanta hawks,detroit pistons,105 - 130,W,home,1671841800,https://media-2.api-sports.io/basketball/teams/132.png
+2022-12-24T00:30:00+00:00,atlanta hawks,detroit pistons,105 - 130,W,home,1671841800,https://media-1.api-sports.io/basketball/teams/132.png
 2022-12-28T00:30:00+00:00,atlanta hawks,indiana pacers,114 - 129,L,away,1672187400,https://media-2.api-sports.io/basketball/teams/132.png
-2022-12-29T00:30:00+00:00,atlanta hawks,brooklyn nets,108 - 107,L,home,1672273800,https://media-3.api-sports.io/basketball/teams/132.png
+2022-12-29T00:30:00+00:00,atlanta hawks,brooklyn nets,108 - 107,L,home,1672273800,https://media-1.api-sports.io/basketball/teams/132.png
 2022-12-31T00:30:00+00:00,atlanta hawks,los angeles lakers,130 - 121,L,home,1672446600,https://media-3.api-sports.io/basketball/teams/132.png
 2023-01-03T03:00:00+00:00,atlanta hawks,golden state warriors,141 - 143,L,away,1672714800,https://media-3.api-sports.io/basketball/teams/132.png
-2023-01-05T03:00:00+00:00,atlanta hawks,sacramento kings,120 - 117,W,away,1672887600,https://media-1.api-sports.io/basketball/teams/132.png
-2023-01-07T03:30:00+00:00,atlanta hawks,los angeles lakers,114 - 130,L,away,1673062200,https://media-3.api-sports.io/basketball/teams/132.png
+2023-01-05T03:00:00+00:00,atlanta hawks,sacramento kings,120 - 117,W,away,1672887600,https://media-3.api-sports.io/basketball/teams/132.png
+2023-01-07T03:30:00+00:00,atlanta hawks,los angeles lakers,114 - 130,L,away,1673062200,https://media-2.api-sports.io/basketball/teams/132.png
 2023-01-09T02:00:00+00:00,atlanta hawks,los angeles clippers,112 - 108,W,away,1673229600,https://media-1.api-sports.io/basketball/teams/132.png
-2023-01-12T00:30:00+00:00,atlanta hawks,milwaukee bucks,,,home,1673483400,https://media-2.api-sports.io/basketball/teams/132.png
-2023-01-14T00:00:00+00:00,atlanta hawks,indiana pacers,,,away,1673654400,https://media-2.api-sports.io/basketball/teams/132.png
+2023-01-12T00:30:00+00:00,atlanta hawks,milwaukee bucks,114 - 105,L,home,1673483400,https://media-2.api-sports.io/basketball/teams/132.png
+2023-01-14T00:00:00+00:00,atlanta hawks,indiana pacers,,,away,1673654400,https://media-1.api-sports.io/basketball/teams/132.png
 2023-01-15T00:30:00+00:00,atlanta hawks,toronto raptors,,,away,1673742600,https://media-1.api-sports.io/basketball/teams/132.png
-2023-01-16T20:30:00+00:00,atlanta hawks,miami heat,,,home,1673901000,https://media-1.api-sports.io/basketball/teams/132.png
-2023-01-19T00:30:00+00:00,atlanta hawks,dallas mavericks,,,away,1674088200,https://media-3.api-sports.io/basketball/teams/132.png
+2023-01-16T20:30:00+00:00,atlanta hawks,miami heat,,,home,1673901000,https://media-3.api-sports.io/basketball/teams/132.png
+2023-01-19T00:30:00+00:00,atlanta hawks,dallas mavericks,,,away,1674088200,https://media-1.api-sports.io/basketball/teams/132.png
 2023-01-21T00:30:00+00:00,atlanta hawks,new york knicks,,,home,1674261000,https://media-2.api-sports.io/basketball/teams/132.png
 2023-01-22T00:30:00+00:00,atlanta hawks,charlotte hornets,,,home,1674347400,https://media-2.api-sports.io/basketball/teams/132.png
-2023-01-24T01:00:00+00:00,atlanta hawks,chicago bulls,,,away,1674522000,https://media-2.api-sports.io/basketball/teams/132.png
+2023-01-24T01:00:00+00:00,atlanta hawks,chicago bulls,,,away,1674522000,https://media-3.api-sports.io/basketball/teams/132.png
 2023-01-26T01:00:00+00:00,atlanta hawks,oklahoma city thunder,,,away,1674694800,https://media-2.api-sports.io/basketball/teams/132.png
-2023-01-29T00:30:00+00:00,atlanta hawks,los angeles clippers,,,home,1674952200,https://media-2.api-sports.io/basketball/teams/132.png
+2023-01-29T00:30:00+00:00,atlanta hawks,los angeles clippers,,,home,1674952200,https://media-3.api-sports.io/basketball/teams/132.png
 2023-01-31T03:00:00+00:00,atlanta hawks,portland trail blazers,,,away,1675134000,https://media-3.api-sports.io/basketball/teams/132.png
-2023-02-02T03:00:00+00:00,atlanta hawks,phoenix suns,,,away,1675306800,https://media-1.api-sports.io/basketball/teams/132.png
-2023-02-04T02:00:00+00:00,atlanta hawks,utah jazz,,,away,1675476000,https://media-2.api-sports.io/basketball/teams/132.png
+2023-02-02T03:00:00+00:00,atlanta hawks,phoenix suns,,,away,1675306800,https://media-3.api-sports.io/basketball/teams/132.png
+2023-02-04T02:00:00+00:00,atlanta hawks,utah jazz,,,away,1675476000,https://media-1.api-sports.io/basketball/teams/132.png
 2023-02-05T02:00:00+00:00,atlanta hawks,denver nuggets,,,away,1675562400,https://media-2.api-sports.io/basketball/teams/132.png
-2023-02-08T00:30:00+00:00,atlanta hawks,new orleans pelicans,,,away,1675816200,https://media-2.api-sports.io/basketball/teams/132.png
+2023-02-08T00:30:00+00:00,atlanta hawks,new orleans pelicans,,,away,1675816200,https://media-3.api-sports.io/basketball/teams/132.png
 2023-02-10T00:30:00+00:00,atlanta hawks,phoenix suns,,,home,1675989000,https://media-2.api-sports.io/basketball/teams/132.png
-2023-02-12T00:30:00+00:00,atlanta hawks,san antonio spurs,,,home,1676161800,https://media-1.api-sports.io/basketball/teams/132.png
-2023-02-14T00:00:00+00:00,atlanta hawks,charlotte hornets,,,away,1676332800,https://media-1.api-sports.io/basketball/teams/132.png
-2023-02-16T00:30:00+00:00,atlanta hawks,new york knicks,,,home,1676507400,https://media-3.api-sports.io/basketball/teams/132.png
-2023-02-25T00:30:00+00:00,atlanta hawks,cleveland cavaliers,,,home,1677285000,https://media-2.api-sports.io/basketball/teams/132.png
-2023-02-26T20:00:00+00:00,atlanta hawks,brooklyn nets,,,home,1677441600,https://media-3.api-sports.io/basketball/teams/132.png
+2023-02-12T00:30:00+00:00,atlanta hawks,san antonio spurs,,,home,1676161800,https://media-3.api-sports.io/basketball/teams/132.png
+2023-02-14T00:00:00+00:00,atlanta hawks,charlotte hornets,,,away,1676332800,https://media-3.api-sports.io/basketball/teams/132.png
+2023-02-16T00:30:00+00:00,atlanta hawks,new york knicks,,,home,1676507400,https://media-2.api-sports.io/basketball/teams/132.png
+2023-02-25T00:30:00+00:00,atlanta hawks,cleveland cavaliers,,,home,1677285000,https://media-1.api-sports.io/basketball/teams/132.png
+2023-02-26T20:00:00+00:00,atlanta hawks,brooklyn nets,,,home,1677441600,https://media-2.api-sports.io/basketball/teams/132.png
 2023-03-01T00:30:00+00:00,atlanta hawks,washington wizards,,,home,1677630600,https://media-1.api-sports.io/basketball/teams/132.png
 2023-03-04T00:30:00+00:00,atlanta hawks,portland trail blazers,,,home,1677889800,https://media-3.api-sports.io/basketball/teams/132.png
-2023-03-05T01:00:00+00:00,atlanta hawks,miami heat,,,away,1677978000,https://media-3.api-sports.io/basketball/teams/132.png
-2023-03-07T00:30:00+00:00,atlanta hawks,miami heat,,,away,1678149000,https://media-2.api-sports.io/basketball/teams/132.png
+2023-03-05T01:00:00+00:00,atlanta hawks,miami heat,,,away,1677978000,https://media-2.api-sports.io/basketball/teams/132.png
+2023-03-07T00:30:00+00:00,atlanta hawks,miami heat,,,away,1678149000,https://media-3.api-sports.io/basketball/teams/132.png
 2023-03-09T00:00:00+00:00,atlanta hawks,washington wizards,,,away,1678320000,https://media-1.api-sports.io/basketball/teams/132.png
-2023-03-11T00:00:00+00:00,atlanta hawks,washington wizards,,,away,1678492800,https://media-3.api-sports.io/basketball/teams/132.png
+2023-03-11T00:00:00+00:00,atlanta hawks,washington wizards,,,away,1678492800,https://media-2.api-sports.io/basketball/teams/132.png
 2023-03-12T00:30:00+00:00,atlanta hawks,boston celtics,,,home,1678581000,https://media-2.api-sports.io/basketball/teams/132.png
-2023-03-13T23:30:00+00:00,atlanta hawks,minnesota timberwolves,,,home,1678750200,https://media-2.api-sports.io/basketball/teams/132.png
-2023-03-17T23:30:00+00:00,atlanta hawks,golden state warriors,,,home,1679095800,https://media-2.api-sports.io/basketball/teams/132.png
-2023-03-19T20:00:00+00:00,atlanta hawks,san antonio spurs,,,away,1679256000,https://media-3.api-sports.io/basketball/teams/132.png
+2023-03-13T23:30:00+00:00,atlanta hawks,minnesota timberwolves,,,home,1678750200,https://media-3.api-sports.io/basketball/teams/132.png
+2023-03-17T23:30:00+00:00,atlanta hawks,golden state warriors,,,home,1679095800,https://media-1.api-sports.io/basketball/teams/132.png
+2023-03-19T20:00:00+00:00,atlanta hawks,san antonio spurs,,,away,1679256000,https://media-1.api-sports.io/basketball/teams/132.png
 2023-03-21T23:30:00+00:00,atlanta hawks,detroit pistons,,,home,1679441400,https://media-3.api-sports.io/basketball/teams/132.png
-2023-03-23T00:00:00+00:00,atlanta hawks,minnesota timberwolves,,,away,1679529600,https://media-2.api-sports.io/basketball/teams/132.png
-2023-03-25T21:00:00+00:00,atlanta hawks,indiana pacers,,,home,1679778000,https://media-1.api-sports.io/basketball/teams/132.png
-2023-03-26T22:00:00+00:00,atlanta hawks,memphis grizzlies,,,home,1679868000,https://media-2.api-sports.io/basketball/teams/132.png
-2023-03-28T23:30:00+00:00,atlanta hawks,cleveland cavaliers,,,home,1680046200,https://media-2.api-sports.io/basketball/teams/132.png
-2023-03-31T23:30:00+00:00,atlanta hawks,brooklyn nets,,,away,1680305400,https://media-1.api-sports.io/basketball/teams/132.png
-2023-04-02T22:00:00+00:00,atlanta hawks,dallas mavericks,,,home,1680472800,https://media-2.api-sports.io/basketball/teams/132.png
-2023-04-05T00:00:00+00:00,atlanta hawks,chicago bulls,,,away,1680652800,https://media-3.api-sports.io/basketball/teams/132.png
+2023-03-23T00:00:00+00:00,atlanta hawks,minnesota timberwolves,,,away,1679529600,https://media-1.api-sports.io/basketball/teams/132.png
+2023-03-25T21:00:00+00:00,atlanta hawks,indiana pacers,,,home,1679778000,https://media-2.api-sports.io/basketball/teams/132.png
+2023-03-26T22:00:00+00:00,atlanta hawks,memphis grizzlies,,,home,1679868000,https://media-3.api-sports.io/basketball/teams/132.png
+2023-03-28T23:30:00+00:00,atlanta hawks,cleveland cavaliers,,,home,1680046200,https://media-3.api-sports.io/basketball/teams/132.png
+2023-03-31T23:30:00+00:00,atlanta hawks,brooklyn nets,,,away,1680305400,https://media-2.api-sports.io/basketball/teams/132.png
+2023-04-02T22:00:00+00:00,atlanta hawks,dallas mavericks,,,home,1680472800,https://media-1.api-sports.io/basketball/teams/132.png
+2023-04-05T00:00:00+00:00,atlanta hawks,chicago bulls,,,away,1680652800,https://media-1.api-sports.io/basketball/teams/132.png
 2023-04-05T23:30:00+00:00,atlanta hawks,washington wizards,,,home,1680737400,https://media-3.api-sports.io/basketball/teams/132.png
 2023-04-07T23:30:00+00:00,atlanta hawks,philadelphia 76ers,,,home,1680910200,https://media-2.api-sports.io/basketball/teams/132.png
-2023-04-09T17:00:00+00:00,atlanta hawks,boston celtics,None - None,tie,away,1681059600,https://media-1.api-sports.io/basketball/teams/132.png
+2023-04-09T17:00:00+00:00,atlanta hawks,boston celtics,,,away,1681059600,https://media-3.api-sports.io/basketball/teams/132.png

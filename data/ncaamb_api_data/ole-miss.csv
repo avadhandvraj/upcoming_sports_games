@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T02:00:00+00:00,ole miss,alcorn state,58 - 73,W,home,1667872800,https://media-2.api-sports.io/basketball/teams/2062.png
-2022-11-12T00:00:00+00:00,ole miss,florida atlantic,67 - 80,W,home,1668211200,https://media-3.api-sports.io/basketball/teams/2062.png
-2022-11-16T00:30:00+00:00,ole miss,chattanooga mocs,58 - 70,W,home,1668558600,https://media-2.api-sports.io/basketball/teams/2062.png
+2022-11-12T00:00:00+00:00,ole miss,florida atlantic,67 - 80,W,home,1668211200,https://media-2.api-sports.io/basketball/teams/2062.png
+2022-11-16T00:30:00+00:00,ole miss,chattanooga mocs,58 - 70,W,home,1668558600,https://media-1.api-sports.io/basketball/teams/2062.png
 2022-11-19T00:30:00+00:00,ole miss,ut martin,68 - 72,W,home,1668817800,https://media-1.api-sports.io/basketball/teams/2062.png
-2022-11-24T18:30:00+00:00,ole miss,stanford,72 - 68,W,away,1669314600,https://media-1.api-sports.io/basketball/teams/2062.png
-2022-11-25T16:00:00+00:00,ole miss,siena,62 - 74,W,home,1669392000,https://media-2.api-sports.io/basketball/teams/2062.png
+2022-11-24T18:30:00+00:00,ole miss,stanford,72 - 68,W,away,1669314600,https://media-2.api-sports.io/basketball/teams/2062.png
+2022-11-25T16:00:00+00:00,ole miss,siena,62 - 74,W,home,1669392000,https://media-1.api-sports.io/basketball/teams/2062.png
 2022-11-27T18:30:00+00:00,ole miss,oklahoma,55 - 59,L,away,1669573800,https://media-1.api-sports.io/basketball/teams/2062.png
-2022-12-04T00:30:00+00:00,ole miss,memphis,57 - 68,L,away,1670113800,https://media-1.api-sports.io/basketball/teams/2062.png
-2022-12-10T20:00:00+00:00,ole miss,valparaiso,61 - 98,W,home,1670702400,https://media-1.api-sports.io/basketball/teams/2062.png
+2022-12-04T00:30:00+00:00,ole miss,memphis,57 - 68,L,away,1670113800,https://media-2.api-sports.io/basketball/teams/2062.png
+2022-12-10T20:00:00+00:00,ole miss,valparaiso,61 - 98,W,home,1670702400,https://media-2.api-sports.io/basketball/teams/2062.png
 2022-12-15T00:30:00+00:00,ole miss,ucf knights,72 - 61,L,home,1671064200,https://media-1.api-sports.io/basketball/teams/2062.png
-2022-12-17T22:00:00+00:00,ole miss,temple,55 - 63,W,home,1671314400,https://media-1.api-sports.io/basketball/teams/2062.png
+2022-12-17T22:00:00+00:00,ole miss,temple,55 - 63,W,home,1671314400,https://media-2.api-sports.io/basketball/teams/2062.png
 2022-12-20T20:00:00+00:00,ole miss,north alabama,66 - 65,L,home,1671566400,https://media-1.api-sports.io/basketball/teams/2062.png
-2022-12-28T22:00:00+00:00,ole miss,tennessee,63 - 59,L,home,1672264800,https://media-2.api-sports.io/basketball/teams/2062.png
+2022-12-28T22:00:00+00:00,ole miss,tennessee,63 - 59,L,home,1672264800,https://media-1.api-sports.io/basketball/teams/2062.png
 2023-01-04T02:00:00+00:00,ole miss,alabama,62 - 84,L,away,1672797600,https://media-1.api-sports.io/basketball/teams/2062.png
-2023-01-07T19:00:00+00:00,ole miss,mississippi st.,54 - 64,L,away,1673118000,https://media-1.api-sports.io/basketball/teams/2062.png
-2023-01-11T02:00:00+00:00,ole miss,auburn,,,home,1673402400,https://media-1.api-sports.io/basketball/teams/2062.png
-2023-01-14T18:00:00+00:00,ole miss,georgia,,,home,1673719200,https://media-1.api-sports.io/basketball/teams/2062.png
-2023-01-17T23:30:00+00:00,ole miss,south carolina,,,away,1673998200,https://media-1.api-sports.io/basketball/teams/2062.png
-2023-01-21T17:00:00+00:00,ole miss,arkansas,,,away,1674320400,https://media-2.api-sports.io/basketball/teams/2062.png
-2023-01-25T00:00:00+00:00,ole miss,missouri,,,home,1674604800,https://media-3.api-sports.io/basketball/teams/2062.png
+2023-01-07T19:00:00+00:00,ole miss,mississippi st.,54 - 64,L,away,1673118000,https://media-2.api-sports.io/basketball/teams/2062.png
+2023-01-11T02:00:00+00:00,ole miss,auburn,82 - 73,L,home,1673402400,https://media-3.api-sports.io/basketball/teams/2062.png
+2023-01-14T18:00:00+00:00,ole miss,georgia,,,home,1673719200,https://media-3.api-sports.io/basketball/teams/2062.png
+2023-01-17T23:30:00+00:00,ole miss,south carolina,,,away,1673998200,https://media-2.api-sports.io/basketball/teams/2062.png
+2023-01-21T17:00:00+00:00,ole miss,arkansas,,,away,1674320400,https://media-1.api-sports.io/basketball/teams/2062.png
+2023-01-25T00:00:00+00:00,ole miss,missouri,,,home,1674604800,https://media-2.api-sports.io/basketball/teams/2062.png
 2023-01-29T01:00:00+00:00,ole miss,oklahoma state,,,away,1674954000,https://media-3.api-sports.io/basketball/teams/2062.png
-2023-02-01T02:00:00+00:00,ole miss,kentucky,,,home,1675216800,https://media-2.api-sports.io/basketball/teams/2062.png
-2023-02-04T18:00:00+00:00,ole miss,vanderbilt,,,away,1675533600,https://media-3.api-sports.io/basketball/teams/2062.png
-2023-02-08T00:00:00+00:00,ole miss,georgia,,,away,1675814400,https://media-3.api-sports.io/basketball/teams/2062.png
+2023-02-01T02:00:00+00:00,ole miss,kentucky,,,home,1675216800,https://media-3.api-sports.io/basketball/teams/2062.png
+2023-02-04T18:00:00+00:00,ole miss,vanderbilt,,,away,1675533600,https://media-2.api-sports.io/basketball/teams/2062.png
+2023-02-08T00:00:00+00:00,ole miss,georgia,,,away,1675814400,https://media-2.api-sports.io/basketball/teams/2062.png
 2023-02-11T18:00:00+00:00,ole miss,south carolina,,,home,1676138400,https://media-1.api-sports.io/basketball/teams/2062.png
-2023-02-15T23:30:00+00:00,ole miss,florida,,,away,1676503800,https://media-2.api-sports.io/basketball/teams/2062.png
-2023-02-18T20:30:00+00:00,ole miss,mississippi st.,,,home,1676752200,https://media-1.api-sports.io/basketball/teams/2062.png
+2023-02-15T23:30:00+00:00,ole miss,florida,,,away,1676503800,https://media-3.api-sports.io/basketball/teams/2062.png
+2023-02-18T20:30:00+00:00,ole miss,mississippi st.,,,home,1676752200,https://media-3.api-sports.io/basketball/teams/2062.png

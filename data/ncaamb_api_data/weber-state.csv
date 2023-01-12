@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T04:00:00+00:00,weber state,washington,52 - 69,L,away,1667880000,https://media-3.api-sports.io/basketball/teams/2196.png
+2022-11-08T04:00:00+00:00,weber state,washington,52 - 69,L,away,1667880000,https://media-1.api-sports.io/basketball/teams/2196.png
 2022-11-11T02:00:00+00:00,weber state,western colorado,67 - 83,W,home,1668132000,https://media-1.api-sports.io/basketball/teams/2196.png
 2022-11-15T02:00:00+00:00,weber state,colorado state,52 - 77,L,away,1668477600,https://media-2.api-sports.io/basketball/teams/2196.png
 2022-11-22T03:00:00+00:00,weber state,uc riverside,65 - 72,L,away,1669086000,https://media-2.api-sports.io/basketball/teams/2196.png
 2022-11-23T00:30:00+00:00,weber state,abilene christian,67 - 77,W,home,1669163400,https://media-3.api-sports.io/basketball/teams/2196.png
-2022-11-23T21:00:00+00:00,weber state,wright state,87 - 65,L,home,1669237200,https://media-1.api-sports.io/basketball/teams/2196.png
+2022-11-23T21:00:00+00:00,weber state,wright state,87 - 65,L,home,1669237200,https://media-3.api-sports.io/basketball/teams/2196.png
 2022-11-30T01:00:00+00:00,weber state,tarleton,65 - 75,L,away,1669770000,https://media-1.api-sports.io/basketball/teams/2196.png
-2022-12-04T02:00:00+00:00,weber state,utah tech,77 - 65,L,home,1670119200,https://media-3.api-sports.io/basketball/teams/2196.png
-2022-12-08T03:00:00+00:00,weber state,california baptist,52 - 64,L,away,1670468400,https://media-2.api-sports.io/basketball/teams/2196.png
-2022-12-11T02:00:00+00:00,weber state,st. martin's,58 - 82,W,home,1670724000,https://media-2.api-sports.io/basketball/teams/2196.png
-2022-12-17T03:00:00+00:00,weber state,cal poly,74 - 45,W,away,1671246000,https://media-2.api-sports.io/basketball/teams/2196.png
-2022-12-20T02:00:00+00:00,weber state,utah state,75 - 72,W,away,1671501600,https://media-1.api-sports.io/basketball/teams/2196.png
-2022-12-23T02:00:00+00:00,weber state,brigham young,57 - 63,L,away,1671760800,https://media-2.api-sports.io/basketball/teams/2196.png
-2022-12-30T02:00:00+00:00,weber state,northern colorado,72 - 81,W,home,1672365600,https://media-2.api-sports.io/basketball/teams/2196.png
+2022-12-04T02:00:00+00:00,weber state,utah tech,77 - 65,L,home,1670119200,https://media-1.api-sports.io/basketball/teams/2196.png
+2022-12-08T03:00:00+00:00,weber state,california baptist,52 - 64,L,away,1670468400,https://media-1.api-sports.io/basketball/teams/2196.png
+2022-12-11T02:00:00+00:00,weber state,st. martin's,58 - 82,W,home,1670724000,https://media-3.api-sports.io/basketball/teams/2196.png
+2022-12-17T03:00:00+00:00,weber state,cal poly,74 - 45,W,away,1671246000,https://media-1.api-sports.io/basketball/teams/2196.png
+2022-12-20T02:00:00+00:00,weber state,utah state,75 - 72,W,away,1671501600,https://media-3.api-sports.io/basketball/teams/2196.png
+2022-12-23T02:00:00+00:00,weber state,brigham young,57 - 63,L,away,1671760800,https://media-1.api-sports.io/basketball/teams/2196.png
+2022-12-30T02:00:00+00:00,weber state,northern colorado,72 - 81,W,home,1672365600,https://media-1.api-sports.io/basketball/teams/2196.png
 2022-12-31T21:00:00+00:00,weber state,northern arizona,60 - 76,W,home,1672520400,https://media-3.api-sports.io/basketball/teams/2196.png
-2023-01-08T02:00:00+00:00,weber state,idaho state,67 - 57,L,home,1673143200,https://media-1.api-sports.io/basketball/teams/2196.png
-2023-01-13T02:00:00+00:00,weber state,montana,,,away,1673575200,https://media-1.api-sports.io/basketball/teams/2196.png
-2023-01-14T23:00:00+00:00,weber state,montana state,,,away,1673737200,https://media-1.api-sports.io/basketball/teams/2196.png
+2023-01-08T02:00:00+00:00,weber state,idaho state,67 - 57,L,home,1673143200,https://media-2.api-sports.io/basketball/teams/2196.png
+2023-01-13T02:00:00+00:00,weber state,montana,,,away,1673575200,https://media-3.api-sports.io/basketball/teams/2196.png
+2023-01-14T23:00:00+00:00,weber state,montana state,,,away,1673737200,https://media-3.api-sports.io/basketball/teams/2196.png
 2023-01-20T02:00:00+00:00,weber state,portland state,,,home,1674180000,https://media-1.api-sports.io/basketball/teams/2196.png
 2023-01-22T02:00:00+00:00,weber state,sacramento state,,,home,1674352800,https://media-3.api-sports.io/basketball/teams/2196.png
 2023-01-27T02:00:00+00:00,weber state,idaho,,,away,1674784800,https://media-2.api-sports.io/basketball/teams/2196.png
 2023-01-28T22:00:00+00:00,weber state,east. washington,,,away,1674943200,https://media-3.api-sports.io/basketball/teams/2196.png
-2023-02-05T01:00:00+00:00,weber state,idaho state,,,away,1675558800,https://media-3.api-sports.io/basketball/teams/2196.png
+2023-02-05T01:00:00+00:00,weber state,idaho state,,,away,1675558800,https://media-2.api-sports.io/basketball/teams/2196.png
 2023-02-07T04:00:00+00:00,weber state,northern colorado,,,away,1675742400,https://media-1.api-sports.io/basketball/teams/2196.png
-2023-02-10T02:00:00+00:00,weber state,montana state,,,home,1675994400,https://media-1.api-sports.io/basketball/teams/2196.png
+2023-02-10T02:00:00+00:00,weber state,montana state,,,home,1675994400,https://media-3.api-sports.io/basketball/teams/2196.png
 2023-02-12T02:00:00+00:00,weber state,montana,,,home,1676167200,https://media-1.api-sports.io/basketball/teams/2196.png
 2023-02-17T03:00:00+00:00,weber state,sacramento state,,,away,1676602800,https://media-3.api-sports.io/basketball/teams/2196.png
-2023-02-18T21:00:00+00:00,weber state,portland state,None - None,tie,away,1676754000,https://media-1.api-sports.io/basketball/teams/2196.png
+2023-02-18T21:00:00+00:00,weber state,portland state,None - None,tie,away,1676754000,https://media-3.api-sports.io/basketball/teams/2196.png
 2023-02-23T21:00:00+00:00,weber state,east. washington,None - None,tie,home,1677186000,https://media-1.api-sports.io/basketball/teams/2196.png
-2023-02-25T21:00:00+00:00,weber state,idaho,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/2196.png
+2023-02-25T21:00:00+00:00,weber state,idaho,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/2196.png

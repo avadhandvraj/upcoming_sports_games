@@ -1,87 +1,87 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-10-05T23:00:00+00:00,cleveland cavaliers,philadelphia 76ers,112 - 113,L,away,1665010800,https://media-2.api-sports.io/basketball/teams/137.png
-2022-10-10T23:00:00+00:00,cleveland cavaliers,philadelphia 76ers,113 - 97,L,home,1665442800,https://media-3.api-sports.io/basketball/teams/137.png
-2022-10-12T23:00:00+00:00,cleveland cavaliers,atlanta hawks,99 - 105,W,home,1665615600,https://media-1.api-sports.io/basketball/teams/137.png
+2022-10-10T23:00:00+00:00,cleveland cavaliers,philadelphia 76ers,113 - 97,L,home,1665442800,https://media-1.api-sports.io/basketball/teams/137.png
+2022-10-12T23:00:00+00:00,cleveland cavaliers,atlanta hawks,99 - 105,W,home,1665615600,https://media-3.api-sports.io/basketball/teams/137.png
 2022-10-14T23:00:00+00:00,cleveland cavaliers,orlando magic,108 - 114,L,away,1665788400,https://media-1.api-sports.io/basketball/teams/137.png
-2022-10-19T23:30:00+00:00,cleveland cavaliers,toronto raptors,105 - 108,L,away,1666222200,https://media-1.api-sports.io/basketball/teams/137.png
-2022-10-23T00:00:00+00:00,cleveland cavaliers,chicago bulls,128 - 96,W,away,1666483200,https://media-1.api-sports.io/basketball/teams/137.png
+2022-10-19T23:30:00+00:00,cleveland cavaliers,toronto raptors,105 - 108,L,away,1666222200,https://media-3.api-sports.io/basketball/teams/137.png
+2022-10-23T00:00:00+00:00,cleveland cavaliers,chicago bulls,128 - 96,W,away,1666483200,https://media-2.api-sports.io/basketball/teams/137.png
 2022-10-23T23:00:00+00:00,cleveland cavaliers,washington wizards,107 - 117,W,home,1666566000,https://media-2.api-sports.io/basketball/teams/137.png
-2022-10-26T23:00:00+00:00,cleveland cavaliers,orlando magic,92 - 103,W,home,1666825200,https://media-1.api-sports.io/basketball/teams/137.png
-2022-10-28T23:30:00+00:00,cleveland cavaliers,boston celtics,132 - 123,W,away,1666999800,https://media-1.api-sports.io/basketball/teams/137.png
+2022-10-26T23:00:00+00:00,cleveland cavaliers,orlando magic,92 - 103,W,home,1666825200,https://media-3.api-sports.io/basketball/teams/137.png
+2022-10-28T23:30:00+00:00,cleveland cavaliers,boston celtics,132 - 123,W,away,1666999800,https://media-3.api-sports.io/basketball/teams/137.png
 2022-10-30T22:00:00+00:00,cleveland cavaliers,new york knicks,108 - 121,W,home,1667167200,https://media-1.api-sports.io/basketball/teams/137.png
 2022-11-02T23:30:00+00:00,cleveland cavaliers,boston celtics,113 - 114,W,home,1667431800,https://media-3.api-sports.io/basketball/teams/137.png
-2022-11-04T23:00:00+00:00,cleveland cavaliers,detroit pistons,112 - 88,W,away,1667602800,https://media-2.api-sports.io/basketball/teams/137.png
+2022-11-04T23:00:00+00:00,cleveland cavaliers,detroit pistons,112 - 88,W,away,1667602800,https://media-3.api-sports.io/basketball/teams/137.png
 2022-11-06T20:30:00+00:00,cleveland cavaliers,los angeles lakers,114 - 100,W,away,1667766600,https://media-2.api-sports.io/basketball/teams/137.png
-2022-11-08T03:30:00+00:00,cleveland cavaliers,los angeles clippers,117 - 119,L,away,1667878200,https://media-3.api-sports.io/basketball/teams/137.png
-2022-11-10T03:00:00+00:00,cleveland cavaliers,sacramento kings,120 - 127,L,away,1668049200,https://media-2.api-sports.io/basketball/teams/137.png
+2022-11-08T03:30:00+00:00,cleveland cavaliers,los angeles clippers,117 - 119,L,away,1667878200,https://media-1.api-sports.io/basketball/teams/137.png
+2022-11-10T03:00:00+00:00,cleveland cavaliers,sacramento kings,120 - 127,L,away,1668049200,https://media-1.api-sports.io/basketball/teams/137.png
 2022-11-12T03:00:00+00:00,cleveland cavaliers,golden state warriors,101 - 106,L,away,1668222000,https://media-2.api-sports.io/basketball/teams/137.png
-2022-11-13T23:00:00+00:00,cleveland cavaliers,minnesota timberwolves,129 - 124,L,home,1668380400,https://media-3.api-sports.io/basketball/teams/137.png
+2022-11-13T23:00:00+00:00,cleveland cavaliers,minnesota timberwolves,129 - 124,L,home,1668380400,https://media-2.api-sports.io/basketball/teams/137.png
 2022-11-17T01:00:00+00:00,cleveland cavaliers,milwaukee bucks,98 - 113,L,away,1668646800,https://media-3.api-sports.io/basketball/teams/137.png
 2022-11-19T00:30:00+00:00,cleveland cavaliers,charlotte hornets,122 - 132,W,home,1668817800,https://media-2.api-sports.io/basketball/teams/137.png
-2022-11-21T00:00:00+00:00,cleveland cavaliers,miami heat,87 - 113,W,home,1668988800,https://media-1.api-sports.io/basketball/teams/137.png
-2022-11-22T00:00:00+00:00,cleveland cavaliers,atlanta hawks,102 - 114,W,home,1669075200,https://media-3.api-sports.io/basketball/teams/137.png
-2022-11-24T00:00:00+00:00,cleveland cavaliers,portland trail blazers,96 - 114,W,home,1669248000,https://media-1.api-sports.io/basketball/teams/137.png
-2022-11-26T01:00:00+00:00,cleveland cavaliers,milwaukee bucks,102 - 117,L,away,1669424400,https://media-3.api-sports.io/basketball/teams/137.png
-2022-11-27T23:00:00+00:00,cleveland cavaliers,detroit pistons,102 - 94,W,away,1669590000,https://media-1.api-sports.io/basketball/teams/137.png
-2022-11-29T00:30:00+00:00,cleveland cavaliers,toronto raptors,88 - 100,L,away,1669681800,https://media-1.api-sports.io/basketball/teams/137.png
-2022-12-01T00:00:00+00:00,cleveland cavaliers,philadelphia 76ers,85 - 113,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/137.png
-2022-12-03T00:30:00+00:00,cleveland cavaliers,orlando magic,96 - 107,W,home,1670027400,https://media-1.api-sports.io/basketball/teams/137.png
-2022-12-04T23:00:00+00:00,cleveland cavaliers,new york knicks,81 - 92,L,away,1670194800,https://media-3.api-sports.io/basketball/teams/137.png
+2022-11-21T00:00:00+00:00,cleveland cavaliers,miami heat,87 - 113,W,home,1668988800,https://media-3.api-sports.io/basketball/teams/137.png
+2022-11-22T00:00:00+00:00,cleveland cavaliers,atlanta hawks,102 - 114,W,home,1669075200,https://media-1.api-sports.io/basketball/teams/137.png
+2022-11-24T00:00:00+00:00,cleveland cavaliers,portland trail blazers,96 - 114,W,home,1669248000,https://media-2.api-sports.io/basketball/teams/137.png
+2022-11-26T01:00:00+00:00,cleveland cavaliers,milwaukee bucks,102 - 117,L,away,1669424400,https://media-2.api-sports.io/basketball/teams/137.png
+2022-11-27T23:00:00+00:00,cleveland cavaliers,detroit pistons,102 - 94,W,away,1669590000,https://media-3.api-sports.io/basketball/teams/137.png
+2022-11-29T00:30:00+00:00,cleveland cavaliers,toronto raptors,88 - 100,L,away,1669681800,https://media-2.api-sports.io/basketball/teams/137.png
+2022-12-01T00:00:00+00:00,cleveland cavaliers,philadelphia 76ers,85 - 113,W,home,1669852800,https://media-1.api-sports.io/basketball/teams/137.png
+2022-12-03T00:30:00+00:00,cleveland cavaliers,orlando magic,96 - 107,W,home,1670027400,https://media-3.api-sports.io/basketball/teams/137.png
+2022-12-04T23:00:00+00:00,cleveland cavaliers,new york knicks,81 - 92,L,away,1670194800,https://media-2.api-sports.io/basketball/teams/137.png
 2022-12-07T00:30:00+00:00,cleveland cavaliers,los angeles lakers,102 - 116,W,home,1670373000,https://media-2.api-sports.io/basketball/teams/137.png
-2022-12-10T00:30:00+00:00,cleveland cavaliers,sacramento kings,106 - 95,L,home,1670632200,https://media-3.api-sports.io/basketball/teams/137.png
+2022-12-10T00:30:00+00:00,cleveland cavaliers,sacramento kings,106 - 95,L,home,1670632200,https://media-1.api-sports.io/basketball/teams/137.png
 2022-12-11T00:30:00+00:00,cleveland cavaliers,oklahoma city thunder,102 - 110,W,home,1670718600,https://media-3.api-sports.io/basketball/teams/137.png
 2022-12-13T01:30:00+00:00,cleveland cavaliers,san antonio spurs,111 - 112,L,away,1670895000,https://media-2.api-sports.io/basketball/teams/137.png
 2022-12-15T02:00:00+00:00,cleveland cavaliers,dallas mavericks,105 - 90,W,away,1671069600,https://media-1.api-sports.io/basketball/teams/137.png
-2022-12-17T00:30:00+00:00,cleveland cavaliers,indiana pacers,112 - 118,W,home,1671237000,https://media-1.api-sports.io/basketball/teams/137.png
-2022-12-18T01:00:00+00:00,cleveland cavaliers,dallas mavericks,99 - 100,W,home,1671325200,https://media-1.api-sports.io/basketball/teams/137.png
-2022-12-20T00:00:00+00:00,cleveland cavaliers,utah jazz,99 - 122,W,home,1671494400,https://media-1.api-sports.io/basketball/teams/137.png
-2022-12-22T00:00:00+00:00,cleveland cavaliers,milwaukee bucks,106 - 114,W,home,1671667200,https://media-3.api-sports.io/basketball/teams/137.png
-2022-12-24T00:30:00+00:00,cleveland cavaliers,toronto raptors,118 - 107,L,home,1671841800,https://media-3.api-sports.io/basketball/teams/137.png
-2022-12-27T00:00:00+00:00,cleveland cavaliers,brooklyn nets,125 - 117,L,home,1672099200,https://media-3.api-sports.io/basketball/teams/137.png
-2022-12-30T00:00:00+00:00,cleveland cavaliers,indiana pacers,126 - 135,L,away,1672358400,https://media-3.api-sports.io/basketball/teams/137.png
-2023-01-01T00:00:00+00:00,cleveland cavaliers,chicago bulls,103 - 102,W,away,1672531200,https://media-3.api-sports.io/basketball/teams/137.png
-2023-01-03T00:00:00+00:00,cleveland cavaliers,chicago bulls,134 - 145,W,home,1672704000,https://media-2.api-sports.io/basketball/teams/137.png
-2023-01-05T00:00:00+00:00,cleveland cavaliers,phoenix suns,88 - 90,W,home,1672876800,https://media-2.api-sports.io/basketball/teams/137.png
-2023-01-07T02:00:00+00:00,cleveland cavaliers,denver nuggets,108 - 121,L,away,1673056800,https://media-1.api-sports.io/basketball/teams/137.png
+2022-12-17T00:30:00+00:00,cleveland cavaliers,indiana pacers,112 - 118,W,home,1671237000,https://media-3.api-sports.io/basketball/teams/137.png
+2022-12-18T01:00:00+00:00,cleveland cavaliers,dallas mavericks,99 - 100,W,home,1671325200,https://media-2.api-sports.io/basketball/teams/137.png
+2022-12-20T00:00:00+00:00,cleveland cavaliers,utah jazz,99 - 122,W,home,1671494400,https://media-3.api-sports.io/basketball/teams/137.png
+2022-12-22T00:00:00+00:00,cleveland cavaliers,milwaukee bucks,106 - 114,W,home,1671667200,https://media-2.api-sports.io/basketball/teams/137.png
+2022-12-24T00:30:00+00:00,cleveland cavaliers,toronto raptors,118 - 107,L,home,1671841800,https://media-2.api-sports.io/basketball/teams/137.png
+2022-12-27T00:00:00+00:00,cleveland cavaliers,brooklyn nets,125 - 117,L,home,1672099200,https://media-1.api-sports.io/basketball/teams/137.png
+2022-12-30T00:00:00+00:00,cleveland cavaliers,indiana pacers,126 - 135,L,away,1672358400,https://media-1.api-sports.io/basketball/teams/137.png
+2023-01-01T00:00:00+00:00,cleveland cavaliers,chicago bulls,103 - 102,W,away,1672531200,https://media-2.api-sports.io/basketball/teams/137.png
+2023-01-03T00:00:00+00:00,cleveland cavaliers,chicago bulls,134 - 145,W,home,1672704000,https://media-3.api-sports.io/basketball/teams/137.png
+2023-01-05T00:00:00+00:00,cleveland cavaliers,phoenix suns,88 - 90,W,home,1672876800,https://media-3.api-sports.io/basketball/teams/137.png
+2023-01-07T02:00:00+00:00,cleveland cavaliers,denver nuggets,108 - 121,L,away,1673056800,https://media-3.api-sports.io/basketball/teams/137.png
 2023-01-09T01:00:00+00:00,cleveland cavaliers,phoenix suns,112 - 98,W,away,1673226000,https://media-3.api-sports.io/basketball/teams/137.png
-2023-01-11T02:00:00+00:00,cleveland cavaliers,utah jazz,,,away,1673402400,https://media-1.api-sports.io/basketball/teams/137.png
-2023-01-13T03:00:00+00:00,cleveland cavaliers,portland trail blazers,,,away,1673578800,https://media-3.api-sports.io/basketball/teams/137.png
-2023-01-15T01:00:00+00:00,cleveland cavaliers,minnesota timberwolves,,,away,1673744400,https://media-2.api-sports.io/basketball/teams/137.png
-2023-01-16T20:00:00+00:00,cleveland cavaliers,new orleans pelicans,,,home,1673899200,https://media-1.api-sports.io/basketball/teams/137.png
-2023-01-19T01:00:00+00:00,cleveland cavaliers,memphis grizzlies,,,away,1674090000,https://media-2.api-sports.io/basketball/teams/137.png
+2023-01-11T02:00:00+00:00,cleveland cavaliers,utah jazz,114 - 116,L,away,1673402400,https://media-3.api-sports.io/basketball/teams/137.png
+2023-01-13T03:00:00+00:00,cleveland cavaliers,portland trail blazers,,,away,1673578800,https://media-2.api-sports.io/basketball/teams/137.png
+2023-01-15T01:00:00+00:00,cleveland cavaliers,minnesota timberwolves,,,away,1673744400,https://media-1.api-sports.io/basketball/teams/137.png
+2023-01-16T20:00:00+00:00,cleveland cavaliers,new orleans pelicans,,,home,1673899200,https://media-3.api-sports.io/basketball/teams/137.png
+2023-01-19T01:00:00+00:00,cleveland cavaliers,memphis grizzlies,,,away,1674090000,https://media-1.api-sports.io/basketball/teams/137.png
 2023-01-21T00:30:00+00:00,cleveland cavaliers,golden state warriors,,,home,1674261000,https://media-2.api-sports.io/basketball/teams/137.png
-2023-01-22T00:30:00+00:00,cleveland cavaliers,milwaukee bucks,,,home,1674347400,https://media-1.api-sports.io/basketball/teams/137.png
+2023-01-22T00:30:00+00:00,cleveland cavaliers,milwaukee bucks,,,home,1674347400,https://media-3.api-sports.io/basketball/teams/137.png
 2023-01-25T00:30:00+00:00,cleveland cavaliers,new york knicks,,,away,1674606600,https://media-2.api-sports.io/basketball/teams/137.png
-2023-01-27T01:00:00+00:00,cleveland cavaliers,houston rockets,,,away,1674781200,https://media-1.api-sports.io/basketball/teams/137.png
-2023-01-28T01:00:00+00:00,cleveland cavaliers,oklahoma city thunder,,,away,1674867600,https://media-1.api-sports.io/basketball/teams/137.png
+2023-01-27T01:00:00+00:00,cleveland cavaliers,houston rockets,,,away,1674781200,https://media-2.api-sports.io/basketball/teams/137.png
+2023-01-28T01:00:00+00:00,cleveland cavaliers,oklahoma city thunder,,,away,1674867600,https://media-2.api-sports.io/basketball/teams/137.png
 2023-01-30T00:00:00+00:00,cleveland cavaliers,los angeles clippers,,,home,1675036800,https://media-1.api-sports.io/basketball/teams/137.png
 2023-02-01T00:00:00+00:00,cleveland cavaliers,miami heat,,,home,1675209600,https://media-2.api-sports.io/basketball/teams/137.png
-2023-02-03T00:30:00+00:00,cleveland cavaliers,memphis grizzlies,,,home,1675384200,https://media-2.api-sports.io/basketball/teams/137.png
-2023-02-05T22:00:00+00:00,cleveland cavaliers,indiana pacers,,,away,1675634400,https://media-3.api-sports.io/basketball/teams/137.png
+2023-02-03T00:30:00+00:00,cleveland cavaliers,memphis grizzlies,,,home,1675384200,https://media-3.api-sports.io/basketball/teams/137.png
+2023-02-05T22:00:00+00:00,cleveland cavaliers,indiana pacers,,,away,1675634400,https://media-1.api-sports.io/basketball/teams/137.png
 2023-02-07T00:00:00+00:00,cleveland cavaliers,washington wizards,,,away,1675728000,https://media-3.api-sports.io/basketball/teams/137.png
-2023-02-09T00:00:00+00:00,cleveland cavaliers,detroit pistons,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/137.png
-2023-02-11T03:00:00+00:00,cleveland cavaliers,new orleans pelicans,,,away,1676084400,https://media-3.api-sports.io/basketball/teams/137.png
-2023-02-12T01:00:00+00:00,cleveland cavaliers,chicago bulls,,,home,1676163600,https://media-1.api-sports.io/basketball/teams/137.png
-2023-02-14T00:00:00+00:00,cleveland cavaliers,san antonio spurs,,,home,1676332800,https://media-2.api-sports.io/basketball/teams/137.png
+2023-02-09T00:00:00+00:00,cleveland cavaliers,detroit pistons,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/137.png
+2023-02-11T03:00:00+00:00,cleveland cavaliers,new orleans pelicans,,,away,1676084400,https://media-1.api-sports.io/basketball/teams/137.png
+2023-02-12T01:00:00+00:00,cleveland cavaliers,chicago bulls,,,home,1676163600,https://media-2.api-sports.io/basketball/teams/137.png
+2023-02-14T00:00:00+00:00,cleveland cavaliers,san antonio spurs,,,home,1676332800,https://media-1.api-sports.io/basketball/teams/137.png
 2023-02-16T00:00:00+00:00,cleveland cavaliers,philadelphia 76ers,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/137.png
-2023-02-24T00:00:00+00:00,cleveland cavaliers,denver nuggets,,,home,1677196800,https://media-3.api-sports.io/basketball/teams/137.png
-2023-02-25T00:30:00+00:00,cleveland cavaliers,atlanta hawks,,,away,1677285000,https://media-1.api-sports.io/basketball/teams/137.png
-2023-02-26T23:00:00+00:00,cleveland cavaliers,toronto raptors,,,home,1677452400,https://media-2.api-sports.io/basketball/teams/137.png
-2023-03-02T00:30:00+00:00,cleveland cavaliers,boston celtics,,,away,1677717000,https://media-3.api-sports.io/basketball/teams/137.png
+2023-02-24T00:00:00+00:00,cleveland cavaliers,denver nuggets,,,home,1677196800,https://media-2.api-sports.io/basketball/teams/137.png
+2023-02-25T00:30:00+00:00,cleveland cavaliers,atlanta hawks,,,away,1677285000,https://media-3.api-sports.io/basketball/teams/137.png
+2023-02-26T23:00:00+00:00,cleveland cavaliers,toronto raptors,,,home,1677452400,https://media-3.api-sports.io/basketball/teams/137.png
+2023-03-02T00:30:00+00:00,cleveland cavaliers,boston celtics,,,away,1677717000,https://media-2.api-sports.io/basketball/teams/137.png
 2023-03-05T00:30:00+00:00,cleveland cavaliers,detroit pistons,,,home,1677976200,https://media-2.api-sports.io/basketball/teams/137.png
 2023-03-07T00:00:00+00:00,cleveland cavaliers,boston celtics,,,home,1678147200,https://media-3.api-sports.io/basketball/teams/137.png
 2023-03-09T00:30:00+00:00,cleveland cavaliers,miami heat,,,away,1678321800,https://media-3.api-sports.io/basketball/teams/137.png
-2023-03-11T01:00:00+00:00,cleveland cavaliers,miami heat,,,away,1678496400,https://media-3.api-sports.io/basketball/teams/137.png
+2023-03-11T01:00:00+00:00,cleveland cavaliers,miami heat,,,away,1678496400,https://media-2.api-sports.io/basketball/teams/137.png
 2023-03-12T21:00:00+00:00,cleveland cavaliers,charlotte hornets,,,away,1678654800,https://media-3.api-sports.io/basketball/teams/137.png
-2023-03-14T23:00:00+00:00,cleveland cavaliers,charlotte hornets,,,away,1678834800,https://media-2.api-sports.io/basketball/teams/137.png
+2023-03-14T23:00:00+00:00,cleveland cavaliers,charlotte hornets,,,away,1678834800,https://media-1.api-sports.io/basketball/teams/137.png
 2023-03-15T23:30:00+00:00,cleveland cavaliers,philadelphia 76ers,,,home,1678923000,https://media-2.api-sports.io/basketball/teams/137.png
-2023-03-17T23:30:00+00:00,cleveland cavaliers,washington wizards,,,home,1679095800,https://media-1.api-sports.io/basketball/teams/137.png
-2023-03-21T23:30:00+00:00,cleveland cavaliers,brooklyn nets,,,away,1679441400,https://media-1.api-sports.io/basketball/teams/137.png
+2023-03-17T23:30:00+00:00,cleveland cavaliers,washington wizards,,,home,1679095800,https://media-3.api-sports.io/basketball/teams/137.png
+2023-03-21T23:30:00+00:00,cleveland cavaliers,brooklyn nets,,,away,1679441400,https://media-3.api-sports.io/basketball/teams/137.png
 2023-03-23T23:30:00+00:00,cleveland cavaliers,brooklyn nets,,,away,1679614200,https://media-2.api-sports.io/basketball/teams/137.png
-2023-03-26T22:00:00+00:00,cleveland cavaliers,houston rockets,,,home,1679868000,https://media-3.api-sports.io/basketball/teams/137.png
-2023-03-28T23:30:00+00:00,cleveland cavaliers,atlanta hawks,,,away,1680046200,https://media-1.api-sports.io/basketball/teams/137.png
-2023-03-31T23:30:00+00:00,cleveland cavaliers,new york knicks,,,home,1680305400,https://media-1.api-sports.io/basketball/teams/137.png
-2023-04-03T00:00:00+00:00,cleveland cavaliers,indiana pacers,,,home,1680480000,https://media-2.api-sports.io/basketball/teams/137.png
+2023-03-26T22:00:00+00:00,cleveland cavaliers,houston rockets,,,home,1679868000,https://media-1.api-sports.io/basketball/teams/137.png
+2023-03-28T23:30:00+00:00,cleveland cavaliers,atlanta hawks,,,away,1680046200,https://media-3.api-sports.io/basketball/teams/137.png
+2023-03-31T23:30:00+00:00,cleveland cavaliers,new york knicks,,,home,1680305400,https://media-2.api-sports.io/basketball/teams/137.png
+2023-04-03T00:00:00+00:00,cleveland cavaliers,indiana pacers,,,home,1680480000,https://media-3.api-sports.io/basketball/teams/137.png
 2023-04-04T23:00:00+00:00,cleveland cavaliers,orlando magic,,,away,1680649200,https://media-2.api-sports.io/basketball/teams/137.png
 2023-04-06T23:00:00+00:00,cleveland cavaliers,orlando magic,,,away,1680822000,https://media-2.api-sports.io/basketball/teams/137.png
-2023-04-09T17:00:00+00:00,cleveland cavaliers,charlotte hornets,None - None,tie,home,1681059600,https://media-1.api-sports.io/basketball/teams/137.png
+2023-04-09T17:00:00+00:00,cleveland cavaliers,charlotte hornets,,,home,1681059600,https://media-1.api-sports.io/basketball/teams/137.png

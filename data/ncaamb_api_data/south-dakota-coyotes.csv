@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:30:00+00:00,south dakota coyotes,wisconsin,59 - 85,L,away,1667871000,https://media-1.api-sports.io/basketball/teams/5853.png
-2022-11-10T01:00:00+00:00,south dakota coyotes,lipscomb,77 - 85,W,home,1668042000,https://media-1.api-sports.io/basketball/teams/5853.png
-2022-11-12T23:00:00+00:00,south dakota coyotes,dakota st.,64 - 82,W,home,1668294000,https://media-2.api-sports.io/basketball/teams/5853.png
-2022-11-18T02:00:00+00:00,south dakota coyotes,mississippi st.,42 - 79,L,away,1668736800,https://media-2.api-sports.io/basketball/teams/5853.png
-2022-11-22T19:30:00+00:00,south dakota coyotes,liu sharks,58 - 68,W,home,1669145400,https://media-2.api-sports.io/basketball/teams/5853.png
-2022-11-23T18:30:00+00:00,south dakota coyotes,sam houston st.,80 - 49,L,home,1669228200,https://media-1.api-sports.io/basketball/teams/5853.png
+2022-11-08T01:30:00+00:00,south dakota coyotes,wisconsin,59 - 85,L,away,1667871000,https://media-3.api-sports.io/basketball/teams/5853.png
+2022-11-10T01:00:00+00:00,south dakota coyotes,lipscomb,77 - 85,W,home,1668042000,https://media-2.api-sports.io/basketball/teams/5853.png
+2022-11-12T23:00:00+00:00,south dakota coyotes,dakota st.,64 - 82,W,home,1668294000,https://media-3.api-sports.io/basketball/teams/5853.png
+2022-11-18T02:00:00+00:00,south dakota coyotes,mississippi st.,42 - 79,L,away,1668736800,https://media-3.api-sports.io/basketball/teams/5853.png
+2022-11-22T19:30:00+00:00,south dakota coyotes,liu sharks,58 - 68,W,home,1669145400,https://media-1.api-sports.io/basketball/teams/5853.png
+2022-11-23T18:30:00+00:00,south dakota coyotes,sam houston st.,80 - 49,L,home,1669228200,https://media-3.api-sports.io/basketball/teams/5853.png
 2022-11-26T19:00:00+00:00,south dakota coyotes,coastal carolina,59 - 66,L,away,1669489200,https://media-2.api-sports.io/basketball/teams/5853.png
-2022-11-29T01:00:00+00:00,south dakota coyotes,mount marty,58 - 97,W,home,1669683600,https://media-1.api-sports.io/basketball/teams/5853.png
-2022-12-03T20:30:00+00:00,south dakota coyotes,brigham young,69 - 68,W,away,1670099400,https://media-3.api-sports.io/basketball/teams/5853.png
-2022-12-06T22:00:00+00:00,south dakota coyotes,air force,58 - 79,L,away,1670364000,https://media-2.api-sports.io/basketball/teams/5853.png
-2022-12-10T19:00:00+00:00,south dakota coyotes,uc irvine,83 - 71,L,home,1670698800,https://media-2.api-sports.io/basketball/teams/5853.png
+2022-11-29T01:00:00+00:00,south dakota coyotes,mount marty,58 - 97,W,home,1669683600,https://media-2.api-sports.io/basketball/teams/5853.png
+2022-12-03T20:30:00+00:00,south dakota coyotes,brigham young,69 - 68,W,away,1670099400,https://media-1.api-sports.io/basketball/teams/5853.png
+2022-12-06T22:00:00+00:00,south dakota coyotes,air force,58 - 79,L,away,1670364000,https://media-3.api-sports.io/basketball/teams/5853.png
+2022-12-10T19:00:00+00:00,south dakota coyotes,uc irvine,83 - 71,L,home,1670698800,https://media-1.api-sports.io/basketball/teams/5853.png
 2022-12-15T02:00:00+00:00,south dakota coyotes,coastal carolina,87 - 86,L,home,1671069600,https://media-3.api-sports.io/basketball/teams/5853.png
 2022-12-20T01:00:00+00:00,south dakota coyotes,umkc,45 - 62,L,away,1671498000,https://media-3.api-sports.io/basketball/teams/5853.png
-2022-12-22T01:00:00+00:00,south dakota coyotes,oral roberts,None - None,tie,away,1671670800,https://media-2.api-sports.io/basketball/teams/5853.png
 2022-12-30T01:00:00+00:00,south dakota coyotes,st. thomas (minn.),84 - 92,W,home,1672362000,https://media-1.api-sports.io/basketball/teams/5853.png
 2022-12-31T19:00:00+00:00,south dakota coyotes,western illinois,63 - 80,W,home,1672513200,https://media-3.api-sports.io/basketball/teams/5853.png
 2023-01-06T01:00:00+00:00,south dakota coyotes,north dakota,62 - 60,W,away,1672966800,https://media-2.api-sports.io/basketball/teams/5853.png
 2023-01-07T19:00:00+00:00,south dakota coyotes,north dakota st,61 - 73,L,away,1673118000,https://media-2.api-sports.io/basketball/teams/5853.png
-2023-01-15T00:00:00+00:00,south dakota coyotes,south dakota st.,,,home,1673740800,https://media-3.api-sports.io/basketball/teams/5853.png
+2023-01-15T00:00:00+00:00,south dakota coyotes,south dakota st.,,,home,1673740800,https://media-1.api-sports.io/basketball/teams/5853.png
 2023-01-20T01:00:00+00:00,south dakota coyotes,denver,,,home,1674176400,https://media-1.api-sports.io/basketball/teams/5853.png
 2023-01-21T19:00:00+00:00,south dakota coyotes,nebraska o.,,,home,1674327600,https://media-2.api-sports.io/basketball/teams/5853.png
 2023-01-27T00:00:00+00:00,south dakota coyotes,western illinois,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/5853.png
 2023-01-29T01:00:00+00:00,south dakota coyotes,st. thomas (minn.),,,away,1674954000,https://media-2.api-sports.io/basketball/teams/5853.png
+2023-01-31T01:00:00+00:00,south dakota coyotes,oral roberts,,,away,1675126800,https://media-2.api-sports.io/basketball/teams/5853.png
 2023-02-03T01:00:00+00:00,south dakota coyotes,north dakota st,,,home,1675386000,https://media-2.api-sports.io/basketball/teams/5853.png
-2023-02-04T19:00:00+00:00,south dakota coyotes,north dakota,,,home,1675537200,https://media-2.api-sports.io/basketball/teams/5853.png
+2023-02-04T19:00:00+00:00,south dakota coyotes,north dakota,,,home,1675537200,https://media-1.api-sports.io/basketball/teams/5853.png
 2023-02-12T00:00:00+00:00,south dakota coyotes,south dakota st.,,,away,1676160000,https://media-3.api-sports.io/basketball/teams/5853.png
 2023-02-17T01:00:00+00:00,south dakota coyotes,nebraska o.,,,away,1676595600,https://media-1.api-sports.io/basketball/teams/5853.png
-2023-02-18T20:00:00+00:00,south dakota coyotes,denver,,,away,1676750400,https://media-2.api-sports.io/basketball/teams/5853.png
+2023-02-18T20:00:00+00:00,south dakota coyotes,denver,,,away,1676750400,https://media-1.api-sports.io/basketball/teams/5853.png
 2023-02-23T21:00:00+00:00,south dakota coyotes,oral roberts,None - None,tie,home,1677186000,https://media-2.api-sports.io/basketball/teams/1498.png
 2023-02-25T21:00:00+00:00,south dakota coyotes,umkc,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/1498.png

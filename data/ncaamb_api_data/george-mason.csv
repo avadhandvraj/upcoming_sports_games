@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,george mason,auburn,52 - 70,L,away,1667869200,https://media-2.api-sports.io/basketball/teams/1499.png
-2022-11-12T00:00:00+00:00,george mason,longwood,69 - 83,W,home,1668211200,https://media-1.api-sports.io/basketball/teams/1499.png
+2022-11-08T01:00:00+00:00,george mason,auburn,52 - 70,L,away,1667869200,https://media-3.api-sports.io/basketball/teams/1499.png
+2022-11-12T00:00:00+00:00,george mason,longwood,69 - 83,W,home,1668211200,https://media-2.api-sports.io/basketball/teams/1499.png
 2022-11-13T21:00:00+00:00,george mason,american university,56 - 73,W,home,1668373200,https://media-1.api-sports.io/basketball/teams/1499.png
 2022-11-19T01:00:00+00:00,george mason,boston college,71 - 56,L,home,1668819600,https://media-1.api-sports.io/basketball/teams/1499.png
 2022-11-19T20:15:00+00:00,george mason,belmont,66 - 62,L,home,1668888900,https://media-3.api-sports.io/basketball/teams/1499.png
 2022-11-21T18:00:00+00:00,george mason,buffalo,82 - 74,L,home,1669053600,https://media-3.api-sports.io/basketball/teams/1499.png
-2022-11-26T19:00:00+00:00,george mason,queens royals,65 - 72,W,home,1669489200,https://media-3.api-sports.io/basketball/teams/1499.png
-2022-12-01T00:00:00+00:00,george mason,hofstra,77 - 81,W,home,1669852800,https://media-1.api-sports.io/basketball/teams/1499.png
-2022-12-03T19:00:00+00:00,george mason,toledo,73 - 80,W,home,1670094000,https://media-2.api-sports.io/basketball/teams/1499.png
+2022-11-26T19:00:00+00:00,george mason,queens royals,65 - 72,W,home,1669489200,https://media-1.api-sports.io/basketball/teams/1499.png
+2022-12-01T00:00:00+00:00,george mason,hofstra,77 - 81,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/1499.png
+2022-12-03T19:00:00+00:00,george mason,toledo,73 - 80,W,home,1670094000,https://media-1.api-sports.io/basketball/teams/1499.png
 2022-12-07T00:00:00+00:00,george mason,md.-east. shore,54 - 67,W,home,1670371200,https://media-3.api-sports.io/basketball/teams/1499.png
-2022-12-17T20:30:00+00:00,george mason,tulane,56 - 62,W,home,1671309000,https://media-1.api-sports.io/basketball/teams/1499.png
+2022-12-17T20:30:00+00:00,george mason,tulane,56 - 62,W,home,1671309000,https://media-3.api-sports.io/basketball/teams/1499.png
 2022-12-21T21:00:00+00:00,george mason,old dominion,77 - 78,L,away,1671656400,https://media-1.api-sports.io/basketball/teams/1499.png
 2022-12-23T21:00:00+00:00,george mason,coppin state,53 - 91,W,home,1671829200,https://media-2.api-sports.io/basketball/teams/1499.png
-2022-12-31T19:00:00+00:00,george mason,richmond,58 - 62,W,home,1672513200,https://media-2.api-sports.io/basketball/teams/1499.png
+2022-12-31T19:00:00+00:00,george mason,richmond,58 - 62,W,home,1672513200,https://media-3.api-sports.io/basketball/teams/1499.png
 2023-01-05T00:00:00+00:00,george mason,st. bonaventure,69 - 73,L,away,1672876800,https://media-1.api-sports.io/basketball/teams/1499.png
-2023-01-07T19:00:00+00:00,george mason,loyola chicago,75 - 86,W,home,1673118000,https://media-2.api-sports.io/basketball/teams/1499.png
-2023-01-12T01:00:00+00:00,george mason,st. louis,,,away,1673485200,https://media-3.api-sports.io/basketball/teams/1499.png
-2023-01-14T17:00:00+00:00,george mason,davidson,,,home,1673715600,https://media-3.api-sports.io/basketball/teams/1499.png
-2023-01-16T21:00:00+00:00,george mason,george washington,,,home,1673902800,https://media-2.api-sports.io/basketball/teams/1499.png
-2023-01-21T17:00:00+00:00,george mason,rhode island,,,away,1674320400,https://media-3.api-sports.io/basketball/teams/1499.png
+2023-01-07T19:00:00+00:00,george mason,loyola chicago,75 - 86,W,home,1673118000,https://media-1.api-sports.io/basketball/teams/1499.png
+2023-01-12T01:00:00+00:00,george mason,st. louis,62 - 63,L,away,1673485200,https://media-1.api-sports.io/basketball/teams/1499.png
+2023-01-14T17:00:00+00:00,george mason,davidson,,,home,1673715600,https://media-1.api-sports.io/basketball/teams/1499.png
+2023-01-16T21:00:00+00:00,george mason,george washington,,,home,1673902800,https://media-1.api-sports.io/basketball/teams/1499.png
+2023-01-21T17:00:00+00:00,george mason,rhode island,,,away,1674320400,https://media-2.api-sports.io/basketball/teams/1499.png
 2023-01-26T00:00:00+00:00,george mason,vcu rams,,,away,1674691200,https://media-2.api-sports.io/basketball/teams/1499.png
-2023-01-29T17:00:00+00:00,george mason,saint josephs,,,home,1675011600,https://media-3.api-sports.io/basketball/teams/1499.png
-2023-02-02T00:00:00+00:00,george mason,umass,,,home,1675296000,https://media-2.api-sports.io/basketball/teams/1499.png
+2023-01-29T17:00:00+00:00,george mason,saint josephs,,,home,1675011600,https://media-1.api-sports.io/basketball/teams/1499.png
+2023-02-02T00:00:00+00:00,george mason,umass,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/1499.png
 2023-02-04T19:30:00+00:00,george mason,loyola chicago,,,away,1675539000,https://media-3.api-sports.io/basketball/teams/1499.png
-2023-02-09T00:00:00+00:00,george mason,duquesne,,,away,1675900800,https://media-2.api-sports.io/basketball/teams/1499.png
+2023-02-09T00:00:00+00:00,george mason,duquesne,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/1499.png
 2023-02-11T19:00:00+00:00,george mason,rhode island,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/1499.png
 2023-02-16T00:00:00+00:00,george mason,george washington,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/1499.png
 2023-02-18T21:00:00+00:00,george mason,la salle,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/1499.png

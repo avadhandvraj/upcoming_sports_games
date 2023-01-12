@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T02:00:00+00:00,utah state,utah valley state,58 - 75,W,home,1667872800,https://media-3.api-sports.io/basketball/teams/2180.png
+2022-11-08T02:00:00+00:00,utah state,utah valley state,58 - 75,W,home,1667872800,https://media-2.api-sports.io/basketball/teams/2180.png
 2022-11-12T02:00:00+00:00,utah state,bradley,62 - 84,W,home,1668218400,https://media-1.api-sports.io/basketball/teams/2180.png
 2022-11-15T02:00:00+00:00,utah state,santa clara,74 - 96,W,home,1668477600,https://media-3.api-sports.io/basketball/teams/2180.png
 2022-11-18T03:00:00+00:00,utah state,san diego toreros,91 - 89,W,away,1668740400,https://media-3.api-sports.io/basketball/teams/2180.png
 2022-11-23T02:00:00+00:00,utah state,oral roberts,85 - 95,W,home,1669168800,https://media-3.api-sports.io/basketball/teams/2180.png
 2022-12-02T02:00:00+00:00,utah state,utah tech,81 - 86,W,home,1669946400,https://media-1.api-sports.io/basketball/teams/2180.png
-2022-12-05T01:30:00+00:00,utah state,san francisco,82 - 64,W,away,1670203800,https://media-2.api-sports.io/basketball/teams/2180.png
-2022-12-11T05:30:00+00:00,utah state,loyola marymount,79 - 67,W,away,1670736600,https://media-1.api-sports.io/basketball/teams/2180.png
+2022-12-05T01:30:00+00:00,utah state,san francisco,82 - 64,W,away,1670203800,https://media-3.api-sports.io/basketball/teams/2180.png
+2022-12-11T05:30:00+00:00,utah state,loyola marymount,79 - 67,W,away,1670736600,https://media-2.api-sports.io/basketball/teams/2180.png
 2022-12-16T02:00:00+00:00,utah state,westminster ut,68 - 106,W,home,1671156000,https://media-3.api-sports.io/basketball/teams/2180.png
-2022-12-20T02:00:00+00:00,utah state,weber state,75 - 72,L,home,1671501600,https://media-3.api-sports.io/basketball/teams/2180.png
-2022-12-22T22:00:00+00:00,utah state,seattle,56 - 84,W,home,1671746400,https://media-1.api-sports.io/basketball/teams/2180.png
-2022-12-24T00:00:00+00:00,utah state,smu mustangs,77 - 74,L,home,1671840000,https://media-2.api-sports.io/basketball/teams/2180.png
-2022-12-25T23:30:00+00:00,utah state,washington state,82 - 73,W,away,1672011000,https://media-2.api-sports.io/basketball/teams/2180.png
+2022-12-20T02:00:00+00:00,utah state,weber state,75 - 72,L,home,1671501600,https://media-2.api-sports.io/basketball/teams/2180.png
+2022-12-22T22:00:00+00:00,utah state,seattle,56 - 84,W,home,1671746400,https://media-2.api-sports.io/basketball/teams/2180.png
+2022-12-24T00:00:00+00:00,utah state,smu mustangs,77 - 74,L,home,1671840000,https://media-3.api-sports.io/basketball/teams/2180.png
+2022-12-25T23:30:00+00:00,utah state,washington state,82 - 73,W,away,1672011000,https://media-3.api-sports.io/basketball/teams/2180.png
 2022-12-31T19:00:00+00:00,utah state,fresno state,54 - 67,W,home,1672513200,https://media-2.api-sports.io/basketball/teams/2180.png
 2023-01-04T02:00:00+00:00,utah state,air force,77 - 65,W,away,1672797600,https://media-1.api-sports.io/basketball/teams/2180.png
 2023-01-07T23:30:00+00:00,utah state,boise state,59 - 82,L,away,1673134200,https://media-2.api-sports.io/basketball/teams/2180.png
-2023-01-11T03:30:00+00:00,utah state,wyoming,,,home,1673407800,https://media-3.api-sports.io/basketball/teams/2180.png
+2023-01-11T03:30:00+00:00,utah state,wyoming,63 - 83,W,home,1673407800,https://media-2.api-sports.io/basketball/teams/2180.png
 2023-01-14T04:00:00+00:00,utah state,nevada,,,away,1673668800,https://media-1.api-sports.io/basketball/teams/2180.png
-2023-01-18T02:00:00+00:00,utah state,unlv,,,home,1674007200,https://media-3.api-sports.io/basketball/teams/2180.png
+2023-01-18T02:00:00+00:00,utah state,unlv,,,home,1674007200,https://media-2.api-sports.io/basketball/teams/2180.png
 2023-01-21T23:00:00+00:00,utah state,san jose state,,,home,1674342000,https://media-3.api-sports.io/basketball/teams/2180.png
 2023-01-26T04:00:00+00:00,utah state,san diego state,,,away,1674705600,https://media-2.api-sports.io/basketball/teams/2180.png
-2023-01-29T00:00:00+00:00,utah state,fresno state,,,away,1674950400,https://media-2.api-sports.io/basketball/teams/2180.png
+2023-01-29T00:00:00+00:00,utah state,fresno state,,,away,1674950400,https://media-1.api-sports.io/basketball/teams/2180.png
 2023-02-02T03:30:00+00:00,utah state,new mexico,,,home,1675308600,https://media-1.api-sports.io/basketball/teams/2180.png
-2023-02-05T01:00:00+00:00,utah state,colorado state,,,away,1675558800,https://media-2.api-sports.io/basketball/teams/2180.png
-2023-02-09T03:00:00+00:00,utah state,san diego state,,,home,1675911600,https://media-3.api-sports.io/basketball/teams/2180.png
-2023-02-12T03:00:00+00:00,utah state,san jose state,,,away,1676170800,https://media-2.api-sports.io/basketball/teams/2180.png
+2023-02-05T01:00:00+00:00,utah state,colorado state,,,away,1675558800,https://media-3.api-sports.io/basketball/teams/2180.png
+2023-02-09T03:00:00+00:00,utah state,san diego state,,,home,1675911600,https://media-2.api-sports.io/basketball/teams/2180.png
+2023-02-12T03:00:00+00:00,utah state,san jose state,,,away,1676170800,https://media-3.api-sports.io/basketball/teams/2180.png
 2023-02-15T02:00:00+00:00,utah state,air force,,,home,1676426400,https://media-2.api-sports.io/basketball/teams/2180.png

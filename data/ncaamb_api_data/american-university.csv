@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-10T00:00:00+00:00,american university,marist,69 - 73,L,away,1668038400,https://media-3.api-sports.io/basketball/teams/1811.png
-2022-11-13T21:00:00+00:00,american university,george mason,56 - 73,L,away,1668373200,https://media-2.api-sports.io/basketball/teams/1811.png
-2022-11-17T00:00:00+00:00,american university,william & mary,64 - 71,W,home,1668643200,https://media-2.api-sports.io/basketball/teams/1811.png
-2022-11-19T21:00:00+00:00,american university,njit,58 - 53,W,away,1668891600,https://media-2.api-sports.io/basketball/teams/1811.png
+2022-11-10T00:00:00+00:00,american university,marist,69 - 73,L,away,1668038400,https://media-2.api-sports.io/basketball/teams/1811.png
+2022-11-13T21:00:00+00:00,american university,george mason,56 - 73,L,away,1668373200,https://media-1.api-sports.io/basketball/teams/1811.png
+2022-11-17T00:00:00+00:00,american university,william & mary,64 - 71,W,home,1668643200,https://media-1.api-sports.io/basketball/teams/1811.png
+2022-11-19T21:00:00+00:00,american university,njit,58 - 53,W,away,1668891600,https://media-3.api-sports.io/basketball/teams/1811.png
 2022-11-23T16:30:00+00:00,american university,georgetown,74 - 70,W,away,1669221000,https://media-2.api-sports.io/basketball/teams/1811.png
 2022-11-27T00:00:00+00:00,american university,st. francis (pa),66 - 55,W,away,1669507200,https://media-3.api-sports.io/basketball/teams/1811.png
-2022-11-30T00:00:00+00:00,american university,albany,62 - 88,W,home,1669766400,https://media-3.api-sports.io/basketball/teams/1811.png
-2022-12-07T00:00:00+00:00,american university,mount st. mary's,69 - 61,W,away,1670371200,https://media-1.api-sports.io/basketball/teams/1811.png
+2022-11-30T00:00:00+00:00,american university,albany,62 - 88,W,home,1669766400,https://media-1.api-sports.io/basketball/teams/1811.png
+2022-12-07T00:00:00+00:00,american university,mount st. mary's,69 - 61,W,away,1670371200,https://media-2.api-sports.io/basketball/teams/1811.png
 2022-12-10T21:00:00+00:00,american university,george washington,69 - 64,W,away,1670706000,https://media-3.api-sports.io/basketball/teams/1811.png
-2022-12-13T23:00:00+00:00,american university,vmi,61 - 69,W,home,1670972400,https://media-1.api-sports.io/basketball/teams/1811.png
-2022-12-22T18:00:00+00:00,american university,siena,64 - 61,L,home,1671732000,https://media-3.api-sports.io/basketball/teams/1811.png
-2022-12-31T00:00:00+00:00,american university,lafayette,60 - 47,W,away,1672444800,https://media-2.api-sports.io/basketball/teams/1811.png
-2023-01-02T19:00:00+00:00,american university,loyola maryland,55 - 71,W,home,1672686000,https://media-3.api-sports.io/basketball/teams/1811.png
+2022-12-13T23:00:00+00:00,american university,vmi,61 - 69,W,home,1670972400,https://media-2.api-sports.io/basketball/teams/1811.png
+2022-12-22T18:00:00+00:00,american university,siena,64 - 61,L,home,1671732000,https://media-1.api-sports.io/basketball/teams/1811.png
+2022-12-31T00:00:00+00:00,american university,lafayette,60 - 47,W,away,1672444800,https://media-1.api-sports.io/basketball/teams/1811.png
+2023-01-02T19:00:00+00:00,american university,loyola maryland,55 - 71,W,home,1672686000,https://media-1.api-sports.io/basketball/teams/1811.png
 2023-01-06T00:00:00+00:00,american university,holy cross,73 - 68,W,away,1672963200,https://media-2.api-sports.io/basketball/teams/1811.png
-2023-01-08T19:00:00+00:00,american university,boston university,74 - 76,W,home,1673204400,https://media-3.api-sports.io/basketball/teams/1811.png
-2023-01-11T23:00:00+00:00,american university,army,,,away,1673478000,https://media-1.api-sports.io/basketball/teams/1811.png
-2023-01-14T19:00:00+00:00,american university,lehigh,,,away,1673722800,https://media-2.api-sports.io/basketball/teams/1811.png
+2023-01-08T19:00:00+00:00,american university,boston university,74 - 76,W,home,1673204400,https://media-2.api-sports.io/basketball/teams/1811.png
+2023-01-11T23:00:00+00:00,american university,army,60 - 72,L,away,1673478000,https://media-2.api-sports.io/basketball/teams/1811.png
+2023-01-14T19:00:00+00:00,american university,lehigh,,,away,1673722800,https://media-1.api-sports.io/basketball/teams/1811.png
 2023-01-19T00:00:00+00:00,american university,lafayette,,,home,1674086400,https://media-2.api-sports.io/basketball/teams/1811.png
-2023-01-21T19:00:00+00:00,american university,colgate,,,away,1674327600,https://media-2.api-sports.io/basketball/teams/1811.png
+2023-01-21T19:00:00+00:00,american university,colgate,,,away,1674327600,https://media-3.api-sports.io/basketball/teams/1811.png
 2023-01-26T00:00:00+00:00,american university,army,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/1811.png
 2023-01-28T19:00:00+00:00,american university,navy,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/1811.png
-2023-02-02T00:00:00+00:00,american university,bucknell,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/1811.png
-2023-02-04T21:00:00+00:00,american university,colgate,,,home,1675544400,https://media-3.api-sports.io/basketball/teams/1811.png
-2023-02-09T00:00:00+00:00,american university,boston university,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1811.png
-2023-02-11T19:00:00+00:00,american university,holy cross,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/1811.png
+2023-02-02T00:00:00+00:00,american university,bucknell,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/1811.png
+2023-02-04T21:00:00+00:00,american university,colgate,,,home,1675544400,https://media-2.api-sports.io/basketball/teams/1811.png
+2023-02-09T00:00:00+00:00,american university,boston university,,,away,1675900800,https://media-2.api-sports.io/basketball/teams/1811.png
+2023-02-11T19:00:00+00:00,american university,holy cross,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/1811.png
 2023-02-14T00:00:00+00:00,american university,bucknell,,,away,1676332800,https://media-1.api-sports.io/basketball/teams/1811.png
-2023-02-18T19:00:00+00:00,american university,lehigh,,,home,1676746800,https://media-3.api-sports.io/basketball/teams/1811.png
+2023-02-18T19:00:00+00:00,american university,lehigh,,,home,1676746800,https://media-1.api-sports.io/basketball/teams/1811.png

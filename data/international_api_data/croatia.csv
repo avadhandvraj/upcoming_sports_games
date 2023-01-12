@@ -1,17 +1,4 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Friday, December 09 09:00 AM",croatia,brazil,1(2) - 1(4),W,home,1670598000,https://media-1.api-sports.io/football/teams/3.png
-"Monday, June 06 01:45 PM",croatia,france,1 - 1,tie,home,1654541100,https://media-3.api-sports.io/football/teams/3.png
-"Monday, June 13 01:45 PM",croatia,france,1 - 0,W,away,1655145900,https://media-3.api-sports.io/football/teams/3.png
-"Tuesday, December 13 01:00 PM",croatia,argentina,0 - 3,L,away,1670958000,https://media-2.api-sports.io/football/teams/3.png
-"Thursday, December 01 09:00 AM",croatia,belgium,0 - 0,tie,home,1669906800,https://media-3.api-sports.io/football/teams/3.png
-"Tuesday, March 29 09:00 AM",croatia,bulgaria,1 - 2,W,home,1648562400,https://media-1.api-sports.io/football/teams/3.png
-"Saturday, March 26 09:00 AM",croatia,slovenia,1 - 1,tie,home,1648303200,https://media-2.api-sports.io/football/teams/3.png
-"Friday, June 03 01:45 PM",croatia,austria,3 - 0,L,home,1654281900,https://media-3.api-sports.io/football/teams/3.png
-"Friday, June 10 01:45 PM",croatia,denmark,1 - 0,W,away,1654886700,https://media-2.api-sports.io/football/teams/3.png
-"Thursday, September 22 01:45 PM",croatia,denmark,1 - 2,W,home,1663872300,https://media-1.api-sports.io/football/teams/3.png
-"Sunday, September 25 01:45 PM",croatia,austria,3 - 1,W,away,1664131500,https://media-3.api-sports.io/football/teams/3.png
-"Wednesday, November 23 04:00 AM",croatia,morocco,0 - 0,tie,away,1669197600,https://media-3.api-sports.io/football/teams/3.png
-"Sunday, November 27 10:00 AM",croatia,canada,1 - 4,W,home,1669564800,https://media-2.api-sports.io/football/teams/3.png
-"Wednesday, November 16 06:00 AM",croatia,saudi arabia,1 - 0,W,away,1668600000,https://media-3.api-sports.io/football/teams/3.png
-"Monday, December 05 09:00 AM",croatia,japan,1(3) - 1(1),W,away,1670252400,https://media-2.api-sports.io/football/teams/3.png
-"Saturday, December 17 09:00 AM",croatia,morocco,1 - 2,W,home,1671289200,https://media-2.api-sports.io/football/teams/3.png
+"Friday, December 09 09:00 AM",croatia,brazil,1(2) - 1(4),W,home,1670598000,https://media-2.api-sports.io/football/teams/3.png
+"Monday, June 06 01:45 PM",croatia,france,1 - 1,tie,home,1654541100,https://media-1.api-sports.io/football/teams/3.png
+"Monday, June 13 01:45 PM",croatia,france,1 - 0,W,away,1655145900,https://media-2.api-sports.io/football/teams/3.png

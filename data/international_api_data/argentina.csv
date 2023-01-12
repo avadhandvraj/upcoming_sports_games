@@ -1,32 +1,5 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 "Wednesday, September 21 07:00 PM",argentina,brazil,,,away,1663804800,https://media-3.api-sports.io/football/teams/26.png
-"Tuesday, November 16 05:30 PM",argentina,brazil,0 - 0,tie,home,1637105400,https://media-1.api-sports.io/football/teams/26.png
-"Saturday, June 11 03:00 AM",argentina,brazil,,,away,1654934400,https://media-1.api-sports.io/football/teams/26.png
-"Sunday, December 18 09:00 AM",argentina,france,3(2) - 3(4),W,home,1671375600,https://media-3.api-sports.io/football/teams/26.png
-"Thursday, October 08 07:30 PM",argentina,ecuador,0 - 1,W,home,1602203400,https://media-3.api-sports.io/football/teams/26.png
-"Tuesday, October 13 03:00 PM",argentina,bolivia,2 - 1,W,away,1602619200,https://media-3.api-sports.io/football/teams/26.png
-"Thursday, November 12 06:00 PM",argentina,paraguay,1 - 1,tie,home,1605225600,https://media-3.api-sports.io/football/teams/26.png
-"Tuesday, November 17 06:30 PM",argentina,peru,2 - 0,W,away,1605659400,https://media-2.api-sports.io/football/teams/26.png
-"Sunday, October 10 06:30 PM",argentina,uruguay,0 - 3,W,home,1633908600,https://media-3.api-sports.io/football/teams/26.png
-"Thursday, June 03 07:00 PM",argentina,chile,1 - 1,tie,home,1622764800,https://media-3.api-sports.io/football/teams/26.png
-"Tuesday, June 08 06:00 PM",argentina,colombia,2 - 2,tie,away,1623193200,https://media-3.api-sports.io/football/teams/26.png
-"Thursday, September 02 07:00 PM",argentina,venezuela,3 - 1,W,away,1630627200,https://media-1.api-sports.io/football/teams/26.png
-"Thursday, September 09 06:30 PM",argentina,bolivia,0 - 3,W,home,1631230200,https://media-3.api-sports.io/football/teams/26.png
-"Thursday, October 07 06:00 PM",argentina,paraguay,0 - 0,tie,away,1633647600,https://media-2.api-sports.io/football/teams/26.png
-"Thursday, October 14 06:30 PM",argentina,peru,0 - 1,W,home,1634254200,https://media-3.api-sports.io/football/teams/26.png
-"Friday, November 12 05:00 PM",argentina,uruguay,1 - 0,W,away,1636758000,https://media-2.api-sports.io/football/teams/26.png
-"Thursday, January 27 06:15 PM",argentina,chile,2 - 1,W,away,1643328900,https://media-3.api-sports.io/football/teams/26.png
-"Tuesday, February 01 05:30 PM",argentina,colombia,0 - 1,W,home,1643758200,https://media-1.api-sports.io/football/teams/26.png
-"Friday, March 25 06:30 PM",argentina,venezuela,0 - 3,W,home,1648251000,https://media-2.api-sports.io/football/teams/26.png
-"Wednesday, March 30 06:30 PM",argentina,ecuador,1 - 1,tie,away,1648683000,https://media-3.api-sports.io/football/teams/26.png
-"Wednesday, June 01 01:45 PM",argentina,italy,,,away,1654109100,https://media-3.api-sports.io/football/teams/26.png
-"Tuesday, November 22 04:00 AM",argentina,saudi arabia,2 - 1,L,home,1669111200,https://media-3.api-sports.io/football/teams/26.png
-"Saturday, November 26 01:00 PM",argentina,mexico,0 - 2,W,home,1669489200,https://media-3.api-sports.io/football/teams/26.png
-"Wednesday, November 30 01:00 PM",argentina,poland,2 - 0,W,away,1669834800,https://media-2.api-sports.io/football/teams/26.png
-"Sunday, June 05 01:00 PM",argentina,estonia,0 - 5,W,home,1654452000,https://media-2.api-sports.io/football/teams/26.png
-"Friday, September 23 07:00 PM",argentina,honduras,0 - 3,W,home,1663977600,https://media-2.api-sports.io/football/teams/26.png
-"Tuesday, September 27 07:00 PM",argentina,jamaica,0 - 3,W,home,1664323200,https://media-2.api-sports.io/football/teams/26.png
-"Wednesday, November 16 09:30 AM",argentina,united arab emirates,5 - 0,W,away,1668612600,https://media-3.api-sports.io/football/teams/26.png
-"Saturday, December 03 01:00 PM",argentina,australia,1 - 2,W,home,1670094000,https://media-2.api-sports.io/football/teams/26.png
-"Friday, December 09 01:00 PM",argentina,netherlands,2(4) - 2(3),W,away,1670612400,https://media-3.api-sports.io/football/teams/26.png
-"Tuesday, December 13 01:00 PM",argentina,croatia,0 - 3,W,home,1670958000,https://media-2.api-sports.io/football/teams/26.png
+"Tuesday, November 16 05:30 PM",argentina,brazil,0 - 0,tie,home,1637105400,https://media-2.api-sports.io/football/teams/26.png
+"Saturday, June 11 03:00 AM",argentina,brazil,,,away,1654934400,https://media-2.api-sports.io/football/teams/26.png
+"Sunday, December 18 09:00 AM",argentina,france,3(2) - 3(4),W,home,1671375600,https://media-2.api-sports.io/football/teams/26.png

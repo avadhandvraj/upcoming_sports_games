@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-10T02:00:00+00:00,bellarmine,louisville,67 - 66,W,away,1668045600,https://media-2.api-sports.io/basketball/teams/2358.png
-2022-11-13T01:00:00+00:00,bellarmine,morehead state,55 - 62,L,away,1668301200,https://media-3.api-sports.io/basketball/teams/2358.png
-2022-11-14T23:00:00+00:00,bellarmine,campbellsville-harrodsburg,46 - 86,W,home,1668466800,https://media-2.api-sports.io/basketball/teams/2358.png
+2022-11-10T02:00:00+00:00,bellarmine,louisville,67 - 66,W,away,1668045600,https://media-1.api-sports.io/basketball/teams/2358.png
+2022-11-13T01:00:00+00:00,bellarmine,morehead state,55 - 62,L,away,1668301200,https://media-2.api-sports.io/basketball/teams/2358.png
+2022-11-14T23:00:00+00:00,bellarmine,campbellsville-harrodsburg,46 - 86,W,home,1668466800,https://media-3.api-sports.io/basketball/teams/2358.png
 2022-11-19T00:00:00+00:00,bellarmine,clemson,66 - 76,L,away,1668816000,https://media-1.api-sports.io/basketball/teams/2358.png
 2022-11-22T01:30:00+00:00,bellarmine,duke,57 - 74,L,away,1669080600,https://media-1.api-sports.io/basketball/teams/2358.png
-2022-11-25T20:00:00+00:00,bellarmine,loyola marymount,59 - 80,L,away,1669406400,https://media-1.api-sports.io/basketball/teams/2358.png
+2022-11-25T20:00:00+00:00,bellarmine,loyola marymount,59 - 80,L,away,1669406400,https://media-2.api-sports.io/basketball/teams/2358.png
 2022-11-28T00:00:00+00:00,bellarmine,ucla,60 - 81,L,away,1669593600,https://media-2.api-sports.io/basketball/teams/2358.png
 2022-11-30T00:00:00+00:00,bellarmine,kentucky,41 - 60,L,away,1669766400,https://media-2.api-sports.io/basketball/teams/2358.png
-2022-12-04T21:00:00+00:00,bellarmine,alice loyd,38 - 110,W,home,1670187600,https://media-3.api-sports.io/basketball/teams/2358.png
-2022-12-06T23:30:00+00:00,bellarmine,wabash,45 - 86,W,home,1670369400,https://media-3.api-sports.io/basketball/teams/2358.png
-2022-12-10T21:00:00+00:00,bellarmine,murray state,58 - 69,W,home,1670706000,https://media-2.api-sports.io/basketball/teams/2358.png
+2022-12-04T21:00:00+00:00,bellarmine,alice loyd,38 - 110,W,home,1670187600,https://media-1.api-sports.io/basketball/teams/2358.png
+2022-12-06T23:30:00+00:00,bellarmine,wabash,45 - 86,W,home,1670369400,https://media-2.api-sports.io/basketball/teams/2358.png
+2022-12-10T21:00:00+00:00,bellarmine,murray state,58 - 69,W,home,1670706000,https://media-1.api-sports.io/basketball/teams/2358.png
 2022-12-17T21:00:00+00:00,bellarmine,miami (ohio),71 - 67,L,home,1671310800,https://media-2.api-sports.io/basketball/teams/2358.png
-2022-12-22T01:00:00+00:00,bellarmine,evansville,61 - 73,L,away,1671670800,https://media-2.api-sports.io/basketball/teams/2358.png
-2022-12-29T23:30:00+00:00,bellarmine,liberty,70 - 53,L,home,1672356600,https://media-3.api-sports.io/basketball/teams/2358.png
-2023-01-03T00:00:00+00:00,bellarmine,north alabama,69 - 65,W,away,1672704000,https://media-3.api-sports.io/basketball/teams/2358.png
-2023-01-05T23:30:00+00:00,bellarmine,queens royals,75 - 74,L,home,1672961400,https://media-3.api-sports.io/basketball/teams/2358.png
-2023-01-08T02:00:00+00:00,bellarmine,jacksonville state,75 - 62,W,away,1673143200,https://media-3.api-sports.io/basketball/teams/2358.png
+2022-12-22T01:00:00+00:00,bellarmine,evansville,61 - 73,L,away,1671670800,https://media-1.api-sports.io/basketball/teams/2358.png
+2022-12-29T23:30:00+00:00,bellarmine,liberty,70 - 53,L,home,1672356600,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-01-03T00:00:00+00:00,bellarmine,north alabama,69 - 65,W,away,1672704000,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-01-05T23:30:00+00:00,bellarmine,queens royals,75 - 74,L,home,1672961400,https://media-1.api-sports.io/basketball/teams/2358.png
+2023-01-08T02:00:00+00:00,bellarmine,jacksonville state,75 - 62,W,away,1673143200,https://media-1.api-sports.io/basketball/teams/2358.png
 2023-01-12T23:30:00+00:00,bellarmine,stetson,,,home,1673566200,https://media-1.api-sports.io/basketball/teams/2358.png
-2023-01-14T21:00:00+00:00,bellarmine,florida gulf coast,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-01-14T21:00:00+00:00,bellarmine,florida gulf coast,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/2358.png
 2023-01-20T00:00:00+00:00,bellarmine,austin peay,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/2358.png
-2023-01-21T22:00:00+00:00,bellarmine,lipscomb,,,away,1674338400,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-01-21T22:00:00+00:00,bellarmine,lipscomb,,,away,1674338400,https://media-1.api-sports.io/basketball/teams/2358.png
 2023-01-26T23:30:00+00:00,bellarmine,eastern kentucky,,,home,1674775800,https://media-2.api-sports.io/basketball/teams/2358.png
-2023-01-29T00:00:00+00:00,bellarmine,eastern kentucky,,,away,1674950400,https://media-1.api-sports.io/basketball/teams/2358.png
-2023-02-03T00:30:00+00:00,bellarmine,kennesaw state,,,home,1675384200,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-01-29T00:00:00+00:00,bellarmine,eastern kentucky,,,away,1674950400,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-02-03T00:30:00+00:00,bellarmine,kennesaw state,,,home,1675384200,https://media-3.api-sports.io/basketball/teams/2358.png
 2023-02-04T21:00:00+00:00,bellarmine,jacksonville state,,,home,1675544400,https://media-2.api-sports.io/basketball/teams/2358.png
-2023-02-10T00:00:00+00:00,bellarmine,liberty,,,away,1675987200,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-02-10T00:00:00+00:00,bellarmine,liberty,,,away,1675987200,https://media-1.api-sports.io/basketball/teams/2358.png
 2023-02-11T18:00:00+00:00,bellarmine,queens royals,,,away,1676138400,https://media-3.api-sports.io/basketball/teams/2358.png
 2023-02-17T00:30:00+00:00,bellarmine,north alabama,,,home,1676593800,https://media-2.api-sports.io/basketball/teams/2358.png
-2023-02-18T21:00:00+00:00,bellarmine,central arkansas,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/2358.png
-2023-02-22T21:00:00+00:00,bellarmine,jacksonville,None - None,tie,away,1677099600,https://media-3.api-sports.io/basketball/teams/2358.png
-2023-02-24T21:00:00+00:00,bellarmine,north florida,None - None,tie,away,1677272400,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-02-18T21:00:00+00:00,bellarmine,central arkansas,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-02-22T21:00:00+00:00,bellarmine,jacksonville,None - None,tie,away,1677099600,https://media-2.api-sports.io/basketball/teams/2358.png
+2023-02-24T21:00:00+00:00,bellarmine,north florida,None - None,tie,away,1677272400,https://media-1.api-sports.io/basketball/teams/2358.png

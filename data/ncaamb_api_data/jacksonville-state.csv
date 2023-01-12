@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T02:00:00+00:00,jacksonville state,shorter,48 - 111,W,home,1667872800,https://media-1.api-sports.io/basketball/teams/1493.png
-2022-11-15T01:00:00+00:00,jacksonville state,illinois (chi.),60 - 67,L,away,1668474000,https://media-1.api-sports.io/basketball/teams/1493.png
-2022-11-19T02:00:00+00:00,jacksonville state,alabama,62 - 104,L,away,1668823200,https://media-3.api-sports.io/basketball/teams/1493.png
+2022-11-15T01:00:00+00:00,jacksonville state,illinois (chi.),60 - 67,L,away,1668474000,https://media-3.api-sports.io/basketball/teams/1493.png
+2022-11-19T02:00:00+00:00,jacksonville state,alabama,62 - 104,L,away,1668823200,https://media-1.api-sports.io/basketball/teams/1493.png
 2022-11-23T00:00:00+00:00,jacksonville state,elon,53 - 78,W,home,1669161600,https://media-2.api-sports.io/basketball/teams/1493.png
-2022-11-26T00:00:00+00:00,jacksonville state,new mexico,61 - 79,L,away,1669420800,https://media-3.api-sports.io/basketball/teams/1493.png
+2022-11-26T00:00:00+00:00,jacksonville state,new mexico,61 - 79,L,away,1669420800,https://media-1.api-sports.io/basketball/teams/1493.png
 2022-11-27T02:30:00+00:00,jacksonville state,northern colorado,82 - 86,L,away,1669516200,https://media-3.api-sports.io/basketball/teams/1493.png
-2022-11-27T22:00:00+00:00,jacksonville state,north dakota st,81 - 71,W,away,1669586400,https://media-2.api-sports.io/basketball/teams/1493.png
-2022-12-03T21:00:00+00:00,jacksonville state,east tennessee st,63 - 61,W,away,1670101200,https://media-2.api-sports.io/basketball/teams/1493.png
-2022-12-09T03:00:00+00:00,jacksonville state,utah utes,58 - 99,L,away,1670554800,https://media-1.api-sports.io/basketball/teams/1493.png
+2022-11-27T22:00:00+00:00,jacksonville state,north dakota st,81 - 71,W,away,1669586400,https://media-1.api-sports.io/basketball/teams/1493.png
+2022-12-03T21:00:00+00:00,jacksonville state,east tennessee st,63 - 61,W,away,1670101200,https://media-1.api-sports.io/basketball/teams/1493.png
+2022-12-09T03:00:00+00:00,jacksonville state,utah utes,58 - 99,L,away,1670554800,https://media-3.api-sports.io/basketball/teams/1493.png
 2022-12-15T00:30:00+00:00,jacksonville state,reinhardt,63 - 97,W,home,1671064200,https://media-3.api-sports.io/basketball/teams/1493.png
-2022-12-17T19:00:00+00:00,jacksonville state,ualr,62 - 72,W,home,1671303600,https://media-3.api-sports.io/basketball/teams/1493.png
-2022-12-21T19:00:00+00:00,jacksonville state,south alabama,66 - 71,L,away,1671649200,https://media-3.api-sports.io/basketball/teams/1493.png
-2022-12-28T00:00:00+00:00,jacksonville state,georgia s'western,73 - 78,W,home,1672185600,https://media-1.api-sports.io/basketball/teams/1493.png
+2022-12-17T19:00:00+00:00,jacksonville state,ualr,62 - 72,W,home,1671303600,https://media-1.api-sports.io/basketball/teams/1493.png
+2022-12-21T19:00:00+00:00,jacksonville state,south alabama,66 - 71,L,away,1671649200,https://media-1.api-sports.io/basketball/teams/1493.png
+2022-12-28T00:00:00+00:00,jacksonville state,georgia s'western,73 - 78,W,home,1672185600,https://media-3.api-sports.io/basketball/teams/1493.png
 2022-12-31T00:00:00+00:00,jacksonville state,north alabama,66 - 62,L,home,1672444800,https://media-3.api-sports.io/basketball/teams/1493.png
 2023-01-03T00:00:00+00:00,jacksonville state,jacksonville,46 - 62,L,away,1672704000,https://media-2.api-sports.io/basketball/teams/1493.png
 2023-01-06T00:00:00+00:00,jacksonville state,liberty,41 - 75,L,away,1672963200,https://media-3.api-sports.io/basketball/teams/1493.png
 2023-01-08T02:00:00+00:00,jacksonville state,bellarmine,75 - 62,L,home,1673143200,https://media-3.api-sports.io/basketball/teams/1493.png
-2023-01-13T00:00:00+00:00,jacksonville state,north florida,,,home,1673568000,https://media-2.api-sports.io/basketball/teams/1493.png
+2023-01-13T00:00:00+00:00,jacksonville state,north florida,,,home,1673568000,https://media-3.api-sports.io/basketball/teams/1493.png
 2023-01-14T22:00:00+00:00,jacksonville state,jacksonville,,,home,1673733600,https://media-3.api-sports.io/basketball/teams/1493.png
-2023-01-19T23:00:00+00:00,jacksonville state,florida gulf coast,,,away,1674169200,https://media-3.api-sports.io/basketball/teams/1493.png
+2023-01-19T23:00:00+00:00,jacksonville state,florida gulf coast,,,away,1674169200,https://media-1.api-sports.io/basketball/teams/1493.png
 2023-01-21T19:00:00+00:00,jacksonville state,stetson,,,away,1674327600,https://media-2.api-sports.io/basketball/teams/1493.png
-2023-01-27T01:00:00+00:00,jacksonville state,lipscomb,,,home,1674781200,https://media-3.api-sports.io/basketball/teams/1493.png
-2023-01-28T22:00:00+00:00,jacksonville state,austin peay,,,home,1674943200,https://media-1.api-sports.io/basketball/teams/1493.png
-2023-02-03T00:30:00+00:00,jacksonville state,eastern kentucky,,,away,1675384200,https://media-2.api-sports.io/basketball/teams/1493.png
-2023-02-04T21:00:00+00:00,jacksonville state,bellarmine,,,away,1675544400,https://media-1.api-sports.io/basketball/teams/1493.png
+2023-01-27T02:00:00+00:00,jacksonville state,lipscomb,,,home,1674784800,https://media-1.api-sports.io/basketball/teams/1493.png
+2023-01-28T22:00:00+00:00,jacksonville state,austin peay,,,home,1674943200,https://media-3.api-sports.io/basketball/teams/1493.png
+2023-02-03T00:30:00+00:00,jacksonville state,eastern kentucky,,,away,1675384200,https://media-1.api-sports.io/basketball/teams/1493.png
+2023-02-04T21:00:00+00:00,jacksonville state,bellarmine,,,away,1675544400,https://media-3.api-sports.io/basketball/teams/1493.png
 2023-02-10T00:30:00+00:00,jacksonville state,kennesaw state,,,home,1675989000,https://media-2.api-sports.io/basketball/teams/1493.png
-2023-02-11T22:00:00+00:00,jacksonville state,kennesaw state,,,away,1676152800,https://media-2.api-sports.io/basketball/teams/1493.png
-2023-02-17T00:00:00+00:00,jacksonville state,queens royals,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/1493.png
-2023-02-18T22:00:00+00:00,jacksonville state,liberty,,,home,1676757600,https://media-2.api-sports.io/basketball/teams/1493.png
-2023-02-22T21:00:00+00:00,jacksonville state,central arkansas,None - None,tie,away,1677099600,https://media-3.api-sports.io/basketball/teams/1493.png
-2023-02-24T21:00:00+00:00,jacksonville state,north alabama,None - None,tie,away,1677272400,https://media-3.api-sports.io/basketball/teams/1493.png
+2023-02-11T22:00:00+00:00,jacksonville state,kennesaw state,,,away,1676152800,https://media-3.api-sports.io/basketball/teams/1493.png
+2023-02-17T00:00:00+00:00,jacksonville state,queens royals,,,home,1676592000,https://media-1.api-sports.io/basketball/teams/1493.png
+2023-02-18T22:00:00+00:00,jacksonville state,liberty,,,home,1676757600,https://media-3.api-sports.io/basketball/teams/1493.png
+2023-02-22T21:00:00+00:00,jacksonville state,central arkansas,None - None,tie,away,1677099600,https://media-2.api-sports.io/basketball/teams/1493.png
+2023-02-24T21:00:00+00:00,jacksonville state,north alabama,None - None,tie,away,1677272400,https://media-2.api-sports.io/basketball/teams/1493.png

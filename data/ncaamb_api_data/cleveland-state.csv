@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:00:00+00:00,cleveland state,notre dame oh,72 - 68,L,home,1667865600,https://media-2.api-sports.io/basketball/teams/1867.png
-2022-11-11T01:00:00+00:00,cleveland state,cincinnati,58 - 69,L,away,1668128400,https://media-3.api-sports.io/basketball/teams/1867.png
-2022-11-12T18:00:00+00:00,cleveland state,ohio,70 - 81,L,away,1668276000,https://media-1.api-sports.io/basketball/teams/1867.png
-2022-11-17T00:00:00+00:00,cleveland state,canisius,58 - 57,W,away,1668643200,https://media-1.api-sports.io/basketball/teams/1867.png
-2022-11-19T00:00:00+00:00,cleveland state,arkansas-pine bluff,58 - 67,W,home,1668816000,https://media-2.api-sports.io/basketball/teams/1867.png
-2022-11-23T18:00:00+00:00,cleveland state,chicago state,63 - 77,W,home,1669226400,https://media-1.api-sports.io/basketball/teams/1867.png
+2022-11-11T01:00:00+00:00,cleveland state,cincinnati,58 - 69,L,away,1668128400,https://media-2.api-sports.io/basketball/teams/1867.png
+2022-11-12T18:00:00+00:00,cleveland state,ohio,70 - 81,L,away,1668276000,https://media-2.api-sports.io/basketball/teams/1867.png
+2022-11-17T00:00:00+00:00,cleveland state,canisius,58 - 57,W,away,1668643200,https://media-2.api-sports.io/basketball/teams/1867.png
+2022-11-19T00:00:00+00:00,cleveland state,arkansas-pine bluff,58 - 67,W,home,1668816000,https://media-1.api-sports.io/basketball/teams/1867.png
+2022-11-23T18:00:00+00:00,cleveland state,chicago state,63 - 77,W,home,1669226400,https://media-3.api-sports.io/basketball/teams/1867.png
 2022-11-26T17:00:00+00:00,cleveland state,western michigan,71 - 49,W,away,1669482000,https://media-1.api-sports.io/basketball/teams/1867.png
 2022-12-02T00:00:00+00:00,cleveland state,oakland,64 - 80,W,home,1669939200,https://media-2.api-sports.io/basketball/teams/1867.png
 2022-12-03T20:00:00+00:00,cleveland state,detroit,77 - 92,W,home,1670097600,https://media-1.api-sports.io/basketball/teams/1867.png
-2022-12-08T00:00:00+00:00,cleveland state,st. bonaventure,42 - 61,L,away,1670457600,https://media-2.api-sports.io/basketball/teams/1867.png
-2022-12-10T20:00:00+00:00,cleveland state,kent state,67 - 58,L,home,1670702400,https://media-1.api-sports.io/basketball/teams/1867.png
+2022-12-08T00:00:00+00:00,cleveland state,st. bonaventure,42 - 61,L,away,1670457600,https://media-1.api-sports.io/basketball/teams/1867.png
+2022-12-10T20:00:00+00:00,cleveland state,kent state,67 - 58,L,home,1670702400,https://media-2.api-sports.io/basketball/teams/1867.png
 2022-12-18T22:00:00+00:00,cleveland state,loyola marymount,59 - 70,L,away,1671400800,https://media-2.api-sports.io/basketball/teams/1867.png
-2022-12-22T00:00:00+00:00,cleveland state,mt. st. joseph,48 - 78,W,home,1671667200,https://media-1.api-sports.io/basketball/teams/1867.png
+2022-12-22T00:00:00+00:00,cleveland state,mt. st. joseph,48 - 78,W,home,1671667200,https://media-2.api-sports.io/basketball/teams/1867.png
 2022-12-30T01:00:00+00:00,cleveland state,youngstown state,71 - 85,L,away,1672362000,https://media-1.api-sports.io/basketball/teams/1867.png
-2022-12-31T20:00:00+00:00,cleveland state,robert morris,63 - 54,W,away,1672516800,https://media-3.api-sports.io/basketball/teams/1867.png
+2022-12-31T20:00:00+00:00,cleveland state,robert morris,63 - 54,W,away,1672516800,https://media-1.api-sports.io/basketball/teams/1867.png
 2023-01-06T00:00:00+00:00,cleveland state,wisc. milwaukee,68 - 64,L,home,1672963200,https://media-3.api-sports.io/basketball/teams/1867.png
-2023-01-07T20:00:00+00:00,cleveland state,wisc. green bay,77 - 82,W,home,1673121600,https://media-3.api-sports.io/basketball/teams/1867.png
-2023-01-14T17:00:00+00:00,cleveland state,iupui,,,away,1673715600,https://media-3.api-sports.io/basketball/teams/1867.png
-2023-01-17T00:00:00+00:00,cleveland state,ipfw,,,away,1673913600,https://media-1.api-sports.io/basketball/teams/1867.png
+2023-01-07T20:00:00+00:00,cleveland state,wisc. green bay,77 - 82,W,home,1673121600,https://media-1.api-sports.io/basketball/teams/1867.png
+2023-01-14T17:00:00+00:00,cleveland state,iupui,,,away,1673715600,https://media-2.api-sports.io/basketball/teams/1867.png
+2023-01-17T00:00:00+00:00,cleveland state,ipfw,,,away,1673913600,https://media-2.api-sports.io/basketball/teams/1867.png
 2023-01-20T00:00:00+00:00,cleveland state,northern kentucky,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/1867.png
-2023-01-22T00:00:00+00:00,cleveland state,wright state,,,away,1674345600,https://media-2.api-sports.io/basketball/teams/1867.png
+2023-01-22T00:00:00+00:00,cleveland state,wright state,,,away,1674345600,https://media-3.api-sports.io/basketball/teams/1867.png
 2023-01-28T00:00:00+00:00,cleveland state,ipfw,,,home,1674864000,https://media-1.api-sports.io/basketball/teams/1867.png
-2023-01-29T20:00:00+00:00,cleveland state,iupui,,,home,1675022400,https://media-2.api-sports.io/basketball/teams/1867.png
-2023-02-03T00:00:00+00:00,cleveland state,detroit,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/1867.png
+2023-01-29T20:00:00+00:00,cleveland state,iupui,,,home,1675022400,https://media-1.api-sports.io/basketball/teams/1867.png
+2023-02-03T00:00:00+00:00,cleveland state,detroit,,,away,1675382400,https://media-2.api-sports.io/basketball/teams/1867.png
 2023-02-04T18:00:00+00:00,cleveland state,oakland,,,away,1675533600,https://media-1.api-sports.io/basketball/teams/1867.png
 2023-02-11T00:00:00+00:00,cleveland state,robert morris,,,home,1676073600,https://media-3.api-sports.io/basketball/teams/1867.png
 2023-02-12T18:00:00+00:00,cleveland state,youngstown state,,,home,1676224800,https://media-1.api-sports.io/basketball/teams/1867.png
-2023-02-18T00:00:00+00:00,cleveland state,wright state,,,home,1676678400,https://media-2.api-sports.io/basketball/teams/1867.png
+2023-02-18T00:00:00+00:00,cleveland state,wright state,,,home,1676678400,https://media-1.api-sports.io/basketball/teams/1867.png
 2023-02-19T21:00:00+00:00,cleveland state,northern kentucky,None - None,tie,home,1676840400,https://media-2.api-sports.io/basketball/teams/1867.png
-2023-02-23T21:00:00+00:00,cleveland state,wisc. green bay,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/1867.png
+2023-02-23T21:00:00+00:00,cleveland state,wisc. green bay,None - None,tie,away,1677186000,https://media-1.api-sports.io/basketball/teams/1867.png
 2023-02-25T21:00:00+00:00,cleveland state,wisc. milwaukee,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/1867.png

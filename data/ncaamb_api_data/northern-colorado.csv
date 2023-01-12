@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,northern colorado,houston,36 - 83,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/2047.png
-2022-11-12T01:00:00+00:00,northern colorado,tx a&m commerce,77 - 80,W,home,1668214800,https://media-1.api-sports.io/basketball/teams/2047.png
-2022-11-15T01:00:00+00:00,northern colorado,baylor,62 - 95,L,away,1668474000,https://media-1.api-sports.io/basketball/teams/2047.png
-2022-11-19T21:00:00+00:00,northern colorado,san jose state,80 - 69,L,home,1668891600,https://media-3.api-sports.io/basketball/teams/2047.png
-2022-11-23T01:00:00+00:00,northern colorado,colorado christian,70 - 69,L,home,1669165200,https://media-1.api-sports.io/basketball/teams/2047.png
-2022-11-26T02:30:00+00:00,northern colorado,north dakota st,70 - 80,W,home,1669429800,https://media-2.api-sports.io/basketball/teams/2047.png
-2022-11-27T02:30:00+00:00,northern colorado,jacksonville state,82 - 86,W,home,1669516200,https://media-2.api-sports.io/basketball/teams/2047.png
-2022-11-28T00:30:00+00:00,northern colorado,new mexico,74 - 98,L,away,1669595400,https://media-1.api-sports.io/basketball/teams/2047.png
-2022-12-03T21:30:00+00:00,northern colorado,colorado state,88 - 83,W,away,1670103000,https://media-2.api-sports.io/basketball/teams/2047.png
+2022-11-08T01:00:00+00:00,northern colorado,houston,36 - 83,L,away,1667869200,https://media-2.api-sports.io/basketball/teams/2047.png
+2022-11-12T01:00:00+00:00,northern colorado,tx a&m commerce,77 - 80,W,home,1668214800,https://media-2.api-sports.io/basketball/teams/2047.png
+2022-11-15T01:00:00+00:00,northern colorado,baylor,62 - 95,L,away,1668474000,https://media-3.api-sports.io/basketball/teams/2047.png
+2022-11-19T21:00:00+00:00,northern colorado,san jose state,80 - 69,L,home,1668891600,https://media-2.api-sports.io/basketball/teams/2047.png
+2022-11-23T01:00:00+00:00,northern colorado,colorado christian,70 - 69,L,home,1669165200,https://media-2.api-sports.io/basketball/teams/2047.png
+2022-11-26T02:30:00+00:00,northern colorado,north dakota st,70 - 80,W,home,1669429800,https://media-1.api-sports.io/basketball/teams/2047.png
+2022-11-27T02:30:00+00:00,northern colorado,jacksonville state,82 - 86,W,home,1669516200,https://media-3.api-sports.io/basketball/teams/2047.png
+2022-11-28T00:30:00+00:00,northern colorado,new mexico,74 - 98,L,away,1669595400,https://media-2.api-sports.io/basketball/teams/2047.png
+2022-12-03T21:30:00+00:00,northern colorado,colorado state,88 - 83,W,away,1670103000,https://media-1.api-sports.io/basketball/teams/2047.png
 2022-12-11T03:00:00+00:00,northern colorado,cs northridge,70 - 63,W,away,1670727600,https://media-3.api-sports.io/basketball/teams/2047.png
-2022-12-18T22:00:00+00:00,northern colorado,colorado,77 - 88,L,away,1671400800,https://media-1.api-sports.io/basketball/teams/2047.png
+2022-12-18T22:00:00+00:00,northern colorado,colorado,77 - 88,L,away,1671400800,https://media-3.api-sports.io/basketball/teams/2047.png
 2022-12-21T01:00:00+00:00,northern colorado,air force,67 - 65,L,home,1671584400,https://media-3.api-sports.io/basketball/teams/2047.png
-2022-12-30T02:00:00+00:00,northern colorado,weber state,72 - 81,L,away,1672365600,https://media-1.api-sports.io/basketball/teams/2047.png
+2022-12-30T02:00:00+00:00,northern colorado,weber state,72 - 81,L,away,1672365600,https://media-3.api-sports.io/basketball/teams/2047.png
 2023-01-01T01:00:00+00:00,northern colorado,idaho state,83 - 90,L,away,1672534800,https://media-1.api-sports.io/basketball/teams/2047.png
-2023-01-06T01:00:00+00:00,northern colorado,montana state,77 - 56,L,home,1672966800,https://media-3.api-sports.io/basketball/teams/2047.png
-2023-01-08T01:00:00+00:00,northern colorado,montana,79 - 74,L,home,1673139600,https://media-1.api-sports.io/basketball/teams/2047.png
+2023-01-06T01:00:00+00:00,northern colorado,montana state,77 - 56,L,home,1672966800,https://media-1.api-sports.io/basketball/teams/2047.png
+2023-01-08T01:00:00+00:00,northern colorado,montana,79 - 74,L,home,1673139600,https://media-2.api-sports.io/basketball/teams/2047.png
 2023-01-13T03:00:00+00:00,northern colorado,sacramento state,,,away,1673578800,https://media-3.api-sports.io/basketball/teams/2047.png
-2023-01-15T03:00:00+00:00,northern colorado,portland state,,,away,1673751600,https://media-3.api-sports.io/basketball/teams/2047.png
-2023-01-20T01:00:00+00:00,northern colorado,east. washington,,,home,1674176400,https://media-2.api-sports.io/basketball/teams/2047.png
-2023-01-22T01:00:00+00:00,northern colorado,idaho,,,home,1674349200,https://media-1.api-sports.io/basketball/teams/2047.png
-2023-01-28T21:00:00+00:00,northern colorado,northern arizona,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/2047.png
+2023-01-15T03:00:00+00:00,northern colorado,portland state,,,away,1673751600,https://media-2.api-sports.io/basketball/teams/2047.png
+2023-01-20T01:00:00+00:00,northern colorado,east. washington,,,home,1674176400,https://media-1.api-sports.io/basketball/teams/2047.png
+2023-01-22T01:00:00+00:00,northern colorado,idaho,,,home,1674349200,https://media-2.api-sports.io/basketball/teams/2047.png
+2023-01-28T21:00:00+00:00,northern colorado,northern arizona,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/2047.png
 2023-02-03T02:00:00+00:00,northern colorado,montana,,,away,1675389600,https://media-2.api-sports.io/basketball/teams/2047.png
-2023-02-04T23:00:00+00:00,northern colorado,montana state,,,away,1675551600,https://media-2.api-sports.io/basketball/teams/2047.png
-2023-02-07T04:00:00+00:00,northern colorado,weber state,,,home,1675742400,https://media-1.api-sports.io/basketball/teams/2047.png
-2023-02-10T01:00:00+00:00,northern colorado,portland state,,,home,1675990800,https://media-2.api-sports.io/basketball/teams/2047.png
-2023-02-12T01:00:00+00:00,northern colorado,sacramento state,,,home,1676163600,https://media-3.api-sports.io/basketball/teams/2047.png
-2023-02-17T02:00:00+00:00,northern colorado,idaho,,,away,1676599200,https://media-3.api-sports.io/basketball/teams/2047.png
-2023-02-18T22:00:00+00:00,northern colorado,east. washington,,,away,1676757600,https://media-3.api-sports.io/basketball/teams/2047.png
+2023-02-04T23:00:00+00:00,northern colorado,montana state,,,away,1675551600,https://media-3.api-sports.io/basketball/teams/2047.png
+2023-02-07T04:00:00+00:00,northern colorado,weber state,,,home,1675742400,https://media-3.api-sports.io/basketball/teams/2047.png
+2023-02-10T01:00:00+00:00,northern colorado,portland state,,,home,1675990800,https://media-1.api-sports.io/basketball/teams/2047.png
+2023-02-12T01:00:00+00:00,northern colorado,sacramento state,,,home,1676163600,https://media-1.api-sports.io/basketball/teams/2047.png
+2023-02-17T02:00:00+00:00,northern colorado,idaho,,,away,1676599200,https://media-2.api-sports.io/basketball/teams/2047.png
+2023-02-18T22:00:00+00:00,northern colorado,east. washington,,,away,1676757600,https://media-2.api-sports.io/basketball/teams/2047.png
 2023-02-25T21:00:00+00:00,northern colorado,northern arizona,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/2047.png

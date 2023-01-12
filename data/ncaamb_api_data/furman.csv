@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,furman,north greenville,55 - 91,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/185.png
-2022-11-12T00:00:00+00:00,furman,belmont,74 - 89,W,home,1668211200,https://media-1.api-sports.io/basketball/teams/185.png
-2022-11-17T16:30:00+00:00,furman,penn state,68 - 73,L,away,1668702600,https://media-2.api-sports.io/basketball/teams/185.png
-2022-11-18T19:30:00+00:00,furman,old dominion,77 - 82,L,away,1668799800,https://media-1.api-sports.io/basketball/teams/185.png
-2022-11-20T15:30:00+00:00,furman,south carolina,79 - 60,W,away,1668958200,https://media-2.api-sports.io/basketball/teams/185.png
+2022-11-08T00:00:00+00:00,furman,north greenville,55 - 91,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/185.png
+2022-11-12T00:00:00+00:00,furman,belmont,74 - 89,W,home,1668211200,https://media-2.api-sports.io/basketball/teams/185.png
+2022-11-17T16:30:00+00:00,furman,penn state,68 - 73,L,away,1668702600,https://media-3.api-sports.io/basketball/teams/185.png
+2022-11-18T19:30:00+00:00,furman,old dominion,77 - 82,L,away,1668799800,https://media-2.api-sports.io/basketball/teams/185.png
+2022-11-20T15:30:00+00:00,furman,south carolina,79 - 60,W,away,1668958200,https://media-3.api-sports.io/basketball/teams/185.png
 2022-11-25T19:00:00+00:00,furman,tusculum,74 - 102,W,home,1669402800,https://media-1.api-sports.io/basketball/teams/185.png
 2022-11-29T23:30:00+00:00,furman,appalachian state,65 - 61,W,away,1669764600,https://media-2.api-sports.io/basketball/teams/185.png
-2022-12-03T17:00:00+00:00,furman,south carolina st,76 - 88,W,home,1670086800,https://media-3.api-sports.io/basketball/teams/185.png
+2022-12-03T17:00:00+00:00,furman,south carolina st,76 - 88,W,home,1670086800,https://media-2.api-sports.io/basketball/teams/185.png
 2022-12-07T00:00:00+00:00,furman,high point,85 - 82,L,home,1670371200,https://media-3.api-sports.io/basketball/teams/185.png
 2022-12-10T21:00:00+00:00,furman,winthrop,67 - 82,W,home,1670706000,https://media-1.api-sports.io/basketball/teams/185.png
 2022-12-13T23:30:00+00:00,furman,nc state,73 - 92,L,away,1670974200,https://media-1.api-sports.io/basketball/teams/185.png
 2022-12-17T21:30:00+00:00,furman,stephen f. austin,70 - 72,W,home,1671312600,https://media-3.api-sports.io/basketball/teams/185.png
-2022-12-20T00:00:00+00:00,furman,anderson (s.c.),79 - 106,W,home,1671494400,https://media-3.api-sports.io/basketball/teams/185.png
+2022-12-20T00:00:00+00:00,furman,anderson (s.c.),79 - 106,W,home,1671494400,https://media-1.api-sports.io/basketball/teams/185.png
 2022-12-30T00:00:00+00:00,furman,vmi,62 - 85,W,home,1672358400,https://media-2.api-sports.io/basketball/teams/185.png
-2022-12-31T21:00:00+00:00,furman,western carolina,67 - 79,L,away,1672520400,https://media-3.api-sports.io/basketball/teams/185.png
-2023-01-05T00:00:00+00:00,furman,citadel,72 - 97,W,home,1672876800,https://media-1.api-sports.io/basketball/teams/185.png
+2022-12-31T21:00:00+00:00,furman,western carolina,67 - 79,L,away,1672520400,https://media-2.api-sports.io/basketball/teams/185.png
+2023-01-05T00:00:00+00:00,furman,citadel,72 - 97,W,home,1672876800,https://media-3.api-sports.io/basketball/teams/185.png
 2023-01-07T21:00:00+00:00,furman,east tennessee st,70 - 56,W,away,1673125200,https://media-2.api-sports.io/basketball/teams/185.png
-2023-01-12T00:00:00+00:00,furman,mercer,,,away,1673481600,https://media-1.api-sports.io/basketball/teams/185.png
-2023-01-14T21:00:00+00:00,furman,nc greensboro,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/185.png
+2023-01-12T00:00:00+00:00,furman,mercer,84 - 66,W,away,1673481600,https://media-2.api-sports.io/basketball/teams/185.png
+2023-01-14T21:00:00+00:00,furman,nc greensboro,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/185.png
 2023-01-19T00:00:00+00:00,furman,chattanooga mocs,,,away,1674086400,https://media-3.api-sports.io/basketball/teams/185.png
 2023-01-22T21:00:00+00:00,furman,wofford,,,away,1674421200,https://media-1.api-sports.io/basketball/teams/185.png
-2023-01-26T00:00:00+00:00,furman,samford,,,home,1674691200,https://media-2.api-sports.io/basketball/teams/185.png
-2023-01-29T20:00:00+00:00,furman,nc greensboro,,,away,1675022400,https://media-1.api-sports.io/basketball/teams/185.png
-2023-02-02T00:00:00+00:00,furman,chattanooga mocs,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/185.png
+2023-01-26T00:00:00+00:00,furman,samford,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/185.png
+2023-01-29T20:00:00+00:00,furman,nc greensboro,,,away,1675022400,https://media-3.api-sports.io/basketball/teams/185.png
+2023-02-02T00:00:00+00:00,furman,chattanooga mocs,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/185.png
 2023-02-04T23:00:00+00:00,furman,wofford,,,home,1675551600,https://media-3.api-sports.io/basketball/teams/185.png
-2023-02-09T00:00:00+00:00,furman,vmi,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/185.png
-2023-02-11T19:00:00+00:00,furman,western carolina,,,home,1676142000,https://media-2.api-sports.io/basketball/teams/185.png
-2023-02-16T00:00:00+00:00,furman,citadel,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/185.png
+2023-02-09T00:00:00+00:00,furman,vmi,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/185.png
+2023-02-11T19:00:00+00:00,furman,western carolina,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/185.png
+2023-02-16T00:00:00+00:00,furman,citadel,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/185.png

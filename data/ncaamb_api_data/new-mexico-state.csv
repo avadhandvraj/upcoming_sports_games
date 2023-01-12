@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T02:00:00+00:00,new mexico state,new mexico cowboys,52 - 101,W,home,1667872800,https://media-3.api-sports.io/basketball/teams/2035.png
-2022-11-13T02:00:00+00:00,new mexico state,utep,64 - 67,L,away,1668304800,https://media-1.api-sports.io/basketball/teams/2035.png
-2022-11-20T00:00:00+00:00,new mexico state,new mexico,None - None,tie,away,1668902400,https://media-2.api-sports.io/basketball/teams/2035.png
+2022-11-08T02:00:00+00:00,new mexico state,new mexico cowboys,52 - 101,W,home,1667872800,https://media-1.api-sports.io/basketball/teams/2035.png
+2022-11-13T02:00:00+00:00,new mexico state,utep,64 - 67,L,away,1668304800,https://media-3.api-sports.io/basketball/teams/2035.png
+2022-11-20T00:00:00+00:00,new mexico state,new mexico,None - None,tie,away,1668902400,https://media-3.api-sports.io/basketball/teams/2035.png
 2022-11-26T02:30:00+00:00,new mexico state,san diego toreros,77 - 90,W,home,1669429800,https://media-3.api-sports.io/basketball/teams/2035.png
-2022-11-27T02:30:00+00:00,new mexico state,uc irvine,85 - 68,L,home,1669516200,https://media-3.api-sports.io/basketball/teams/2035.png
+2022-11-27T02:30:00+00:00,new mexico state,uc irvine,85 - 68,L,home,1669516200,https://media-2.api-sports.io/basketball/teams/2035.png
 2022-12-01T02:00:00+00:00,new mexico state,utep,70 - 95,W,home,1669860000,https://media-2.api-sports.io/basketball/teams/2035.png
-2022-12-04T02:00:00+00:00,new mexico state,new mexico,None - None,tie,home,1670119200,https://media-1.api-sports.io/basketball/teams/2035.png
-2022-12-06T02:00:00+00:00,new mexico state,simon fraser,35 - 77,W,home,1670292000,https://media-3.api-sports.io/basketball/teams/2035.png
-2022-12-08T03:00:00+00:00,new mexico state,santa clara,65 - 66,L,away,1670468400,https://media-1.api-sports.io/basketball/teams/2035.png
+2022-12-04T02:00:00+00:00,new mexico state,new mexico,None - None,tie,home,1670119200,https://media-2.api-sports.io/basketball/teams/2035.png
+2022-12-06T02:00:00+00:00,new mexico state,simon fraser,35 - 77,W,home,1670292000,https://media-2.api-sports.io/basketball/teams/2035.png
+2022-12-08T03:00:00+00:00,new mexico state,santa clara,65 - 66,L,away,1670468400,https://media-3.api-sports.io/basketball/teams/2035.png
 2022-12-11T21:00:00+00:00,new mexico state,duquesne,73 - 60,W,away,1670792400,https://media-2.api-sports.io/basketball/teams/2035.png
 2022-12-15T03:00:00+00:00,new mexico state,st. marys (ca),68 - 81,L,away,1671073200,https://media-3.api-sports.io/basketball/teams/2035.png
 2022-12-18T23:00:00+00:00,new mexico state,northern new mexico,53 - 95,W,home,1671404400,https://media-1.api-sports.io/basketball/teams/2035.png
-2022-12-22T00:30:00+00:00,new mexico state,kent state,73 - 63,L,home,1671669000,https://media-1.api-sports.io/basketball/teams/2035.png
+2022-12-22T00:30:00+00:00,new mexico state,kent state,73 - 63,L,home,1671669000,https://media-2.api-sports.io/basketball/teams/2035.png
 2022-12-23T00:30:00+00:00,new mexico state,n. carolina a&t,85 - 76,W,away,1671755400,https://media-3.api-sports.io/basketball/teams/2035.png
 2022-12-29T02:00:00+00:00,new mexico state,southern utah,79 - 75,L,home,1672279200,https://media-2.api-sports.io/basketball/teams/2035.png
-2022-12-31T23:00:00+00:00,new mexico state,sam houston st.,75 - 62,L,home,1672527600,https://media-3.api-sports.io/basketball/teams/2035.png
-2023-01-05T00:30:00+00:00,new mexico state,stephen f. austin,60 - 69,L,away,1672878600,https://media-1.api-sports.io/basketball/teams/2035.png
-2023-01-08T02:00:00+00:00,new mexico state,california baptist,70 - 61,L,home,1673143200,https://media-2.api-sports.io/basketball/teams/2035.png
+2022-12-31T23:00:00+00:00,new mexico state,sam houston st.,75 - 62,L,home,1672527600,https://media-1.api-sports.io/basketball/teams/2035.png
+2023-01-05T00:30:00+00:00,new mexico state,stephen f. austin,60 - 69,L,away,1672878600,https://media-3.api-sports.io/basketball/teams/2035.png
+2023-01-08T02:00:00+00:00,new mexico state,california baptist,70 - 61,L,home,1673143200,https://media-3.api-sports.io/basketball/teams/2035.png
 2023-01-13T03:00:00+00:00,new mexico state,seattle,,,away,1673578800,https://media-2.api-sports.io/basketball/teams/2035.png
-2023-01-15T02:00:00+00:00,new mexico state,ut arlington,,,home,1673748000,https://media-2.api-sports.io/basketball/teams/2035.png
-2023-01-20T02:00:00+00:00,new mexico state,southern utah,,,away,1674180000,https://media-1.api-sports.io/basketball/teams/2035.png
-2023-01-22T02:00:00+00:00,new mexico state,utah tech,,,away,1674352800,https://media-3.api-sports.io/basketball/teams/2035.png
-2023-01-28T21:00:00+00:00,new mexico state,utah valley state,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/2035.png
-2023-02-03T02:00:00+00:00,new mexico state,stephen f. austin,,,home,1675389600,https://media-2.api-sports.io/basketball/teams/2035.png
-2023-02-05T02:00:00+00:00,new mexico state,seattle,,,home,1675562400,https://media-2.api-sports.io/basketball/teams/2035.png
-2023-02-10T02:00:00+00:00,new mexico state,grand canyon,,,away,1675994400,https://media-3.api-sports.io/basketball/teams/2035.png
+2023-01-15T02:00:00+00:00,new mexico state,ut arlington,,,home,1673748000,https://media-1.api-sports.io/basketball/teams/2035.png
+2023-01-20T02:00:00+00:00,new mexico state,southern utah,,,away,1674180000,https://media-2.api-sports.io/basketball/teams/2035.png
+2023-01-22T02:00:00+00:00,new mexico state,utah tech,,,away,1674352800,https://media-2.api-sports.io/basketball/teams/2035.png
+2023-01-28T21:00:00+00:00,new mexico state,utah valley state,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/2035.png
+2023-02-03T02:00:00+00:00,new mexico state,stephen f. austin,,,home,1675389600,https://media-1.api-sports.io/basketball/teams/2035.png
+2023-02-05T02:00:00+00:00,new mexico state,seattle,,,home,1675562400,https://media-1.api-sports.io/basketball/teams/2035.png
+2023-02-10T02:00:00+00:00,new mexico state,grand canyon,,,away,1675994400,https://media-1.api-sports.io/basketball/teams/2035.png
 2023-02-12T03:00:00+00:00,new mexico state,california baptist,,,away,1676170800,https://media-3.api-sports.io/basketball/teams/2035.png
-2023-02-16T02:00:00+00:00,new mexico state,abilene christian,,,home,1676512800,https://media-3.api-sports.io/basketball/teams/2035.png
+2023-02-16T02:00:00+00:00,new mexico state,abilene christian,,,home,1676512800,https://media-1.api-sports.io/basketball/teams/2035.png

@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T01:00:00+00:00,mcneese state,champion christian tigers,54 - 110,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/1990.png
-2022-11-12T00:00:00+00:00,mcneese state,tulane,58 - 75,L,away,1668211200,https://media-1.api-sports.io/basketball/teams/1990.png
+2022-11-12T00:00:00+00:00,mcneese state,tulane,58 - 75,L,away,1668211200,https://media-2.api-sports.io/basketball/teams/1990.png
 2022-11-18T22:30:00+00:00,mcneese state,western carolina,88 - 69,L,home,1668810600,https://media-2.api-sports.io/basketball/teams/1990.png
-2022-11-19T19:30:00+00:00,mcneese state,lindenwood,78 - 60,L,home,1668886200,https://media-2.api-sports.io/basketball/teams/1990.png
-2022-11-20T19:30:00+00:00,mcneese state,lamar,57 - 66,W,home,1668972600,https://media-1.api-sports.io/basketball/teams/1990.png
+2022-11-19T19:30:00+00:00,mcneese state,lindenwood,78 - 60,L,home,1668886200,https://media-1.api-sports.io/basketball/teams/1990.png
+2022-11-20T19:30:00+00:00,mcneese state,lamar,57 - 66,W,home,1668972600,https://media-3.api-sports.io/basketball/teams/1990.png
 2022-11-23T21:00:00+00:00,mcneese state,baylor,60 - 89,L,away,1669237200,https://media-1.api-sports.io/basketball/teams/1990.png
 2022-11-29T00:00:00+00:00,mcneese state,ut martin,83 - 86,L,away,1669680000,https://media-1.api-sports.io/basketball/teams/1990.png
-2022-12-01T00:15:00+00:00,mcneese state,tennessee,40 - 76,L,away,1669853700,https://media-1.api-sports.io/basketball/teams/1990.png
-2022-12-10T01:00:00+00:00,mcneese state,northern iowa,52 - 49,W,away,1670634000,https://media-1.api-sports.io/basketball/teams/1990.png
-2022-12-11T23:00:00+00:00,mcneese state,iowa state,40 - 77,L,away,1670799600,https://media-2.api-sports.io/basketball/teams/1990.png
-2022-12-16T01:00:00+00:00,mcneese state,louisiana lafayette,78 - 70,L,home,1671152400,https://media-3.api-sports.io/basketball/teams/1990.png
+2022-12-01T00:15:00+00:00,mcneese state,tennessee,40 - 76,L,away,1669853700,https://media-3.api-sports.io/basketball/teams/1990.png
+2022-12-10T01:00:00+00:00,mcneese state,northern iowa,52 - 49,W,away,1670634000,https://media-2.api-sports.io/basketball/teams/1990.png
+2022-12-11T23:00:00+00:00,mcneese state,iowa state,40 - 77,L,away,1670799600,https://media-1.api-sports.io/basketball/teams/1990.png
+2022-12-16T01:00:00+00:00,mcneese state,louisiana lafayette,78 - 70,L,home,1671152400,https://media-1.api-sports.io/basketball/teams/1990.png
 2022-12-18T20:00:00+00:00,mcneese state,southern miss,67 - 86,L,away,1671393600,https://media-2.api-sports.io/basketball/teams/1990.png
 2022-12-22T01:00:00+00:00,mcneese state,houston,44 - 83,L,away,1671670800,https://media-3.api-sports.io/basketball/teams/1990.png
 2022-12-31T22:00:00+00:00,mcneese state,lamar,81 - 62,W,away,1672524000,https://media-1.api-sports.io/basketball/teams/1990.png
-2023-01-06T01:30:00+00:00,mcneese state,northwestern st.,77 - 92,W,home,1672968600,https://media-1.api-sports.io/basketball/teams/1990.png
-2023-01-07T21:30:00+00:00,mcneese state,tx a&m commerce,82 - 80,L,home,1673127000,https://media-2.api-sports.io/basketball/teams/1990.png
-2023-01-13T02:00:00+00:00,mcneese state,northwestern st.,,,away,1673575200,https://media-3.api-sports.io/basketball/teams/1990.png
-2023-01-14T21:30:00+00:00,mcneese state,houston christian,,,home,1673731800,https://media-3.api-sports.io/basketball/teams/1990.png
-2023-01-20T01:00:00+00:00,mcneese state,nicholls state,,,away,1674176400,https://media-1.api-sports.io/basketball/teams/1990.png
-2023-01-21T21:30:00+00:00,mcneese state,nicholls state,,,home,1674336600,https://media-3.api-sports.io/basketball/teams/1990.png
+2023-01-06T01:30:00+00:00,mcneese state,northwestern st.,77 - 92,W,home,1672968600,https://media-3.api-sports.io/basketball/teams/1990.png
+2023-01-07T21:30:00+00:00,mcneese state,tx a&m commerce,82 - 80,L,home,1673127000,https://media-3.api-sports.io/basketball/teams/1990.png
+2023-01-13T02:00:00+00:00,mcneese state,northwestern st.,,,away,1673575200,https://media-2.api-sports.io/basketball/teams/1990.png
+2023-01-14T21:30:00+00:00,mcneese state,houston christian,,,home,1673731800,https://media-1.api-sports.io/basketball/teams/1990.png
+2023-01-20T01:00:00+00:00,mcneese state,nicholls state,,,away,1674176400,https://media-3.api-sports.io/basketball/teams/1990.png
+2023-01-21T21:30:00+00:00,mcneese state,nicholls state,,,home,1674336600,https://media-2.api-sports.io/basketball/teams/1990.png
 2023-01-27T01:30:00+00:00,mcneese state,incarnate word,,,away,1674783000,https://media-3.api-sports.io/basketball/teams/1990.png
-2023-01-28T21:30:00+00:00,mcneese state,texas a&m-cc,,,away,1674941400,https://media-1.api-sports.io/basketball/teams/1990.png
-2023-02-03T01:30:00+00:00,mcneese state,lamar,,,home,1675387800,https://media-1.api-sports.io/basketball/teams/1990.png
+2023-01-28T21:30:00+00:00,mcneese state,texas a&m-cc,,,away,1674941400,https://media-2.api-sports.io/basketball/teams/1990.png
+2023-02-03T01:30:00+00:00,mcneese state,lamar,,,home,1675387800,https://media-2.api-sports.io/basketball/teams/1990.png
 2023-02-04T22:30:00+00:00,mcneese state,tx a&m commerce,,,away,1675549800,https://media-3.api-sports.io/basketball/teams/1990.png
 2023-02-10T01:30:00+00:00,mcneese state,se louisiana,,,home,1675992600,https://media-2.api-sports.io/basketball/teams/1990.png
 2023-02-11T22:00:00+00:00,mcneese state,new orleans,,,away,1676152800,https://media-3.api-sports.io/basketball/teams/1990.png
-2023-02-17T01:30:00+00:00,mcneese state,incarnate word,,,home,1676597400,https://media-2.api-sports.io/basketball/teams/1990.png
-2023-02-18T21:30:00+00:00,mcneese state,texas a&m-cc,,,home,1676755800,https://media-2.api-sports.io/basketball/teams/1990.png
+2023-02-17T01:30:00+00:00,mcneese state,incarnate word,,,home,1676597400,https://media-3.api-sports.io/basketball/teams/1990.png
+2023-02-18T21:30:00+00:00,mcneese state,texas a&m-cc,,,home,1676755800,https://media-3.api-sports.io/basketball/teams/1990.png

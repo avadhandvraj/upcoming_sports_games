@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T03:15:00+00:00,southern univ.,unlv,56 - 66,L,away,1667877300,https://media-1.api-sports.io/basketball/teams/5856.png
-2022-11-12T02:00:00+00:00,southern univ.,arizona,78 - 95,L,away,1668218400,https://media-1.api-sports.io/basketball/teams/5856.png
-2022-11-17T01:30:00+00:00,southern univ.,st. marys (ca),54 - 72,L,away,1668648600,https://media-2.api-sports.io/basketball/teams/5856.png
+2022-11-12T02:00:00+00:00,southern univ.,arizona,78 - 95,L,away,1668218400,https://media-3.api-sports.io/basketball/teams/5856.png
+2022-11-17T01:30:00+00:00,southern univ.,st. marys (ca),54 - 72,L,away,1668648600,https://media-1.api-sports.io/basketball/teams/5856.png
 2022-11-19T02:00:00+00:00,southern univ.,california,74 - 66,W,away,1668823200,https://media-3.api-sports.io/basketball/teams/5856.png
-2022-11-25T17:00:00+00:00,southern univ.,loyola maryland,76 - 58,W,away,1669395600,https://media-3.api-sports.io/basketball/teams/5856.png
-2022-11-26T18:30:00+00:00,southern univ.,nebraska o.,78 - 88,L,away,1669487400,https://media-3.api-sports.io/basketball/teams/5856.png
+2022-11-25T17:00:00+00:00,southern univ.,loyola maryland,76 - 58,W,away,1669395600,https://media-1.api-sports.io/basketball/teams/5856.png
+2022-11-26T18:30:00+00:00,southern univ.,nebraska o.,78 - 88,L,away,1669487400,https://media-1.api-sports.io/basketball/teams/5856.png
 2022-11-29T00:30:00+00:00,southern univ.,champion christian tigers,52 - 112,W,home,1669681800,https://media-3.api-sports.io/basketball/teams/5856.png
 2022-12-03T00:00:00+00:00,southern univ.,louisiana tech,59 - 74,L,away,1670025600,https://media-2.api-sports.io/basketball/teams/5856.png
-2022-12-10T22:00:00+00:00,southern univ.,lsu-alexandria,76 - 98,W,home,1670709600,https://media-2.api-sports.io/basketball/teams/5856.png
-2022-12-14T00:00:00+00:00,southern univ.,xavier,59 - 79,L,away,1670976000,https://media-2.api-sports.io/basketball/teams/5856.png
+2022-12-10T22:00:00+00:00,southern univ.,lsu-alexandria,76 - 98,W,home,1670709600,https://media-3.api-sports.io/basketball/teams/5856.png
+2022-12-14T00:00:00+00:00,southern univ.,xavier,59 - 79,L,away,1670976000,https://media-1.api-sports.io/basketball/teams/5856.png
 2022-12-17T01:00:00+00:00,southern univ.,youngstown state,81 - 85,L,away,1671238800,https://media-3.api-sports.io/basketball/teams/5856.png
 2022-12-18T21:30:00+00:00,southern univ.,uab,66 - 92,L,away,1671399000,https://media-1.api-sports.io/basketball/teams/5856.png
-2022-12-22T01:00:00+00:00,southern univ.,se louisiana,62 - 80,L,away,1671670800,https://media-3.api-sports.io/basketball/teams/5856.png
+2022-12-22T01:00:00+00:00,southern univ.,se louisiana,62 - 80,L,away,1671670800,https://media-1.api-sports.io/basketball/teams/5856.png
 2023-01-03T01:30:00+00:00,southern univ.,texas southern,77 - 76,W,away,1672709400,https://media-1.api-sports.io/basketball/teams/5856.png
-2023-01-05T01:30:00+00:00,southern univ.,prairie view a&m,66 - 62,W,away,1672882200,https://media-3.api-sports.io/basketball/teams/5856.png
-2023-01-07T23:30:00+00:00,southern univ.,florida a&m,66 - 84,W,home,1673134200,https://media-3.api-sports.io/basketball/teams/5856.png
-2023-01-10T02:00:00+00:00,southern univ.,bethune-cookman,,,home,1673316000,https://media-1.api-sports.io/basketball/teams/5856.png
-2023-01-14T23:30:00+00:00,southern univ.,grambling st.,,,home,1673739000,https://media-3.api-sports.io/basketball/teams/5856.png
-2023-01-22T01:30:00+00:00,southern univ.,arkansas-pine bluff,,,away,1674351000,https://media-2.api-sports.io/basketball/teams/5856.png
-2023-01-24T01:30:00+00:00,southern univ.,miss. valley st.,,,away,1674523800,https://media-3.api-sports.io/basketball/teams/5856.png
-2023-01-28T23:30:00+00:00,southern univ.,alcorn state,,,home,1674948600,https://media-1.api-sports.io/basketball/teams/5856.png
+2023-01-05T01:30:00+00:00,southern univ.,prairie view a&m,66 - 62,W,away,1672882200,https://media-1.api-sports.io/basketball/teams/5856.png
+2023-01-07T23:30:00+00:00,southern univ.,florida a&m,66 - 84,W,home,1673134200,https://media-1.api-sports.io/basketball/teams/5856.png
+2023-01-10T02:00:00+00:00,southern univ.,bethune-cookman,75 - 102,W,home,1673316000,https://media-3.api-sports.io/basketball/teams/5856.png
+2023-01-14T21:00:00+00:00,southern univ.,grambling st.,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/5856.png
+2023-01-22T01:30:00+00:00,southern univ.,arkansas-pine bluff,,,away,1674351000,https://media-3.api-sports.io/basketball/teams/5856.png
+2023-01-24T01:30:00+00:00,southern univ.,miss. valley st.,,,away,1674523800,https://media-1.api-sports.io/basketball/teams/5856.png
+2023-01-28T23:30:00+00:00,southern univ.,alcorn state,,,home,1674948600,https://media-2.api-sports.io/basketball/teams/5856.png
 2023-01-31T02:00:00+00:00,southern univ.,jackson state,,,home,1675130400,https://media-1.api-sports.io/basketball/teams/5856.png
 2023-02-05T01:00:00+00:00,southern univ.,alabama a&m,,,away,1675558800,https://media-1.api-sports.io/basketball/teams/5856.png
-2023-02-07T02:00:00+00:00,southern univ.,alabama state,,,away,1675735200,https://media-1.api-sports.io/basketball/teams/5856.png
-2023-02-11T23:30:00+00:00,southern univ.,prairie view a&m,,,home,1676158200,https://media-3.api-sports.io/basketball/teams/5856.png
+2023-02-07T02:00:00+00:00,southern univ.,alabama state,,,away,1675735200,https://media-2.api-sports.io/basketball/teams/5856.png
+2023-02-11T23:30:00+00:00,southern univ.,prairie view a&m,,,home,1676158200,https://media-1.api-sports.io/basketball/teams/5856.png
 2023-02-14T02:00:00+00:00,southern univ.,texas southern,,,home,1676340000,https://media-2.api-sports.io/basketball/teams/5856.png
 2023-02-18T21:00:00+00:00,southern univ.,grambling st.,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/5856.png

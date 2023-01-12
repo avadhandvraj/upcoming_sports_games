@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,boston college,cornell,77 - 79,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/1836.png
-2022-11-11T18:00:00+00:00,boston college,detroit,66 - 70,W,home,1668189600,https://media-1.api-sports.io/basketball/teams/1836.png
-2022-11-14T23:00:00+00:00,boston college,maine black bears,69 - 64,L,home,1668466800,https://media-2.api-sports.io/basketball/teams/1836.png
-2022-11-19T01:00:00+00:00,boston college,george mason,71 - 56,W,away,1668819600,https://media-2.api-sports.io/basketball/teams/1836.png
-2022-11-21T01:00:00+00:00,boston college,tarleton,70 - 54,L,home,1668992400,https://media-1.api-sports.io/basketball/teams/1836.png
-2022-11-21T22:45:00+00:00,boston college,wyoming,48 - 59,W,home,1669070700,https://media-3.api-sports.io/basketball/teams/1836.png
-2022-11-27T17:00:00+00:00,boston college,rhode island,49 - 53,W,home,1669568400,https://media-2.api-sports.io/basketball/teams/1836.png
+2022-11-08T01:00:00+00:00,boston college,cornell,77 - 79,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/1836.png
+2022-11-11T18:00:00+00:00,boston college,detroit,66 - 70,W,home,1668189600,https://media-3.api-sports.io/basketball/teams/1836.png
+2022-11-14T23:00:00+00:00,boston college,maine black bears,69 - 64,L,home,1668466800,https://media-3.api-sports.io/basketball/teams/1836.png
+2022-11-19T01:00:00+00:00,boston college,george mason,71 - 56,W,away,1668819600,https://media-1.api-sports.io/basketball/teams/1836.png
+2022-11-21T01:00:00+00:00,boston college,tarleton,70 - 54,L,home,1668992400,https://media-3.api-sports.io/basketball/teams/1836.png
+2022-11-21T22:45:00+00:00,boston college,wyoming,48 - 59,W,home,1669070700,https://media-2.api-sports.io/basketball/teams/1836.png
+2022-11-27T17:00:00+00:00,boston college,rhode island,49 - 53,W,home,1669568400,https://media-3.api-sports.io/basketball/teams/1836.png
 2022-12-01T02:15:00+00:00,boston college,nebraska,67 - 88,L,away,1669860900,https://media-2.api-sports.io/basketball/teams/1836.png
 2022-12-03T21:00:00+00:00,boston college,duke,59 - 75,L,away,1670101200,https://media-3.api-sports.io/basketball/teams/1836.png
-2022-12-07T00:00:00+00:00,boston college,new hampshire,74 - 71,L,home,1670371200,https://media-3.api-sports.io/basketball/teams/1836.png
-2022-12-10T22:00:00+00:00,boston college,villanova,77 - 56,L,home,1670709600,https://media-1.api-sports.io/basketball/teams/1836.png
-2022-12-14T00:00:00+00:00,boston college,stonehill,56 - 63,W,home,1670976000,https://media-2.api-sports.io/basketball/teams/1836.png
-2022-12-21T23:30:00+00:00,boston college,virginia tech,65 - 70,W,home,1671665400,https://media-3.api-sports.io/basketball/teams/1836.png
-2022-12-31T19:00:00+00:00,boston college,syracuse,65 - 79,L,away,1672513200,https://media-1.api-sports.io/basketball/teams/1836.png
-2023-01-04T00:00:00+00:00,boston college,notre dame,63 - 70,W,home,1672790400,https://media-3.api-sports.io/basketball/teams/1836.png
-2023-01-07T18:00:00+00:00,boston college,duke,65 - 64,L,home,1673114400,https://media-1.api-sports.io/basketball/teams/1836.png
-2023-01-12T00:00:00+00:00,boston college,miami (fl),,,away,1673481600,https://media-2.api-sports.io/basketball/teams/1836.png
-2023-01-15T01:00:00+00:00,boston college,wake forest,,,home,1673744400,https://media-3.api-sports.io/basketball/teams/1836.png
-2023-01-18T00:00:00+00:00,boston college,north carolina,,,away,1674000000,https://media-2.api-sports.io/basketball/teams/1836.png
+2022-12-07T00:00:00+00:00,boston college,new hampshire,74 - 71,L,home,1670371200,https://media-2.api-sports.io/basketball/teams/1836.png
+2022-12-10T22:00:00+00:00,boston college,villanova,77 - 56,L,home,1670709600,https://media-3.api-sports.io/basketball/teams/1836.png
+2022-12-14T00:00:00+00:00,boston college,stonehill,56 - 63,W,home,1670976000,https://media-1.api-sports.io/basketball/teams/1836.png
+2022-12-21T23:30:00+00:00,boston college,virginia tech,65 - 70,W,home,1671665400,https://media-1.api-sports.io/basketball/teams/1836.png
+2022-12-31T19:00:00+00:00,boston college,syracuse,65 - 79,L,away,1672513200,https://media-3.api-sports.io/basketball/teams/1836.png
+2023-01-04T00:00:00+00:00,boston college,notre dame,63 - 70,W,home,1672790400,https://media-2.api-sports.io/basketball/teams/1836.png
+2023-01-07T18:00:00+00:00,boston college,duke,65 - 64,L,home,1673114400,https://media-3.api-sports.io/basketball/teams/1836.png
+2023-01-12T00:00:00+00:00,boston college,miami (fl),72 - 88,L,away,1673481600,https://media-3.api-sports.io/basketball/teams/1836.png
+2023-01-15T01:00:00+00:00,boston college,wake forest,,,home,1673744400,https://media-1.api-sports.io/basketball/teams/1836.png
+2023-01-18T00:00:00+00:00,boston college,north carolina,,,away,1674000000,https://media-3.api-sports.io/basketball/teams/1836.png
 2023-01-21T19:00:00+00:00,boston college,notre dame,,,away,1674327600,https://media-3.api-sports.io/basketball/teams/1836.png
-2023-01-26T02:00:00+00:00,boston college,louisville,,,home,1674698400,https://media-3.api-sports.io/basketball/teams/1836.png
-2023-01-28T17:00:00+00:00,boston college,virginia,,,away,1674925200,https://media-1.api-sports.io/basketball/teams/1836.png
-2023-02-01T00:00:00+00:00,boston college,clemson,,,home,1675209600,https://media-2.api-sports.io/basketball/teams/1836.png
-2023-02-04T22:00:00+00:00,boston college,syracuse,,,home,1675548000,https://media-3.api-sports.io/basketball/teams/1836.png
-2023-02-09T00:00:00+00:00,boston college,virginia tech,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1836.png
+2023-01-26T02:00:00+00:00,boston college,louisville,,,home,1674698400,https://media-2.api-sports.io/basketball/teams/1836.png
+2023-01-28T17:00:00+00:00,boston college,virginia,,,away,1674925200,https://media-3.api-sports.io/basketball/teams/1836.png
+2023-02-01T00:00:00+00:00,boston college,clemson,,,home,1675209600,https://media-3.api-sports.io/basketball/teams/1836.png
+2023-02-04T22:00:00+00:00,boston college,syracuse,,,home,1675548000,https://media-1.api-sports.io/basketball/teams/1836.png
+2023-02-09T00:00:00+00:00,boston college,virginia tech,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/1836.png
 2023-02-11T17:00:00+00:00,boston college,nc state,,,home,1676134800,https://media-1.api-sports.io/basketball/teams/1836.png
-2023-02-15T02:00:00+00:00,boston college,pittsburgh,,,away,1676426400,https://media-3.api-sports.io/basketball/teams/1836.png
-2023-02-18T17:00:00+00:00,boston college,florida state,,,away,1676739600,https://media-3.api-sports.io/basketball/teams/1836.png
+2023-02-15T02:00:00+00:00,boston college,pittsburgh,,,away,1676426400,https://media-1.api-sports.io/basketball/teams/1836.png
+2023-02-18T17:00:00+00:00,boston college,florida state,,,away,1676739600,https://media-1.api-sports.io/basketball/teams/1836.png

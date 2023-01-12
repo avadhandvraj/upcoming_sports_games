@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Saturday, August 06 02:00 PM",clermont foot,paris saint germain,5 - 0,L,home,1659812400,https://media-1.api-sports.io/football/teams/99.png
-"Sunday, August 14 08:00 AM",clermont foot,reims,4 - 2,W,away,1660482000,https://media-2.api-sports.io/football/teams/99.png
+"Saturday, August 06 02:00 PM",clermont foot,paris saint germain,5 - 0,L,home,1659812400,https://media-2.api-sports.io/football/teams/99.png
+"Sunday, August 14 08:00 AM",clermont foot,reims,4 - 2,W,away,1660482000,https://media-1.api-sports.io/football/teams/99.png
 "Sunday, August 21 08:00 AM",clermont foot,nice,0 - 1,W,home,1661086800,https://media-2.api-sports.io/football/teams/99.png
 "Sunday, August 28 08:00 AM",clermont foot,lorient,1 - 2,L,away,1661691600,https://media-3.api-sports.io/football/teams/99.png
-"Wednesday, August 31 02:00 PM",clermont foot,marseille,0 - 1,L,away,1661972400,https://media-1.api-sports.io/football/teams/99.png
+"Wednesday, August 31 02:00 PM",clermont foot,marseille,0 - 1,L,away,1661972400,https://media-3.api-sports.io/football/teams/99.png
 "Sunday, September 04 08:00 AM",clermont foot,toulouse,0 - 2,W,home,1662296400,https://media-2.api-sports.io/football/teams/99.png
-"Sunday, September 11 06:00 AM",clermont foot,strasbourg,0 - 0,tie,away,1662894000,https://media-1.api-sports.io/football/teams/99.png
-"Sunday, September 18 08:00 AM",clermont foot,estac troyes,3 - 1,L,home,1663506000,https://media-1.api-sports.io/football/teams/99.png
+"Sunday, September 11 06:00 AM",clermont foot,strasbourg,0 - 0,tie,away,1662894000,https://media-3.api-sports.io/football/teams/99.png
+"Sunday, September 18 08:00 AM",clermont foot,estac troyes,3 - 1,L,home,1663506000,https://media-3.api-sports.io/football/teams/99.png
 "Sunday, October 02 08:00 AM",clermont foot,ajaccio,3 - 1,W,away,1664715600,https://media-1.api-sports.io/football/teams/99.png
 "Sunday, October 09 08:00 AM",clermont foot,auxerre,1 - 2,W,home,1665320400,https://media-1.api-sports.io/football/teams/99.png
 "Sunday, October 16 10:05 AM",clermont foot,monaco,1 - 1,tie,away,1665932700,https://media-1.api-sports.io/football/teams/99.png
 "Sunday, October 23 08:00 AM",clermont foot,stade brestois 29,3 - 1,L,home,1666530000,https://media-3.api-sports.io/football/teams/99.png
-"Sunday, October 30 09:00 AM",clermont foot,nantes,1 - 1,tie,away,1667138400,https://media-1.api-sports.io/football/teams/99.png
-"Sunday, November 06 08:00 AM",clermont foot,montpellier,1 - 1,tie,home,1667743200,https://media-1.api-sports.io/football/teams/99.png
-"Saturday, November 12 10:00 AM",clermont foot,lens,1 - 2,L,away,1668268800,https://media-3.api-sports.io/football/teams/99.png
-"Wednesday, December 28 12:00 PM",clermont foot,lille,2 - 0,L,home,1672250400,https://media-3.api-sports.io/football/teams/99.png
+"Sunday, October 30 09:00 AM",clermont foot,nantes,1 - 1,tie,away,1667138400,https://media-3.api-sports.io/football/teams/99.png
+"Sunday, November 06 08:00 AM",clermont foot,montpellier,1 - 1,tie,home,1667743200,https://media-2.api-sports.io/football/teams/99.png
+"Saturday, November 12 10:00 AM",clermont foot,lens,1 - 2,L,away,1668268800,https://media-1.api-sports.io/football/teams/99.png
+"Wednesday, December 28 12:00 PM",clermont foot,lille,2 - 0,L,home,1672250400,https://media-1.api-sports.io/football/teams/99.png
 "Sunday, January 01 10:00 AM",clermont foot,lyon,1 - 0,W,away,1672588800,https://media-3.api-sports.io/football/teams/99.png
-"Wednesday, January 11 12:00 PM",clermont foot,rennes,,,home,1673460000,https://media-1.api-sports.io/football/teams/99.png
-"Sunday, January 15 08:00 AM",clermont foot,angers,,,away,1673791200,https://media-1.api-sports.io/football/teams/99.png
+"Wednesday, January 11 12:00 PM",clermont foot,rennes,1 - 2,W,home,1673460000,https://media-3.api-sports.io/football/teams/99.png
+"Sunday, January 15 08:00 AM",clermont foot,angers,,,away,1673791200,https://media-2.api-sports.io/football/teams/99.png
 "Sunday, January 29 08:00 AM",clermont foot,nantes,,,home,1675000800,https://media-2.api-sports.io/football/teams/99.png
 "Wednesday, February 01 12:00 PM",clermont foot,lille,,,away,1675274400,https://media-3.api-sports.io/football/teams/99.png
 "Saturday, February 04 06:00 PM",clermont foot,monaco,,,home,1675555200,https://media-1.api-sports.io/football/teams/99.png
 "Saturday, February 11 06:00 PM",clermont foot,marseille,,,home,1676160000,https://media-1.api-sports.io/football/teams/99.png
-"Saturday, February 18 06:00 PM",clermont foot,rennes,,,away,1676764800,https://media-3.api-sports.io/football/teams/99.png
-"Saturday, February 25 06:00 PM",clermont foot,strasbourg,,,home,1677369600,https://media-3.api-sports.io/football/teams/99.png
-"Saturday, March 04 06:00 PM",clermont foot,toulouse,,,away,1677974400,https://media-3.api-sports.io/football/teams/99.png
-"Saturday, March 11 06:00 PM",clermont foot,lens,,,home,1678579200,https://media-2.api-sports.io/football/teams/99.png
-"Saturday, March 18 07:00 PM",clermont foot,montpellier,,,away,1679184000,https://media-1.api-sports.io/football/teams/99.png
+"Saturday, February 18 06:00 PM",clermont foot,rennes,,,away,1676764800,https://media-1.api-sports.io/football/teams/99.png
+"Saturday, February 25 06:00 PM",clermont foot,strasbourg,,,home,1677369600,https://media-2.api-sports.io/football/teams/99.png
+"Saturday, March 04 06:00 PM",clermont foot,toulouse,,,away,1677974400,https://media-2.api-sports.io/football/teams/99.png
+"Saturday, March 11 06:00 PM",clermont foot,lens,,,home,1678579200,https://media-1.api-sports.io/football/teams/99.png
+"Saturday, March 18 07:00 PM",clermont foot,montpellier,,,away,1679184000,https://media-3.api-sports.io/football/teams/99.png
 "Saturday, April 01 07:00 PM",clermont foot,ajaccio,,,home,1680393600,https://media-2.api-sports.io/football/teams/99.png
 "Saturday, April 08 07:00 PM",clermont foot,estac troyes,,,away,1680998400,https://media-1.api-sports.io/football/teams/99.png
-"Saturday, April 15 07:00 PM",clermont foot,angers,,,home,1681603200,https://media-2.api-sports.io/football/teams/99.png
-"Saturday, April 22 07:00 PM",clermont foot,nice,,,away,1682208000,https://media-3.api-sports.io/football/teams/99.png
-"Saturday, April 29 07:00 PM",clermont foot,reims,,,home,1682812800,https://media-2.api-sports.io/football/teams/99.png
-"Saturday, May 06 07:00 PM",clermont foot,auxerre,,,away,1683417600,https://media-2.api-sports.io/football/teams/99.png
+"Saturday, April 15 07:00 PM",clermont foot,angers,,,home,1681603200,https://media-3.api-sports.io/football/teams/99.png
+"Saturday, April 22 07:00 PM",clermont foot,nice,,,away,1682208000,https://media-2.api-sports.io/football/teams/99.png
+"Saturday, April 29 07:00 PM",clermont foot,reims,,,home,1682812800,https://media-1.api-sports.io/football/teams/99.png
+"Saturday, May 06 07:00 PM",clermont foot,auxerre,,,away,1683417600,https://media-3.api-sports.io/football/teams/99.png
 "Saturday, May 13 07:00 PM",clermont foot,lyon,,,home,1684022400,https://media-3.api-sports.io/football/teams/99.png
-"Saturday, May 20 07:00 PM",clermont foot,stade brestois 29,,,away,1684627200,https://media-2.api-sports.io/football/teams/99.png
-"Friday, May 26 07:00 PM",clermont foot,lorient,,,home,1685145600,https://media-1.api-sports.io/football/teams/99.png
+"Saturday, May 20 07:00 PM",clermont foot,stade brestois 29,,,away,1684627200,https://media-1.api-sports.io/football/teams/99.png
+"Friday, May 26 07:00 PM",clermont foot,lorient,,,home,1685145600,https://media-2.api-sports.io/football/teams/99.png
 "Friday, June 02 07:00 PM",clermont foot,paris saint germain,,,away,1685750400,https://media-2.api-sports.io/football/teams/99.png

@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T02:00:00+00:00,north florida,gonzaga,63 - 104,L,away,1667872800,https://media-1.api-sports.io/basketball/teams/2043.png
-2022-11-12T04:00:00+00:00,north florida,washington,67 - 75,L,away,1668225600,https://media-3.api-sports.io/basketball/teams/2043.png
-2022-11-19T22:00:00+00:00,north florida,south carolina st,66 - 72,W,home,1668895200,https://media-2.api-sports.io/basketball/teams/2043.png
+2022-11-12T04:00:00+00:00,north florida,washington,67 - 75,L,away,1668225600,https://media-2.api-sports.io/basketball/teams/2043.png
+2022-11-19T22:00:00+00:00,north florida,south carolina st,66 - 72,W,home,1668895200,https://media-3.api-sports.io/basketball/teams/2043.png
 2022-11-22T00:00:00+00:00,north florida,duquesne,82 - 83,L,away,1669075200,https://media-2.api-sports.io/basketball/teams/2043.png
-2022-11-23T21:00:00+00:00,north florida,kentucky,56 - 96,L,away,1669237200,https://media-1.api-sports.io/basketball/teams/2043.png
-2022-11-30T00:00:00+00:00,north florida,trinity baptist,49 - 90,W,home,1669766400,https://media-2.api-sports.io/basketball/teams/2043.png
+2022-11-23T21:00:00+00:00,north florida,kentucky,56 - 96,L,away,1669237200,https://media-2.api-sports.io/basketball/teams/2043.png
+2022-11-30T00:00:00+00:00,north florida,trinity baptist,49 - 90,W,home,1669766400,https://media-3.api-sports.io/basketball/teams/2043.png
 2022-12-03T19:00:00+00:00,north florida,high point,88 - 93,L,away,1670094000,https://media-3.api-sports.io/basketball/teams/2043.png
 2022-12-07T01:00:00+00:00,north florida,houston,42 - 76,L,away,1670374800,https://media-1.api-sports.io/basketball/teams/2043.png
-2022-12-10T19:00:00+00:00,north florida,bethune-cookman,48 - 88,W,home,1670698800,https://media-2.api-sports.io/basketball/teams/2043.png
-2022-12-17T18:00:00+00:00,north florida,pittsburgh,56 - 82,L,away,1671300000,https://media-1.api-sports.io/basketball/teams/2043.png
+2022-12-10T19:00:00+00:00,north florida,bethune-cookman,48 - 88,W,home,1670698800,https://media-1.api-sports.io/basketball/teams/2043.png
+2022-12-17T18:00:00+00:00,north florida,pittsburgh,56 - 82,L,away,1671300000,https://media-2.api-sports.io/basketball/teams/2043.png
 2022-12-20T00:00:00+00:00,north florida,davis & elkins,66 - 105,W,home,1671494400,https://media-2.api-sports.io/basketball/teams/2043.png
-2022-12-22T19:00:00+00:00,north florida,bethune-cookman,87 - 85,W,away,1671735600,https://media-2.api-sports.io/basketball/teams/2043.png
+2022-12-22T19:00:00+00:00,north florida,bethune-cookman,87 - 85,W,away,1671735600,https://media-1.api-sports.io/basketball/teams/2043.png
 2022-12-30T00:00:00+00:00,north florida,florida national,None - None,tie,home,1672358400,https://media-1.api-sports.io/basketball/teams/2043.png
 2022-12-31T19:00:00+00:00,north florida,austin peay,85 - 90,W,home,1672513200,https://media-3.api-sports.io/basketball/teams/2043.png
-2023-01-03T00:30:00+00:00,north florida,stetson,62 - 68,L,away,1672705800,https://media-1.api-sports.io/basketball/teams/2043.png
-2023-01-06T00:00:00+00:00,north florida,kennesaw state,86 - 89,W,home,1672963200,https://media-1.api-sports.io/basketball/teams/2043.png
-2023-01-08T00:00:00+00:00,north florida,florida gulf coast,57 - 82,L,away,1673136000,https://media-1.api-sports.io/basketball/teams/2043.png
-2023-01-13T00:00:00+00:00,north florida,jacksonville state,,,away,1673568000,https://media-1.api-sports.io/basketball/teams/2043.png
-2023-01-14T19:00:00+00:00,north florida,kennesaw state,,,away,1673722800,https://media-3.api-sports.io/basketball/teams/2043.png
+2023-01-03T00:30:00+00:00,north florida,stetson,62 - 68,L,away,1672705800,https://media-2.api-sports.io/basketball/teams/2043.png
+2023-01-06T00:00:00+00:00,north florida,kennesaw state,86 - 89,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/2043.png
+2023-01-08T00:00:00+00:00,north florida,florida gulf coast,57 - 82,L,away,1673136000,https://media-3.api-sports.io/basketball/teams/2043.png
+2023-01-13T00:00:00+00:00,north florida,jacksonville state,,,away,1673568000,https://media-2.api-sports.io/basketball/teams/2043.png
+2023-01-14T19:00:00+00:00,north florida,kennesaw state,,,away,1673722800,https://media-1.api-sports.io/basketball/teams/2043.png
 2023-01-20T00:00:00+00:00,north florida,queens royals,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/2043.png
-2023-01-21T19:00:00+00:00,north florida,liberty,,,home,1674327600,https://media-2.api-sports.io/basketball/teams/2043.png
-2023-01-27T01:00:00+00:00,north florida,central arkansas,,,away,1674781200,https://media-3.api-sports.io/basketball/teams/2043.png
-2023-01-28T23:00:00+00:00,north florida,north alabama,,,away,1674946800,https://media-3.api-sports.io/basketball/teams/2043.png
-2023-02-03T00:00:00+00:00,north florida,jacksonville,,,away,1675382400,https://media-2.api-sports.io/basketball/teams/2043.png
+2023-01-21T19:00:00+00:00,north florida,liberty,,,home,1674327600,https://media-1.api-sports.io/basketball/teams/2043.png
+2023-01-27T01:00:00+00:00,north florida,central arkansas,,,away,1674781200,https://media-2.api-sports.io/basketball/teams/2043.png
+2023-01-28T23:00:00+00:00,north florida,north alabama,,,away,1674946800,https://media-2.api-sports.io/basketball/teams/2043.png
+2023-02-03T00:00:00+00:00,north florida,jacksonville,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/2043.png
 2023-02-04T22:00:00+00:00,north florida,jacksonville,,,home,1675548000,https://media-2.api-sports.io/basketball/teams/2043.png
 2023-02-10T00:00:00+00:00,north florida,florida gulf coast,,,home,1675987200,https://media-2.api-sports.io/basketball/teams/2043.png
-2023-02-11T19:00:00+00:00,north florida,stetson,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/2043.png
-2023-02-17T01:00:00+00:00,north florida,lipscomb,,,away,1676595600,https://media-2.api-sports.io/basketball/teams/2043.png
-2023-02-18T21:00:00+00:00,north florida,austin peay,,,away,1676754000,https://media-1.api-sports.io/basketball/teams/2043.png
+2023-02-11T19:00:00+00:00,north florida,stetson,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/2043.png
+2023-02-17T01:00:00+00:00,north florida,lipscomb,,,away,1676595600,https://media-3.api-sports.io/basketball/teams/2043.png
+2023-02-18T21:00:00+00:00,north florida,austin peay,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/2043.png
 2023-02-22T21:00:00+00:00,north florida,eastern kentucky,None - None,tie,home,1677099600,https://media-2.api-sports.io/basketball/teams/2043.png
-2023-02-24T21:00:00+00:00,north florida,bellarmine,None - None,tie,home,1677272400,https://media-3.api-sports.io/basketball/teams/2043.png
+2023-02-24T21:00:00+00:00,north florida,bellarmine,None - None,tie,home,1677272400,https://media-1.api-sports.io/basketball/teams/2043.png

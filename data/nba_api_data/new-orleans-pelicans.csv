@@ -1,88 +1,88 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-10-05T01:30:00+00:00,new orleans pelicans,chicago bulls,129 - 125,W,away,1664933400,https://media-3.api-sports.io/basketball/teams/150.png
-2022-10-08T00:00:00+00:00,new orleans pelicans,detroit pistons,101 - 107,W,home,1665187200,https://media-2.api-sports.io/basketball/teams/150.png
-2022-10-09T23:00:00+00:00,new orleans pelicans,san antonio spurs,111 - 97,W,away,1665356400,https://media-2.api-sports.io/basketball/teams/150.png
-2022-10-12T23:30:00+00:00,new orleans pelicans,miami heat,103 - 120,L,away,1665617400,https://media-3.api-sports.io/basketball/teams/150.png
+2022-10-05T01:30:00+00:00,new orleans pelicans,chicago bulls,129 - 125,W,away,1664933400,https://media-2.api-sports.io/basketball/teams/150.png
+2022-10-08T00:00:00+00:00,new orleans pelicans,detroit pistons,101 - 107,W,home,1665187200,https://media-1.api-sports.io/basketball/teams/150.png
+2022-10-09T23:00:00+00:00,new orleans pelicans,san antonio spurs,111 - 97,W,away,1665356400,https://media-3.api-sports.io/basketball/teams/150.png
+2022-10-12T23:30:00+00:00,new orleans pelicans,miami heat,103 - 120,L,away,1665617400,https://media-2.api-sports.io/basketball/teams/150.png
 2022-10-15T00:00:00+00:00,new orleans pelicans,atlanta hawks,120 - 111,W,away,1665792000,https://media-2.api-sports.io/basketball/teams/150.png
-2022-10-19T23:30:00+00:00,new orleans pelicans,brooklyn nets,130 - 108,W,away,1666222200,https://media-3.api-sports.io/basketball/teams/150.png
+2022-10-19T23:30:00+00:00,new orleans pelicans,brooklyn nets,130 - 108,W,away,1666222200,https://media-1.api-sports.io/basketball/teams/150.png
 2022-10-21T23:00:00+00:00,new orleans pelicans,charlotte hornets,124 - 112,W,away,1666393200,https://media-1.api-sports.io/basketball/teams/150.png
 2022-10-23T23:00:00+00:00,new orleans pelicans,utah jazz,122 - 121,L,home,1666566000,https://media-3.api-sports.io/basketball/teams/150.png
-2022-10-25T23:30:00+00:00,new orleans pelicans,dallas mavericks,111 - 113,W,home,1666740600,https://media-1.api-sports.io/basketball/teams/150.png
+2022-10-25T23:30:00+00:00,new orleans pelicans,dallas mavericks,111 - 113,W,home,1666740600,https://media-2.api-sports.io/basketball/teams/150.png
 2022-10-29T02:00:00+00:00,new orleans pelicans,phoenix suns,111 - 124,L,away,1667008800,https://media-2.api-sports.io/basketball/teams/150.png
 2022-10-30T19:00:00+00:00,new orleans pelicans,los angeles clippers,112 - 91,W,away,1667156400,https://media-1.api-sports.io/basketball/teams/150.png
 2022-11-03T02:30:00+00:00,new orleans pelicans,los angeles lakers,117 - 120,L,away,1667442600,https://media-3.api-sports.io/basketball/teams/150.png
-2022-11-05T00:30:00+00:00,new orleans pelicans,golden state warriors,105 - 114,W,home,1667608200,https://media-3.api-sports.io/basketball/teams/150.png
-2022-11-05T23:30:00+00:00,new orleans pelicans,atlanta hawks,121 - 124,L,away,1667691000,https://media-1.api-sports.io/basketball/teams/150.png
-2022-11-08T00:45:00+00:00,new orleans pelicans,indiana pacers,122 - 129,L,away,1667868300,https://media-3.api-sports.io/basketball/teams/150.png
+2022-11-05T00:30:00+00:00,new orleans pelicans,golden state warriors,105 - 114,W,home,1667608200,https://media-1.api-sports.io/basketball/teams/150.png
+2022-11-05T23:30:00+00:00,new orleans pelicans,atlanta hawks,121 - 124,L,away,1667691000,https://media-3.api-sports.io/basketball/teams/150.png
+2022-11-08T00:45:00+00:00,new orleans pelicans,indiana pacers,122 - 129,L,away,1667868300,https://media-1.api-sports.io/basketball/teams/150.png
 2022-11-10T01:00:00+00:00,new orleans pelicans,chicago bulls,115 - 111,W,away,1668042000,https://media-2.api-sports.io/basketball/teams/150.png
-2022-11-11T01:00:00+00:00,new orleans pelicans,portland trail blazers,106 - 95,L,home,1668128400,https://media-1.api-sports.io/basketball/teams/150.png
+2022-11-11T01:00:00+00:00,new orleans pelicans,portland trail blazers,106 - 95,L,home,1668128400,https://media-3.api-sports.io/basketball/teams/150.png
 2022-11-13T01:30:00+00:00,new orleans pelicans,houston rockets,106 - 119,W,home,1668303000,https://media-1.api-sports.io/basketball/teams/150.png
 2022-11-16T00:30:00+00:00,new orleans pelicans,memphis grizzlies,102 - 113,W,home,1668558600,https://media-2.api-sports.io/basketball/teams/150.png
-2022-11-17T01:00:00+00:00,new orleans pelicans,chicago bulls,110 - 124,W,home,1668646800,https://media-2.api-sports.io/basketball/teams/150.png
-2022-11-19T01:30:00+00:00,new orleans pelicans,boston celtics,117 - 109,L,home,1668821400,https://media-3.api-sports.io/basketball/teams/150.png
-2022-11-22T01:00:00+00:00,new orleans pelicans,golden state warriors,83 - 128,W,home,1669078800,https://media-1.api-sports.io/basketball/teams/150.png
+2022-11-17T01:00:00+00:00,new orleans pelicans,chicago bulls,110 - 124,W,home,1668646800,https://media-1.api-sports.io/basketball/teams/150.png
+2022-11-19T01:30:00+00:00,new orleans pelicans,boston celtics,117 - 109,L,home,1668821400,https://media-2.api-sports.io/basketball/teams/150.png
+2022-11-22T01:00:00+00:00,new orleans pelicans,golden state warriors,83 - 128,W,home,1669078800,https://media-2.api-sports.io/basketball/teams/150.png
 2022-11-24T01:00:00+00:00,new orleans pelicans,san antonio spurs,129 - 110,W,away,1669251600,https://media-2.api-sports.io/basketball/teams/150.png
 2022-11-26T01:00:00+00:00,new orleans pelicans,memphis grizzlies,111 - 132,L,away,1669424400,https://media-2.api-sports.io/basketball/teams/150.png
-2022-11-29T01:00:00+00:00,new orleans pelicans,oklahoma city thunder,101 - 105,W,home,1669683600,https://media-3.api-sports.io/basketball/teams/150.png
+2022-11-29T01:00:00+00:00,new orleans pelicans,oklahoma city thunder,101 - 105,W,home,1669683600,https://media-1.api-sports.io/basketball/teams/150.png
 2022-12-01T01:00:00+00:00,new orleans pelicans,toronto raptors,108 - 126,W,home,1669856400,https://media-3.api-sports.io/basketball/teams/150.png
-2022-12-03T01:00:00+00:00,new orleans pelicans,san antonio spurs,117 - 99,W,away,1670029200,https://media-2.api-sports.io/basketball/teams/150.png
-2022-12-04T20:30:00+00:00,new orleans pelicans,denver nuggets,106 - 121,W,home,1670185800,https://media-1.api-sports.io/basketball/teams/150.png
-2022-12-08T01:00:00+00:00,new orleans pelicans,detroit pistons,98 - 104,W,home,1670461200,https://media-1.api-sports.io/basketball/teams/150.png
-2022-12-10T01:30:00+00:00,new orleans pelicans,phoenix suns,117 - 128,W,home,1670635800,https://media-3.api-sports.io/basketball/teams/150.png
-2022-12-11T20:30:00+00:00,new orleans pelicans,phoenix suns,124 - 129,W,home,1670790600,https://media-3.api-sports.io/basketball/teams/150.png
-2022-12-14T02:00:00+00:00,new orleans pelicans,utah jazz,100 - 121,L,away,1670983200,https://media-1.api-sports.io/basketball/teams/150.png
+2022-12-03T01:00:00+00:00,new orleans pelicans,san antonio spurs,117 - 99,W,away,1670029200,https://media-3.api-sports.io/basketball/teams/150.png
+2022-12-04T20:30:00+00:00,new orleans pelicans,denver nuggets,106 - 121,W,home,1670185800,https://media-3.api-sports.io/basketball/teams/150.png
+2022-12-08T01:00:00+00:00,new orleans pelicans,detroit pistons,98 - 104,W,home,1670461200,https://media-3.api-sports.io/basketball/teams/150.png
+2022-12-10T01:30:00+00:00,new orleans pelicans,phoenix suns,117 - 128,W,home,1670635800,https://media-1.api-sports.io/basketball/teams/150.png
+2022-12-11T20:30:00+00:00,new orleans pelicans,phoenix suns,124 - 129,W,home,1670790600,https://media-1.api-sports.io/basketball/teams/150.png
+2022-12-14T02:00:00+00:00,new orleans pelicans,utah jazz,100 - 121,L,away,1670983200,https://media-2.api-sports.io/basketball/teams/150.png
 2022-12-16T02:00:00+00:00,new orleans pelicans,utah jazz,129 - 132,L,away,1671156000,https://media-2.api-sports.io/basketball/teams/150.png
 2022-12-18T02:00:00+00:00,new orleans pelicans,phoenix suns,114 - 118,L,away,1671328800,https://media-1.api-sports.io/basketball/teams/150.png
 2022-12-20T01:00:00+00:00,new orleans pelicans,milwaukee bucks,128 - 119,L,home,1671498000,https://media-2.api-sports.io/basketball/teams/150.png
-2022-12-23T01:00:00+00:00,new orleans pelicans,san antonio spurs,117 - 126,W,home,1671757200,https://media-2.api-sports.io/basketball/teams/150.png
+2022-12-23T01:00:00+00:00,new orleans pelicans,san antonio spurs,117 - 126,W,home,1671757200,https://media-1.api-sports.io/basketball/teams/150.png
 2022-12-24T01:00:00+00:00,new orleans pelicans,oklahoma city thunder,128 - 125,W,away,1671843600,https://media-3.api-sports.io/basketball/teams/150.png
 2022-12-27T01:00:00+00:00,new orleans pelicans,indiana pacers,93 - 113,W,home,1672102800,https://media-2.api-sports.io/basketball/teams/150.png
-2022-12-29T01:00:00+00:00,new orleans pelicans,minnesota timberwolves,118 - 119,W,home,1672275600,https://media-2.api-sports.io/basketball/teams/150.png
-2022-12-31T01:30:00+00:00,new orleans pelicans,philadelphia 76ers,116 - 127,W,home,1672450200,https://media-1.api-sports.io/basketball/teams/150.png
+2022-12-29T01:00:00+00:00,new orleans pelicans,minnesota timberwolves,118 - 119,W,home,1672275600,https://media-3.api-sports.io/basketball/teams/150.png
+2022-12-31T01:30:00+00:00,new orleans pelicans,philadelphia 76ers,116 - 127,W,home,1672450200,https://media-3.api-sports.io/basketball/teams/150.png
 2023-01-01T01:00:00+00:00,new orleans pelicans,memphis grizzlies,101 - 116,L,away,1672534800,https://media-3.api-sports.io/basketball/teams/150.png
-2023-01-03T00:00:00+00:00,new orleans pelicans,philadelphia 76ers,111 - 120,L,away,1672704000,https://media-2.api-sports.io/basketball/teams/150.png
-2023-01-05T01:00:00+00:00,new orleans pelicans,houston rockets,108 - 119,W,home,1672880400,https://media-3.api-sports.io/basketball/teams/150.png
+2023-01-03T00:00:00+00:00,new orleans pelicans,philadelphia 76ers,111 - 120,L,away,1672704000,https://media-1.api-sports.io/basketball/teams/150.png
+2023-01-05T01:00:00+00:00,new orleans pelicans,houston rockets,108 - 119,W,home,1672880400,https://media-2.api-sports.io/basketball/teams/150.png
 2023-01-07T00:30:00+00:00,new orleans pelicans,brooklyn nets,108 - 102,L,home,1673051400,https://media-1.api-sports.io/basketball/teams/150.png
-2023-01-08T01:00:00+00:00,new orleans pelicans,dallas mavericks,117 - 127,L,away,1673139600,https://media-3.api-sports.io/basketball/teams/150.png
+2023-01-08T01:00:00+00:00,new orleans pelicans,dallas mavericks,117 - 127,L,away,1673139600,https://media-1.api-sports.io/basketball/teams/150.png
 2023-01-10T00:00:00+00:00,new orleans pelicans,washington wizards,132 - 112,W,away,1673308800,https://media-1.api-sports.io/basketball/teams/150.png
-2023-01-12T00:30:00+00:00,new orleans pelicans,boston celtics,,,away,1673483400,https://media-3.api-sports.io/basketball/teams/150.png
-2023-01-14T00:00:00+00:00,new orleans pelicans,detroit pistons,,,away,1673654400,https://media-3.api-sports.io/basketball/teams/150.png
-2023-01-16T20:00:00+00:00,new orleans pelicans,cleveland cavaliers,,,away,1673899200,https://media-1.api-sports.io/basketball/teams/150.png
+2023-01-12T00:30:00+00:00,new orleans pelicans,boston celtics,114 - 125,L,away,1673483400,https://media-1.api-sports.io/basketball/teams/150.png
+2023-01-14T00:00:00+00:00,new orleans pelicans,detroit pistons,,,away,1673654400,https://media-1.api-sports.io/basketball/teams/150.png
+2023-01-16T20:00:00+00:00,new orleans pelicans,cleveland cavaliers,,,away,1673899200,https://media-2.api-sports.io/basketball/teams/150.png
 2023-01-19T01:00:00+00:00,new orleans pelicans,miami heat,,,home,1674090000,https://media-3.api-sports.io/basketball/teams/150.png
 2023-01-21T00:00:00+00:00,new orleans pelicans,orlando magic,,,away,1674259200,https://media-2.api-sports.io/basketball/teams/150.png
 2023-01-22T20:30:00+00:00,new orleans pelicans,miami heat,,,away,1674419400,https://media-2.api-sports.io/basketball/teams/150.png
-2023-01-25T01:00:00+00:00,new orleans pelicans,denver nuggets,,,home,1674608400,https://media-3.api-sports.io/basketball/teams/150.png
-2023-01-26T01:00:00+00:00,new orleans pelicans,minnesota timberwolves,,,home,1674694800,https://media-3.api-sports.io/basketball/teams/150.png
-2023-01-29T01:00:00+00:00,new orleans pelicans,washington wizards,,,home,1674954000,https://media-2.api-sports.io/basketball/teams/150.png
-2023-01-30T01:00:00+00:00,new orleans pelicans,milwaukee bucks,,,away,1675040400,https://media-3.api-sports.io/basketball/teams/150.png
+2023-01-25T01:00:00+00:00,new orleans pelicans,denver nuggets,,,home,1674608400,https://media-1.api-sports.io/basketball/teams/150.png
+2023-01-26T01:00:00+00:00,new orleans pelicans,minnesota timberwolves,,,home,1674694800,https://media-2.api-sports.io/basketball/teams/150.png
+2023-01-29T01:00:00+00:00,new orleans pelicans,washington wizards,,,home,1674954000,https://media-3.api-sports.io/basketball/teams/150.png
+2023-01-30T01:00:00+00:00,new orleans pelicans,milwaukee bucks,,,away,1675040400,https://media-1.api-sports.io/basketball/teams/150.png
 2023-02-01T03:00:00+00:00,new orleans pelicans,denver nuggets,,,away,1675220400,https://media-1.api-sports.io/basketball/teams/150.png
-2023-02-03T01:30:00+00:00,new orleans pelicans,dallas mavericks,,,away,1675387800,https://media-3.api-sports.io/basketball/teams/150.png
-2023-02-05T01:00:00+00:00,new orleans pelicans,los angeles lakers,,,home,1675558800,https://media-2.api-sports.io/basketball/teams/150.png
-2023-02-06T00:00:00+00:00,new orleans pelicans,sacramento kings,,,home,1675641600,https://media-3.api-sports.io/basketball/teams/150.png
-2023-02-08T00:30:00+00:00,new orleans pelicans,atlanta hawks,,,home,1675816200,https://media-3.api-sports.io/basketball/teams/150.png
-2023-02-11T03:00:00+00:00,new orleans pelicans,cleveland cavaliers,,,home,1676084400,https://media-1.api-sports.io/basketball/teams/150.png
-2023-02-14T01:00:00+00:00,new orleans pelicans,oklahoma city thunder,,,away,1676336400,https://media-2.api-sports.io/basketball/teams/150.png
-2023-02-16T03:00:00+00:00,new orleans pelicans,los angeles lakers,,,away,1676516400,https://media-2.api-sports.io/basketball/teams/150.png
+2023-02-03T01:30:00+00:00,new orleans pelicans,dallas mavericks,,,away,1675387800,https://media-2.api-sports.io/basketball/teams/150.png
+2023-02-05T01:00:00+00:00,new orleans pelicans,los angeles lakers,,,home,1675558800,https://media-3.api-sports.io/basketball/teams/150.png
+2023-02-06T00:00:00+00:00,new orleans pelicans,sacramento kings,,,home,1675641600,https://media-1.api-sports.io/basketball/teams/150.png
+2023-02-08T00:30:00+00:00,new orleans pelicans,atlanta hawks,,,home,1675816200,https://media-1.api-sports.io/basketball/teams/150.png
+2023-02-11T03:00:00+00:00,new orleans pelicans,cleveland cavaliers,,,home,1676084400,https://media-2.api-sports.io/basketball/teams/150.png
+2023-02-14T01:00:00+00:00,new orleans pelicans,oklahoma city thunder,,,away,1676336400,https://media-1.api-sports.io/basketball/teams/150.png
+2023-02-16T03:00:00+00:00,new orleans pelicans,los angeles lakers,,,away,1676516400,https://media-3.api-sports.io/basketball/teams/150.png
 2023-02-24T00:30:00+00:00,new orleans pelicans,toronto raptors,,,away,1677198600,https://media-2.api-sports.io/basketball/teams/150.png
-2023-02-26T00:30:00+00:00,new orleans pelicans,new york knicks,,,away,1677371400,https://media-2.api-sports.io/basketball/teams/150.png
-2023-02-28T01:00:00+00:00,new orleans pelicans,orlando magic,,,home,1677546000,https://media-3.api-sports.io/basketball/teams/150.png
-2023-03-02T03:00:00+00:00,new orleans pelicans,portland trail blazers,,,away,1677726000,https://media-2.api-sports.io/basketball/teams/150.png
-2023-03-04T03:00:00+00:00,new orleans pelicans,golden state warriors,,,away,1677898800,https://media-2.api-sports.io/basketball/teams/150.png
-2023-03-07T03:00:00+00:00,new orleans pelicans,sacramento kings,,,away,1678158000,https://media-3.api-sports.io/basketball/teams/150.png
-2023-03-09T00:30:00+00:00,new orleans pelicans,dallas mavericks,,,home,1678321800,https://media-1.api-sports.io/basketball/teams/150.png
-2023-03-12T01:30:00+00:00,new orleans pelicans,oklahoma city thunder,,,home,1678584600,https://media-1.api-sports.io/basketball/teams/150.png
+2023-02-26T00:30:00+00:00,new orleans pelicans,new york knicks,,,away,1677371400,https://media-1.api-sports.io/basketball/teams/150.png
+2023-02-28T01:00:00+00:00,new orleans pelicans,orlando magic,,,home,1677546000,https://media-1.api-sports.io/basketball/teams/150.png
+2023-03-02T03:00:00+00:00,new orleans pelicans,portland trail blazers,,,away,1677726000,https://media-3.api-sports.io/basketball/teams/150.png
+2023-03-04T03:00:00+00:00,new orleans pelicans,golden state warriors,,,away,1677898800,https://media-3.api-sports.io/basketball/teams/150.png
+2023-03-07T03:00:00+00:00,new orleans pelicans,sacramento kings,,,away,1678158000,https://media-2.api-sports.io/basketball/teams/150.png
+2023-03-09T00:30:00+00:00,new orleans pelicans,dallas mavericks,,,home,1678321800,https://media-2.api-sports.io/basketball/teams/150.png
+2023-03-12T01:30:00+00:00,new orleans pelicans,oklahoma city thunder,,,home,1678584600,https://media-2.api-sports.io/basketball/teams/150.png
 2023-03-12T23:00:00+00:00,new orleans pelicans,portland trail blazers,,,home,1678662000,https://media-1.api-sports.io/basketball/teams/150.png
 2023-03-15T00:00:00+00:00,new orleans pelicans,los angeles lakers,,,home,1678838400,https://media-3.api-sports.io/basketball/teams/150.png
-2023-03-18T00:00:00+00:00,new orleans pelicans,houston rockets,,,away,1679097600,https://media-2.api-sports.io/basketball/teams/150.png
-2023-03-19T23:00:00+00:00,new orleans pelicans,houston rockets,,,away,1679266800,https://media-1.api-sports.io/basketball/teams/150.png
+2023-03-18T00:00:00+00:00,new orleans pelicans,houston rockets,,,away,1679097600,https://media-3.api-sports.io/basketball/teams/150.png
+2023-03-19T23:00:00+00:00,new orleans pelicans,houston rockets,,,away,1679266800,https://media-2.api-sports.io/basketball/teams/150.png
 2023-03-22T00:00:00+00:00,new orleans pelicans,san antonio spurs,,,home,1679443200,https://media-2.api-sports.io/basketball/teams/150.png
-2023-03-24T00:00:00+00:00,new orleans pelicans,charlotte hornets,,,home,1679616000,https://media-2.api-sports.io/basketball/teams/150.png
-2023-03-26T02:30:00+00:00,new orleans pelicans,los angeles clippers,,,away,1679797800,https://media-3.api-sports.io/basketball/teams/150.png
+2023-03-24T00:00:00+00:00,new orleans pelicans,charlotte hornets,,,home,1679616000,https://media-1.api-sports.io/basketball/teams/150.png
+2023-03-26T02:30:00+00:00,new orleans pelicans,los angeles clippers,,,away,1679797800,https://media-2.api-sports.io/basketball/teams/150.png
 2023-03-28T02:00:00+00:00,new orleans pelicans,portland trail blazers,,,away,1679968800,https://media-3.api-sports.io/basketball/teams/150.png
 2023-03-29T02:00:00+00:00,new orleans pelicans,golden state warriors,,,away,1680055200,https://media-2.api-sports.io/basketball/teams/150.png
 2023-03-31T02:00:00+00:00,new orleans pelicans,denver nuggets,,,away,1680228000,https://media-3.api-sports.io/basketball/teams/150.png
-2023-04-02T00:30:00+00:00,new orleans pelicans,los angeles clippers,,,home,1680395400,https://media-2.api-sports.io/basketball/teams/150.png
+2023-04-02T00:30:00+00:00,new orleans pelicans,los angeles clippers,,,home,1680395400,https://media-1.api-sports.io/basketball/teams/150.png
 2023-04-05T00:00:00+00:00,new orleans pelicans,sacramento kings,,,home,1680652800,https://media-1.api-sports.io/basketball/teams/150.png
 2023-04-06T00:00:00+00:00,new orleans pelicans,memphis grizzlies,,,home,1680739200,https://media-2.api-sports.io/basketball/teams/150.png
-2023-04-08T00:00:00+00:00,new orleans pelicans,new york knicks,None - None,tie,home,1680912000,https://media-3.api-sports.io/basketball/teams/150.png
-2023-04-09T19:30:00+00:00,new orleans pelicans,minnesota timberwolves,None - None,tie,away,1681068600,https://media-1.api-sports.io/basketball/teams/150.png
+2023-04-08T00:00:00+00:00,new orleans pelicans,new york knicks,,,home,1680912000,https://media-3.api-sports.io/basketball/teams/150.png
+2023-04-09T19:30:00+00:00,new orleans pelicans,minnesota timberwolves,,,away,1681068600,https://media-2.api-sports.io/basketball/teams/150.png

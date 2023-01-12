@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 "Monday, August 15 10:30 AM",athletic club,mallorca,0 - 0,tie,home,1660577400,https://media-1.api-sports.io/football/teams/531.png
-"Sunday, August 21 10:30 AM",athletic club,valencia,0 - 1,W,home,1661095800,https://media-1.api-sports.io/football/teams/531.png
-"Monday, August 29 01:00 PM",athletic club,cadiz,4 - 0,W,away,1661796000,https://media-1.api-sports.io/football/teams/531.png
-"Sunday, September 04 09:15 AM",athletic club,espanyol,1 - 0,L,home,1662300900,https://media-2.api-sports.io/football/teams/531.png
-"Sunday, September 11 09:15 AM",athletic club,elche,4 - 1,W,away,1662905700,https://media-2.api-sports.io/football/teams/531.png
-"Saturday, September 17 02:00 PM",athletic club,rayo vallecano,2 - 3,W,home,1663441200,https://media-2.api-sports.io/football/teams/531.png
-"Friday, September 30 02:00 PM",athletic club,almeria,0 - 4,W,home,1664564400,https://media-2.api-sports.io/football/teams/531.png
+"Sunday, August 21 10:30 AM",athletic club,valencia,0 - 1,W,home,1661095800,https://media-3.api-sports.io/football/teams/531.png
+"Monday, August 29 01:00 PM",athletic club,cadiz,4 - 0,W,away,1661796000,https://media-3.api-sports.io/football/teams/531.png
+"Sunday, September 04 09:15 AM",athletic club,espanyol,1 - 0,L,home,1662300900,https://media-1.api-sports.io/football/teams/531.png
+"Sunday, September 11 09:15 AM",athletic club,elche,4 - 1,W,away,1662905700,https://media-3.api-sports.io/football/teams/531.png
+"Saturday, September 17 02:00 PM",athletic club,rayo vallecano,2 - 3,W,home,1663441200,https://media-1.api-sports.io/football/teams/531.png
+"Friday, September 30 02:00 PM",athletic club,almeria,0 - 4,W,home,1664564400,https://media-3.api-sports.io/football/teams/531.png
 "Saturday, October 08 11:30 AM",athletic club,sevilla,1 - 1,tie,away,1665246600,https://media-2.api-sports.io/football/teams/531.png
 "Saturday, October 15 02:00 PM",athletic club,atletico madrid,1 - 0,L,home,1665860400,https://media-1.api-sports.io/football/teams/531.png
-"Tuesday, October 18 01:00 PM",athletic club,getafe,2 - 2,tie,away,1666116000,https://media-2.api-sports.io/football/teams/531.png
+"Tuesday, October 18 01:00 PM",athletic club,getafe,2 - 2,tie,away,1666116000,https://media-3.api-sports.io/football/teams/531.png
 "Sunday, October 23 02:00 PM",athletic club,barcelona,0 - 4,L,away,1666551600,https://media-2.api-sports.io/football/teams/531.png
-"Sunday, October 30 12:30 PM",athletic club,villarreal,0 - 1,W,home,1667151000,https://media-2.api-sports.io/football/teams/531.png
-"Friday, November 04 03:00 PM",athletic club,girona,1 - 2,L,away,1667592000,https://media-2.api-sports.io/football/teams/531.png
-"Tuesday, November 08 01:00 PM",athletic club,valladolid,0 - 3,W,home,1667934000,https://media-1.api-sports.io/football/teams/531.png
-"Thursday, December 29 12:15 PM",athletic club,real betis,0 - 0,tie,away,1672337700,https://media-2.api-sports.io/football/teams/531.png
-"Monday, January 09 02:00 PM",athletic club,osasuna,0 - 0,tie,home,1673294400,https://media-1.api-sports.io/football/teams/531.png
+"Sunday, October 30 12:30 PM",athletic club,villarreal,0 - 1,W,home,1667151000,https://media-1.api-sports.io/football/teams/531.png
+"Friday, November 04 03:00 PM",athletic club,girona,1 - 2,L,away,1667592000,https://media-3.api-sports.io/football/teams/531.png
+"Tuesday, November 08 01:00 PM",athletic club,valladolid,0 - 3,W,home,1667934000,https://media-3.api-sports.io/football/teams/531.png
+"Thursday, December 29 12:15 PM",athletic club,real betis,0 - 0,tie,away,1672337700,https://media-3.api-sports.io/football/teams/531.png
+"Monday, January 09 02:00 PM",athletic club,osasuna,0 - 0,tie,home,1673294400,https://media-3.api-sports.io/football/teams/531.png
 "Saturday, January 14 02:00 PM",athletic club,real sociedad,,,away,1673726400,https://media-3.api-sports.io/football/teams/531.png
 "Sunday, January 22 02:00 PM",athletic club,real madrid,,,home,1674417600,https://media-1.api-sports.io/football/teams/531.png
-"Saturday, January 28 06:00 PM",athletic club,celta vigo,,,away,1674950400,https://media-3.api-sports.io/football/teams/531.png
-"Saturday, February 04 06:00 PM",athletic club,cadiz,,,home,1675555200,https://media-2.api-sports.io/football/teams/531.png
+"Saturday, January 28 06:00 PM",athletic club,celta vigo,,,away,1674950400,https://media-1.api-sports.io/football/teams/531.png
+"Saturday, February 04 06:00 PM",athletic club,cadiz,,,home,1675555200,https://media-3.api-sports.io/football/teams/531.png
 "Saturday, February 11 06:00 PM",athletic club,valencia,,,away,1676160000,https://media-2.api-sports.io/football/teams/531.png
 "Saturday, February 18 06:00 PM",athletic club,atletico madrid,,,away,1676764800,https://media-3.api-sports.io/football/teams/531.png
 "Saturday, February 25 06:00 PM",athletic club,girona,,,home,1677369600,https://media-1.api-sports.io/football/teams/531.png
 "Saturday, March 04 06:00 PM",athletic club,rayo vallecano,,,away,1677974400,https://media-1.api-sports.io/football/teams/531.png
-"Saturday, March 11 06:00 PM",athletic club,barcelona,,,home,1678579200,https://media-2.api-sports.io/football/teams/531.png
-"Saturday, March 18 07:00 PM",athletic club,valladolid,,,away,1679184000,https://media-1.api-sports.io/football/teams/531.png
+"Saturday, March 11 06:00 PM",athletic club,barcelona,,,home,1678579200,https://media-1.api-sports.io/football/teams/531.png
+"Saturday, March 18 07:00 PM",athletic club,valladolid,,,away,1679184000,https://media-3.api-sports.io/football/teams/531.png
 "Saturday, April 01 07:00 PM",athletic club,getafe,,,home,1680393600,https://media-3.api-sports.io/football/teams/531.png
 "Saturday, April 08 07:00 PM",athletic club,espanyol,,,away,1680998400,https://media-2.api-sports.io/football/teams/531.png
-"Saturday, April 15 07:00 PM",athletic club,real sociedad,,,home,1681603200,https://media-3.api-sports.io/football/teams/531.png
-"Saturday, April 22 07:00 PM",athletic club,almeria,,,away,1682208000,https://media-2.api-sports.io/football/teams/531.png
-"Tuesday, April 25 07:00 PM",athletic club,sevilla,,,home,1682467200,https://media-2.api-sports.io/football/teams/531.png
-"Saturday, April 29 07:00 PM",athletic club,mallorca,,,away,1682812800,https://media-3.api-sports.io/football/teams/531.png
-"Tuesday, May 02 07:00 PM",athletic club,real betis,,,home,1683072000,https://media-3.api-sports.io/football/teams/531.png
+"Saturday, April 15 07:00 PM",athletic club,real sociedad,,,home,1681603200,https://media-2.api-sports.io/football/teams/531.png
+"Saturday, April 22 07:00 PM",athletic club,almeria,,,away,1682208000,https://media-1.api-sports.io/football/teams/531.png
+"Tuesday, April 25 07:00 PM",athletic club,sevilla,,,home,1682467200,https://media-1.api-sports.io/football/teams/531.png
+"Saturday, April 29 07:00 PM",athletic club,mallorca,,,away,1682812800,https://media-1.api-sports.io/football/teams/531.png
+"Tuesday, May 02 07:00 PM",athletic club,real betis,,,home,1683072000,https://media-2.api-sports.io/football/teams/531.png
 "Saturday, May 13 07:00 PM",athletic club,villarreal,,,away,1684022400,https://media-3.api-sports.io/football/teams/531.png
-"Saturday, May 20 07:00 PM",athletic club,celta vigo,,,home,1684627200,https://media-3.api-sports.io/football/teams/531.png
+"Saturday, May 20 07:00 PM",athletic club,celta vigo,,,home,1684627200,https://media-1.api-sports.io/football/teams/531.png
 "Tuesday, May 23 07:00 PM",athletic club,osasuna,,,away,1684886400,https://media-1.api-sports.io/football/teams/531.png
-"Saturday, May 27 07:00 PM",athletic club,elche,,,home,1685232000,https://media-2.api-sports.io/football/teams/531.png
-"Saturday, June 03 07:00 PM",athletic club,real madrid,,,away,1685836800,https://media-2.api-sports.io/football/teams/531.png
+"Saturday, May 27 07:00 PM",athletic club,elche,,,home,1685232000,https://media-3.api-sports.io/football/teams/531.png
+"Saturday, June 03 07:00 PM",athletic club,real madrid,,,away,1685836800,https://media-1.api-sports.io/football/teams/531.png

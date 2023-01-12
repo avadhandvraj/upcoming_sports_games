@@ -1,16 +1,16 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-09-02,tcu,colorado,38 - 13,W,away,1662084000,https://media-3.api-sports.io/american-football/teams/105.png
-2022-09-10,tcu,tarleton,17 - 59,W,home,1662768000,https://media-1.api-sports.io/american-football/teams/105.png
-2022-09-24,tcu,smu,42 - 34,W,away,1664035200,https://media-3.api-sports.io/american-football/teams/105.png
-2022-10-01,tcu,oklahoma,24 - 55,W,home,1664640000,https://media-2.api-sports.io/american-football/teams/105.png
-2022-10-08,tcu,kansas,38 - 31,W,away,1665244800,https://media-3.api-sports.io/american-football/teams/105.png
-2022-10-15,tcu,oklahoma state,40 - 43,W,home,1665862200,https://media-2.api-sports.io/american-football/teams/105.png
-2022-10-22,tcu,kansas state,28 - 38,W,home,1666396800,https://media-1.api-sports.io/american-football/teams/105.png
-2022-10-29,tcu,west virginia,41 - 31,W,away,1667059200,https://media-1.api-sports.io/american-football/teams/105.png
-2022-11-05,tcu,texas tech,24 - 34,W,home,1667664000,https://media-2.api-sports.io/american-football/teams/105.png
-2022-11-12,tcu,texas,17 - 10,W,away,1668213000,https://media-1.api-sports.io/american-football/teams/105.png
-2022-11-19,tcu,baylor,29 - 28,W,away,1668877200,https://media-3.api-sports.io/american-football/teams/105.png
-2022-11-26,tcu,iowa state,14 - 62,W,home,1669496400,https://media-1.api-sports.io/american-football/teams/105.png
-2022-12-03,tcu,kansas state,31 - 28,L,home,1670086800,https://media-1.api-sports.io/american-football/teams/105.png
-2022-12-31,tcu,michigan,51 - 45,W,away,1672520400,https://media-1.api-sports.io/american-football/teams/105.png
-2023-01-10,tcu,georgia,7 - 45,L,away,1673310600,https://media-3.api-sports.io/american-football/teams/105.png
+2022-09-02,tcu,colorado,38 - 13,W,away,1662084000,https://media-2.api-sports.io/american-football/teams/105.png
+2022-09-10,tcu,tarleton,17 - 59,W,home,1662768000,https://media-2.api-sports.io/american-football/teams/105.png
+2022-09-24,tcu,smu,42 - 34,W,away,1664035200,https://media-2.api-sports.io/american-football/teams/105.png
+2022-10-01,tcu,oklahoma,24 - 55,W,home,1664640000,https://media-1.api-sports.io/american-football/teams/105.png
+2022-10-08,tcu,kansas,38 - 31,W,away,1665244800,https://media-1.api-sports.io/american-football/teams/105.png
+2022-10-15,tcu,oklahoma state,40 - 43,W,home,1665862200,https://media-3.api-sports.io/american-football/teams/105.png
+2022-10-22,tcu,kansas state,28 - 38,W,home,1666396800,https://media-3.api-sports.io/american-football/teams/105.png
+2022-10-29,tcu,west virginia,41 - 31,W,away,1667059200,https://media-2.api-sports.io/american-football/teams/105.png
+2022-11-05,tcu,texas tech,24 - 34,W,home,1667664000,https://media-1.api-sports.io/american-football/teams/105.png
+2022-11-12,tcu,texas,17 - 10,W,away,1668213000,https://media-2.api-sports.io/american-football/teams/105.png
+2022-11-19,tcu,baylor,29 - 28,W,away,1668877200,https://media-1.api-sports.io/american-football/teams/105.png
+2022-11-26,tcu,iowa state,14 - 62,W,home,1669496400,https://media-3.api-sports.io/american-football/teams/105.png
+2022-12-03,tcu,kansas state,31 - 28,L,home,1670086800,https://media-3.api-sports.io/american-football/teams/105.png
+2022-12-31,tcu,michigan,51 - 45,W,away,1672520400,https://media-3.api-sports.io/american-football/teams/105.png
+2023-01-10,tcu,georgia,7 - 65,L,away,1673310600,https://media-3.api-sports.io/american-football/teams/105.png

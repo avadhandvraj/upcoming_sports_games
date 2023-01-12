@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T03:00:00+00:00,cal poly,bethesda,59 - 94,W,home,1667876400,https://media-3.api-sports.io/basketball/teams/1847.png
-2022-11-11T03:00:00+00:00,cal poly,san francisco,48 - 60,L,away,1668135600,https://media-2.api-sports.io/basketball/teams/1847.png
+2022-11-08T03:00:00+00:00,cal poly,bethesda,59 - 94,W,home,1667876400,https://media-2.api-sports.io/basketball/teams/1847.png
+2022-11-11T03:00:00+00:00,cal poly,san francisco,48 - 60,L,away,1668135600,https://media-1.api-sports.io/basketball/teams/1847.png
 2022-11-19T04:00:00+00:00,cal poly,stanford,43 - 80,L,away,1668830400,https://media-1.api-sports.io/basketball/teams/1847.png
 2022-11-21T03:00:00+00:00,cal poly,mount st. mary's,73 - 68,L,home,1668999600,https://media-3.api-sports.io/basketball/teams/1847.png
-2022-11-24T00:00:00+00:00,cal poly,idaho,71 - 82,W,home,1669248000,https://media-3.api-sports.io/basketball/teams/1847.png
-2022-11-29T03:00:00+00:00,cal poly,pacific,62 - 58,W,away,1669690800,https://media-1.api-sports.io/basketball/teams/1847.png
-2022-12-01T03:00:00+00:00,cal poly,pepperdine,None - None,tie,away,1669863600,https://media-1.api-sports.io/basketball/teams/1847.png
+2022-11-24T00:00:00+00:00,cal poly,idaho,71 - 82,W,home,1669248000,https://media-2.api-sports.io/basketball/teams/1847.png
+2022-11-29T03:00:00+00:00,cal poly,pacific,62 - 58,W,away,1669690800,https://media-2.api-sports.io/basketball/teams/1847.png
+2022-12-01T03:00:00+00:00,cal poly,pepperdine,None - None,tie,away,1669863600,https://media-3.api-sports.io/basketball/teams/1847.png
 2022-12-04T02:00:00+00:00,cal poly,california baptist,53 - 64,W,home,1670119200,https://media-1.api-sports.io/basketball/teams/1847.png
-2022-12-11T03:00:00+00:00,cal poly,portland state,49 - 72,W,home,1670727600,https://media-2.api-sports.io/basketball/teams/1847.png
+2022-12-11T03:00:00+00:00,cal poly,portland state,49 - 72,W,home,1670727600,https://media-1.api-sports.io/basketball/teams/1847.png
 2022-12-14T03:30:00+00:00,cal poly,washington,68 - 74,L,away,1670988600,https://media-3.api-sports.io/basketball/teams/1847.png
-2022-12-17T03:00:00+00:00,cal poly,weber state,74 - 45,L,home,1671246000,https://media-3.api-sports.io/basketball/teams/1847.png
+2022-12-17T03:00:00+00:00,cal poly,weber state,74 - 45,L,home,1671246000,https://media-1.api-sports.io/basketball/teams/1847.png
 2022-12-21T03:00:00+00:00,cal poly,san jose state,43 - 65,L,away,1671591600,https://media-2.api-sports.io/basketball/teams/1847.png
 2022-12-30T03:00:00+00:00,cal poly,cs northridge,57 - 67,W,home,1672369200,https://media-3.api-sports.io/basketball/teams/1847.png
 2023-01-01T03:00:00+00:00,cal poly,hawaii,48 - 57,L,away,1672542000,https://media-1.api-sports.io/basketball/teams/1847.png
-2023-01-06T03:00:00+00:00,cal poly,csu bakersfield,51 - 61,L,away,1672974000,https://media-1.api-sports.io/basketball/teams/1847.png
-2023-01-07T21:00:00+00:00,cal poly,uc santa barbara,62 - 57,L,home,1673125200,https://media-2.api-sports.io/basketball/teams/1847.png
-2023-01-12T03:00:00+00:00,cal poly,long beach state,,,away,1673492400,https://media-1.api-sports.io/basketball/teams/1847.png
-2023-01-17T01:00:00+00:00,cal poly,uc riverside,,,away,1673917200,https://media-3.api-sports.io/basketball/teams/1847.png
-2023-01-20T03:00:00+00:00,cal poly,uc san diego,,,home,1674183600,https://media-1.api-sports.io/basketball/teams/1847.png
-2023-01-21T23:00:00+00:00,cal poly,uc davis,,,away,1674342000,https://media-1.api-sports.io/basketball/teams/1847.png
-2023-01-27T03:00:00+00:00,cal poly,long beach state,,,home,1674788400,https://media-3.api-sports.io/basketball/teams/1847.png
-2023-01-29T03:00:00+00:00,cal poly,cs fullerton,,,home,1674961200,https://media-1.api-sports.io/basketball/teams/1847.png
-2023-02-03T03:00:00+00:00,cal poly,uc santa barbara,,,away,1675393200,https://media-3.api-sports.io/basketball/teams/1847.png
-2023-02-05T03:00:00+00:00,cal poly,hawaii,,,home,1675566000,https://media-1.api-sports.io/basketball/teams/1847.png
-2023-02-10T03:00:00+00:00,cal poly,uc irvine,,,away,1675998000,https://media-3.api-sports.io/basketball/teams/1847.png
-2023-02-12T03:00:00+00:00,cal poly,cs northridge,,,away,1676170800,https://media-2.api-sports.io/basketball/teams/1847.png
-2023-02-16T03:00:00+00:00,cal poly,csu bakersfield,,,home,1676516400,https://media-3.api-sports.io/basketball/teams/1847.png
+2023-01-06T03:00:00+00:00,cal poly,csu bakersfield,51 - 61,L,away,1672974000,https://media-2.api-sports.io/basketball/teams/1847.png
+2023-01-07T21:00:00+00:00,cal poly,uc santa barbara,62 - 57,L,home,1673125200,https://media-1.api-sports.io/basketball/teams/1847.png
+2023-01-12T03:00:00+00:00,cal poly,long beach state,,,away,1673492400,https://media-2.api-sports.io/basketball/teams/1847.png
+2023-01-17T01:00:00+00:00,cal poly,uc riverside,,,away,1673917200,https://media-1.api-sports.io/basketball/teams/1847.png
+2023-01-20T03:00:00+00:00,cal poly,uc san diego,,,home,1674183600,https://media-2.api-sports.io/basketball/teams/1847.png
+2023-01-21T23:00:00+00:00,cal poly,uc davis,,,away,1674342000,https://media-2.api-sports.io/basketball/teams/1847.png
+2023-01-27T03:00:00+00:00,cal poly,long beach state,,,home,1674788400,https://media-2.api-sports.io/basketball/teams/1847.png
+2023-01-29T03:00:00+00:00,cal poly,cs fullerton,,,home,1674961200,https://media-3.api-sports.io/basketball/teams/1847.png
+2023-02-03T03:00:00+00:00,cal poly,uc santa barbara,,,away,1675393200,https://media-1.api-sports.io/basketball/teams/1847.png
+2023-02-05T03:00:00+00:00,cal poly,hawaii,,,home,1675566000,https://media-3.api-sports.io/basketball/teams/1847.png
+2023-02-10T03:00:00+00:00,cal poly,uc irvine,,,away,1675998000,https://media-1.api-sports.io/basketball/teams/1847.png
+2023-02-12T03:00:00+00:00,cal poly,cs northridge,,,away,1676170800,https://media-3.api-sports.io/basketball/teams/1847.png
+2023-02-16T03:00:00+00:00,cal poly,csu bakersfield,,,home,1676516400,https://media-1.api-sports.io/basketball/teams/1847.png
 2023-02-18T21:00:00+00:00,cal poly,cs fullerton,None - None,tie,away,1676754000,https://media-2.api-sports.io/basketball/teams/1847.png
-2023-02-20T21:00:00+00:00,cal poly,uc irvine,None - None,tie,home,1676926800,https://media-2.api-sports.io/basketball/teams/1847.png
+2023-02-20T21:00:00+00:00,cal poly,uc irvine,None - None,tie,home,1676926800,https://media-1.api-sports.io/basketball/teams/1847.png
 2023-02-25T21:00:00+00:00,cal poly,uc davis,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/1847.png

@@ -5,6 +5,48 @@ from data_collection_tools import game_row
 import time
 from etext import send_sms_via_email #https://github.com/AlfredoSequeida/etext
 import os
+import asyncio
+import re
+from email.message import EmailMessage
+from typing import Collection, List, Tuple, Union
+import aiosmtplib
+
+HOST = "smtp.gmail.com"
+# https://kb.sandisk.com/app/answers/detail/a_id/17056/~/list-of-mobile-carrier-gateway-addresses
+# https://www.gmass.co/blog/send-text-from-gmail/
+CARRIER_MAP = {
+    "verizon": "vtext.com",
+    "tmobile": "tmomail.net",
+    "sprint": "messaging.sprintpcs.com",
+    "at&t": "txt.att.net",
+    "boost": "smsmyboostmobile.com",
+    "cricket": "sms.cricketwireless.net",
+    "uscellular": "email.uscc.net",
+}
+
+# pylint: disable=too-many-arguments
+async def send_txt(num: Union[str, int], carrier: str, email: str, pword: str, msg: str, subj: str) -> Tuple[dict, str]:
+    to_email = CARRIER_MAP[carrier]
+
+    # build message
+    message = EmailMessage()
+    message["From"] = email
+    message["To"] = f"{num}@{to_email}"
+    message["Subject"] = subj
+    message.set_content(msg)
+
+    # send
+    send_kws = dict(username=email, password=pword, hostname=HOST, port=587, start_tls=True)
+    res = await aiosmtplib.send(message, **send_kws)  # type: ignore
+    msg = "failed" if not re.search(r"\sOK\s", res[1]) else "succeeded"
+    print(msg)
+    return res
+
+
+async def send_txts(
+    nums: Collection[Union[str, int]], carrier: str, email: str, pword: str, msg: str, subj: str) -> List[Tuple[dict, str]]:
+    tasks = [send_txt(n, carrier, email, pword, msg, subj) for n in set(nums)]
+    return await asyncio.gather(*tasks)
 
 def get_all_team_names():
     leagues = ['nba', 'nfl']
@@ -72,12 +114,16 @@ def convert_to_cap(word):
     return " ".join(w)
 
 def text_number(message, number, provider, days):
-    number = "3312296253"
-    message = '\n' +'\n' + '\n' + message
-
-    sender_credentials = ("upcomingsportsgames@gmail.com", "qjbkmtchztfawqhc")
-    print(message)
-    send_sms_via_email(number, message, provider, sender_credentials, subject=f'Sports over the next {days} days')
+    _num = number
+    _carrier = provider 
+    _email = "email"
+    _pword = "password"
+    _msg = '\n' + message
+    _subj = f'Games Over Next {days} Days'
+    coro = send_txt(_num, _carrier, _email, _pword, _msg, _subj)
+    # _nums = {"999999999", "000000000"}
+    # coro = send_txts(_nums, _carrier, _email, _pword, _msg, _subj)
+    asyncio.run(coro)
 
 def text_about_updates(provider, my_teams = [], number = "", days = 4):
     #take input
@@ -104,6 +150,7 @@ def text_about_updates(provider, my_teams = [], number = "", days = 4):
     for ind, i in enumerate(times):
         if i <= 86400*days and i>=0: #8640 seconds in a day
             finalList.append(my_team_data[ind])
+    finalList.sort(key=lambda x: float(x.date_time_unix))
     for each_team in finalList:
         team_name, opponent_name = convert_to_cap(each_team.team), convert_to_cap(each_team.opponent)
         date = datetime.fromtimestamp(float(each_team.date_time_unix))
@@ -116,7 +163,8 @@ def text_about_updates(provider, my_teams = [], number = "", days = 4):
     text_number(message, number, provider, days)
     
 if __name__ == "__main__":
-    text_about_updates(my_teams = [("premier league", "arsenal"), ("uefa europa league", "arsenal"), ("fa cup", "arsenal"), ("international", "usa"), ("nba", "golden state warriors"), ("nfl", "san francisco 49ers"), ("ncaaf", "illinois"), ("ncaamb", "illinois")], number = "3312296253", days = 5, provider = 'T-Mobile')
+    text_about_updates(my_teams = [("premier league", "arsenal"), ("uefa europa league", "arsenal"), ("fa cup", "arsenal"), ("international", "usa"), ("nba", "golden state warriors"), ("nfl", "san francisco 49ers"), ("ncaaf", "illinois"), ("ncaamb", "illinois")], number = "3312296253", days = 5, provider = 'tmobile')
+    
+# #~/opt/anaconda3/envs/text_myself/bin/python3 ~/Desktop/text_myself/text_myself_api.py
 
 
-#~/opt/anaconda3/envs/text_myself/bin/python3 ~/Desktop/text_myself/text_myself_api.py

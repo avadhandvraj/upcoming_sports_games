@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,south florida,southeast missouri state,64 - 61,L,home,1667869200,https://media-2.api-sports.io/basketball/teams/218.png
-2022-11-12T01:00:00+00:00,south florida,auburn,59 - 67,L,away,1668214800,https://media-3.api-sports.io/basketball/teams/218.png
-2022-11-15T00:00:00+00:00,south florida,stetson,68 - 67,L,home,1668470400,https://media-2.api-sports.io/basketball/teams/218.png
-2022-11-18T00:00:00+00:00,south florida,austin peay,62 - 60,L,home,1668729600,https://media-3.api-sports.io/basketball/teams/218.png
+2022-11-08T01:00:00+00:00,south florida,southeast missouri state,64 - 61,L,home,1667869200,https://media-1.api-sports.io/basketball/teams/218.png
+2022-11-12T01:00:00+00:00,south florida,auburn,59 - 67,L,away,1668214800,https://media-2.api-sports.io/basketball/teams/218.png
+2022-11-15T00:00:00+00:00,south florida,stetson,68 - 67,L,home,1668470400,https://media-1.api-sports.io/basketball/teams/218.png
+2022-11-18T00:00:00+00:00,south florida,austin peay,62 - 60,L,home,1668729600,https://media-1.api-sports.io/basketball/teams/218.png
 2022-11-21T23:00:00+00:00,south florida,uab,80 - 65,L,home,1669071600,https://media-3.api-sports.io/basketball/teams/218.png
 2022-11-22T23:30:00+00:00,south florida,saint josephs,75 - 62,W,away,1669159800,https://media-2.api-sports.io/basketball/teams/218.png
-2022-11-25T19:00:00+00:00,south florida,st. francis brooklyn,60 - 75,W,home,1669402800,https://media-1.api-sports.io/basketball/teams/218.png
-2022-11-30T00:00:00+00:00,south florida,umass,73 - 67,L,home,1669766400,https://media-3.api-sports.io/basketball/teams/218.png
-2022-12-03T00:00:00+00:00,south florida,charleston southern,59 - 79,W,home,1670025600,https://media-1.api-sports.io/basketball/teams/218.png
+2022-11-25T19:00:00+00:00,south florida,st. francis brooklyn,60 - 75,W,home,1669402800,https://media-2.api-sports.io/basketball/teams/218.png
+2022-11-30T00:00:00+00:00,south florida,umass,73 - 67,L,home,1669766400,https://media-1.api-sports.io/basketball/teams/218.png
+2022-12-03T00:00:00+00:00,south florida,charleston southern,59 - 79,W,home,1670025600,https://media-3.api-sports.io/basketball/teams/218.png
 2022-12-13T01:00:00+00:00,south florida,northern iowa,72 - 69,W,away,1670893200,https://media-2.api-sports.io/basketball/teams/218.png
-2022-12-17T00:00:00+00:00,south florida,dartmouth,55 - 59,W,home,1671235200,https://media-1.api-sports.io/basketball/teams/218.png
-2022-12-20T00:00:00+00:00,south florida,hofstra,70 - 77,W,home,1671494400,https://media-3.api-sports.io/basketball/teams/218.png
+2022-12-17T00:00:00+00:00,south florida,dartmouth,55 - 59,W,home,1671235200,https://media-3.api-sports.io/basketball/teams/218.png
+2022-12-20T00:00:00+00:00,south florida,hofstra,70 - 77,W,home,1671494400,https://media-2.api-sports.io/basketball/teams/218.png
 2022-12-23T00:00:00+00:00,south florida,njit,73 - 92,W,home,1671753600,https://media-2.api-sports.io/basketball/teams/218.png
-2022-12-30T01:00:00+00:00,south florida,memphis,86 - 93,L,away,1672362000,https://media-2.api-sports.io/basketball/teams/218.png
+2022-12-30T01:00:00+00:00,south florida,memphis,86 - 93,L,away,1672362000,https://media-1.api-sports.io/basketball/teams/218.png
 2023-01-05T00:00:00+00:00,south florida,temple,68 - 64,L,home,1672876800,https://media-3.api-sports.io/basketball/teams/218.png
-2023-01-08T18:00:00+00:00,south florida,wichita state,70 - 66,L,home,1673200800,https://media-1.api-sports.io/basketball/teams/218.png
-2023-01-12T01:00:00+00:00,south florida,houston,,,away,1673485200,https://media-1.api-sports.io/basketball/teams/218.png
-2023-01-15T18:00:00+00:00,south florida,east carolina,,,away,1673805600,https://media-1.api-sports.io/basketball/teams/218.png
+2023-01-08T18:00:00+00:00,south florida,wichita state,70 - 66,L,home,1673200800,https://media-2.api-sports.io/basketball/teams/218.png
+2023-01-12T01:00:00+00:00,south florida,houston,77 - 83,L,away,1673485200,https://media-2.api-sports.io/basketball/teams/218.png
+2023-01-15T18:00:00+00:00,south florida,east carolina,,,away,1673805600,https://media-3.api-sports.io/basketball/teams/218.png
 2023-01-19T00:00:00+00:00,south florida,cincinnati,,,home,1674086400,https://media-3.api-sports.io/basketball/teams/218.png
-2023-01-21T17:00:00+00:00,south florida,ucf knights,,,home,1674320400,https://media-1.api-sports.io/basketball/teams/218.png
-2023-01-26T00:00:00+00:00,south florida,temple,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/218.png
-2023-01-29T21:00:00+00:00,south florida,smu mustangs,,,away,1675026000,https://media-3.api-sports.io/basketball/teams/218.png
-2023-02-02T00:00:00+00:00,south florida,east carolina,,,home,1675296000,https://media-2.api-sports.io/basketball/teams/218.png
-2023-02-09T00:00:00+00:00,south florida,memphis,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/218.png
+2023-01-21T17:00:00+00:00,south florida,ucf knights,,,home,1674320400,https://media-3.api-sports.io/basketball/teams/218.png
+2023-01-26T00:00:00+00:00,south florida,temple,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/218.png
+2023-01-29T21:00:00+00:00,south florida,smu mustangs,,,away,1675026000,https://media-2.api-sports.io/basketball/teams/218.png
+2023-02-02T00:00:00+00:00,south florida,east carolina,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/218.png
+2023-02-09T00:00:00+00:00,south florida,memphis,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/218.png
 2023-02-12T00:00:00+00:00,south florida,cincinnati,,,away,1676160000,https://media-2.api-sports.io/basketball/teams/218.png
-2023-02-16T01:00:00+00:00,south florida,tulsa,,,away,1676509200,https://media-3.api-sports.io/basketball/teams/218.png
+2023-02-16T01:00:00+00:00,south florida,tulsa,,,away,1676509200,https://media-1.api-sports.io/basketball/teams/218.png

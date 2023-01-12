@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 "Friday, October 09 07:30 PM",brazil,bolivia,0 - 5,W,home,1602289800,https://media-1.api-sports.io/football/teams/6.png
 "Tuesday, October 13 07:00 PM",brazil,peru,4 - 2,W,away,1602633600,https://media-3.api-sports.io/football/teams/6.png
-"Friday, November 13 06:30 PM",brazil,venezuela,0 - 1,W,home,1605313800,https://media-1.api-sports.io/football/teams/6.png
+"Friday, November 13 06:30 PM",brazil,venezuela,0 - 1,W,home,1605313800,https://media-2.api-sports.io/football/teams/6.png
 "Tuesday, November 17 05:00 PM",brazil,uruguay,2 - 0,W,away,1605654000,https://media-2.api-sports.io/football/teams/6.png
 "Sunday, October 10 04:00 PM",brazil,colombia,0 - 0,tie,away,1633899600,https://media-3.api-sports.io/football/teams/6.png
 "Wednesday, September 21 07:00 PM",brazil,argentina,,,home,1663804800,https://media-3.api-sports.io/football/teams/6.png
 "Friday, June 04 07:30 PM",brazil,ecuador,0 - 2,W,home,1622853000,https://media-3.api-sports.io/football/teams/6.png
-"Tuesday, June 08 07:30 PM",brazil,paraguay,2 - 0,W,away,1623198600,https://media-2.api-sports.io/football/teams/6.png
-"Thursday, September 02 08:00 PM",brazil,chile,1 - 0,W,away,1630630800,https://media-3.api-sports.io/football/teams/6.png
-"Thursday, September 09 07:30 PM",brazil,peru,0 - 2,W,home,1631233800,https://media-3.api-sports.io/football/teams/6.png
+"Tuesday, June 08 07:30 PM",brazil,paraguay,2 - 0,W,away,1623198600,https://media-3.api-sports.io/football/teams/6.png
+"Thursday, September 02 08:00 PM",brazil,chile,1 - 0,W,away,1630630800,https://media-2.api-sports.io/football/teams/6.png
+"Thursday, September 09 07:30 PM",brazil,peru,0 - 2,W,home,1631233800,https://media-1.api-sports.io/football/teams/6.png
 "Thursday, October 07 06:30 PM",brazil,venezuela,3 - 1,W,away,1633649400,https://media-1.api-sports.io/football/teams/6.png
-"Thursday, October 14 07:30 PM",brazil,uruguay,1 - 4,W,home,1634257800,https://media-2.api-sports.io/football/teams/6.png
-"Thursday, November 11 06:30 PM",brazil,colombia,0 - 1,W,home,1636677000,https://media-3.api-sports.io/football/teams/6.png
-"Tuesday, November 16 05:30 PM",brazil,argentina,0 - 0,tie,away,1637105400,https://media-3.api-sports.io/football/teams/6.png
-"Thursday, January 27 03:00 PM",brazil,ecuador,1 - 1,tie,away,1643317200,https://media-1.api-sports.io/football/teams/6.png
-"Tuesday, February 01 06:30 PM",brazil,paraguay,0 - 4,W,home,1643761800,https://media-3.api-sports.io/football/teams/6.png
-"Thursday, March 24 06:30 PM",brazil,chile,0 - 4,W,home,1648164600,https://media-3.api-sports.io/football/teams/6.png
-"Wednesday, March 30 06:30 PM",brazil,bolivia,4 - 0,W,away,1648683000,https://media-1.api-sports.io/football/teams/6.png
-"Thursday, November 24 01:00 PM",brazil,serbia,0 - 2,W,home,1669316400,https://media-1.api-sports.io/football/teams/6.png
+"Thursday, October 14 07:30 PM",brazil,uruguay,1 - 4,W,home,1634257800,https://media-3.api-sports.io/football/teams/6.png
+"Thursday, November 11 06:30 PM",brazil,colombia,0 - 1,W,home,1636677000,https://media-2.api-sports.io/football/teams/6.png
+"Tuesday, November 16 05:30 PM",brazil,argentina,0 - 0,tie,away,1637105400,https://media-2.api-sports.io/football/teams/6.png
+"Thursday, January 27 03:00 PM",brazil,ecuador,1 - 1,tie,away,1643317200,https://media-2.api-sports.io/football/teams/6.png
+"Tuesday, February 01 06:30 PM",brazil,paraguay,0 - 4,W,home,1643761800,https://media-2.api-sports.io/football/teams/6.png
+"Thursday, March 24 06:30 PM",brazil,chile,0 - 4,W,home,1648164600,https://media-1.api-sports.io/football/teams/6.png
+"Wednesday, March 30 06:30 PM",brazil,bolivia,4 - 0,W,away,1648683000,https://media-2.api-sports.io/football/teams/6.png
+"Thursday, November 24 01:00 PM",brazil,serbia,0 - 2,W,home,1669316400,https://media-3.api-sports.io/football/teams/6.png
 "Monday, November 28 10:00 AM",brazil,switzerland,0 - 1,W,home,1669651200,https://media-3.api-sports.io/football/teams/6.png
 "Friday, December 02 01:00 PM",brazil,cameroon,0 - 1,L,away,1670007600,https://media-3.api-sports.io/football/teams/6.png
-"Saturday, June 11 03:00 AM",brazil,argentina,,,home,1654934400,https://media-1.api-sports.io/football/teams/6.png
+"Saturday, June 11 03:00 AM",brazil,argentina,,,home,1654934400,https://media-3.api-sports.io/football/teams/6.png
 "Monday, June 06 05:20 AM",brazil,japan,1 - 0,W,away,1654510800,https://media-2.api-sports.io/football/teams/6.png
 "Thursday, June 02 06:00 AM",brazil,south korea,5 - 1,W,away,1654167600,https://media-3.api-sports.io/football/teams/6.png
-"Friday, September 23 01:30 PM",brazil,ghana,0 - 3,W,home,1663957800,https://media-2.api-sports.io/football/teams/6.png
-"Tuesday, September 27 01:30 PM",brazil,tunisia,1 - 5,W,home,1664303400,https://media-1.api-sports.io/football/teams/6.png
+"Friday, September 23 01:30 PM",brazil,ghana,0 - 3,W,home,1663957800,https://media-3.api-sports.io/football/teams/6.png
+"Tuesday, September 27 01:30 PM",brazil,tunisia,1 - 5,W,home,1664303400,https://media-2.api-sports.io/football/teams/6.png
 "Monday, December 05 01:00 PM",brazil,south korea,1 - 4,W,home,1670266800,https://media-1.api-sports.io/football/teams/6.png
-"Friday, December 09 09:00 AM",brazil,croatia,1(2) - 1(4),L,away,1670598000,https://media-2.api-sports.io/football/teams/6.png
+"Friday, December 09 09:00 AM",brazil,croatia,1(2) - 1(4),L,away,1670598000,https://media-1.api-sports.io/football/teams/6.png

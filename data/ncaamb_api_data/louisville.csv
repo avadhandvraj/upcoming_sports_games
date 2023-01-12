@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-10T02:00:00+00:00,louisville,bellarmine,67 - 66,L,home,1668045600,https://media-1.api-sports.io/basketball/teams/1977.png
-2022-11-12T18:00:00+00:00,louisville,wright state,73 - 72,L,home,1668276000,https://media-3.api-sports.io/basketball/teams/1977.png
-2022-11-15T23:00:00+00:00,louisville,appalachian state,61 - 60,L,home,1668553200,https://media-1.api-sports.io/basketball/teams/1977.png
-2022-11-21T22:00:00+00:00,louisville,arkansas,54 - 80,L,away,1669068000,https://media-3.api-sports.io/basketball/teams/1977.png
+2022-11-10T02:00:00+00:00,louisville,bellarmine,67 - 66,L,home,1668045600,https://media-2.api-sports.io/basketball/teams/1977.png
+2022-11-12T18:00:00+00:00,louisville,wright state,73 - 72,L,home,1668276000,https://media-2.api-sports.io/basketball/teams/1977.png
+2022-11-15T23:00:00+00:00,louisville,appalachian state,61 - 60,L,home,1668553200,https://media-3.api-sports.io/basketball/teams/1977.png
+2022-11-21T22:00:00+00:00,louisville,arkansas,54 - 80,L,away,1669068000,https://media-1.api-sports.io/basketball/teams/1977.png
 2022-11-22T19:30:00+00:00,louisville,texas tech,70 - 38,L,home,1669145400,https://media-2.api-sports.io/basketball/teams/1977.png
 2022-11-24T00:30:00+00:00,louisville,cincinnati,62 - 81,L,away,1669249800,https://media-1.api-sports.io/basketball/teams/1977.png
 2022-11-30T00:00:00+00:00,louisville,maryland,79 - 54,L,home,1669766400,https://media-2.api-sports.io/basketball/teams/1977.png
 2022-12-04T18:00:00+00:00,louisville,miami (fl),80 - 53,L,home,1670176800,https://media-2.api-sports.io/basketball/teams/1977.png
-2022-12-10T18:00:00+00:00,louisville,florida state,53 - 75,L,away,1670695200,https://media-3.api-sports.io/basketball/teams/1977.png
-2022-12-15T02:00:00+00:00,louisville,western kentucky,83 - 94,W,home,1671069600,https://media-2.api-sports.io/basketball/teams/1977.png
+2022-12-10T18:00:00+00:00,louisville,florida state,53 - 75,L,away,1670695200,https://media-1.api-sports.io/basketball/teams/1977.png
+2022-12-15T02:00:00+00:00,louisville,western kentucky,83 - 94,W,home,1671069600,https://media-3.api-sports.io/basketball/teams/1977.png
 2022-12-17T19:00:00+00:00,louisville,florida a&m,55 - 61,W,home,1671303600,https://media-1.api-sports.io/basketball/teams/1977.png
-2022-12-20T23:00:00+00:00,louisville,lipscomb,75 - 67,L,home,1671577200,https://media-1.api-sports.io/basketball/teams/1977.png
-2022-12-23T00:00:00+00:00,louisville,nc state,64 - 76,L,away,1671753600,https://media-3.api-sports.io/basketball/teams/1977.png
-2022-12-31T17:00:00+00:00,louisville,kentucky,63 - 86,L,away,1672506000,https://media-3.api-sports.io/basketball/teams/1977.png
-2023-01-04T00:00:00+00:00,louisville,syracuse,70 - 69,L,home,1672790400,https://media-2.api-sports.io/basketball/teams/1977.png
-2023-01-07T20:00:00+00:00,louisville,wake forest,80 - 72,L,home,1673121600,https://media-2.api-sports.io/basketball/teams/1977.png
-2023-01-12T02:00:00+00:00,louisville,clemson,,,away,1673488800,https://media-2.api-sports.io/basketball/teams/1977.png
-2023-01-14T19:00:00+00:00,louisville,north carolina,,,home,1673722800,https://media-3.api-sports.io/basketball/teams/1977.png
-2023-01-19T00:00:00+00:00,louisville,pittsburgh,,,home,1674086400,https://media-1.api-sports.io/basketball/teams/1977.png
-2023-01-26T02:00:00+00:00,louisville,boston college,,,away,1674698400,https://media-2.api-sports.io/basketball/teams/1977.png
-2023-01-28T17:00:00+00:00,louisville,notre dame,,,away,1674925200,https://media-1.api-sports.io/basketball/teams/1977.png
+2022-12-20T23:00:00+00:00,louisville,lipscomb,75 - 67,L,home,1671577200,https://media-2.api-sports.io/basketball/teams/1977.png
+2022-12-23T00:00:00+00:00,louisville,nc state,64 - 76,L,away,1671753600,https://media-1.api-sports.io/basketball/teams/1977.png
+2022-12-31T17:00:00+00:00,louisville,kentucky,63 - 86,L,away,1672506000,https://media-1.api-sports.io/basketball/teams/1977.png
+2023-01-04T00:00:00+00:00,louisville,syracuse,70 - 69,L,home,1672790400,https://media-3.api-sports.io/basketball/teams/1977.png
+2023-01-07T20:00:00+00:00,louisville,wake forest,80 - 72,L,home,1673121600,https://media-3.api-sports.io/basketball/teams/1977.png
+2023-01-12T02:00:00+00:00,louisville,clemson,70 - 83,L,away,1673488800,https://media-1.api-sports.io/basketball/teams/1977.png
+2023-01-14T19:00:00+00:00,louisville,north carolina,,,home,1673722800,https://media-2.api-sports.io/basketball/teams/1977.png
+2023-01-19T00:00:00+00:00,louisville,pittsburgh,,,home,1674086400,https://media-3.api-sports.io/basketball/teams/1977.png
+2023-01-26T02:00:00+00:00,louisville,boston college,,,away,1674698400,https://media-3.api-sports.io/basketball/teams/1977.png
+2023-01-28T17:00:00+00:00,louisville,notre dame,,,away,1674925200,https://media-2.api-sports.io/basketball/teams/1977.png
 2023-02-02T00:00:00+00:00,louisville,georgia tech,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/1977.png
-2023-02-04T19:00:00+00:00,louisville,florida state,,,home,1675537200,https://media-3.api-sports.io/basketball/teams/1977.png
-2023-02-08T00:00:00+00:00,louisville,pittsburgh,,,away,1675814400,https://media-3.api-sports.io/basketball/teams/1977.png
-2023-02-12T00:00:00+00:00,louisville,miami (fl),,,away,1676160000,https://media-3.api-sports.io/basketball/teams/1977.png
+2023-02-04T19:00:00+00:00,louisville,florida state,,,home,1675537200,https://media-1.api-sports.io/basketball/teams/1977.png
+2023-02-08T00:00:00+00:00,louisville,pittsburgh,,,away,1675814400,https://media-1.api-sports.io/basketball/teams/1977.png
+2023-02-12T00:00:00+00:00,louisville,miami (fl),,,away,1676160000,https://media-2.api-sports.io/basketball/teams/1977.png
 2023-02-16T00:00:00+00:00,louisville,virginia,,,home,1676505600,https://media-3.api-sports.io/basketball/teams/1977.png

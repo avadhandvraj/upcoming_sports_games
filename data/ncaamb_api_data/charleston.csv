@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:30:00+00:00,charleston,chattanooga mocs,78 - 85,W,home,1667867400,https://media-2.api-sports.io/basketball/teams/1861.png
 2022-11-12T00:00:00+00:00,charleston,north carolina,86 - 102,L,away,1668211200,https://media-1.api-sports.io/basketball/teams/1861.png
-2022-11-15T00:00:00+00:00,charleston,richmond,90 - 92,W,home,1668470400,https://media-2.api-sports.io/basketball/teams/1861.png
-2022-11-18T00:00:00+00:00,charleston,davidson,66 - 89,W,home,1668729600,https://media-1.api-sports.io/basketball/teams/1861.png
-2022-11-18T22:00:00+00:00,charleston,colorado state,64 - 74,W,home,1668808800,https://media-2.api-sports.io/basketball/teams/1861.png
-2022-11-20T20:30:00+00:00,charleston,virginia tech,75 - 77,W,home,1668976200,https://media-3.api-sports.io/basketball/teams/1861.png
+2022-11-15T00:00:00+00:00,charleston,richmond,90 - 92,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/1861.png
+2022-11-18T00:00:00+00:00,charleston,davidson,66 - 89,W,home,1668729600,https://media-2.api-sports.io/basketball/teams/1861.png
+2022-11-18T22:00:00+00:00,charleston,colorado state,64 - 74,W,home,1668808800,https://media-1.api-sports.io/basketball/teams/1861.png
+2022-11-20T20:30:00+00:00,charleston,virginia tech,75 - 77,W,home,1668976200,https://media-1.api-sports.io/basketball/teams/1861.png
 2022-11-23T23:00:00+00:00,charleston,kent state,72 - 74,W,home,1669244400,https://media-1.api-sports.io/basketball/teams/1861.png
-2022-11-30T00:00:00+00:00,charleston,old dominion,60 - 75,W,home,1669766400,https://media-2.api-sports.io/basketball/teams/1861.png
+2022-11-30T00:00:00+00:00,charleston,old dominion,60 - 75,W,home,1669766400,https://media-1.api-sports.io/basketball/teams/1861.png
 2022-12-03T18:00:00+00:00,charleston,citadel,79 - 57,W,away,1670090400,https://media-3.api-sports.io/basketball/teams/1861.png
-2022-12-07T00:00:00+00:00,charleston,presbyterian,67 - 62,W,away,1670371200,https://media-2.api-sports.io/basketball/teams/1861.png
+2022-12-07T00:00:00+00:00,charleston,presbyterian,67 - 62,W,away,1670371200,https://media-1.api-sports.io/basketball/teams/1861.png
 2022-12-11T19:00:00+00:00,charleston,north greenville,67 - 96,W,home,1670785200,https://media-2.api-sports.io/basketball/teams/1861.png
-2022-12-15T00:00:00+00:00,charleston,stetson,60 - 65,W,home,1671062400,https://media-2.api-sports.io/basketball/teams/1861.png
+2022-12-15T00:00:00+00:00,charleston,stetson,60 - 65,W,home,1671062400,https://media-3.api-sports.io/basketball/teams/1861.png
 2022-12-20T00:30:00+00:00,charleston,coastal carolina,83 - 69,W,away,1671496200,https://media-2.api-sports.io/basketball/teams/1861.png
 2022-12-30T00:00:00+00:00,charleston,hampton,61 - 89,W,home,1672358400,https://media-2.api-sports.io/basketball/teams/1861.png
 2022-12-31T17:00:00+00:00,charleston,towson,76 - 74,W,away,1672506000,https://media-1.api-sports.io/basketball/teams/1861.png
 2023-01-04T22:00:00+00:00,charleston,n. carolina a&t,92 - 79,W,away,1672869600,https://media-1.api-sports.io/basketball/teams/1861.png
-2023-01-07T22:00:00+00:00,charleston,delaware,64 - 75,W,home,1673128800,https://media-2.api-sports.io/basketball/teams/1861.png
-2023-01-12T00:00:00+00:00,charleston,nc wilmington,,,away,1673481600,https://media-1.api-sports.io/basketball/teams/1861.png
-2023-01-14T21:00:00+00:00,charleston,elon,,,home,1673730000,https://media-1.api-sports.io/basketball/teams/1861.png
+2023-01-07T22:00:00+00:00,charleston,delaware,64 - 75,W,home,1673128800,https://media-3.api-sports.io/basketball/teams/1861.png
+2023-01-12T00:00:00+00:00,charleston,nc wilmington,71 - 69,W,away,1673481600,https://media-3.api-sports.io/basketball/teams/1861.png
+2023-01-14T21:00:00+00:00,charleston,elon,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/1861.png
 2023-01-16T22:00:00+00:00,charleston,william & mary,,,home,1673906400,https://media-1.api-sports.io/basketball/teams/1861.png
-2023-01-20T00:00:00+00:00,charleston,monmouth,,,away,1674172800,https://media-2.api-sports.io/basketball/teams/1861.png
-2023-01-21T17:00:00+00:00,charleston,northeastern,,,away,1674320400,https://media-1.api-sports.io/basketball/teams/1861.png
-2023-01-28T21:00:00+00:00,charleston,hofstra,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/1861.png
+2023-01-20T00:00:00+00:00,charleston,monmouth,,,away,1674172800,https://media-1.api-sports.io/basketball/teams/1861.png
+2023-01-21T17:00:00+00:00,charleston,northeastern,,,away,1674320400,https://media-2.api-sports.io/basketball/teams/1861.png
+2023-01-28T21:00:00+00:00,charleston,hofstra,,,home,1674939600,https://media-1.api-sports.io/basketball/teams/1861.png
 2023-02-03T00:00:00+00:00,charleston,drexel,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/1861.png
-2023-02-04T19:00:00+00:00,charleston,delaware,,,away,1675537200,https://media-1.api-sports.io/basketball/teams/1861.png
-2023-02-09T00:00:00+00:00,charleston,nc wilmington,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/1861.png
-2023-02-11T21:00:00+00:00,charleston,hampton,,,away,1676149200,https://media-3.api-sports.io/basketball/teams/1861.png
+2023-02-04T19:00:00+00:00,charleston,delaware,,,away,1675537200,https://media-3.api-sports.io/basketball/teams/1861.png
+2023-02-09T00:00:00+00:00,charleston,nc wilmington,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/1861.png
+2023-02-11T21:00:00+00:00,charleston,hampton,,,away,1676149200,https://media-2.api-sports.io/basketball/teams/1861.png
 2023-02-14T00:00:00+00:00,charleston,northeastern,,,home,1676332800,https://media-1.api-sports.io/basketball/teams/1861.png
-2023-02-17T00:00:00+00:00,charleston,elon,,,away,1676592000,https://media-2.api-sports.io/basketball/teams/1861.png
+2023-02-17T00:00:00+00:00,charleston,elon,,,away,1676592000,https://media-3.api-sports.io/basketball/teams/1861.png
 2023-02-23T21:00:00+00:00,charleston,towson,None - None,tie,home,1677186000,https://media-2.api-sports.io/basketball/teams/1861.png
-2023-02-25T21:00:00+00:00,charleston,stony brook,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/1861.png
+2023-02-25T21:00:00+00:00,charleston,stony brook,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/1861.png

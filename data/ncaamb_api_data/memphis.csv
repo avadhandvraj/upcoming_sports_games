@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,memphis,vanderbilt,76 - 67,W,away,1667869200,https://media-2.api-sports.io/basketball/teams/192.png
-2022-11-16T02:00:00+00:00,memphis,st. louis,84 - 90,L,away,1668564000,https://media-1.api-sports.io/basketball/teams/192.png
-2022-11-20T22:00:00+00:00,memphis,vcu rams,47 - 62,W,home,1668981600,https://media-1.api-sports.io/basketball/teams/192.png
-2022-11-25T00:30:00+00:00,memphis,seton hall,69 - 70,L,away,1669336200,https://media-2.api-sports.io/basketball/teams/192.png
-2022-11-25T22:30:00+00:00,memphis,nebraska,61 - 73,W,home,1669415400,https://media-3.api-sports.io/basketball/teams/192.png
-2022-11-27T16:00:00+00:00,memphis,stanford,48 - 56,W,home,1669564800,https://media-3.api-sports.io/basketball/teams/192.png
-2022-12-01T01:00:00+00:00,memphis,north alabama,68 - 87,W,home,1669856400,https://media-1.api-sports.io/basketball/teams/192.png
-2022-12-04T00:30:00+00:00,memphis,ole miss,57 - 68,W,home,1670113800,https://media-2.api-sports.io/basketball/teams/192.png
-2022-12-07T01:00:00+00:00,memphis,ualr,71 - 87,W,home,1670374800,https://media-1.api-sports.io/basketball/teams/192.png
+2022-11-08T01:00:00+00:00,memphis,vanderbilt,76 - 67,W,away,1667869200,https://media-1.api-sports.io/basketball/teams/192.png
+2022-11-16T02:00:00+00:00,memphis,st. louis,84 - 90,L,away,1668564000,https://media-2.api-sports.io/basketball/teams/192.png
+2022-11-20T22:00:00+00:00,memphis,vcu rams,47 - 62,W,home,1668981600,https://media-2.api-sports.io/basketball/teams/192.png
+2022-11-25T00:30:00+00:00,memphis,seton hall,69 - 70,L,away,1669336200,https://media-1.api-sports.io/basketball/teams/192.png
+2022-11-25T22:30:00+00:00,memphis,nebraska,61 - 73,W,home,1669415400,https://media-2.api-sports.io/basketball/teams/192.png
+2022-11-27T16:00:00+00:00,memphis,stanford,48 - 56,W,home,1669564800,https://media-2.api-sports.io/basketball/teams/192.png
+2022-12-01T01:00:00+00:00,memphis,north alabama,68 - 87,W,home,1669856400,https://media-2.api-sports.io/basketball/teams/192.png
+2022-12-04T00:30:00+00:00,memphis,ole miss,57 - 68,W,home,1670113800,https://media-3.api-sports.io/basketball/teams/192.png
+2022-12-07T01:00:00+00:00,memphis,ualr,71 - 87,W,home,1670374800,https://media-2.api-sports.io/basketball/teams/192.png
 2022-12-10T22:00:00+00:00,memphis,auburn,73 - 82,W,home,1670709600,https://media-1.api-sports.io/basketball/teams/192.png
 2022-12-14T02:00:00+00:00,memphis,alabama,88 - 91,L,away,1670983200,https://media-1.api-sports.io/basketball/teams/192.png
-2022-12-18T00:00:00+00:00,memphis,texas a&m,79 - 83,W,home,1671321600,https://media-2.api-sports.io/basketball/teams/192.png
+2022-12-18T00:00:00+00:00,memphis,texas a&m,79 - 83,W,home,1671321600,https://media-3.api-sports.io/basketball/teams/192.png
 2022-12-22T01:00:00+00:00,memphis,alabama state,61 - 83,W,home,1671670800,https://media-2.api-sports.io/basketball/teams/192.png
 2022-12-30T01:00:00+00:00,memphis,south florida,86 - 93,W,home,1672362000,https://media-3.api-sports.io/basketball/teams/192.png
-2023-01-01T22:00:00+00:00,memphis,tulane,89 - 96,L,away,1672610400,https://media-2.api-sports.io/basketball/teams/192.png
+2023-01-01T22:00:00+00:00,memphis,tulane,89 - 96,L,away,1672610400,https://media-1.api-sports.io/basketball/teams/192.png
 2023-01-07T19:00:00+00:00,memphis,east carolina,59 - 69,W,home,1673118000,https://media-3.api-sports.io/basketball/teams/192.png
-2023-01-12T00:00:00+00:00,memphis,ucf knights,,,away,1673481600,https://media-3.api-sports.io/basketball/teams/192.png
+2023-01-12T00:00:00+00:00,memphis,ucf knights,104 - 107,L,away,1673481600,https://media-3.api-sports.io/basketball/teams/192.png
 2023-01-15T20:00:00+00:00,memphis,temple,,,away,1673812800,https://media-1.api-sports.io/basketball/teams/192.png
-2023-01-20T00:00:00+00:00,memphis,wichita state,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/192.png
-2023-01-22T18:00:00+00:00,memphis,cincinnati,,,away,1674410400,https://media-1.api-sports.io/basketball/teams/192.png
+2023-01-20T00:00:00+00:00,memphis,wichita state,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/192.png
+2023-01-22T18:00:00+00:00,memphis,cincinnati,,,away,1674410400,https://media-3.api-sports.io/basketball/teams/192.png
 2023-01-27T00:00:00+00:00,memphis,smu mustangs,,,home,1674777600,https://media-2.api-sports.io/basketball/teams/192.png
-2023-01-29T22:00:00+00:00,memphis,tulsa,,,away,1675029600,https://media-1.api-sports.io/basketball/teams/192.png
+2023-01-29T22:00:00+00:00,memphis,tulsa,,,away,1675029600,https://media-3.api-sports.io/basketball/teams/192.png
 2023-02-04T19:00:00+00:00,memphis,tulane,,,home,1675537200,https://media-2.api-sports.io/basketball/teams/192.png
-2023-02-09T00:00:00+00:00,memphis,south florida,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/192.png
+2023-02-09T00:00:00+00:00,memphis,south florida,,,away,1675900800,https://media-2.api-sports.io/basketball/teams/192.png
 2023-02-12T17:00:00+00:00,memphis,temple,,,home,1676221200,https://media-1.api-sports.io/basketball/teams/192.png
 2023-02-17T01:00:00+00:00,memphis,ucf knights,,,home,1676595600,https://media-2.api-sports.io/basketball/teams/192.png

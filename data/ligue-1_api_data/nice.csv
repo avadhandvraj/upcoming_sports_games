@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 "Sunday, August 07 06:00 AM",nice,toulouse,1 - 1,tie,away,1659870000,https://media-2.api-sports.io/football/teams/84.png
 "Sunday, August 14 10:05 AM",nice,strasbourg,1 - 1,tie,home,1660489500,https://media-1.api-sports.io/football/teams/84.png
-"Sunday, August 21 08:00 AM",nice,clermont foot,0 - 1,L,away,1661086800,https://media-1.api-sports.io/football/teams/84.png
-"Sunday, August 28 08:00 AM",nice,marseille,3 - 0,L,home,1661691600,https://media-3.api-sports.io/football/teams/84.png
+"Sunday, August 21 08:00 AM",nice,clermont foot,0 - 1,L,away,1661086800,https://media-2.api-sports.io/football/teams/84.png
+"Sunday, August 28 08:00 AM",nice,marseille,3 - 0,L,home,1661691600,https://media-1.api-sports.io/football/teams/84.png
 "Wednesday, August 31 02:00 PM",nice,lille,2 - 1,W,away,1661972400,https://media-3.api-sports.io/football/teams/84.png
-"Sunday, September 04 01:45 PM",nice,monaco,1 - 0,L,home,1662317100,https://media-1.api-sports.io/football/teams/84.png
-"Sunday, September 11 08:00 AM",nice,ajaccio,1 - 0,W,away,1662901200,https://media-1.api-sports.io/football/teams/84.png
-"Sunday, September 18 08:00 AM",nice,angers,1 - 0,L,home,1663506000,https://media-3.api-sports.io/football/teams/84.png
+"Sunday, September 04 01:45 PM",nice,monaco,1 - 0,L,home,1662317100,https://media-2.api-sports.io/football/teams/84.png
+"Sunday, September 11 08:00 AM",nice,ajaccio,1 - 0,W,away,1662901200,https://media-2.api-sports.io/football/teams/84.png
+"Sunday, September 18 08:00 AM",nice,angers,1 - 0,L,home,1663506000,https://media-1.api-sports.io/football/teams/84.png
 "Saturday, October 01 02:00 PM",nice,paris saint germain,1 - 2,L,away,1664650800,https://media-1.api-sports.io/football/teams/84.png
-"Sunday, October 09 08:00 AM",nice,estac troyes,2 - 3,W,home,1665320400,https://media-3.api-sports.io/football/teams/84.png
-"Sunday, October 16 08:00 AM",nice,auxerre,1 - 1,tie,away,1665925200,https://media-1.api-sports.io/football/teams/84.png
-"Sunday, October 23 10:05 AM",nice,nantes,1 - 1,tie,home,1666537500,https://media-2.api-sports.io/football/teams/84.png
+"Sunday, October 09 08:00 AM",nice,estac troyes,2 - 3,W,home,1665320400,https://media-1.api-sports.io/football/teams/84.png
+"Sunday, October 16 08:00 AM",nice,auxerre,1 - 1,tie,away,1665925200,https://media-2.api-sports.io/football/teams/84.png
+"Sunday, October 23 10:05 AM",nice,nantes,1 - 1,tie,home,1666537500,https://media-3.api-sports.io/football/teams/84.png
 "Sunday, October 30 11:05 AM",nice,lorient,2 - 1,W,away,1667145900,https://media-1.api-sports.io/football/teams/84.png
-"Sunday, November 06 08:00 AM",nice,stade brestois 29,0 - 1,W,home,1667743200,https://media-1.api-sports.io/football/teams/84.png
-"Friday, November 11 02:00 PM",nice,lyon,1 - 1,tie,away,1668196800,https://media-3.api-sports.io/football/teams/84.png
-"Thursday, December 29 02:00 PM",nice,lens,0 - 0,tie,home,1672344000,https://media-3.api-sports.io/football/teams/84.png
-"Monday, January 02 02:00 PM",nice,rennes,1 - 2,L,away,1672689600,https://media-1.api-sports.io/football/teams/84.png
-"Wednesday, January 11 02:00 PM",nice,montpellier,,,home,1673467200,https://media-1.api-sports.io/football/teams/84.png
+"Sunday, November 06 08:00 AM",nice,stade brestois 29,0 - 1,W,home,1667743200,https://media-3.api-sports.io/football/teams/84.png
+"Friday, November 11 02:00 PM",nice,lyon,1 - 1,tie,away,1668196800,https://media-2.api-sports.io/football/teams/84.png
+"Thursday, December 29 02:00 PM",nice,lens,0 - 0,tie,home,1672344000,https://media-1.api-sports.io/football/teams/84.png
+"Monday, January 02 02:00 PM",nice,rennes,1 - 2,L,away,1672689600,https://media-3.api-sports.io/football/teams/84.png
+"Wednesday, January 11 02:00 PM",nice,montpellier,1 - 6,W,home,1673467200,https://media-2.api-sports.io/football/teams/84.png
 "Sunday, January 15 08:00 AM",nice,reims,,,away,1673791200,https://media-3.api-sports.io/football/teams/84.png
 "Sunday, January 29 06:00 AM",nice,lille,,,home,1674993600,https://media-3.api-sports.io/football/teams/84.png
-"Wednesday, February 01 02:00 PM",nice,lens,,,away,1675281600,https://media-1.api-sports.io/football/teams/84.png
-"Saturday, February 04 06:00 PM",nice,marseille,,,away,1675555200,https://media-1.api-sports.io/football/teams/84.png
-"Saturday, February 11 06:00 PM",nice,ajaccio,,,home,1676160000,https://media-2.api-sports.io/football/teams/84.png
+"Wednesday, February 01 02:00 PM",nice,lens,,,away,1675281600,https://media-2.api-sports.io/football/teams/84.png
+"Saturday, February 04 06:00 PM",nice,marseille,,,away,1675555200,https://media-2.api-sports.io/football/teams/84.png
+"Saturday, February 11 06:00 PM",nice,ajaccio,,,home,1676160000,https://media-1.api-sports.io/football/teams/84.png
 "Saturday, February 18 06:00 PM",nice,reims,,,home,1676764800,https://media-1.api-sports.io/football/teams/84.png
-"Saturday, February 25 06:00 PM",nice,monaco,,,away,1677369600,https://media-3.api-sports.io/football/teams/84.png
-"Saturday, March 04 06:00 PM",nice,auxerre,,,home,1677974400,https://media-2.api-sports.io/football/teams/84.png
+"Saturday, February 25 06:00 PM",nice,monaco,,,away,1677369600,https://media-2.api-sports.io/football/teams/84.png
+"Saturday, March 04 06:00 PM",nice,auxerre,,,home,1677974400,https://media-3.api-sports.io/football/teams/84.png
 "Saturday, March 11 06:00 PM",nice,nantes,,,away,1678579200,https://media-1.api-sports.io/football/teams/84.png
-"Saturday, March 18 07:00 PM",nice,lorient,,,home,1679184000,https://media-2.api-sports.io/football/teams/84.png
-"Saturday, April 01 07:00 PM",nice,angers,,,away,1680393600,https://media-1.api-sports.io/football/teams/84.png
-"Saturday, April 08 07:00 PM",nice,paris saint germain,,,home,1680998400,https://media-2.api-sports.io/football/teams/84.png
-"Saturday, April 15 07:00 PM",nice,stade brestois 29,,,away,1681603200,https://media-3.api-sports.io/football/teams/84.png
-"Saturday, April 22 07:00 PM",nice,clermont foot,,,home,1682208000,https://media-1.api-sports.io/football/teams/84.png
-"Saturday, April 29 07:00 PM",nice,estac troyes,,,away,1682812800,https://media-1.api-sports.io/football/teams/84.png
+"Saturday, March 18 07:00 PM",nice,lorient,,,home,1679184000,https://media-3.api-sports.io/football/teams/84.png
+"Saturday, April 01 07:00 PM",nice,angers,,,away,1680393600,https://media-3.api-sports.io/football/teams/84.png
+"Saturday, April 08 07:00 PM",nice,paris saint germain,,,home,1680998400,https://media-1.api-sports.io/football/teams/84.png
+"Saturday, April 15 07:00 PM",nice,stade brestois 29,,,away,1681603200,https://media-1.api-sports.io/football/teams/84.png
+"Saturday, April 22 07:00 PM",nice,clermont foot,,,home,1682208000,https://media-3.api-sports.io/football/teams/84.png
+"Saturday, April 29 07:00 PM",nice,estac troyes,,,away,1682812800,https://media-2.api-sports.io/football/teams/84.png
 "Saturday, May 06 07:00 PM",nice,rennes,,,home,1683417600,https://media-3.api-sports.io/football/teams/84.png
-"Saturday, May 13 07:00 PM",nice,strasbourg,,,away,1684022400,https://media-1.api-sports.io/football/teams/84.png
+"Saturday, May 13 07:00 PM",nice,strasbourg,,,away,1684022400,https://media-2.api-sports.io/football/teams/84.png
 "Saturday, May 20 07:00 PM",nice,toulouse,,,home,1684627200,https://media-3.api-sports.io/football/teams/84.png
-"Friday, May 26 07:00 PM",nice,montpellier,,,away,1685145600,https://media-3.api-sports.io/football/teams/84.png
+"Friday, May 26 07:00 PM",nice,montpellier,,,away,1685145600,https://media-2.api-sports.io/football/teams/84.png
 "Friday, June 02 07:00 PM",nice,lyon,,,home,1685750400,https://media-1.api-sports.io/football/teams/84.png

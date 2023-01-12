@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,texas state,washington state,61 - 83,L,away,1667867400,https://media-1.api-sports.io/basketball/teams/247.png
+2022-11-08T00:30:00+00:00,texas state,washington state,61 - 83,L,away,1667867400,https://media-2.api-sports.io/basketball/teams/247.png
 2022-11-11T00:00:00+00:00,texas state,mid-america christian,53 - 71,W,home,1668124800,https://media-1.api-sports.io/basketball/teams/247.png
-2022-11-12T21:00:00+00:00,texas state,rhode island,70 - 66,W,away,1668286800,https://media-2.api-sports.io/basketball/teams/247.png
+2022-11-12T21:00:00+00:00,texas state,rhode island,70 - 66,W,away,1668286800,https://media-3.api-sports.io/basketball/teams/247.png
 2022-11-18T01:00:00+00:00,texas state,utsa roadrunners,56 - 61,L,away,1668733200,https://media-1.api-sports.io/basketball/teams/247.png
-2022-11-22T03:00:00+00:00,texas state,california,59 - 55,W,away,1669086000,https://media-3.api-sports.io/basketball/teams/247.png
-2022-11-26T04:00:00+00:00,texas state,southern utah,65 - 78,W,home,1669435200,https://media-3.api-sports.io/basketball/teams/247.png
-2022-11-27T04:59:00+00:00,texas state,hawaii,65 - 72,L,away,1669525140,https://media-2.api-sports.io/basketball/teams/247.png
-2022-12-02T01:30:00+00:00,texas state,lamar,65 - 55,W,away,1669944600,https://media-1.api-sports.io/basketball/teams/247.png
-2022-12-04T20:00:00+00:00,texas state,rice,83 - 71,L,home,1670184000,https://media-3.api-sports.io/basketball/teams/247.png
-2022-12-11T00:30:00+00:00,texas state,ut arlington,71 - 65,W,away,1670718600,https://media-2.api-sports.io/basketball/teams/247.png
-2022-12-14T01:00:00+00:00,texas state,hardin-baylor,71 - 65,L,home,1670979600,https://media-2.api-sports.io/basketball/teams/247.png
-2022-12-17T20:00:00+00:00,texas state,sam houston st.,69 - 62,L,home,1671307200,https://media-3.api-sports.io/basketball/teams/247.png
-2022-12-21T20:00:00+00:00,texas state,university of sciences,72 - 87,W,home,1671652800,https://media-2.api-sports.io/basketball/teams/247.png
-2022-12-30T01:00:00+00:00,texas state,louisiana monroe,57 - 53,L,home,1672362000,https://media-2.api-sports.io/basketball/teams/247.png
+2022-11-22T03:00:00+00:00,texas state,california,59 - 55,W,away,1669086000,https://media-2.api-sports.io/basketball/teams/247.png
+2022-11-26T04:00:00+00:00,texas state,southern utah,65 - 78,W,home,1669435200,https://media-2.api-sports.io/basketball/teams/247.png
+2022-11-27T04:59:00+00:00,texas state,hawaii,65 - 72,L,away,1669525140,https://media-3.api-sports.io/basketball/teams/247.png
+2022-12-02T01:30:00+00:00,texas state,lamar,65 - 55,W,away,1669944600,https://media-2.api-sports.io/basketball/teams/247.png
+2022-12-04T20:00:00+00:00,texas state,rice,83 - 71,L,home,1670184000,https://media-2.api-sports.io/basketball/teams/247.png
+2022-12-11T00:30:00+00:00,texas state,ut arlington,71 - 65,W,away,1670718600,https://media-1.api-sports.io/basketball/teams/247.png
+2022-12-14T01:00:00+00:00,texas state,hardin-baylor,71 - 65,L,home,1670979600,https://media-1.api-sports.io/basketball/teams/247.png
+2022-12-17T20:00:00+00:00,texas state,sam houston st.,69 - 62,L,home,1671307200,https://media-2.api-sports.io/basketball/teams/247.png
+2022-12-21T20:00:00+00:00,texas state,university of sciences,72 - 87,W,home,1671652800,https://media-3.api-sports.io/basketball/teams/247.png
+2022-12-30T01:00:00+00:00,texas state,louisiana monroe,57 - 53,L,home,1672362000,https://media-1.api-sports.io/basketball/teams/247.png
 2022-12-31T22:00:00+00:00,texas state,troy,55 - 52,L,home,1672524000,https://media-1.api-sports.io/basketball/teams/247.png
-2023-01-06T00:00:00+00:00,texas state,james madison,63 - 62,W,away,1672963200,https://media-1.api-sports.io/basketball/teams/247.png
+2023-01-06T00:00:00+00:00,texas state,james madison,63 - 62,W,away,1672963200,https://media-2.api-sports.io/basketball/teams/247.png
 2023-01-07T20:00:00+00:00,texas state,south alabama,64 - 58,W,away,1673121600,https://media-3.api-sports.io/basketball/teams/247.png
 2023-01-13T01:00:00+00:00,texas state,arkansas state,,,away,1673571600,https://media-1.api-sports.io/basketball/teams/247.png
 2023-01-14T20:00:00+00:00,texas state,louisiana monroe,,,away,1673726400,https://media-3.api-sports.io/basketball/teams/247.png
 2023-01-20T01:00:00+00:00,texas state,marshall,,,home,1674176400,https://media-2.api-sports.io/basketball/teams/247.png
-2023-01-21T22:00:00+00:00,texas state,louisiana lafayette,,,home,1674338400,https://media-2.api-sports.io/basketball/teams/247.png
-2023-01-27T01:00:00+00:00,texas state,georgia southern,,,home,1674781200,https://media-3.api-sports.io/basketball/teams/247.png
-2023-01-28T20:00:00+00:00,texas state,southern miss,,,away,1674936000,https://media-1.api-sports.io/basketball/teams/247.png
+2023-01-21T22:00:00+00:00,texas state,louisiana lafayette,,,home,1674338400,https://media-3.api-sports.io/basketball/teams/247.png
+2023-01-27T01:00:00+00:00,texas state,georgia southern,,,home,1674781200,https://media-2.api-sports.io/basketball/teams/247.png
+2023-01-28T20:00:00+00:00,texas state,southern miss,,,away,1674936000,https://media-3.api-sports.io/basketball/teams/247.png
 2023-02-03T01:30:00+00:00,texas state,louisiana lafayette,,,away,1675387800,https://media-2.api-sports.io/basketball/teams/247.png
-2023-02-04T22:00:00+00:00,texas state,troy,,,away,1675548000,https://media-1.api-sports.io/basketball/teams/247.png
-2023-02-10T01:00:00+00:00,texas state,arkansas state,,,home,1675990800,https://media-1.api-sports.io/basketball/teams/247.png
+2023-02-04T22:00:00+00:00,texas state,troy,,,away,1675548000,https://media-2.api-sports.io/basketball/teams/247.png
+2023-02-10T01:00:00+00:00,texas state,arkansas state,,,home,1675990800,https://media-2.api-sports.io/basketball/teams/247.png
 2023-02-11T22:00:00+00:00,texas state,old dominion,,,home,1676152800,https://media-3.api-sports.io/basketball/teams/247.png
 2023-02-16T23:30:00+00:00,texas state,appalachian state,,,away,1676590200,https://media-1.api-sports.io/basketball/teams/247.png
-2023-02-18T19:00:00+00:00,texas state,coastal carolina,,,away,1676746800,https://media-1.api-sports.io/basketball/teams/247.png
-2023-02-22T21:00:00+00:00,texas state,south alabama,None - None,tie,home,1677099600,https://media-1.api-sports.io/basketball/teams/247.png
-2023-02-24T21:00:00+00:00,texas state,southern miss,None - None,tie,home,1677272400,https://media-1.api-sports.io/basketball/teams/247.png
+2023-02-18T19:00:00+00:00,texas state,coastal carolina,,,away,1676746800,https://media-2.api-sports.io/basketball/teams/247.png
+2023-02-22T21:00:00+00:00,texas state,south alabama,None - None,tie,home,1677099600,https://media-2.api-sports.io/basketball/teams/247.png
+2023-02-24T21:00:00+00:00,texas state,southern miss,None - None,tie,home,1677272400,https://media-2.api-sports.io/basketball/teams/247.png

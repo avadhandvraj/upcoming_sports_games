@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T03:00:00+00:00,uc san diego,seattle,85 - 71,L,home,1667876400,https://media-3.api-sports.io/basketball/teams/2363.png
-2022-11-13T03:00:00+00:00,uc san diego,sacramento state,65 - 55,L,home,1668308400,https://media-3.api-sports.io/basketball/teams/2363.png
-2022-11-16T03:00:00+00:00,uc san diego,california,62 - 64,W,home,1668567600,https://media-3.api-sports.io/basketball/teams/2363.png
-2022-11-19T00:00:00+00:00,uc san diego,navy,69 - 78,L,away,1668816000,https://media-1.api-sports.io/basketball/teams/2363.png
-2022-11-19T23:00:00+00:00,uc san diego,youngstown state,73 - 54,L,home,1668898800,https://media-1.api-sports.io/basketball/teams/2363.png
-2022-11-23T00:00:00+00:00,uc san diego,george washington,75 - 70,W,away,1669161600,https://media-1.api-sports.io/basketball/teams/2363.png
-2022-11-27T19:00:00+00:00,uc san diego,eastern michigan,66 - 63,W,away,1669575600,https://media-3.api-sports.io/basketball/teams/2363.png
-2022-12-03T03:00:00+00:00,uc san diego,bethesda,76 - 81,W,home,1670036400,https://media-3.api-sports.io/basketball/teams/2363.png
-2022-12-11T22:00:00+00:00,uc san diego,bethesda,None - None,tie,home,1670796000,https://media-2.api-sports.io/basketball/teams/2363.png
-2022-12-13T03:00:00+00:00,uc san diego,san diego toreros,58 - 84,L,away,1670900400,https://media-3.api-sports.io/basketball/teams/2363.png
-2022-12-15T03:00:00+00:00,uc san diego,nevada,56 - 64,L,away,1671073200,https://media-3.api-sports.io/basketball/teams/2363.png
-2022-12-17T22:00:00+00:00,uc san diego,occidental,55 - 91,W,home,1671314400,https://media-3.api-sports.io/basketball/teams/2363.png
-2022-12-21T03:30:00+00:00,uc san diego,san diego state,46 - 62,L,away,1671593400,https://media-1.api-sports.io/basketball/teams/2363.png
-2022-12-30T03:00:00+00:00,uc san diego,long beach state,85 - 83,W,away,1672369200,https://media-3.api-sports.io/basketball/teams/2363.png
-2023-01-01T00:00:00+00:00,uc san diego,uc santa barbara,61 - 82,L,away,1672531200,https://media-3.api-sports.io/basketball/teams/2363.png
+2022-11-08T03:00:00+00:00,uc san diego,seattle,85 - 71,L,home,1667876400,https://media-1.api-sports.io/basketball/teams/2363.png
+2022-11-13T03:00:00+00:00,uc san diego,sacramento state,65 - 55,L,home,1668308400,https://media-1.api-sports.io/basketball/teams/2363.png
+2022-11-16T03:00:00+00:00,uc san diego,california,62 - 64,W,home,1668567600,https://media-1.api-sports.io/basketball/teams/2363.png
+2022-11-19T00:00:00+00:00,uc san diego,navy,69 - 78,L,away,1668816000,https://media-3.api-sports.io/basketball/teams/2363.png
+2022-11-19T23:00:00+00:00,uc san diego,youngstown state,73 - 54,L,home,1668898800,https://media-3.api-sports.io/basketball/teams/2363.png
+2022-11-23T00:00:00+00:00,uc san diego,george washington,75 - 70,W,away,1669161600,https://media-3.api-sports.io/basketball/teams/2363.png
+2022-11-27T19:00:00+00:00,uc san diego,eastern michigan,66 - 63,W,away,1669575600,https://media-2.api-sports.io/basketball/teams/2363.png
+2022-12-03T03:00:00+00:00,uc san diego,bethesda,76 - 81,W,home,1670036400,https://media-2.api-sports.io/basketball/teams/2363.png
+2022-12-11T22:00:00+00:00,uc san diego,bethesda,None - None,tie,home,1670796000,https://media-3.api-sports.io/basketball/teams/2363.png
+2022-12-13T03:00:00+00:00,uc san diego,san diego toreros,58 - 84,L,away,1670900400,https://media-2.api-sports.io/basketball/teams/2363.png
+2022-12-15T03:00:00+00:00,uc san diego,nevada,56 - 64,L,away,1671073200,https://media-1.api-sports.io/basketball/teams/2363.png
+2022-12-17T22:00:00+00:00,uc san diego,occidental,55 - 91,W,home,1671314400,https://media-2.api-sports.io/basketball/teams/2363.png
+2022-12-21T03:30:00+00:00,uc san diego,san diego state,46 - 62,L,away,1671593400,https://media-2.api-sports.io/basketball/teams/2363.png
+2022-12-30T03:00:00+00:00,uc san diego,long beach state,85 - 83,W,away,1672369200,https://media-2.api-sports.io/basketball/teams/2363.png
+2023-01-01T00:00:00+00:00,uc san diego,uc santa barbara,61 - 82,L,away,1672531200,https://media-1.api-sports.io/basketball/teams/2363.png
 2023-01-06T03:00:00+00:00,uc san diego,hawaii,62 - 49,L,home,1672974000,https://media-2.api-sports.io/basketball/teams/2363.png
-2023-01-12T03:00:00+00:00,uc san diego,uc riverside,,,home,1673492400,https://media-1.api-sports.io/basketball/teams/2363.png
-2023-01-14T22:00:00+00:00,uc san diego,csu bakersfield,,,away,1673733600,https://media-2.api-sports.io/basketball/teams/2363.png
-2023-01-16T23:00:00+00:00,uc san diego,uc davis,,,home,1673910000,https://media-2.api-sports.io/basketball/teams/2363.png
+2023-01-12T03:00:00+00:00,uc san diego,uc riverside,74 - 68,L,home,1673492400,https://media-3.api-sports.io/basketball/teams/2363.png
+2023-01-14T22:00:00+00:00,uc san diego,csu bakersfield,,,away,1673733600,https://media-3.api-sports.io/basketball/teams/2363.png
+2023-01-16T23:00:00+00:00,uc san diego,uc davis,,,home,1673910000,https://media-3.api-sports.io/basketball/teams/2363.png
 2023-01-20T03:00:00+00:00,uc san diego,cal poly,,,away,1674183600,https://media-1.api-sports.io/basketball/teams/2363.png
 2023-01-22T03:00:00+00:00,uc san diego,long beach state,,,home,1674356400,https://media-1.api-sports.io/basketball/teams/2363.png
 2023-01-27T03:00:00+00:00,uc san diego,cs northridge,,,away,1674788400,https://media-1.api-sports.io/basketball/teams/2363.png
-2023-01-29T01:00:00+00:00,uc san diego,uc riverside,,,away,1674954000,https://media-1.api-sports.io/basketball/teams/2363.png
+2023-01-29T01:00:00+00:00,uc san diego,uc riverside,,,away,1674954000,https://media-3.api-sports.io/basketball/teams/2363.png
 2023-02-03T03:00:00+00:00,uc san diego,uc irvine,,,home,1675393200,https://media-3.api-sports.io/basketball/teams/2363.png
 2023-02-05T03:00:00+00:00,uc san diego,csu bakersfield,,,home,1675566000,https://media-2.api-sports.io/basketball/teams/2363.png
-2023-02-10T04:59:00+00:00,uc san diego,hawaii,,,away,1676005140,https://media-2.api-sports.io/basketball/teams/2363.png
-2023-02-16T03:00:00+00:00,uc san diego,cs fullerton,,,home,1676516400,https://media-1.api-sports.io/basketball/teams/2363.png
+2023-02-10T04:59:00+00:00,uc san diego,hawaii,,,away,1676005140,https://media-1.api-sports.io/basketball/teams/2363.png
+2023-02-16T03:00:00+00:00,uc san diego,cs fullerton,,,home,1676516400,https://media-3.api-sports.io/basketball/teams/2363.png
 2023-02-18T21:00:00+00:00,uc san diego,cs northridge,None - None,tie,home,1676754000,https://media-2.api-sports.io/basketball/teams/2363.png
 2023-02-20T21:00:00+00:00,uc san diego,uc davis,None - None,tie,away,1676926800,https://media-2.api-sports.io/basketball/teams/2363.png
-2023-02-23T21:00:00+00:00,uc san diego,uc irvine,None - None,tie,away,1677186000,https://media-2.api-sports.io/basketball/teams/2363.png
+2023-02-23T21:00:00+00:00,uc san diego,uc irvine,None - None,tie,away,1677186000,https://media-3.api-sports.io/basketball/teams/2363.png
 2023-02-25T21:00:00+00:00,uc san diego,uc santa barbara,None - None,tie,home,1677358800,https://media-1.api-sports.io/basketball/teams/2363.png

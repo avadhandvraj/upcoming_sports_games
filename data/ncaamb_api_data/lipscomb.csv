@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-10T01:00:00+00:00,lipscomb,south dakota coyotes,77 - 85,L,away,1668042000,https://media-1.api-sports.io/basketball/teams/190.png
-2022-11-12T22:30:00+00:00,lipscomb,campbellsville-harrodsburg,54 - 107,W,home,1668292200,https://media-3.api-sports.io/basketball/teams/190.png
-2022-11-15T01:00:00+00:00,lipscomb,belmont,75 - 77,W,home,1668474000,https://media-1.api-sports.io/basketball/teams/190.png
-2022-11-19T00:00:00+00:00,lipscomb,notre dame,65 - 66,L,away,1668816000,https://media-2.api-sports.io/basketball/teams/190.png
+2022-11-12T22:30:00+00:00,lipscomb,campbellsville-harrodsburg,54 - 107,W,home,1668292200,https://media-2.api-sports.io/basketball/teams/190.png
+2022-11-15T01:00:00+00:00,lipscomb,belmont,75 - 77,W,home,1668474000,https://media-3.api-sports.io/basketball/teams/190.png
+2022-11-19T00:00:00+00:00,lipscomb,notre dame,65 - 66,L,away,1668816000,https://media-1.api-sports.io/basketball/teams/190.png
 2022-11-22T01:00:00+00:00,lipscomb,covenant,61 - 86,W,home,1669078800,https://media-1.api-sports.io/basketball/teams/190.png
-2022-11-23T21:00:00+00:00,lipscomb,chattanooga mocs,72 - 66,W,away,1669237200,https://media-2.api-sports.io/basketball/teams/190.png
-2022-11-30T17:00:00+00:00,lipscomb,navy,77 - 82,W,home,1669827600,https://media-1.api-sports.io/basketball/teams/190.png
+2022-11-23T21:00:00+00:00,lipscomb,chattanooga mocs,72 - 66,W,away,1669237200,https://media-1.api-sports.io/basketball/teams/190.png
+2022-11-30T17:00:00+00:00,lipscomb,navy,77 - 82,W,home,1669827600,https://media-3.api-sports.io/basketball/teams/190.png
 2022-12-06T01:00:00+00:00,lipscomb,trevecca nazarene,49 - 87,W,home,1670288400,https://media-2.api-sports.io/basketball/teams/190.png
 2022-12-10T01:00:00+00:00,lipscomb,alabama a&m,59 - 63,L,away,1670634000,https://media-1.api-sports.io/basketball/teams/190.png
 2022-12-11T20:30:00+00:00,lipscomb,tennessee state,85 - 90,L,away,1670790600,https://media-2.api-sports.io/basketball/teams/190.png
 2022-12-15T01:00:00+00:00,lipscomb,tennessee tech,63 - 64,W,home,1671066000,https://media-3.api-sports.io/basketball/teams/190.png
 2022-12-17T21:00:00+00:00,lipscomb,michigan,75 - 83,L,away,1671310800,https://media-3.api-sports.io/basketball/teams/190.png
 2022-12-20T23:00:00+00:00,lipscomb,louisville,75 - 67,W,away,1671577200,https://media-1.api-sports.io/basketball/teams/190.png
-2022-12-30T20:00:00+00:00,lipscomb,stetson,86 - 80,L,home,1672430400,https://media-2.api-sports.io/basketball/teams/190.png
-2023-01-03T00:00:00+00:00,lipscomb,liberty,48 - 77,L,away,1672704000,https://media-3.api-sports.io/basketball/teams/190.png
-2023-01-06T01:00:00+00:00,lipscomb,north alabama,62 - 86,W,home,1672966800,https://media-1.api-sports.io/basketball/teams/190.png
-2023-01-07T22:00:00+00:00,lipscomb,jacksonville,44 - 51,L,away,1673128800,https://media-2.api-sports.io/basketball/teams/190.png
-2023-01-13T02:00:00+00:00,lipscomb,austin peay,,,away,1673575200,https://media-1.api-sports.io/basketball/teams/190.png
-2023-01-14T22:00:00+00:00,lipscomb,austin peay,,,home,1673733600,https://media-2.api-sports.io/basketball/teams/190.png
-2023-01-20T01:00:00+00:00,lipscomb,eastern kentucky,,,home,1674176400,https://media-2.api-sports.io/basketball/teams/190.png
-2023-01-21T22:00:00+00:00,lipscomb,bellarmine,,,home,1674338400,https://media-1.api-sports.io/basketball/teams/190.png
-2023-01-27T01:00:00+00:00,lipscomb,jacksonville state,,,away,1674781200,https://media-3.api-sports.io/basketball/teams/190.png
-2023-01-28T22:00:00+00:00,lipscomb,kennesaw state,,,away,1674943200,https://media-2.api-sports.io/basketball/teams/190.png
-2023-02-03T01:00:00+00:00,lipscomb,queens royals,,,home,1675386000,https://media-1.api-sports.io/basketball/teams/190.png
-2023-02-04T22:00:00+00:00,lipscomb,liberty,,,home,1675548000,https://media-3.api-sports.io/basketball/teams/190.png
-2023-02-10T01:30:00+00:00,lipscomb,central arkansas,,,away,1675992600,https://media-2.api-sports.io/basketball/teams/190.png
-2023-02-12T01:15:00+00:00,lipscomb,north alabama,,,away,1676164500,https://media-2.api-sports.io/basketball/teams/190.png
-2023-02-17T01:00:00+00:00,lipscomb,north florida,,,home,1676595600,https://media-2.api-sports.io/basketball/teams/190.png
-2023-02-18T22:00:00+00:00,lipscomb,jacksonville,,,home,1676757600,https://media-2.api-sports.io/basketball/teams/190.png
-2023-02-22T21:00:00+00:00,lipscomb,florida gulf coast,None - None,tie,away,1677099600,https://media-1.api-sports.io/basketball/teams/190.png
-2023-02-24T21:00:00+00:00,lipscomb,stetson,None - None,tie,away,1677272400,https://media-2.api-sports.io/basketball/teams/190.png
+2022-12-30T20:00:00+00:00,lipscomb,stetson,86 - 80,L,home,1672430400,https://media-1.api-sports.io/basketball/teams/190.png
+2023-01-03T00:00:00+00:00,lipscomb,liberty,48 - 77,L,away,1672704000,https://media-1.api-sports.io/basketball/teams/190.png
+2023-01-06T01:00:00+00:00,lipscomb,north alabama,62 - 86,W,home,1672966800,https://media-2.api-sports.io/basketball/teams/190.png
+2023-01-07T22:00:00+00:00,lipscomb,jacksonville,44 - 51,L,away,1673128800,https://media-3.api-sports.io/basketball/teams/190.png
+2023-01-13T02:00:00+00:00,lipscomb,austin peay,,,away,1673575200,https://media-2.api-sports.io/basketball/teams/190.png
+2023-01-14T22:00:00+00:00,lipscomb,austin peay,,,home,1673733600,https://media-1.api-sports.io/basketball/teams/190.png
+2023-01-20T01:00:00+00:00,lipscomb,eastern kentucky,,,home,1674176400,https://media-1.api-sports.io/basketball/teams/190.png
+2023-01-21T22:00:00+00:00,lipscomb,bellarmine,,,home,1674338400,https://media-2.api-sports.io/basketball/teams/190.png
+2023-01-27T02:00:00+00:00,lipscomb,jacksonville state,,,away,1674784800,https://media-2.api-sports.io/basketball/teams/190.png
+2023-01-28T22:00:00+00:00,lipscomb,kennesaw state,,,away,1674943200,https://media-3.api-sports.io/basketball/teams/190.png
+2023-02-03T01:00:00+00:00,lipscomb,queens royals,,,home,1675386000,https://media-2.api-sports.io/basketball/teams/190.png
+2023-02-04T22:00:00+00:00,lipscomb,liberty,,,home,1675548000,https://media-2.api-sports.io/basketball/teams/190.png
+2023-02-10T01:30:00+00:00,lipscomb,central arkansas,,,away,1675992600,https://media-1.api-sports.io/basketball/teams/190.png
+2023-02-12T01:15:00+00:00,lipscomb,north alabama,,,away,1676164500,https://media-1.api-sports.io/basketball/teams/190.png
+2023-02-17T01:00:00+00:00,lipscomb,north florida,,,home,1676595600,https://media-3.api-sports.io/basketball/teams/190.png
+2023-02-18T22:00:00+00:00,lipscomb,jacksonville,,,home,1676757600,https://media-3.api-sports.io/basketball/teams/190.png
+2023-02-22T21:00:00+00:00,lipscomb,florida gulf coast,None - None,tie,away,1677099600,https://media-2.api-sports.io/basketball/teams/190.png
+2023-02-24T21:00:00+00:00,lipscomb,stetson,None - None,tie,away,1677272400,https://media-3.api-sports.io/basketball/teams/190.png

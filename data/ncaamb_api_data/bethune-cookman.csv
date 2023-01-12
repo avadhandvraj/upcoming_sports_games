@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,bethune-cookman,iowa,58 - 89,L,away,1667865600,https://media-2.api-sports.io/basketball/teams/1829.png
-2022-11-11T01:30:00+00:00,bethune-cookman,indiana,49 - 101,L,away,1668130200,https://media-1.api-sports.io/basketball/teams/1829.png
+2022-11-08T00:00:00+00:00,bethune-cookman,iowa,58 - 89,L,away,1667865600,https://media-1.api-sports.io/basketball/teams/1829.png
+2022-11-11T01:30:00+00:00,bethune-cookman,indiana,49 - 101,L,away,1668130200,https://media-2.api-sports.io/basketball/teams/1829.png
 2022-11-15T00:00:00+00:00,bethune-cookman,florida national,57 - 71,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/1829.png
-2022-11-17T00:00:00+00:00,bethune-cookman,trinity baptist,46 - 83,W,home,1668643200,https://media-2.api-sports.io/basketball/teams/1829.png
-2022-11-22T00:00:00+00:00,bethune-cookman,charleston southern,63 - 78,L,away,1669075200,https://media-1.api-sports.io/basketball/teams/1829.png
+2022-11-17T00:00:00+00:00,bethune-cookman,trinity baptist,46 - 83,W,home,1668643200,https://media-3.api-sports.io/basketball/teams/1829.png
+2022-11-22T00:00:00+00:00,bethune-cookman,charleston southern,63 - 78,L,away,1669075200,https://media-3.api-sports.io/basketball/teams/1829.png
 2022-11-26T21:00:00+00:00,bethune-cookman,idaho state,68 - 66,W,away,1669496400,https://media-1.api-sports.io/basketball/teams/1829.png
 2022-11-27T19:00:00+00:00,bethune-cookman,northwestern st.,66 - 69,L,away,1669575600,https://media-3.api-sports.io/basketball/teams/1829.png
-2022-12-02T01:00:00+00:00,bethune-cookman,chicago state,73 - 86,W,home,1669942800,https://media-2.api-sports.io/basketball/teams/1829.png
-2022-12-10T19:00:00+00:00,bethune-cookman,north florida,48 - 88,L,away,1670698800,https://media-1.api-sports.io/basketball/teams/1829.png
-2022-12-16T23:30:00+00:00,bethune-cookman,incarnate word,65 - 77,L,away,1671233400,https://media-1.api-sports.io/basketball/teams/1829.png
-2022-12-18T21:00:00+00:00,bethune-cookman,utsa roadrunners,69 - 90,L,away,1671397200,https://media-1.api-sports.io/basketball/teams/1829.png
-2022-12-22T19:00:00+00:00,bethune-cookman,north florida,87 - 85,L,home,1671735600,https://media-1.api-sports.io/basketball/teams/1829.png
+2022-12-02T01:00:00+00:00,bethune-cookman,chicago state,73 - 86,W,home,1669942800,https://media-3.api-sports.io/basketball/teams/1829.png
+2022-12-10T19:00:00+00:00,bethune-cookman,north florida,48 - 88,L,away,1670698800,https://media-2.api-sports.io/basketball/teams/1829.png
+2022-12-16T23:30:00+00:00,bethune-cookman,incarnate word,65 - 77,L,away,1671233400,https://media-3.api-sports.io/basketball/teams/1829.png
+2022-12-18T21:00:00+00:00,bethune-cookman,utsa roadrunners,69 - 90,L,away,1671397200,https://media-2.api-sports.io/basketball/teams/1829.png
+2022-12-22T19:00:00+00:00,bethune-cookman,north florida,87 - 85,L,home,1671735600,https://media-3.api-sports.io/basketball/teams/1829.png
 2022-12-30T01:30:00+00:00,bethune-cookman,illinois,52 - 85,L,away,1672363800,https://media-1.api-sports.io/basketball/teams/1829.png
 2023-01-03T00:30:00+00:00,bethune-cookman,florida a&m,67 - 59,W,away,1672705800,https://media-2.api-sports.io/basketball/teams/1829.png
-2023-01-07T23:30:00+00:00,bethune-cookman,grambling st.,70 - 76,L,away,1673134200,https://media-2.api-sports.io/basketball/teams/1829.png
-2023-01-10T02:00:00+00:00,bethune-cookman,southern univ.,,,away,1673316000,https://media-3.api-sports.io/basketball/teams/1829.png
-2023-01-14T21:00:00+00:00,bethune-cookman,miss. valley st.,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/1829.png
-2023-01-17T00:30:00+00:00,bethune-cookman,arkansas-pine bluff,,,home,1673915400,https://media-2.api-sports.io/basketball/teams/1829.png
-2023-01-21T21:30:00+00:00,bethune-cookman,jackson state,,,away,1674336600,https://media-2.api-sports.io/basketball/teams/1829.png
-2023-01-24T01:00:00+00:00,bethune-cookman,alcorn state,,,away,1674522000,https://media-2.api-sports.io/basketball/teams/1829.png
-2023-01-28T21:00:00+00:00,bethune-cookman,alabama state,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/1829.png
+2023-01-07T23:30:00+00:00,bethune-cookman,grambling st.,70 - 76,L,away,1673134200,https://media-1.api-sports.io/basketball/teams/1829.png
+2023-01-10T02:00:00+00:00,bethune-cookman,southern univ.,75 - 102,L,away,1673316000,https://media-3.api-sports.io/basketball/teams/1829.png
+2023-01-14T21:00:00+00:00,bethune-cookman,miss. valley st.,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/1829.png
+2023-01-17T00:30:00+00:00,bethune-cookman,arkansas-pine bluff,,,home,1673915400,https://media-3.api-sports.io/basketball/teams/1829.png
+2023-01-21T21:30:00+00:00,bethune-cookman,jackson state,,,away,1674336600,https://media-3.api-sports.io/basketball/teams/1829.png
+2023-01-24T01:00:00+00:00,bethune-cookman,alcorn state,,,away,1674522000,https://media-3.api-sports.io/basketball/teams/1829.png
+2023-01-28T21:00:00+00:00,bethune-cookman,alabama state,,,home,1674939600,https://media-1.api-sports.io/basketball/teams/1829.png
 2023-01-31T00:30:00+00:00,bethune-cookman,alabama a&m,,,home,1675125000,https://media-1.api-sports.io/basketball/teams/1829.png
-2023-02-04T21:00:00+00:00,bethune-cookman,prairie view a&m,,,away,1675544400,https://media-1.api-sports.io/basketball/teams/1829.png
-2023-02-07T02:00:00+00:00,bethune-cookman,texas southern,,,away,1675735200,https://media-1.api-sports.io/basketball/teams/1829.png
-2023-02-11T21:00:00+00:00,bethune-cookman,alcorn state,,,home,1676149200,https://media-2.api-sports.io/basketball/teams/1829.png
+2023-02-04T21:00:00+00:00,bethune-cookman,prairie view a&m,,,away,1675544400,https://media-2.api-sports.io/basketball/teams/1829.png
+2023-02-07T02:00:00+00:00,bethune-cookman,texas southern,,,away,1675735200,https://media-2.api-sports.io/basketball/teams/1829.png
+2023-02-11T21:00:00+00:00,bethune-cookman,alcorn state,,,home,1676149200,https://media-3.api-sports.io/basketball/teams/1829.png
 2023-02-14T00:30:00+00:00,bethune-cookman,jackson state,,,home,1676334600,https://media-2.api-sports.io/basketball/teams/1829.png

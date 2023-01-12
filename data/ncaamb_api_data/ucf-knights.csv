@@ -4,23 +4,23 @@ Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-15T00:00:00+00:00,ucf knights,western illinois,37 - 70,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/5874.png
 2022-11-19T00:00:00+00:00,ucf knights,oklahoma state,60 - 56,W,away,1668816000,https://media-2.api-sports.io/basketball/teams/5874.png
 2022-11-21T00:00:00+00:00,ucf knights,santa clara,50 - 57,W,home,1668988800,https://media-1.api-sports.io/basketball/teams/5874.png
-2022-11-24T00:00:00+00:00,ucf knights,evansville,56 - 76,W,home,1669248000,https://media-3.api-sports.io/basketball/teams/5874.png
+2022-11-24T00:00:00+00:00,ucf knights,evansville,56 - 76,W,home,1669248000,https://media-1.api-sports.io/basketball/teams/5874.png
 2022-11-27T22:00:00+00:00,ucf knights,miami (fl),66 - 64,L,home,1669586400,https://media-1.api-sports.io/basketball/teams/5874.png
 2022-12-04T19:00:00+00:00,ucf knights,samford,77 - 80,W,home,1670180400,https://media-1.api-sports.io/basketball/teams/5874.png
-2022-12-11T17:00:00+00:00,ucf knights,tarleton,49 - 75,W,home,1670778000,https://media-3.api-sports.io/basketball/teams/5874.png
+2022-12-11T17:00:00+00:00,ucf knights,tarleton,49 - 75,W,home,1670778000,https://media-2.api-sports.io/basketball/teams/5874.png
 2022-12-15T00:30:00+00:00,ucf knights,ole miss,72 - 61,W,away,1671064200,https://media-1.api-sports.io/basketball/teams/5874.png
-2022-12-17T17:00:00+00:00,ucf knights,missouri,68 - 66,L,home,1671296400,https://media-3.api-sports.io/basketball/teams/5874.png
-2022-12-22T00:00:00+00:00,ucf knights,stetson,58 - 73,W,home,1671667200,https://media-1.api-sports.io/basketball/teams/5874.png
+2022-12-17T17:00:00+00:00,ucf knights,missouri,68 - 66,L,home,1671296400,https://media-1.api-sports.io/basketball/teams/5874.png
+2022-12-22T00:00:00+00:00,ucf knights,stetson,58 - 73,W,home,1671667200,https://media-3.api-sports.io/basketball/teams/5874.png
 2022-12-29T00:00:00+00:00,ucf knights,wichita state,45 - 52,W,home,1672272000,https://media-3.api-sports.io/basketball/teams/5874.png
-2022-12-31T19:00:00+00:00,ucf knights,houston,65 - 71,L,away,1672513200,https://media-1.api-sports.io/basketball/teams/5874.png
+2022-12-31T19:00:00+00:00,ucf knights,houston,65 - 71,L,away,1672513200,https://media-3.api-sports.io/basketball/teams/5874.png
 2023-01-05T00:00:00+00:00,ucf knights,east carolina,64 - 61,W,away,1672876800,https://media-1.api-sports.io/basketball/teams/5874.png
 2023-01-08T19:00:00+00:00,ucf knights,smu mustangs,53 - 85,W,home,1673204400,https://media-3.api-sports.io/basketball/teams/5874.png
-2023-01-12T00:00:00+00:00,ucf knights,memphis,,,home,1673481600,https://media-1.api-sports.io/basketball/teams/5874.png
-2023-01-14T19:00:00+00:00,ucf knights,tulane,,,away,1673722800,https://media-1.api-sports.io/basketball/teams/5874.png
-2023-01-21T17:00:00+00:00,ucf knights,south florida,,,away,1674320400,https://media-1.api-sports.io/basketball/teams/5874.png
-2023-01-26T00:00:00+00:00,ucf knights,houston,,,home,1674691200,https://media-1.api-sports.io/basketball/teams/5874.png
-2023-01-28T17:00:00+00:00,ucf knights,temple,,,home,1674925200,https://media-1.api-sports.io/basketball/teams/5874.png
-2023-02-04T17:00:00+00:00,ucf knights,cincinnati,,,away,1675530000,https://media-3.api-sports.io/basketball/teams/5874.png
-2023-02-09T01:00:00+00:00,ucf knights,wichita state,,,away,1675904400,https://media-2.api-sports.io/basketball/teams/5874.png
-2023-02-12T00:00:00+00:00,ucf knights,tulsa,,,home,1676160000,https://media-1.api-sports.io/basketball/teams/5874.png
+2023-01-12T00:00:00+00:00,ucf knights,memphis,104 - 107,W,home,1673481600,https://media-2.api-sports.io/basketball/teams/5874.png
+2023-01-14T19:00:00+00:00,ucf knights,tulane,,,away,1673722800,https://media-2.api-sports.io/basketball/teams/5874.png
+2023-01-21T17:00:00+00:00,ucf knights,south florida,,,away,1674320400,https://media-2.api-sports.io/basketball/teams/5874.png
+2023-01-26T00:00:00+00:00,ucf knights,houston,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/5874.png
+2023-01-28T17:00:00+00:00,ucf knights,temple,,,home,1674925200,https://media-2.api-sports.io/basketball/teams/5874.png
+2023-02-04T17:00:00+00:00,ucf knights,cincinnati,,,away,1675530000,https://media-2.api-sports.io/basketball/teams/5874.png
+2023-02-09T01:00:00+00:00,ucf knights,wichita state,,,away,1675904400,https://media-1.api-sports.io/basketball/teams/5874.png
+2023-02-12T00:00:00+00:00,ucf knights,tulsa,,,home,1676160000,https://media-3.api-sports.io/basketball/teams/5874.png
 2023-02-17T01:00:00+00:00,ucf knights,memphis,,,away,1676595600,https://media-2.api-sports.io/basketball/teams/5874.png

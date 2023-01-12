@@ -72,7 +72,7 @@ def international_soccer_data_collection(league_ids, year):
         
     for team_name, game_rows in international_data.items():
         write_csv(team_name, game_rows, league_name)
-        save_image(team_name, game_rows, league_name)
+        # save_image(team_name, game_rows, league_name)
         
 def does_game_row_already_exist(game_row, game_rows):
     for i in game_rows:
@@ -88,7 +88,6 @@ def league_soccer_data_collection(league_ids, year):
         headers = {
             "x-rapidapi-key": key
         }
-        print(id)
         response1 = requests.request("GET", link, headers=headers)
         quote1 = json.loads(response1.text)
         league_name = quote1['response'][0]['league']['name'].lower() 
@@ -128,7 +127,7 @@ def league_soccer_data_collection(league_ids, year):
         
         for team_name, game_rows in league_data.items():
             write_csv(team_name, game_rows, league_name)
-            save_image(team_name, game_rows, league_name)
+            # save_image(team_name, game_rows, league_name)
         
 def basketball_data_collection(league_id, league_name, year):
     league_name = "-".join(league_name.split(" ")).lower()
@@ -163,7 +162,7 @@ def basketball_data_collection(league_id, league_name, year):
     delete_files(league_name)
     for team_name, game_rows in college_teams.items():
         write_csv(team_name, game_rows, league_name)
-        save_image(team_name, game_rows, league_name)
+        # save_image(team_name, game_rows, league_name)
 
 def football_data_collection(league_id, league_name, year):
     league_name = "-".join(league_name.split(" ")).lower()
@@ -200,7 +199,7 @@ def football_data_collection(league_id, league_name, year):
     delete_files(league_name)
     for team_name, game_rows in football_teams.items():
         write_csv(team_name, game_rows, league_name)
-        save_image(team_name, game_rows, league_name)
+        # save_image(team_name, game_rows, league_name)
 
 def delete_files(league):
     folder_path = f'data/{league}_api_data'

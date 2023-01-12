@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,boston university,northeastern,63 - 72,W,home,1667867400,https://media-1.api-sports.io/basketball/teams/1837.png
-2022-11-11T23:00:00+00:00,boston university,uconn,57 - 86,L,away,1668207600,https://media-3.api-sports.io/basketball/teams/1837.png
+2022-11-08T00:30:00+00:00,boston university,northeastern,63 - 72,W,home,1667867400,https://media-2.api-sports.io/basketball/teams/1837.png
+2022-11-11T23:00:00+00:00,boston university,uconn,57 - 86,L,away,1668207600,https://media-2.api-sports.io/basketball/teams/1837.png
 2022-11-15T00:00:00+00:00,boston university,johnson & wales (ri),51 - 96,W,home,1668470400,https://media-2.api-sports.io/basketball/teams/1837.png
-2022-11-18T00:00:00+00:00,boston university,hartford,66 - 102,W,home,1668729600,https://media-3.api-sports.io/basketball/teams/1837.png
-2022-11-20T18:00:00+00:00,boston university,new hampshire,64 - 57,W,away,1668967200,https://media-3.api-sports.io/basketball/teams/1837.png
-2022-11-26T19:00:00+00:00,boston university,southeast missouri state,52 - 63,L,away,1669489200,https://media-1.api-sports.io/basketball/teams/1837.png
+2022-11-18T00:00:00+00:00,boston university,hartford,66 - 102,W,home,1668729600,https://media-2.api-sports.io/basketball/teams/1837.png
+2022-11-20T18:00:00+00:00,boston university,new hampshire,64 - 57,W,away,1668967200,https://media-1.api-sports.io/basketball/teams/1837.png
+2022-11-26T19:00:00+00:00,boston university,southeast missouri state,52 - 63,L,away,1669489200,https://media-3.api-sports.io/basketball/teams/1837.png
 2022-11-27T21:00:00+00:00,boston university,wisc. milwaukee,46 - 67,L,away,1669582800,https://media-2.api-sports.io/basketball/teams/1837.png
-2022-11-28T19:00:00+00:00,boston university,uc davis,81 - 70,L,home,1669662000,https://media-3.api-sports.io/basketball/teams/1837.png
+2022-11-28T19:00:00+00:00,boston university,uc davis,81 - 70,L,home,1669662000,https://media-2.api-sports.io/basketball/teams/1837.png
 2022-12-03T00:00:00+00:00,boston university,merrimack warriors,68 - 54,W,away,1670025600,https://media-2.api-sports.io/basketball/teams/1837.png
-2022-12-08T00:00:00+00:00,boston university,notre dame,75 - 81,L,away,1670457600,https://media-2.api-sports.io/basketball/teams/1837.png
+2022-12-08T00:00:00+00:00,boston university,notre dame,75 - 81,L,away,1670457600,https://media-1.api-sports.io/basketball/teams/1837.png
 2022-12-11T00:00:00+00:00,boston university,marist,72 - 70,W,away,1670716800,https://media-1.api-sports.io/basketball/teams/1837.png
-2022-12-14T00:00:00+00:00,boston university,dartmouth,59 - 67,W,home,1670976000,https://media-1.api-sports.io/basketball/teams/1837.png
+2022-12-14T00:00:00+00:00,boston university,dartmouth,59 - 67,W,home,1670976000,https://media-3.api-sports.io/basketball/teams/1837.png
 2022-12-21T21:00:00+00:00,boston university,umass lowell,60 - 68,L,away,1671656400,https://media-3.api-sports.io/basketball/teams/1837.png
-2022-12-30T19:00:00+00:00,boston university,navy,75 - 58,L,home,1672426800,https://media-1.api-sports.io/basketball/teams/1837.png
-2023-01-02T19:00:00+00:00,boston university,bucknell,69 - 61,W,away,1672686000,https://media-1.api-sports.io/basketball/teams/1837.png
-2023-01-06T00:00:00+00:00,boston university,lafayette,69 - 73,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/1837.png
-2023-01-08T19:00:00+00:00,boston university,american university,74 - 76,L,away,1673204400,https://media-2.api-sports.io/basketball/teams/1837.png
-2023-01-12T00:00:00+00:00,boston university,colgate,,,away,1673481600,https://media-2.api-sports.io/basketball/teams/1837.png
-2023-01-14T18:00:00+00:00,boston university,army,,,home,1673719200,https://media-3.api-sports.io/basketball/teams/1837.png
-2023-01-19T00:00:00+00:00,boston university,navy,,,away,1674086400,https://media-2.api-sports.io/basketball/teams/1837.png
-2023-01-21T18:00:00+00:00,boston university,loyola maryland,,,home,1674324000,https://media-3.api-sports.io/basketball/teams/1837.png
-2023-01-24T00:00:00+00:00,boston university,colgate,,,home,1674518400,https://media-1.api-sports.io/basketball/teams/1837.png
-2023-01-29T17:00:00+00:00,boston university,lehigh,,,away,1675011600,https://media-2.api-sports.io/basketball/teams/1837.png
-2023-02-02T00:00:00+00:00,boston university,holy cross,,,home,1675296000,https://media-2.api-sports.io/basketball/teams/1837.png
+2022-12-30T19:00:00+00:00,boston university,navy,75 - 58,L,home,1672426800,https://media-2.api-sports.io/basketball/teams/1837.png
+2023-01-02T19:00:00+00:00,boston university,bucknell,69 - 61,W,away,1672686000,https://media-2.api-sports.io/basketball/teams/1837.png
+2023-01-06T00:00:00+00:00,boston university,lafayette,69 - 73,W,home,1672963200,https://media-1.api-sports.io/basketball/teams/1837.png
+2023-01-08T19:00:00+00:00,boston university,american university,74 - 76,L,away,1673204400,https://media-3.api-sports.io/basketball/teams/1837.png
+2023-01-12T00:00:00+00:00,boston university,colgate,71 - 77,L,away,1673481600,https://media-2.api-sports.io/basketball/teams/1837.png
+2023-01-14T18:00:00+00:00,boston university,army,,,home,1673719200,https://media-2.api-sports.io/basketball/teams/1837.png
+2023-01-19T00:00:00+00:00,boston university,navy,,,away,1674086400,https://media-1.api-sports.io/basketball/teams/1837.png
+2023-01-21T18:00:00+00:00,boston university,loyola maryland,,,home,1674324000,https://media-2.api-sports.io/basketball/teams/1837.png
+2023-01-24T00:00:00+00:00,boston university,colgate,,,home,1674518400,https://media-3.api-sports.io/basketball/teams/1837.png
+2023-01-29T17:00:00+00:00,boston university,lehigh,,,away,1675011600,https://media-3.api-sports.io/basketball/teams/1837.png
+2023-02-02T00:00:00+00:00,boston university,holy cross,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/1837.png
 2023-02-04T22:00:00+00:00,boston university,loyola maryland,,,away,1675548000,https://media-2.api-sports.io/basketball/teams/1837.png
-2023-02-09T00:00:00+00:00,boston university,american university,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/1837.png
-2023-02-11T18:00:00+00:00,boston university,lafayette,,,away,1676138400,https://media-1.api-sports.io/basketball/teams/1837.png
-2023-02-16T00:00:00+00:00,boston university,holy cross,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/1837.png
+2023-02-09T00:00:00+00:00,boston university,american university,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/1837.png
+2023-02-11T18:00:00+00:00,boston university,lafayette,,,away,1676138400,https://media-3.api-sports.io/basketball/teams/1837.png
+2023-02-16T00:00:00+00:00,boston university,holy cross,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/1837.png
 2023-02-18T18:00:00+00:00,boston university,bucknell,,,home,1676743200,https://media-1.api-sports.io/basketball/teams/1837.png

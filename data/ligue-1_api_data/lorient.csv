@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 "Sunday, August 07 10:05 AM",lorient,rennes,1 - 0,W,away,1659884700,https://media-3.api-sports.io/football/teams/97.png
 "Wednesday, September 07 12:00 PM",lorient,lyon,1 - 3,W,home,1662570000,https://media-3.api-sports.io/football/teams/97.png
-"Sunday, August 21 08:00 AM",lorient,toulouse,2 - 2,tie,away,1661086800,https://media-1.api-sports.io/football/teams/97.png
-"Sunday, August 28 08:00 AM",lorient,clermont foot,1 - 2,W,home,1661691600,https://media-3.api-sports.io/football/teams/97.png
-"Wednesday, August 31 02:00 PM",lorient,lens,2 - 5,L,away,1661972400,https://media-2.api-sports.io/football/teams/97.png
-"Sunday, September 04 08:00 AM",lorient,ajaccio,1 - 0,W,away,1662296400,https://media-2.api-sports.io/football/teams/97.png
-"Sunday, September 11 08:00 AM",lorient,nantes,2 - 3,W,home,1662901200,https://media-3.api-sports.io/football/teams/97.png
+"Sunday, August 21 08:00 AM",lorient,toulouse,2 - 2,tie,away,1661086800,https://media-2.api-sports.io/football/teams/97.png
+"Sunday, August 28 08:00 AM",lorient,clermont foot,1 - 2,W,home,1661691600,https://media-1.api-sports.io/football/teams/97.png
+"Wednesday, August 31 02:00 PM",lorient,lens,2 - 5,L,away,1661972400,https://media-3.api-sports.io/football/teams/97.png
+"Sunday, September 04 08:00 AM",lorient,ajaccio,1 - 0,W,away,1662296400,https://media-3.api-sports.io/football/teams/97.png
+"Sunday, September 11 08:00 AM",lorient,nantes,2 - 3,W,home,1662901200,https://media-2.api-sports.io/football/teams/97.png
 "Friday, September 16 02:00 PM",lorient,auxerre,3 - 1,W,away,1663354800,https://media-3.api-sports.io/football/teams/97.png
-"Sunday, October 02 06:00 AM",lorient,lille,1 - 2,W,home,1664708400,https://media-2.api-sports.io/football/teams/97.png
-"Sunday, October 09 08:00 AM",lorient,stade brestois 29,2 - 1,W,away,1665320400,https://media-3.api-sports.io/football/teams/97.png
-"Saturday, October 15 10:00 AM",lorient,reims,0 - 0,tie,home,1665846000,https://media-2.api-sports.io/football/teams/97.png
-"Sunday, October 23 08:00 AM",lorient,estac troyes,2 - 2,tie,away,1666530000,https://media-2.api-sports.io/football/teams/97.png
-"Sunday, October 30 11:05 AM",lorient,nice,2 - 1,L,home,1667145900,https://media-1.api-sports.io/football/teams/97.png
-"Sunday, November 06 06:00 AM",lorient,paris saint germain,2 - 1,L,home,1667736000,https://media-3.api-sports.io/football/teams/97.png
-"Sunday, November 13 10:05 AM",lorient,strasbourg,1 - 1,tie,away,1668355500,https://media-1.api-sports.io/football/teams/97.png
-"Thursday, December 29 10:00 AM",lorient,montpellier,2 - 0,L,home,1672329600,https://media-2.api-sports.io/football/teams/97.png
+"Sunday, October 02 06:00 AM",lorient,lille,1 - 2,W,home,1664708400,https://media-3.api-sports.io/football/teams/97.png
+"Sunday, October 09 08:00 AM",lorient,stade brestois 29,2 - 1,W,away,1665320400,https://media-1.api-sports.io/football/teams/97.png
+"Saturday, October 15 10:00 AM",lorient,reims,0 - 0,tie,home,1665846000,https://media-3.api-sports.io/football/teams/97.png
+"Sunday, October 23 08:00 AM",lorient,estac troyes,2 - 2,tie,away,1666530000,https://media-1.api-sports.io/football/teams/97.png
+"Sunday, October 30 11:05 AM",lorient,nice,2 - 1,L,home,1667145900,https://media-3.api-sports.io/football/teams/97.png
+"Sunday, November 06 06:00 AM",lorient,paris saint germain,2 - 1,L,home,1667736000,https://media-2.api-sports.io/football/teams/97.png
+"Sunday, November 13 10:05 AM",lorient,strasbourg,1 - 1,tie,away,1668355500,https://media-2.api-sports.io/football/teams/97.png
+"Thursday, December 29 10:00 AM",lorient,montpellier,2 - 0,L,home,1672329600,https://media-3.api-sports.io/football/teams/97.png
 "Sunday, January 01 08:00 AM",lorient,angers,2 - 1,W,away,1672581600,https://media-2.api-sports.io/football/teams/97.png
-"Wednesday, January 11 02:00 PM",lorient,monaco,,,home,1673467200,https://media-1.api-sports.io/football/teams/97.png
+"Wednesday, January 11 02:00 PM",lorient,monaco,2 - 2,tie,home,1673467200,https://media-2.api-sports.io/football/teams/97.png
 "Saturday, January 14 12:00 PM",lorient,marseille,,,away,1673719200,https://media-1.api-sports.io/football/teams/97.png
-"Friday, January 27 02:00 PM",lorient,rennes,,,home,1674849600,https://media-2.api-sports.io/football/teams/97.png
+"Friday, January 27 02:00 PM",lorient,rennes,,,home,1674849600,https://media-3.api-sports.io/football/teams/97.png
 "Wednesday, February 01 12:00 PM",lorient,reims,,,away,1675274400,https://media-3.api-sports.io/football/teams/97.png
-"Saturday, February 04 06:00 PM",lorient,angers,,,home,1675555200,https://media-3.api-sports.io/football/teams/97.png
+"Saturday, February 04 06:00 PM",lorient,angers,,,home,1675555200,https://media-1.api-sports.io/football/teams/97.png
 "Saturday, February 11 06:00 PM",lorient,nantes,,,away,1676160000,https://media-1.api-sports.io/football/teams/97.png
-"Saturday, February 18 06:00 PM",lorient,ajaccio,,,home,1676764800,https://media-3.api-sports.io/football/teams/97.png
+"Saturday, February 18 06:00 PM",lorient,ajaccio,,,home,1676764800,https://media-2.api-sports.io/football/teams/97.png
 "Saturday, February 25 06:00 PM",lorient,auxerre,,,home,1677369600,https://media-2.api-sports.io/football/teams/97.png
 "Saturday, March 04 06:00 PM",lorient,lyon,,,away,1677974400,https://media-2.api-sports.io/football/teams/97.png
-"Saturday, March 11 06:00 PM",lorient,estac troyes,,,home,1678579200,https://media-1.api-sports.io/football/teams/97.png
+"Saturday, March 11 06:00 PM",lorient,estac troyes,,,home,1678579200,https://media-3.api-sports.io/football/teams/97.png
 "Saturday, March 18 07:00 PM",lorient,nice,,,away,1679184000,https://media-3.api-sports.io/football/teams/97.png
-"Saturday, April 01 07:00 PM",lorient,lille,,,away,1680393600,https://media-3.api-sports.io/football/teams/97.png
+"Saturday, April 01 07:00 PM",lorient,lille,,,away,1680393600,https://media-1.api-sports.io/football/teams/97.png
 "Saturday, April 08 07:00 PM",lorient,marseille,,,home,1680998400,https://media-2.api-sports.io/football/teams/97.png
-"Saturday, April 15 07:00 PM",lorient,monaco,,,away,1681603200,https://media-1.api-sports.io/football/teams/97.png
-"Saturday, April 22 07:00 PM",lorient,toulouse,,,home,1682208000,https://media-3.api-sports.io/football/teams/97.png
-"Saturday, April 29 07:00 PM",lorient,paris saint germain,,,away,1682812800,https://media-3.api-sports.io/football/teams/97.png
-"Saturday, May 06 07:00 PM",lorient,stade brestois 29,,,home,1683417600,https://media-2.api-sports.io/football/teams/97.png
-"Saturday, May 13 07:00 PM",lorient,montpellier,,,away,1684022400,https://media-1.api-sports.io/football/teams/97.png
-"Saturday, May 20 07:00 PM",lorient,lens,,,home,1684627200,https://media-1.api-sports.io/football/teams/97.png
+"Saturday, April 15 07:00 PM",lorient,monaco,,,away,1681603200,https://media-3.api-sports.io/football/teams/97.png
+"Saturday, April 22 07:00 PM",lorient,toulouse,,,home,1682208000,https://media-1.api-sports.io/football/teams/97.png
+"Saturday, April 29 07:00 PM",lorient,paris saint germain,,,away,1682812800,https://media-1.api-sports.io/football/teams/97.png
+"Saturday, May 06 07:00 PM",lorient,stade brestois 29,,,home,1683417600,https://media-1.api-sports.io/football/teams/97.png
+"Saturday, May 13 07:00 PM",lorient,montpellier,,,away,1684022400,https://media-2.api-sports.io/football/teams/97.png
+"Saturday, May 20 07:00 PM",lorient,lens,,,home,1684627200,https://media-2.api-sports.io/football/teams/97.png
 "Friday, May 26 07:00 PM",lorient,clermont foot,,,away,1685145600,https://media-3.api-sports.io/football/teams/97.png
-"Friday, June 02 07:00 PM",lorient,strasbourg,,,home,1685750400,https://media-3.api-sports.io/football/teams/97.png
+"Friday, June 02 07:00 PM",lorient,strasbourg,,,home,1685750400,https://media-2.api-sports.io/football/teams/97.png

@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Sunday, August 07 08:00 AM",leicester,brentford,2 - 2,tie,home,1659877200,https://media-1.api-sports.io/football/teams/46.png
-"Saturday, August 13 09:00 AM",leicester,arsenal,2 - 4,L,away,1660399200,https://media-2.api-sports.io/football/teams/46.png
-"Saturday, August 20 09:00 AM",leicester,southampton,2 - 1,L,home,1661004000,https://media-3.api-sports.io/football/teams/46.png
+"Sunday, August 07 08:00 AM",leicester,brentford,2 - 2,tie,home,1659877200,https://media-3.api-sports.io/football/teams/46.png
+"Saturday, August 13 09:00 AM",leicester,arsenal,2 - 4,L,away,1660399200,https://media-3.api-sports.io/football/teams/46.png
+"Saturday, August 20 09:00 AM",leicester,southampton,2 - 1,L,home,1661004000,https://media-1.api-sports.io/football/teams/46.png
 "Saturday, August 27 09:00 AM",leicester,chelsea,1 - 2,L,away,1661608800,https://media-3.api-sports.io/football/teams/46.png
 "Thursday, September 01 02:00 PM",leicester,manchester united,1 - 0,L,home,1662058800,https://media-3.api-sports.io/football/teams/46.png
 "Sunday, September 04 08:00 AM",leicester,brighton,2 - 5,L,away,1662296400,https://media-2.api-sports.io/football/teams/46.png
 "Saturday, September 10 09:00 AM",leicester,aston villa,,,home,1662818400,https://media-3.api-sports.io/football/teams/46.png
 "Saturday, September 17 11:30 AM",leicester,tottenham,2 - 6,L,away,1663432200,https://media-2.api-sports.io/football/teams/46.png
-"Monday, October 03 02:00 PM",leicester,nottingham forest,0 - 4,W,home,1664823600,https://media-2.api-sports.io/football/teams/46.png
-"Saturday, October 08 09:00 AM",leicester,bournemouth,1 - 2,L,away,1665237600,https://media-1.api-sports.io/football/teams/46.png
-"Saturday, October 15 06:30 AM",leicester,crystal palace,0 - 0,tie,home,1665833400,https://media-3.api-sports.io/football/teams/46.png
+"Monday, October 03 02:00 PM",leicester,nottingham forest,0 - 4,W,home,1664823600,https://media-1.api-sports.io/football/teams/46.png
+"Saturday, October 08 09:00 AM",leicester,bournemouth,1 - 2,L,away,1665237600,https://media-3.api-sports.io/football/teams/46.png
+"Saturday, October 15 06:30 AM",leicester,crystal palace,0 - 0,tie,home,1665833400,https://media-2.api-sports.io/football/teams/46.png
 "Thursday, October 20 02:15 PM",leicester,leeds,0 - 2,W,home,1666293300,https://media-2.api-sports.io/football/teams/46.png
-"Sunday, October 23 08:00 AM",leicester,wolves,4 - 0,W,away,1666530000,https://media-1.api-sports.io/football/teams/46.png
+"Sunday, October 23 08:00 AM",leicester,wolves,4 - 0,W,away,1666530000,https://media-3.api-sports.io/football/teams/46.png
 "Saturday, October 29 06:30 AM",leicester,manchester city,1 - 0,L,home,1667043000,https://media-3.api-sports.io/football/teams/46.png
 "Saturday, November 05 12:30 PM",leicester,everton,2 - 0,W,away,1667669400,https://media-1.api-sports.io/football/teams/46.png
-"Saturday, November 12 09:00 AM",leicester,west ham,2 - 0,W,away,1668265200,https://media-2.api-sports.io/football/teams/46.png
-"Monday, December 26 09:00 AM",leicester,newcastle,3 - 0,L,home,1672066800,https://media-1.api-sports.io/football/teams/46.png
-"Friday, December 30 02:00 PM",leicester,liverpool,1 - 2,L,away,1672430400,https://media-3.api-sports.io/football/teams/46.png
+"Saturday, November 12 09:00 AM",leicester,west ham,2 - 0,W,away,1668265200,https://media-1.api-sports.io/football/teams/46.png
+"Monday, December 26 09:00 AM",leicester,newcastle,3 - 0,L,home,1672066800,https://media-3.api-sports.io/football/teams/46.png
+"Friday, December 30 02:00 PM",leicester,liverpool,1 - 2,L,away,1672430400,https://media-2.api-sports.io/football/teams/46.png
 "Tuesday, January 03 01:45 PM",leicester,fulham,1 - 0,L,home,1672775100,https://media-2.api-sports.io/football/teams/46.png
 "Saturday, January 14 09:00 AM",leicester,nottingham forest,,,away,1673708400,https://media-2.api-sports.io/football/teams/46.png
-"Saturday, January 21 09:00 AM",leicester,brighton,,,home,1674313200,https://media-2.api-sports.io/football/teams/46.png
-"Saturday, February 04 09:00 AM",leicester,aston villa,,,away,1675522800,https://media-2.api-sports.io/football/teams/46.png
-"Saturday, February 11 09:00 AM",leicester,tottenham,,,home,1676127600,https://media-1.api-sports.io/football/teams/46.png
-"Sunday, February 19 08:00 AM",leicester,manchester united,,,away,1676815200,https://media-3.api-sports.io/football/teams/46.png
-"Saturday, February 25 09:00 AM",leicester,arsenal,,,home,1677337200,https://media-2.api-sports.io/football/teams/46.png
-"Saturday, March 04 09:00 AM",leicester,southampton,,,away,1677942000,https://media-3.api-sports.io/football/teams/46.png
-"Saturday, March 11 09:00 AM",leicester,chelsea,,,home,1678546800,https://media-2.api-sports.io/football/teams/46.png
+"Saturday, January 21 09:00 AM",leicester,brighton,,,home,1674313200,https://media-1.api-sports.io/football/teams/46.png
+"Saturday, February 04 09:00 AM",leicester,aston villa,,,away,1675522800,https://media-3.api-sports.io/football/teams/46.png
+"Saturday, February 11 09:00 AM",leicester,tottenham,,,home,1676127600,https://media-2.api-sports.io/football/teams/46.png
+"Sunday, February 19 08:00 AM",leicester,manchester united,,,away,1676815200,https://media-2.api-sports.io/football/teams/46.png
+"Saturday, February 25 09:00 AM",leicester,arsenal,,,home,1677337200,https://media-3.api-sports.io/football/teams/46.png
+"Saturday, March 04 09:00 AM",leicester,southampton,,,away,1677942000,https://media-2.api-sports.io/football/teams/46.png
+"Saturday, March 11 09:00 AM",leicester,chelsea,,,home,1678546800,https://media-3.api-sports.io/football/teams/46.png
 "Saturday, March 18 10:00 AM",leicester,brentford,,,away,1679151600,https://media-1.api-sports.io/football/teams/46.png
-"Saturday, April 01 09:00 AM",leicester,crystal palace,,,away,1680357600,https://media-3.api-sports.io/football/teams/46.png
-"Saturday, April 08 09:00 AM",leicester,bournemouth,,,home,1680962400,https://media-3.api-sports.io/football/teams/46.png
-"Saturday, April 15 09:00 AM",leicester,manchester city,,,away,1681567200,https://media-2.api-sports.io/football/teams/46.png
-"Saturday, April 22 09:00 AM",leicester,wolves,,,home,1682172000,https://media-3.api-sports.io/football/teams/46.png
-"Tuesday, April 25 01:45 PM",leicester,leeds,,,away,1682448300,https://media-1.api-sports.io/football/teams/46.png
+"Saturday, April 01 09:00 AM",leicester,crystal palace,,,away,1680357600,https://media-1.api-sports.io/football/teams/46.png
+"Saturday, April 08 09:00 AM",leicester,bournemouth,,,home,1680962400,https://media-2.api-sports.io/football/teams/46.png
+"Saturday, April 15 09:00 AM",leicester,manchester city,,,away,1681567200,https://media-1.api-sports.io/football/teams/46.png
+"Saturday, April 22 09:00 AM",leicester,wolves,,,home,1682172000,https://media-1.api-sports.io/football/teams/46.png
+"Tuesday, April 25 01:45 PM",leicester,leeds,,,away,1682448300,https://media-3.api-sports.io/football/teams/46.png
 "Saturday, April 29 09:00 AM",leicester,everton,,,home,1682776800,https://media-3.api-sports.io/football/teams/46.png
 "Saturday, May 06 09:00 AM",leicester,fulham,,,away,1683381600,https://media-2.api-sports.io/football/teams/46.png
-"Saturday, May 13 09:00 AM",leicester,liverpool,,,home,1683986400,https://media-3.api-sports.io/football/teams/46.png
+"Saturday, May 13 09:00 AM",leicester,liverpool,,,home,1683986400,https://media-2.api-sports.io/football/teams/46.png
 "Saturday, May 20 09:00 AM",leicester,newcastle,,,away,1684591200,https://media-3.api-sports.io/football/teams/46.png
 "Sunday, May 28 10:00 AM",leicester,west ham,,,home,1685286000,https://media-3.api-sports.io/football/teams/46.png

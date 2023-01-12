@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Sunday, August 14 12:30 PM",girona,valencia,0 - 1,L,away,1660498200,https://media-3.api-sports.io/football/teams/547.png
-"Monday, August 22 03:00 PM",girona,getafe,1 - 3,W,home,1661198400,https://media-1.api-sports.io/football/teams/547.png
-"Friday, August 26 01:00 PM",girona,celta vigo,1 - 0,L,home,1661536800,https://media-3.api-sports.io/football/teams/547.png
-"Saturday, September 03 07:00 AM",girona,mallorca,1 - 1,tie,away,1662206400,https://media-2.api-sports.io/football/teams/547.png
-"Friday, September 09 02:00 PM",girona,valladolid,1 - 2,W,home,1662750000,https://media-2.api-sports.io/football/teams/547.png
+"Sunday, August 14 12:30 PM",girona,valencia,0 - 1,L,away,1660498200,https://media-1.api-sports.io/football/teams/547.png
+"Monday, August 22 03:00 PM",girona,getafe,1 - 3,W,home,1661198400,https://media-2.api-sports.io/football/teams/547.png
+"Friday, August 26 01:00 PM",girona,celta vigo,1 - 0,L,home,1661536800,https://media-1.api-sports.io/football/teams/547.png
+"Saturday, September 03 07:00 AM",girona,mallorca,1 - 1,tie,away,1662206400,https://media-1.api-sports.io/football/teams/547.png
+"Friday, September 09 02:00 PM",girona,valladolid,1 - 2,W,home,1662750000,https://media-3.api-sports.io/football/teams/547.png
 "Sunday, September 18 11:30 AM",girona,real betis,1 - 2,L,away,1663518600,https://media-2.api-sports.io/football/teams/547.png
 "Sunday, October 02 11:30 AM",girona,real sociedad,5 - 3,L,home,1664728200,https://media-2.api-sports.io/football/teams/547.png
-"Saturday, October 08 09:15 AM",girona,atletico madrid,1 - 2,L,away,1665238500,https://media-2.api-sports.io/football/teams/547.png
-"Saturday, October 15 07:00 AM",girona,cadiz,1 - 1,tie,home,1665835200,https://media-3.api-sports.io/football/teams/547.png
-"Thursday, October 20 12:00 PM",girona,almeria,2 - 3,L,away,1666285200,https://media-3.api-sports.io/football/teams/547.png
-"Sunday, October 23 11:30 AM",girona,osasuna,1 - 1,tie,home,1666542600,https://media-2.api-sports.io/football/teams/547.png
+"Saturday, October 08 09:15 AM",girona,atletico madrid,1 - 2,L,away,1665238500,https://media-1.api-sports.io/football/teams/547.png
+"Saturday, October 15 07:00 AM",girona,cadiz,1 - 1,tie,home,1665835200,https://media-2.api-sports.io/football/teams/547.png
+"Thursday, October 20 12:00 PM",girona,almeria,2 - 3,L,away,1666285200,https://media-2.api-sports.io/football/teams/547.png
+"Sunday, October 23 11:30 AM",girona,osasuna,1 - 1,tie,home,1666542600,https://media-1.api-sports.io/football/teams/547.png
 "Sunday, October 30 10:15 AM",girona,real madrid,1 - 1,tie,away,1667142900,https://media-1.api-sports.io/football/teams/547.png
-"Friday, November 04 03:00 PM",girona,athletic club,1 - 2,W,home,1667592000,https://media-3.api-sports.io/football/teams/547.png
-"Tuesday, November 08 12:00 PM",girona,elche,2 - 1,W,away,1667930400,https://media-2.api-sports.io/football/teams/547.png
+"Friday, November 04 03:00 PM",girona,athletic club,1 - 2,W,home,1667592000,https://media-2.api-sports.io/football/teams/547.png
+"Tuesday, November 08 12:00 PM",girona,elche,2 - 1,W,away,1667930400,https://media-1.api-sports.io/football/teams/547.png
 "Thursday, December 29 10:00 AM",girona,rayo vallecano,2 - 2,tie,home,1672329600,https://media-1.api-sports.io/football/teams/547.png
-"Saturday, January 07 02:00 PM",girona,espanyol,2 - 2,tie,away,1673121600,https://media-2.api-sports.io/football/teams/547.png
-"Saturday, January 14 09:15 AM",girona,sevilla,,,home,1673709300,https://media-1.api-sports.io/football/teams/547.png
+"Saturday, January 07 02:00 PM",girona,espanyol,2 - 2,tie,away,1673121600,https://media-1.api-sports.io/football/teams/547.png
+"Saturday, January 14 09:15 AM",girona,sevilla,,,home,1673709300,https://media-3.api-sports.io/football/teams/547.png
 "Sunday, January 22 07:00 AM",girona,villarreal,,,away,1674392400,https://media-3.api-sports.io/football/teams/547.png
-"Saturday, January 28 06:00 PM",girona,barcelona,,,home,1674950400,https://media-1.api-sports.io/football/teams/547.png
-"Saturday, February 04 06:00 PM",girona,valencia,,,home,1675555200,https://media-3.api-sports.io/football/teams/547.png
+"Saturday, January 28 06:00 PM",girona,barcelona,,,home,1674950400,https://media-2.api-sports.io/football/teams/547.png
+"Saturday, February 04 06:00 PM",girona,valencia,,,home,1675555200,https://media-1.api-sports.io/football/teams/547.png
 "Saturday, February 11 06:00 PM",girona,cadiz,,,away,1676160000,https://media-3.api-sports.io/football/teams/547.png
 "Saturday, February 18 06:00 PM",girona,almeria,,,home,1676764800,https://media-2.api-sports.io/football/teams/547.png
-"Saturday, February 25 06:00 PM",girona,athletic club,,,away,1677369600,https://media-1.api-sports.io/football/teams/547.png
-"Saturday, March 04 06:00 PM",girona,getafe,,,away,1677974400,https://media-1.api-sports.io/football/teams/547.png
-"Saturday, March 11 06:00 PM",girona,atletico madrid,,,home,1678579200,https://media-3.api-sports.io/football/teams/547.png
-"Saturday, March 18 07:00 PM",girona,rayo vallecano,,,away,1679184000,https://media-1.api-sports.io/football/teams/547.png
-"Saturday, April 01 07:00 PM",girona,espanyol,,,home,1680393600,https://media-1.api-sports.io/football/teams/547.png
+"Saturday, February 25 06:00 PM",girona,athletic club,,,away,1677369600,https://media-3.api-sports.io/football/teams/547.png
+"Saturday, March 04 06:00 PM",girona,getafe,,,away,1677974400,https://media-3.api-sports.io/football/teams/547.png
+"Saturday, March 11 06:00 PM",girona,atletico madrid,,,home,1678579200,https://media-2.api-sports.io/football/teams/547.png
+"Saturday, March 18 07:00 PM",girona,rayo vallecano,,,away,1679184000,https://media-2.api-sports.io/football/teams/547.png
+"Saturday, April 01 07:00 PM",girona,espanyol,,,home,1680393600,https://media-3.api-sports.io/football/teams/547.png
 "Saturday, April 08 07:00 PM",girona,barcelona,,,away,1680998400,https://media-1.api-sports.io/football/teams/547.png
-"Saturday, April 15 07:00 PM",girona,elche,,,home,1681603200,https://media-3.api-sports.io/football/teams/547.png
-"Saturday, April 22 07:00 PM",girona,valladolid,,,away,1682208000,https://media-1.api-sports.io/football/teams/547.png
-"Tuesday, April 25 07:00 PM",girona,real madrid,,,home,1682467200,https://media-3.api-sports.io/football/teams/547.png
+"Saturday, April 15 07:00 PM",girona,elche,,,home,1681603200,https://media-2.api-sports.io/football/teams/547.png
+"Saturday, April 22 07:00 PM",girona,valladolid,,,away,1682208000,https://media-2.api-sports.io/football/teams/547.png
+"Tuesday, April 25 07:00 PM",girona,real madrid,,,home,1682467200,https://media-2.api-sports.io/football/teams/547.png
 "Saturday, April 29 07:00 PM",girona,sevilla,,,away,1682812800,https://media-3.api-sports.io/football/teams/547.png
 "Tuesday, May 02 07:00 PM",girona,mallorca,,,home,1683072000,https://media-2.api-sports.io/football/teams/547.png
 "Saturday, May 13 07:00 PM",girona,real sociedad,,,away,1684022400,https://media-1.api-sports.io/football/teams/547.png
-"Saturday, May 20 07:00 PM",girona,villarreal,,,home,1684627200,https://media-3.api-sports.io/football/teams/547.png
+"Saturday, May 20 07:00 PM",girona,villarreal,,,home,1684627200,https://media-2.api-sports.io/football/teams/547.png
 "Tuesday, May 23 07:00 PM",girona,celta vigo,,,away,1684886400,https://media-1.api-sports.io/football/teams/547.png
-"Saturday, May 27 07:00 PM",girona,real betis,,,home,1685232000,https://media-2.api-sports.io/football/teams/547.png
+"Saturday, May 27 07:00 PM",girona,real betis,,,home,1685232000,https://media-3.api-sports.io/football/teams/547.png
 "Saturday, June 03 07:00 PM",girona,osasuna,,,away,1685836800,https://media-3.api-sports.io/football/teams/547.png

@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,binghamton,cazenovia,56 - 87,W,home,1667867400,https://media-2.api-sports.io/basketball/teams/1830.png
-2022-11-13T00:00:00+00:00,binghamton,marist,78 - 75,W,away,1668297600,https://media-3.api-sports.io/basketball/teams/1830.png
-2022-11-16T00:00:00+00:00,binghamton,maryland,52 - 76,L,away,1668556800,https://media-2.api-sports.io/basketball/teams/1830.png
-2022-11-19T19:00:00+00:00,binghamton,sacred heart,75 - 60,L,home,1668884400,https://media-3.api-sports.io/basketball/teams/1830.png
-2022-11-23T19:00:00+00:00,binghamton,columbia,79 - 81,W,home,1669230000,https://media-2.api-sports.io/basketball/teams/1830.png
+2022-11-08T00:30:00+00:00,binghamton,cazenovia,56 - 87,W,home,1667867400,https://media-3.api-sports.io/basketball/teams/1830.png
+2022-11-13T00:00:00+00:00,binghamton,marist,78 - 75,W,away,1668297600,https://media-2.api-sports.io/basketball/teams/1830.png
+2022-11-16T00:00:00+00:00,binghamton,maryland,52 - 76,L,away,1668556800,https://media-1.api-sports.io/basketball/teams/1830.png
+2022-11-19T19:00:00+00:00,binghamton,sacred heart,75 - 60,L,home,1668884400,https://media-1.api-sports.io/basketball/teams/1830.png
+2022-11-23T19:00:00+00:00,binghamton,columbia,79 - 81,W,home,1669230000,https://media-3.api-sports.io/basketball/teams/1830.png
 2022-11-26T19:00:00+00:00,binghamton,la salle,62 - 65,L,away,1669489200,https://media-1.api-sports.io/basketball/teams/1830.png
-2022-11-30T23:00:00+00:00,binghamton,loyola maryland,84 - 70,L,home,1669849200,https://media-2.api-sports.io/basketball/teams/1830.png
-2022-12-03T21:00:00+00:00,binghamton,stonehill,69 - 66,L,home,1670101200,https://media-2.api-sports.io/basketball/teams/1830.png
+2022-11-30T23:00:00+00:00,binghamton,loyola maryland,84 - 70,L,home,1669849200,https://media-1.api-sports.io/basketball/teams/1830.png
+2022-12-03T21:00:00+00:00,binghamton,stonehill,69 - 66,L,home,1670101200,https://media-1.api-sports.io/basketball/teams/1830.png
 2022-12-08T00:30:00+00:00,binghamton,colgate,81 - 62,L,home,1670459400,https://media-2.api-sports.io/basketball/teams/1830.png
-2022-12-10T00:00:00+00:00,binghamton,fordham,62 - 77,L,away,1670630400,https://media-3.api-sports.io/basketball/teams/1830.png
-2022-12-17T19:00:00+00:00,binghamton,oneonta state,58 - 86,W,home,1671303600,https://media-2.api-sports.io/basketball/teams/1830.png
-2022-12-22T00:00:00+00:00,binghamton,niagara,67 - 73,L,away,1671667200,https://media-3.api-sports.io/basketball/teams/1830.png
+2022-12-10T00:00:00+00:00,binghamton,fordham,62 - 77,L,away,1670630400,https://media-2.api-sports.io/basketball/teams/1830.png
+2022-12-17T19:00:00+00:00,binghamton,oneonta state,58 - 86,W,home,1671303600,https://media-1.api-sports.io/basketball/teams/1830.png
+2022-12-22T00:00:00+00:00,binghamton,niagara,67 - 73,L,away,1671667200,https://media-2.api-sports.io/basketball/teams/1830.png
 2022-12-30T00:00:00+00:00,binghamton,cornell,70 - 86,L,away,1672358400,https://media-1.api-sports.io/basketball/teams/1830.png
 2022-12-31T18:00:00+00:00,binghamton,bryant university,78 - 82,L,away,1672509600,https://media-1.api-sports.io/basketball/teams/1830.png
-2023-01-06T00:00:00+00:00,binghamton,new hampshire,50 - 68,W,home,1672963200,https://media-2.api-sports.io/basketball/teams/1830.png
-2023-01-12T00:00:00+00:00,binghamton,njit,,,away,1673481600,https://media-3.api-sports.io/basketball/teams/1830.png
-2023-01-14T19:00:00+00:00,binghamton,umass lowell,,,home,1673722800,https://media-1.api-sports.io/basketball/teams/1830.png
-2023-01-20T00:00:00+00:00,binghamton,albany,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/1830.png
-2023-01-22T19:00:00+00:00,binghamton,maine black bears,,,away,1674414000,https://media-2.api-sports.io/basketball/teams/1830.png
-2023-01-26T00:00:00+00:00,binghamton,vermont,,,home,1674691200,https://media-3.api-sports.io/basketball/teams/1830.png
-2023-01-28T19:00:00+00:00,binghamton,bryant university,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/1830.png
-2023-02-02T00:00:00+00:00,binghamton,umbc retrievers,,,away,1675296000,https://media-2.api-sports.io/basketball/teams/1830.png
-2023-02-09T00:00:00+00:00,binghamton,new hampshire,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1830.png
-2023-02-11T19:00:00+00:00,binghamton,albany,,,home,1676142000,https://media-3.api-sports.io/basketball/teams/1830.png
-2023-02-16T00:00:00+00:00,binghamton,njit,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/1830.png
+2023-01-06T00:00:00+00:00,binghamton,new hampshire,50 - 68,W,home,1672963200,https://media-3.api-sports.io/basketball/teams/1830.png
+2023-01-12T00:00:00+00:00,binghamton,njit,72 - 71,W,away,1673481600,https://media-3.api-sports.io/basketball/teams/1830.png
+2023-01-14T19:00:00+00:00,binghamton,umass lowell,,,home,1673722800,https://media-3.api-sports.io/basketball/teams/1830.png
+2023-01-20T00:00:00+00:00,binghamton,albany,,,away,1674172800,https://media-2.api-sports.io/basketball/teams/1830.png
+2023-01-22T19:00:00+00:00,binghamton,maine black bears,,,away,1674414000,https://media-1.api-sports.io/basketball/teams/1830.png
+2023-01-26T00:00:00+00:00,binghamton,vermont,,,home,1674691200,https://media-1.api-sports.io/basketball/teams/1830.png
+2023-01-28T19:00:00+00:00,binghamton,bryant university,,,home,1674932400,https://media-3.api-sports.io/basketball/teams/1830.png
+2023-02-02T00:00:00+00:00,binghamton,umbc retrievers,,,away,1675296000,https://media-3.api-sports.io/basketball/teams/1830.png
+2023-02-09T00:00:00+00:00,binghamton,new hampshire,,,away,1675900800,https://media-2.api-sports.io/basketball/teams/1830.png
+2023-02-11T19:00:00+00:00,binghamton,albany,,,home,1676142000,https://media-1.api-sports.io/basketball/teams/1830.png
+2023-02-16T00:00:00+00:00,binghamton,njit,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/1830.png
 2023-02-18T18:00:00+00:00,binghamton,umass lowell,,,away,1676743200,https://media-3.api-sports.io/basketball/teams/1830.png

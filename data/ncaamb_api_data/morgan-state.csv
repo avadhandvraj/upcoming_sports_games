@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,morgan state,xavier,73 - 96,L,away,1667867400,https://media-3.api-sports.io/basketball/teams/2018.png
-2022-11-11T00:30:00+00:00,morgan state,penn st.-allegheny,49 - 130,W,home,1668126600,https://media-2.api-sports.io/basketball/teams/2018.png
-2022-11-13T00:00:00+00:00,morgan state,vcu rams,54 - 69,L,away,1668297600,https://media-1.api-sports.io/basketball/teams/2018.png
+2022-11-08T00:30:00+00:00,morgan state,xavier,73 - 96,L,away,1667867400,https://media-1.api-sports.io/basketball/teams/2018.png
+2022-11-11T00:30:00+00:00,morgan state,penn st.-allegheny,49 - 130,W,home,1668126600,https://media-3.api-sports.io/basketball/teams/2018.png
+2022-11-13T00:00:00+00:00,morgan state,vcu rams,54 - 69,L,away,1668297600,https://media-2.api-sports.io/basketball/teams/2018.png
 2022-11-16T00:00:00+00:00,morgan state,akron,59 - 65,L,away,1668556800,https://media-1.api-sports.io/basketball/teams/2018.png
-2022-11-19T00:00:00+00:00,morgan state,utah valley state,72 - 73,W,home,1668816000,https://media-3.api-sports.io/basketball/teams/2018.png
-2022-11-20T22:00:00+00:00,morgan state,queens royals,74 - 64,L,home,1668981600,https://media-2.api-sports.io/basketball/teams/2018.png
+2022-11-19T00:00:00+00:00,morgan state,utah valley state,72 - 73,W,home,1668816000,https://media-2.api-sports.io/basketball/teams/2018.png
+2022-11-20T22:00:00+00:00,morgan state,queens royals,74 - 64,L,home,1668981600,https://media-1.api-sports.io/basketball/teams/2018.png
 2022-11-23T20:00:00+00:00,morgan state,loyola marymount,80 - 81,L,away,1669233600,https://media-1.api-sports.io/basketball/teams/2018.png
-2022-11-29T23:00:00+00:00,morgan state,virginia-lynchburg,59 - 123,W,home,1669762800,https://media-2.api-sports.io/basketball/teams/2018.png
-2022-12-03T19:00:00+00:00,morgan state,bowling green,76 - 86,L,away,1670094000,https://media-1.api-sports.io/basketball/teams/2018.png
-2022-12-07T23:00:00+00:00,morgan state,penn state wilkes-barre,48 - 95,W,home,1670454000,https://media-1.api-sports.io/basketball/teams/2018.png
-2022-12-10T22:30:00+00:00,morgan state,umbc retrievers,63 - 75,L,away,1670711400,https://media-3.api-sports.io/basketball/teams/2018.png
-2022-12-23T01:00:00+00:00,morgan state,arizona,68 - 93,L,away,1671757200,https://media-3.api-sports.io/basketball/teams/2018.png
+2022-11-29T23:00:00+00:00,morgan state,virginia-lynchburg,59 - 123,W,home,1669762800,https://media-3.api-sports.io/basketball/teams/2018.png
+2022-12-03T19:00:00+00:00,morgan state,bowling green,76 - 86,L,away,1670094000,https://media-2.api-sports.io/basketball/teams/2018.png
+2022-12-07T23:00:00+00:00,morgan state,penn state wilkes-barre,48 - 95,W,home,1670454000,https://media-2.api-sports.io/basketball/teams/2018.png
+2022-12-10T22:30:00+00:00,morgan state,umbc retrievers,63 - 75,L,away,1670711400,https://media-2.api-sports.io/basketball/teams/2018.png
+2022-12-23T01:00:00+00:00,morgan state,arizona,68 - 93,L,away,1671757200,https://media-2.api-sports.io/basketball/teams/2018.png
 2022-12-30T23:00:00+00:00,morgan state,hartford,61 - 54,W,away,1672441200,https://media-1.api-sports.io/basketball/teams/2018.png
 2023-01-04T23:00:00+00:00,morgan state,goucher coll,52 - 89,W,home,1672873200,https://media-2.api-sports.io/basketball/teams/2018.png
-2023-01-07T21:00:00+00:00,morgan state,n. carolina central,73 - 78,W,home,1673125200,https://media-3.api-sports.io/basketball/teams/2018.png
+2023-01-07T21:00:00+00:00,morgan state,n. carolina central,73 - 78,W,home,1673125200,https://media-2.api-sports.io/basketball/teams/2018.png
 2023-01-09T23:00:00+00:00,morgan state,south carolina st,85 - 90,W,home,1673305200,https://media-3.api-sports.io/basketball/teams/2018.png
 2023-01-14T21:00:00+00:00,morgan state,coppin state,,,away,1673730000,https://media-3.api-sports.io/basketball/teams/2018.png
-2023-01-18T23:00:00+00:00,morgan state,hartford,,,home,1674082800,https://media-2.api-sports.io/basketball/teams/2018.png
-2023-01-21T21:00:00+00:00,morgan state,howard,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/2018.png
-2023-01-24T00:30:00+00:00,morgan state,norfolk state,,,home,1674520200,https://media-1.api-sports.io/basketball/teams/2018.png
+2023-01-18T23:00:00+00:00,morgan state,hartford,,,home,1674082800,https://media-3.api-sports.io/basketball/teams/2018.png
+2023-01-21T21:00:00+00:00,morgan state,howard,,,away,1674334800,https://media-1.api-sports.io/basketball/teams/2018.png
+2023-01-24T00:30:00+00:00,morgan state,norfolk state,,,home,1674520200,https://media-3.api-sports.io/basketball/teams/2018.png
 2023-01-28T21:00:00+00:00,morgan state,delaware state,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/2018.png
-2023-01-31T00:30:00+00:00,morgan state,md.-east. shore,,,home,1675125000,https://media-1.api-sports.io/basketball/teams/2018.png
-2023-02-04T21:00:00+00:00,morgan state,delaware state,,,away,1675544400,https://media-1.api-sports.io/basketball/teams/2018.png
-2023-02-11T21:00:00+00:00,morgan state,n. carolina central,,,away,1676149200,https://media-1.api-sports.io/basketball/teams/2018.png
+2023-01-31T00:30:00+00:00,morgan state,md.-east. shore,,,home,1675125000,https://media-2.api-sports.io/basketball/teams/2018.png
+2023-02-04T21:00:00+00:00,morgan state,delaware state,,,away,1675544400,https://media-3.api-sports.io/basketball/teams/2018.png
+2023-02-11T21:00:00+00:00,morgan state,n. carolina central,,,away,1676149200,https://media-3.api-sports.io/basketball/teams/2018.png
 2023-02-14T00:30:00+00:00,morgan state,south carolina st,,,home,1676334600,https://media-3.api-sports.io/basketball/teams/2018.png
 2023-02-18T21:00:00+00:00,morgan state,norfolk state,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/2018.png

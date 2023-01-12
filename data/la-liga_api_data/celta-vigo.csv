@@ -2,38 +2,38 @@ Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 "Saturday, August 13 10:00 AM",celta vigo,espanyol,2 - 2,tie,home,1660402800,https://media-1.api-sports.io/football/teams/538.png
 "Saturday, August 20 03:00 PM",celta vigo,real madrid,4 - 1,L,home,1661025600,https://media-1.api-sports.io/football/teams/538.png
 "Friday, August 26 01:00 PM",celta vigo,girona,1 - 0,W,away,1661536800,https://media-1.api-sports.io/football/teams/538.png
-"Friday, September 02 02:00 PM",celta vigo,cadiz,0 - 3,W,home,1662145200,https://media-1.api-sports.io/football/teams/538.png
-"Saturday, September 10 02:00 PM",celta vigo,atletico madrid,1 - 4,L,away,1662836400,https://media-2.api-sports.io/football/teams/538.png
-"Saturday, September 17 11:30 AM",celta vigo,valencia,0 - 3,L,away,1663432200,https://media-1.api-sports.io/football/teams/538.png
-"Sunday, October 02 09:15 AM",celta vigo,real betis,0 - 1,W,home,1664720100,https://media-2.api-sports.io/football/teams/538.png
+"Friday, September 02 02:00 PM",celta vigo,cadiz,0 - 3,W,home,1662145200,https://media-2.api-sports.io/football/teams/538.png
+"Saturday, September 10 02:00 PM",celta vigo,atletico madrid,1 - 4,L,away,1662836400,https://media-3.api-sports.io/football/teams/538.png
+"Saturday, September 17 11:30 AM",celta vigo,valencia,0 - 3,L,away,1663432200,https://media-2.api-sports.io/football/teams/538.png
+"Sunday, October 02 09:15 AM",celta vigo,real betis,0 - 1,W,home,1664720100,https://media-3.api-sports.io/football/teams/538.png
 "Sunday, October 09 02:00 PM",celta vigo,barcelona,0 - 1,L,away,1665342000,https://media-2.api-sports.io/football/teams/538.png
-"Sunday, October 16 07:00 AM",celta vigo,real sociedad,2 - 1,L,home,1665921600,https://media-3.api-sports.io/football/teams/538.png
-"Wednesday, October 19 12:00 PM",celta vigo,valladolid,1 - 4,L,away,1666198800,https://media-1.api-sports.io/football/teams/538.png
+"Sunday, October 16 07:00 AM",celta vigo,real sociedad,2 - 1,L,home,1665921600,https://media-2.api-sports.io/football/teams/538.png
+"Wednesday, October 19 12:00 PM",celta vigo,valladolid,1 - 4,L,away,1666198800,https://media-2.api-sports.io/football/teams/538.png
 "Monday, October 24 02:00 PM",celta vigo,getafe,1 - 1,tie,home,1666638000,https://media-1.api-sports.io/football/teams/538.png
-"Saturday, October 29 07:00 AM",celta vigo,almeria,1 - 3,L,away,1667044800,https://media-3.api-sports.io/football/teams/538.png
+"Saturday, October 29 07:00 AM",celta vigo,almeria,1 - 3,L,away,1667044800,https://media-1.api-sports.io/football/teams/538.png
 "Saturday, November 05 12:30 PM",celta vigo,osasuna,2 - 1,L,home,1667669400,https://media-2.api-sports.io/football/teams/538.png
 "Thursday, November 10 12:00 PM",celta vigo,rayo vallecano,0 - 0,tie,away,1668103200,https://media-1.api-sports.io/football/teams/538.png
-"Friday, December 30 12:15 PM",celta vigo,sevilla,1 - 1,tie,home,1672424100,https://media-2.api-sports.io/football/teams/538.png
-"Friday, January 06 11:30 AM",celta vigo,elche,1 - 0,W,away,1673026200,https://media-3.api-sports.io/football/teams/538.png
-"Friday, January 13 02:00 PM",celta vigo,villarreal,,,home,1673640000,https://media-2.api-sports.io/football/teams/538.png
-"Friday, January 20 02:00 PM",celta vigo,mallorca,,,away,1674244800,https://media-3.api-sports.io/football/teams/538.png
-"Saturday, January 28 06:00 PM",celta vigo,athletic club,,,home,1674950400,https://media-2.api-sports.io/football/teams/538.png
-"Saturday, February 04 06:00 PM",celta vigo,real betis,,,away,1675555200,https://media-2.api-sports.io/football/teams/538.png
-"Saturday, February 11 06:00 PM",celta vigo,atletico madrid,,,home,1676160000,https://media-2.api-sports.io/football/teams/538.png
+"Friday, December 30 12:15 PM",celta vigo,sevilla,1 - 1,tie,home,1672424100,https://media-1.api-sports.io/football/teams/538.png
+"Friday, January 06 11:30 AM",celta vigo,elche,1 - 0,W,away,1673026200,https://media-2.api-sports.io/football/teams/538.png
+"Friday, January 13 02:00 PM",celta vigo,villarreal,,,home,1673640000,https://media-1.api-sports.io/football/teams/538.png
+"Friday, January 20 02:00 PM",celta vigo,mallorca,,,away,1674244800,https://media-2.api-sports.io/football/teams/538.png
+"Saturday, January 28 06:00 PM",celta vigo,athletic club,,,home,1674950400,https://media-3.api-sports.io/football/teams/538.png
+"Saturday, February 04 06:00 PM",celta vigo,real betis,,,away,1675555200,https://media-1.api-sports.io/football/teams/538.png
+"Saturday, February 11 06:00 PM",celta vigo,atletico madrid,,,home,1676160000,https://media-1.api-sports.io/football/teams/538.png
 "Saturday, February 18 06:00 PM",celta vigo,real sociedad,,,away,1676764800,https://media-2.api-sports.io/football/teams/538.png
-"Saturday, February 25 06:00 PM",celta vigo,valladolid,,,home,1677369600,https://media-3.api-sports.io/football/teams/538.png
+"Saturday, February 25 06:00 PM",celta vigo,valladolid,,,home,1677369600,https://media-1.api-sports.io/football/teams/538.png
 "Saturday, March 04 06:00 PM",celta vigo,osasuna,,,away,1677974400,https://media-3.api-sports.io/football/teams/538.png
-"Saturday, March 11 06:00 PM",celta vigo,rayo vallecano,,,home,1678579200,https://media-3.api-sports.io/football/teams/538.png
-"Saturday, March 18 07:00 PM",celta vigo,espanyol,,,away,1679184000,https://media-1.api-sports.io/football/teams/538.png
+"Saturday, March 11 06:00 PM",celta vigo,rayo vallecano,,,home,1678579200,https://media-1.api-sports.io/football/teams/538.png
+"Saturday, March 18 07:00 PM",celta vigo,espanyol,,,away,1679184000,https://media-2.api-sports.io/football/teams/538.png
 "Saturday, April 01 07:00 PM",celta vigo,almeria,,,home,1680393600,https://media-1.api-sports.io/football/teams/538.png
-"Saturday, April 08 07:00 PM",celta vigo,sevilla,,,away,1680998400,https://media-1.api-sports.io/football/teams/538.png
-"Saturday, April 15 07:00 PM",celta vigo,mallorca,,,home,1681603200,https://media-1.api-sports.io/football/teams/538.png
+"Saturday, April 08 07:00 PM",celta vigo,sevilla,,,away,1680998400,https://media-3.api-sports.io/football/teams/538.png
+"Saturday, April 15 07:00 PM",celta vigo,mallorca,,,home,1681603200,https://media-3.api-sports.io/football/teams/538.png
 "Saturday, April 22 07:00 PM",celta vigo,real madrid,,,away,1682208000,https://media-1.api-sports.io/football/teams/538.png
 "Tuesday, April 25 07:00 PM",celta vigo,elche,,,home,1682467200,https://media-3.api-sports.io/football/teams/538.png
-"Saturday, April 29 07:00 PM",celta vigo,villarreal,,,away,1682812800,https://media-1.api-sports.io/football/teams/538.png
+"Saturday, April 29 07:00 PM",celta vigo,villarreal,,,away,1682812800,https://media-2.api-sports.io/football/teams/538.png
 "Tuesday, May 02 07:00 PM",celta vigo,getafe,,,away,1683072000,https://media-3.api-sports.io/football/teams/538.png
-"Saturday, May 13 07:00 PM",celta vigo,valencia,,,home,1684022400,https://media-3.api-sports.io/football/teams/538.png
+"Saturday, May 13 07:00 PM",celta vigo,valencia,,,home,1684022400,https://media-1.api-sports.io/football/teams/538.png
 "Saturday, May 20 07:00 PM",celta vigo,athletic club,,,away,1684627200,https://media-2.api-sports.io/football/teams/538.png
 "Tuesday, May 23 07:00 PM",celta vigo,girona,,,home,1684886400,https://media-1.api-sports.io/football/teams/538.png
-"Saturday, May 27 07:00 PM",celta vigo,cadiz,,,away,1685232000,https://media-1.api-sports.io/football/teams/538.png
+"Saturday, May 27 07:00 PM",celta vigo,cadiz,,,away,1685232000,https://media-2.api-sports.io/football/teams/538.png
 "Saturday, June 03 07:00 PM",celta vigo,barcelona,,,home,1685836800,https://media-2.api-sports.io/football/teams/538.png

@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,norfolk state,virginia-lynchburg,59 - 109,W,home,1667867400,https://media-2.api-sports.io/basketball/teams/196.png
-2022-11-10T00:00:00+00:00,norfolk state,cairn,59 - 87,W,home,1668038400,https://media-2.api-sports.io/basketball/teams/196.png
-2022-11-12T01:00:00+00:00,norfolk state,baylor,70 - 87,L,away,1668214800,https://media-3.api-sports.io/basketball/teams/196.png
+2022-11-08T00:30:00+00:00,norfolk state,virginia-lynchburg,59 - 109,W,home,1667867400,https://media-3.api-sports.io/basketball/teams/196.png
+2022-11-10T00:00:00+00:00,norfolk state,cairn,59 - 87,W,home,1668038400,https://media-1.api-sports.io/basketball/teams/196.png
+2022-11-12T01:00:00+00:00,norfolk state,baylor,70 - 87,L,away,1668214800,https://media-2.api-sports.io/basketball/teams/196.png
 2022-11-15T03:00:00+00:00,norfolk state,ucla,56 - 86,L,away,1668481200,https://media-1.api-sports.io/basketball/teams/196.png
-2022-11-18T00:00:00+00:00,norfolk state,monmouth,64 - 59,W,away,1668729600,https://media-1.api-sports.io/basketball/teams/196.png
+2022-11-18T00:00:00+00:00,norfolk state,monmouth,64 - 59,W,away,1668729600,https://media-2.api-sports.io/basketball/teams/196.png
 2022-11-19T23:00:00+00:00,norfolk state,alabama a&m,83 - 89,W,home,1668898800,https://media-2.api-sports.io/basketball/teams/196.png
-2022-11-23T00:00:00+00:00,norfolk state,st. mary's (md),41 - 91,W,home,1669161600,https://media-3.api-sports.io/basketball/teams/196.png
+2022-11-23T00:00:00+00:00,norfolk state,st. mary's (md),41 - 91,W,home,1669161600,https://media-2.api-sports.io/basketball/teams/196.png
 2022-11-30T01:00:00+00:00,norfolk state,houston,52 - 100,L,away,1669770000,https://media-3.api-sports.io/basketball/teams/196.png
-2022-12-04T00:00:00+00:00,norfolk state,old dominion,62 - 68,L,away,1670112000,https://media-1.api-sports.io/basketball/teams/196.png
+2022-12-04T00:00:00+00:00,norfolk state,old dominion,62 - 68,L,away,1670112000,https://media-3.api-sports.io/basketball/teams/196.png
 2022-12-10T21:00:00+00:00,norfolk state,william & mary,67 - 53,W,away,1670706000,https://media-3.api-sports.io/basketball/teams/196.png
-2022-12-15T00:30:00+00:00,norfolk state,bowling green,75 - 81,W,home,1671064200,https://media-2.api-sports.io/basketball/teams/196.png
+2022-12-15T00:30:00+00:00,norfolk state,bowling green,75 - 81,W,home,1671064200,https://media-1.api-sports.io/basketball/teams/196.png
 2022-12-17T21:00:00+00:00,norfolk state,hampton,66 - 78,W,home,1671310800,https://media-1.api-sports.io/basketball/teams/196.png
-2022-12-18T19:00:00+00:00,norfolk state,n. carolina a&t,66 - 70,W,home,1671390000,https://media-3.api-sports.io/basketball/teams/196.png
-2022-12-21T22:00:00+00:00,norfolk state,nevada,66 - 78,L,away,1671660000,https://media-3.api-sports.io/basketball/teams/196.png
-2023-01-05T00:00:00+00:00,norfolk state,penn state wilkes-barre,60 - 85,W,home,1672876800,https://media-3.api-sports.io/basketball/teams/196.png
-2023-01-07T21:00:00+00:00,norfolk state,md.-east. shore,46 - 57,W,home,1673125200,https://media-2.api-sports.io/basketball/teams/196.png
-2023-01-10T00:30:00+00:00,norfolk state,delaware state,,,away,1673310600,https://media-1.api-sports.io/basketball/teams/196.png
+2022-12-18T19:00:00+00:00,norfolk state,n. carolina a&t,66 - 70,W,home,1671390000,https://media-2.api-sports.io/basketball/teams/196.png
+2022-12-21T22:00:00+00:00,norfolk state,nevada,66 - 78,L,away,1671660000,https://media-2.api-sports.io/basketball/teams/196.png
+2023-01-05T00:00:00+00:00,norfolk state,penn state wilkes-barre,60 - 85,W,home,1672876800,https://media-1.api-sports.io/basketball/teams/196.png
+2023-01-07T21:00:00+00:00,norfolk state,md.-east. shore,46 - 57,W,home,1673125200,https://media-3.api-sports.io/basketball/teams/196.png
+2023-01-10T00:30:00+00:00,norfolk state,delaware state,78 - 65,W,away,1673310600,https://media-3.api-sports.io/basketball/teams/196.png
 2023-01-14T21:00:00+00:00,norfolk state,howard,,,home,1673730000,https://media-3.api-sports.io/basketball/teams/196.png
-2023-01-21T21:00:00+00:00,norfolk state,coppin state,,,away,1674334800,https://media-2.api-sports.io/basketball/teams/196.png
-2023-01-24T00:30:00+00:00,norfolk state,morgan state,,,away,1674520200,https://media-3.api-sports.io/basketball/teams/196.png
+2023-01-21T21:00:00+00:00,norfolk state,coppin state,,,away,1674334800,https://media-3.api-sports.io/basketball/teams/196.png
+2023-01-24T00:30:00+00:00,norfolk state,morgan state,,,away,1674520200,https://media-1.api-sports.io/basketball/teams/196.png
 2023-01-28T21:00:00+00:00,norfolk state,south carolina st,,,home,1674939600,https://media-1.api-sports.io/basketball/teams/196.png
 2023-01-31T00:00:00+00:00,norfolk state,n. carolina central,,,home,1675123200,https://media-1.api-sports.io/basketball/teams/196.png
 2023-02-04T22:00:00+00:00,norfolk state,hampton,,,home,1675548000,https://media-2.api-sports.io/basketball/teams/196.png
-2023-02-11T21:00:00+00:00,norfolk state,md.-east. shore,,,away,1676149200,https://media-1.api-sports.io/basketball/teams/196.png
+2023-02-11T21:00:00+00:00,norfolk state,md.-east. shore,,,away,1676149200,https://media-3.api-sports.io/basketball/teams/196.png
 2023-02-14T00:30:00+00:00,norfolk state,delaware state,,,home,1676334600,https://media-1.api-sports.io/basketball/teams/196.png
 2023-02-18T21:00:00+00:00,norfolk state,morgan state,,,home,1676754000,https://media-2.api-sports.io/basketball/teams/196.png

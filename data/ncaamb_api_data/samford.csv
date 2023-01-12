@@ -1,30 +1,30 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,samford,anderson (s.c.),85 - 109,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/2106.png
-2022-11-11T00:30:00+00:00,samford,spring hill,61 - 80,W,home,1668126600,https://media-3.api-sports.io/basketball/teams/2106.png
-2022-11-12T20:00:00+00:00,samford,belhaven,38 - 90,W,home,1668283200,https://media-2.api-sports.io/basketball/teams/2106.png
-2022-11-18T01:00:00+00:00,samford,alabama a&m,84 - 64,W,away,1668733200,https://media-2.api-sports.io/basketball/teams/2106.png
-2022-11-20T20:00:00+00:00,samford,texas southern,63 - 78,W,home,1668974400,https://media-2.api-sports.io/basketball/teams/2106.png
-2022-11-23T20:00:00+00:00,samford,valparaiso,49 - 79,W,home,1669233600,https://media-1.api-sports.io/basketball/teams/2106.png
+2022-11-08T01:00:00+00:00,samford,anderson (s.c.),85 - 109,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/2106.png
+2022-11-11T00:30:00+00:00,samford,spring hill,61 - 80,W,home,1668126600,https://media-1.api-sports.io/basketball/teams/2106.png
+2022-11-12T20:00:00+00:00,samford,belhaven,38 - 90,W,home,1668283200,https://media-3.api-sports.io/basketball/teams/2106.png
+2022-11-18T01:00:00+00:00,samford,alabama a&m,84 - 64,W,away,1668733200,https://media-1.api-sports.io/basketball/teams/2106.png
+2022-11-20T20:00:00+00:00,samford,texas southern,63 - 78,W,home,1668974400,https://media-1.api-sports.io/basketball/teams/2106.png
+2022-11-23T20:00:00+00:00,samford,valparaiso,49 - 79,W,home,1669233600,https://media-3.api-sports.io/basketball/teams/2106.png
 2022-11-25T20:00:00+00:00,samford,louisiana tech,79 - 76,L,home,1669406400,https://media-2.api-sports.io/basketball/teams/2106.png
 2022-11-27T20:00:00+00:00,samford,ut southern,84 - 82,L,home,1669579200,https://media-1.api-sports.io/basketball/teams/2106.png
 2022-12-01T02:00:00+00:00,samford,depaul,98 - 103,L,away,1669860000,https://media-3.api-sports.io/basketball/teams/2106.png
 2022-12-04T19:00:00+00:00,samford,ucf knights,77 - 80,L,away,1670180400,https://media-3.api-sports.io/basketball/teams/2106.png
-2022-12-11T01:00:00+00:00,samford,louisiana lafayette,58 - 75,L,away,1670720400,https://media-1.api-sports.io/basketball/teams/2106.png
+2022-12-11T01:00:00+00:00,samford,louisiana lafayette,58 - 75,L,away,1670720400,https://media-3.api-sports.io/basketball/teams/2106.png
 2022-12-17T20:00:00+00:00,samford,south carolina st,61 - 62,L,away,1671307200,https://media-3.api-sports.io/basketball/teams/2106.png
-2022-12-22T00:30:00+00:00,samford,belmont,56 - 79,L,away,1671669000,https://media-3.api-sports.io/basketball/teams/2106.png
-2022-12-29T00:00:00+00:00,samford,mercer,69 - 78,W,home,1672272000,https://media-3.api-sports.io/basketball/teams/2106.png
+2022-12-22T00:30:00+00:00,samford,belmont,56 - 79,L,away,1671669000,https://media-1.api-sports.io/basketball/teams/2106.png
+2022-12-29T00:00:00+00:00,samford,mercer,69 - 78,W,home,1672272000,https://media-1.api-sports.io/basketball/teams/2106.png
 2022-12-31T18:00:00+00:00,samford,citadel,75 - 63,W,away,1672509600,https://media-3.api-sports.io/basketball/teams/2106.png
 2023-01-05T00:30:00+00:00,samford,vmi,78 - 87,W,home,1672878600,https://media-1.api-sports.io/basketball/teams/2106.png
 2023-01-07T21:00:00+00:00,samford,nc greensboro,70 - 68,W,away,1673125200,https://media-3.api-sports.io/basketball/teams/2106.png
-2023-01-12T01:00:00+00:00,samford,wofford,,,home,1673485200,https://media-3.api-sports.io/basketball/teams/2106.png
-2023-01-14T23:00:00+00:00,samford,chattanooga mocs,,,home,1673737200,https://media-2.api-sports.io/basketball/teams/2106.png
+2023-01-12T01:00:00+00:00,samford,wofford,58 - 83,W,home,1673485200,https://media-3.api-sports.io/basketball/teams/2106.png
+2023-01-14T23:00:00+00:00,samford,chattanooga mocs,,,home,1673737200,https://media-1.api-sports.io/basketball/teams/2106.png
 2023-01-19T00:00:00+00:00,samford,east tennessee st,,,away,1674086400,https://media-2.api-sports.io/basketball/teams/2106.png
-2023-01-21T21:00:00+00:00,samford,western carolina,,,home,1674334800,https://media-1.api-sports.io/basketball/teams/2106.png
-2023-01-26T00:00:00+00:00,samford,furman,,,away,1674691200,https://media-2.api-sports.io/basketball/teams/2106.png
-2023-01-28T19:00:00+00:00,samford,wofford,,,away,1674932400,https://media-3.api-sports.io/basketball/teams/2106.png
-2023-02-02T00:00:00+00:00,samford,western carolina,,,away,1675296000,https://media-3.api-sports.io/basketball/teams/2106.png
+2023-01-21T21:00:00+00:00,samford,western carolina,,,home,1674334800,https://media-3.api-sports.io/basketball/teams/2106.png
+2023-01-26T00:00:00+00:00,samford,furman,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/2106.png
+2023-01-28T19:00:00+00:00,samford,wofford,,,away,1674932400,https://media-2.api-sports.io/basketball/teams/2106.png
+2023-02-02T00:00:00+00:00,samford,western carolina,,,away,1675296000,https://media-2.api-sports.io/basketball/teams/2106.png
 2023-02-04T20:00:00+00:00,samford,east tennessee st,,,home,1675540800,https://media-1.api-sports.io/basketball/teams/2106.png
-2023-02-09T00:00:00+00:00,samford,mercer,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/2106.png
-2023-02-11T20:00:00+00:00,samford,citadel,,,home,1676145600,https://media-2.api-sports.io/basketball/teams/2106.png
+2023-02-09T00:00:00+00:00,samford,mercer,,,away,1675900800,https://media-2.api-sports.io/basketball/teams/2106.png
+2023-02-11T20:00:00+00:00,samford,citadel,,,home,1676145600,https://media-1.api-sports.io/basketball/teams/2106.png
 2023-02-16T00:30:00+00:00,samford,nc greensboro,,,home,1676507400,https://media-1.api-sports.io/basketball/teams/2106.png
 2023-02-18T18:00:00+00:00,samford,vmi,,,away,1676743200,https://media-3.api-sports.io/basketball/teams/2106.png

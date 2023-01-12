@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,lehigh,syracuse,72 - 90,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/1971.png
-2022-11-10T23:00:00+00:00,lehigh,virginia tech,52 - 78,L,away,1668121200,https://media-3.api-sports.io/basketball/teams/1971.png
-2022-11-13T21:00:00+00:00,lehigh,misericordia,58 - 97,W,home,1668373200,https://media-1.api-sports.io/basketball/teams/1971.png
+2022-11-08T01:00:00+00:00,lehigh,syracuse,72 - 90,L,away,1667869200,https://media-2.api-sports.io/basketball/teams/1971.png
+2022-11-10T23:00:00+00:00,lehigh,virginia tech,52 - 78,L,away,1668121200,https://media-2.api-sports.io/basketball/teams/1971.png
+2022-11-13T21:00:00+00:00,lehigh,misericordia,58 - 97,W,home,1668373200,https://media-3.api-sports.io/basketball/teams/1971.png
 2022-11-17T00:00:00+00:00,lehigh,marist,54 - 64,W,home,1668643200,https://media-1.api-sports.io/basketball/teams/1971.png
 2022-11-22T00:00:00+00:00,lehigh,st. francis (pa),82 - 76,W,away,1669075200,https://media-2.api-sports.io/basketball/teams/1971.png
-2022-11-28T00:00:00+00:00,lehigh,monmouth,76 - 80,W,home,1669593600,https://media-2.api-sports.io/basketball/teams/1971.png
-2022-12-01T00:00:00+00:00,lehigh,md.-east. shore,60 - 64,L,away,1669852800,https://media-1.api-sports.io/basketball/teams/1971.png
+2022-11-28T00:00:00+00:00,lehigh,monmouth,76 - 80,W,home,1669593600,https://media-3.api-sports.io/basketball/teams/1971.png
+2022-12-01T00:00:00+00:00,lehigh,md.-east. shore,60 - 64,L,away,1669852800,https://media-3.api-sports.io/basketball/teams/1971.png
 2022-12-03T19:00:00+00:00,lehigh,umbc retrievers,88 - 62,L,home,1670094000,https://media-2.api-sports.io/basketball/teams/1971.png
 2022-12-16T00:00:00+00:00,lehigh,wisconsin,56 - 78,L,away,1671148800,https://media-1.api-sports.io/basketball/teams/1971.png
 2022-12-18T00:00:00+00:00,lehigh,st. elizabeth,36 - 94,W,home,1671321600,https://media-3.api-sports.io/basketball/teams/1971.png
-2022-12-20T22:00:00+00:00,lehigh,cornell,64 - 96,L,away,1671573600,https://media-2.api-sports.io/basketball/teams/1971.png
-2022-12-30T23:00:00+00:00,lehigh,army,78 - 80,L,away,1672441200,https://media-1.api-sports.io/basketball/teams/1971.png
+2022-12-20T22:00:00+00:00,lehigh,cornell,64 - 96,L,away,1671573600,https://media-3.api-sports.io/basketball/teams/1971.png
+2022-12-30T23:00:00+00:00,lehigh,army,78 - 80,L,away,1672441200,https://media-2.api-sports.io/basketball/teams/1971.png
 2023-01-02T19:00:00+00:00,lehigh,colgate,76 - 60,L,home,1672686000,https://media-3.api-sports.io/basketball/teams/1971.png
-2023-01-06T00:00:00+00:00,lehigh,bucknell,72 - 64,W,away,1672963200,https://media-2.api-sports.io/basketball/teams/1971.png
-2023-01-08T19:00:00+00:00,lehigh,navy,78 - 73,W,away,1673204400,https://media-3.api-sports.io/basketball/teams/1971.png
-2023-01-12T00:00:00+00:00,lehigh,holy cross,,,home,1673481600,https://media-2.api-sports.io/basketball/teams/1971.png
+2023-01-06T00:00:00+00:00,lehigh,bucknell,72 - 64,W,away,1672963200,https://media-1.api-sports.io/basketball/teams/1971.png
+2023-01-08T19:00:00+00:00,lehigh,navy,78 - 73,W,away,1673204400,https://media-1.api-sports.io/basketball/teams/1971.png
+2023-01-12T00:00:00+00:00,lehigh,holy cross,58 - 76,W,home,1673481600,https://media-3.api-sports.io/basketball/teams/1971.png
 2023-01-14T19:00:00+00:00,lehigh,american university,,,home,1673722800,https://media-3.api-sports.io/basketball/teams/1971.png
 2023-01-17T00:00:00+00:00,lehigh,loyola maryland,,,away,1673913600,https://media-2.api-sports.io/basketball/teams/1971.png
 2023-01-22T00:00:00+00:00,lehigh,lafayette,,,home,1674345600,https://media-2.api-sports.io/basketball/teams/1971.png
-2023-01-25T23:00:00+00:00,lehigh,holy cross,,,away,1674687600,https://media-3.api-sports.io/basketball/teams/1971.png
-2023-01-29T17:00:00+00:00,lehigh,boston university,,,home,1675011600,https://media-2.api-sports.io/basketball/teams/1971.png
-2023-02-02T00:00:00+00:00,lehigh,army,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/1971.png
-2023-02-04T18:00:00+00:00,lehigh,lafayette,,,away,1675533600,https://media-1.api-sports.io/basketball/teams/1971.png
-2023-02-09T00:00:00+00:00,lehigh,colgate,,,away,1675900800,https://media-1.api-sports.io/basketball/teams/1971.png
+2023-01-25T23:00:00+00:00,lehigh,holy cross,,,away,1674687600,https://media-1.api-sports.io/basketball/teams/1971.png
+2023-01-29T17:00:00+00:00,lehigh,boston university,,,home,1675011600,https://media-1.api-sports.io/basketball/teams/1971.png
+2023-02-02T00:00:00+00:00,lehigh,army,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/1971.png
+2023-02-04T18:00:00+00:00,lehigh,lafayette,,,away,1675533600,https://media-3.api-sports.io/basketball/teams/1971.png
+2023-02-09T00:00:00+00:00,lehigh,colgate,,,away,1675900800,https://media-2.api-sports.io/basketball/teams/1971.png
 2023-02-12T00:00:00+00:00,lehigh,loyola maryland,,,home,1676160000,https://media-3.api-sports.io/basketball/teams/1971.png
-2023-02-16T00:00:00+00:00,lehigh,navy,,,home,1676505600,https://media-1.api-sports.io/basketball/teams/1971.png
-2023-02-18T19:00:00+00:00,lehigh,american university,,,away,1676746800,https://media-1.api-sports.io/basketball/teams/1971.png
+2023-02-16T00:00:00+00:00,lehigh,navy,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/1971.png
+2023-02-18T19:00:00+00:00,lehigh,american university,,,away,1676746800,https://media-2.api-sports.io/basketball/teams/1971.png

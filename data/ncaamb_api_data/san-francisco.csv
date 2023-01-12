@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T03:00:00+00:00,san francisco,texas southern,77 - 90,W,home,1667876400,https://media-2.api-sports.io/basketball/teams/1497.png
-2022-11-11T03:00:00+00:00,san francisco,cal poly,48 - 60,W,home,1668135600,https://media-1.api-sports.io/basketball/teams/1497.png
-2022-11-13T22:00:00+00:00,san francisco,california merced,71 - 88,W,home,1668376800,https://media-1.api-sports.io/basketball/teams/1497.png
+2022-11-11T03:00:00+00:00,san francisco,cal poly,48 - 60,W,home,1668135600,https://media-2.api-sports.io/basketball/teams/1497.png
+2022-11-13T22:00:00+00:00,san francisco,california merced,71 - 88,W,home,1668376800,https://media-2.api-sports.io/basketball/teams/1497.png
 2022-11-17T03:00:00+00:00,san francisco,fresno state,67 - 60,W,away,1668654000,https://media-3.api-sports.io/basketball/teams/1497.png
 2022-11-21T17:30:00+00:00,san francisco,northern iowa,69 - 75,W,home,1669051800,https://media-3.api-sports.io/basketball/teams/1497.png
-2022-11-22T19:00:00+00:00,san francisco,wichita state,67 - 63,W,away,1669143600,https://media-2.api-sports.io/basketball/teams/1497.png
-2022-11-25T19:00:00+00:00,san francisco,davidson,80 - 89,L,away,1669402800,https://media-1.api-sports.io/basketball/teams/1497.png
+2022-11-22T19:00:00+00:00,san francisco,wichita state,67 - 63,W,away,1669143600,https://media-1.api-sports.io/basketball/teams/1497.png
+2022-11-25T19:00:00+00:00,san francisco,davidson,80 - 89,L,away,1669402800,https://media-3.api-sports.io/basketball/teams/1497.png
 2022-12-01T03:00:00+00:00,san francisco,ualr,68 - 90,W,home,1669863600,https://media-3.api-sports.io/basketball/teams/1497.png
-2022-12-05T01:30:00+00:00,san francisco,utah state,82 - 64,L,home,1670203800,https://media-1.api-sports.io/basketball/teams/1497.png
+2022-12-05T01:30:00+00:00,san francisco,utah state,82 - 64,L,home,1670203800,https://media-2.api-sports.io/basketball/teams/1497.png
 2022-12-08T03:30:00+00:00,san francisco,merrimack warriors,51 - 69,W,home,1670470200,https://media-2.api-sports.io/basketball/teams/1497.png
-2022-12-13T04:30:00+00:00,san francisco,new mexico,67 - 64,L,home,1670905800,https://media-3.api-sports.io/basketball/teams/1497.png
-2022-12-17T22:00:00+00:00,san francisco,unlv,75 - 73,W,away,1671314400,https://media-2.api-sports.io/basketball/teams/1497.png
-2022-12-20T03:00:00+00:00,san francisco,ut arlington,68 - 63,L,home,1671505200,https://media-2.api-sports.io/basketball/teams/1497.png
+2022-12-13T04:30:00+00:00,san francisco,new mexico,67 - 64,L,home,1670905800,https://media-1.api-sports.io/basketball/teams/1497.png
+2022-12-17T22:00:00+00:00,san francisco,unlv,75 - 73,W,away,1671314400,https://media-3.api-sports.io/basketball/teams/1497.png
+2022-12-20T03:00:00+00:00,san francisco,ut arlington,68 - 63,L,home,1671505200,https://media-1.api-sports.io/basketball/teams/1497.png
 2022-12-22T03:00:00+00:00,san francisco,arizona state,60 - 97,W,home,1671678000,https://media-3.api-sports.io/basketball/teams/1497.png
-2022-12-23T02:00:00+00:00,san francisco,hartford,53 - 85,W,home,1671760800,https://media-3.api-sports.io/basketball/teams/1497.png
+2022-12-23T02:00:00+00:00,san francisco,hartford,53 - 85,W,home,1671760800,https://media-1.api-sports.io/basketball/teams/1497.png
 2022-12-30T03:00:00+00:00,san francisco,santa clara,67 - 79,L,away,1672369200,https://media-1.api-sports.io/basketball/teams/1497.png
 2023-01-01T00:00:00+00:00,san francisco,san diego toreros,80 - 68,L,home,1672531200,https://media-3.api-sports.io/basketball/teams/1497.png
-2023-01-06T04:00:00+00:00,san francisco,gonzaga,77 - 75,L,home,1672977600,https://media-1.api-sports.io/basketball/teams/1497.png
-2023-01-08T03:00:00+00:00,san francisco,loyola marymount,72 - 70,W,away,1673146800,https://media-3.api-sports.io/basketball/teams/1497.png
+2023-01-06T04:00:00+00:00,san francisco,gonzaga,77 - 75,L,home,1672977600,https://media-3.api-sports.io/basketball/teams/1497.png
+2023-01-08T03:00:00+00:00,san francisco,loyola marymount,72 - 70,W,away,1673146800,https://media-2.api-sports.io/basketball/teams/1497.png
 2023-01-13T04:00:00+00:00,san francisco,portland,,,away,1673582400,https://media-2.api-sports.io/basketball/teams/1497.png
-2023-01-15T03:00:00+00:00,san francisco,st. marys (ca),,,home,1673751600,https://media-3.api-sports.io/basketball/teams/1497.png
-2023-01-20T04:00:00+00:00,san francisco,pacific,,,home,1674187200,https://media-1.api-sports.io/basketball/teams/1497.png
-2023-01-22T01:00:00+00:00,san francisco,brigham young,,,home,1674349200,https://media-2.api-sports.io/basketball/teams/1497.png
+2023-01-15T03:00:00+00:00,san francisco,st. marys (ca),,,home,1673751600,https://media-2.api-sports.io/basketball/teams/1497.png
+2023-01-20T04:00:00+00:00,san francisco,pacific,,,home,1674187200,https://media-2.api-sports.io/basketball/teams/1497.png
+2023-01-22T01:00:00+00:00,san francisco,brigham young,,,home,1674349200,https://media-1.api-sports.io/basketball/teams/1497.png
 2023-01-29T03:00:00+00:00,san francisco,san diego toreros,,,away,1674961200,https://media-2.api-sports.io/basketball/teams/1497.png
 2023-02-03T04:00:00+00:00,san francisco,st. marys (ca),,,away,1675396800,https://media-1.api-sports.io/basketball/teams/1497.png
-2023-02-05T03:00:00+00:00,san francisco,santa clara,,,home,1675566000,https://media-3.api-sports.io/basketball/teams/1497.png
-2023-02-10T02:00:00+00:00,san francisco,gonzaga,,,away,1675994400,https://media-2.api-sports.io/basketball/teams/1497.png
-2023-02-12T03:00:00+00:00,san francisco,pepperdine,,,home,1676170800,https://media-1.api-sports.io/basketball/teams/1497.png
-2023-02-16T21:00:00+00:00,san francisco,pacific,,,away,1676581200,https://media-3.api-sports.io/basketball/teams/1497.png
+2023-02-05T03:00:00+00:00,san francisco,santa clara,,,home,1675566000,https://media-1.api-sports.io/basketball/teams/1497.png
+2023-02-10T02:00:00+00:00,san francisco,gonzaga,,,away,1675994400,https://media-1.api-sports.io/basketball/teams/1497.png
+2023-02-12T03:00:00+00:00,san francisco,pepperdine,,,home,1676170800,https://media-2.api-sports.io/basketball/teams/1497.png
+2023-02-16T21:00:00+00:00,san francisco,pacific,,,away,1676581200,https://media-2.api-sports.io/basketball/teams/1497.png
 2023-02-23T21:00:00+00:00,san francisco,portland,None - None,tie,home,1677186000,https://media-3.api-sports.io/basketball/teams/1497.png
-2023-02-25T21:00:00+00:00,san francisco,brigham young,None - None,tie,away,1677358800,https://media-2.api-sports.io/basketball/teams/1497.png
+2023-02-25T21:00:00+00:00,san francisco,brigham young,None - None,tie,away,1677358800,https://media-3.api-sports.io/basketball/teams/1497.png

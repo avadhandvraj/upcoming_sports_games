@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,nebraska o.,kansas,64 - 89,L,away,1667869200,https://media-3.api-sports.io/basketball/teams/5817.png
-2022-11-11T01:00:00+00:00,nebraska o.,nebraska,61 - 75,L,away,1668128400,https://media-3.api-sports.io/basketball/teams/5817.png
+2022-11-08T01:00:00+00:00,nebraska o.,kansas,64 - 89,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/5817.png
+2022-11-11T01:00:00+00:00,nebraska o.,nebraska,61 - 75,L,away,1668128400,https://media-1.api-sports.io/basketball/teams/5817.png
 2022-11-13T20:00:00+00:00,nebraska o.,idaho,72 - 79,W,home,1668369600,https://media-3.api-sports.io/basketball/teams/5817.png
-2022-11-17T01:30:00+00:00,nebraska o.,ball state,71 - 61,L,home,1668648600,https://media-2.api-sports.io/basketball/teams/5817.png
+2022-11-17T01:30:00+00:00,nebraska o.,ball state,71 - 61,L,home,1668648600,https://media-3.api-sports.io/basketball/teams/5817.png
 2022-11-22T01:00:00+00:00,nebraska o.,iowa,64 - 100,L,away,1669078800,https://media-3.api-sports.io/basketball/teams/5817.png
 2022-11-25T19:30:00+00:00,nebraska o.,louisiana monroe,56 - 63,W,home,1669404600,https://media-3.api-sports.io/basketball/teams/5817.png
-2022-11-26T18:30:00+00:00,nebraska o.,southern univ.,78 - 88,W,home,1669487400,https://media-1.api-sports.io/basketball/teams/5817.png
-2022-11-29T00:30:00+00:00,nebraska o.,mississippi st.,54 - 74,L,away,1669681800,https://media-2.api-sports.io/basketball/teams/5817.png
+2022-11-26T18:30:00+00:00,nebraska o.,southern univ.,78 - 88,W,home,1669487400,https://media-2.api-sports.io/basketball/teams/5817.png
+2022-11-29T00:30:00+00:00,nebraska o.,mississippi st.,54 - 74,L,away,1669681800,https://media-3.api-sports.io/basketball/teams/5817.png
 2022-12-03T23:00:00+00:00,nebraska o.,north texas,45 - 75,L,away,1670108400,https://media-2.api-sports.io/basketball/teams/5817.png
 2022-12-08T01:00:00+00:00,nebraska o.,drake,65 - 78,L,away,1670461200,https://media-1.api-sports.io/basketball/teams/5817.png
 2022-12-10T23:00:00+00:00,nebraska o.,montana state,54 - 82,L,away,1670713200,https://media-3.api-sports.io/basketball/teams/5817.png
-2022-12-13T18:00:00+00:00,nebraska o.,midland lutheran,72 - 104,W,home,1670954400,https://media-2.api-sports.io/basketball/teams/5817.png
+2022-12-13T18:00:00+00:00,nebraska o.,midland lutheran,72 - 104,W,home,1670954400,https://media-3.api-sports.io/basketball/teams/5817.png
 2022-12-20T01:00:00+00:00,nebraska o.,denver,66 - 83,W,home,1671498000,https://media-1.api-sports.io/basketball/teams/5817.png
-2022-12-22T00:00:00+00:00,nebraska o.,iowa state,None - None,tie,away,1671667200,https://media-3.api-sports.io/basketball/teams/5817.png
+2022-12-22T00:00:00+00:00,nebraska o.,iowa state,None - None,tie,away,1671667200,https://media-1.api-sports.io/basketball/teams/5817.png
 2022-12-30T01:00:00+00:00,nebraska o.,oral roberts,92 - 89,L,home,1672362000,https://media-3.api-sports.io/basketball/teams/5817.png
-2022-12-31T19:00:00+00:00,nebraska o.,umkc,75 - 59,L,home,1672513200,https://media-1.api-sports.io/basketball/teams/5817.png
+2022-12-31T19:00:00+00:00,nebraska o.,umkc,75 - 59,L,home,1672513200,https://media-2.api-sports.io/basketball/teams/5817.png
 2023-01-06T00:00:00+00:00,nebraska o.,western illinois,78 - 74,W,away,1672963200,https://media-1.api-sports.io/basketball/teams/5817.png
-2023-01-08T01:00:00+00:00,nebraska o.,st. thomas (minn.),68 - 80,L,away,1673139600,https://media-1.api-sports.io/basketball/teams/5817.png
-2023-01-13T01:00:00+00:00,nebraska o.,north dakota,,,home,1673571600,https://media-3.api-sports.io/basketball/teams/5817.png
-2023-01-14T18:00:00+00:00,nebraska o.,north dakota st,,,home,1673719200,https://media-3.api-sports.io/basketball/teams/5817.png
+2023-01-08T01:00:00+00:00,nebraska o.,st. thomas (minn.),68 - 80,L,away,1673139600,https://media-2.api-sports.io/basketball/teams/5817.png
+2023-01-13T01:00:00+00:00,nebraska o.,north dakota,,,home,1673571600,https://media-1.api-sports.io/basketball/teams/5817.png
+2023-01-14T18:05:00+00:00,nebraska o.,north dakota st,,,home,1673719500,https://media-3.api-sports.io/basketball/teams/5817.png
 2023-01-20T01:00:00+00:00,nebraska o.,south dakota st.,,,away,1674176400,https://media-2.api-sports.io/basketball/teams/5817.png
 2023-01-21T19:00:00+00:00,nebraska o.,south dakota coyotes,,,away,1674327600,https://media-2.api-sports.io/basketball/teams/5817.png
-2023-01-27T01:00:00+00:00,nebraska o.,umkc,,,away,1674781200,https://media-3.api-sports.io/basketball/teams/5817.png
+2023-01-27T01:00:00+00:00,nebraska o.,umkc,,,away,1674781200,https://media-1.api-sports.io/basketball/teams/5817.png
 2023-01-29T01:00:00+00:00,nebraska o.,oral roberts,,,away,1674954000,https://media-3.api-sports.io/basketball/teams/5817.png
 2023-02-03T01:00:00+00:00,nebraska o.,st. thomas (minn.),,,home,1675386000,https://media-3.api-sports.io/basketball/teams/5817.png
 2023-02-04T20:00:00+00:00,nebraska o.,western illinois,,,home,1675540800,https://media-1.api-sports.io/basketball/teams/5817.png
-2023-02-10T01:00:00+00:00,nebraska o.,north dakota st,,,away,1675990800,https://media-2.api-sports.io/basketball/teams/5817.png
-2023-02-11T19:00:00+00:00,nebraska o.,north dakota,,,away,1676142000,https://media-1.api-sports.io/basketball/teams/5817.png
-2023-02-17T01:00:00+00:00,nebraska o.,south dakota coyotes,,,home,1676595600,https://media-2.api-sports.io/basketball/teams/5817.png
-2023-02-18T21:00:00+00:00,nebraska o.,south dakota st.,None - None,tie,home,1676754000,https://media-1.api-sports.io/basketball/teams/2030.png
+2023-02-10T01:00:00+00:00,nebraska o.,north dakota st,,,away,1675990800,https://media-1.api-sports.io/basketball/teams/5817.png
+2023-02-11T19:00:00+00:00,nebraska o.,north dakota,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/5817.png
+2023-02-17T01:00:00+00:00,nebraska o.,south dakota coyotes,,,home,1676595600,https://media-3.api-sports.io/basketball/teams/5817.png
+2023-02-18T21:00:00+00:00,nebraska o.,south dakota st.,None - None,tie,home,1676754000,https://media-3.api-sports.io/basketball/teams/2030.png
 2023-02-25T21:00:00+00:00,nebraska o.,denver,None - None,tie,away,1677358800,https://media-3.api-sports.io/basketball/teams/2030.png

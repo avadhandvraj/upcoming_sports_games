@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:00:00+00:00,n. carolina a&t,edward waters,61 - 100,W,home,1667865600,https://media-3.api-sports.io/basketball/teams/5810.png
+2022-11-08T00:00:00+00:00,n. carolina a&t,edward waters,61 - 100,W,home,1667865600,https://media-1.api-sports.io/basketball/teams/5810.png
 2022-11-12T01:00:00+00:00,n. carolina a&t,iowa,71 - 112,L,away,1668214800,https://media-2.api-sports.io/basketball/teams/5810.png
-2022-11-13T18:00:00+00:00,n. carolina a&t,iowa state,43 - 80,L,away,1668362400,https://media-1.api-sports.io/basketball/teams/5810.png
-2022-11-19T22:00:00+00:00,n. carolina a&t,gardner webb,66 - 64,L,home,1668895200,https://media-3.api-sports.io/basketball/teams/5810.png
-2022-11-20T22:00:00+00:00,n. carolina a&t,wofford,64 - 78,L,away,1668981600,https://media-3.api-sports.io/basketball/teams/5810.png
+2022-11-13T18:00:00+00:00,n. carolina a&t,iowa state,43 - 80,L,away,1668362400,https://media-3.api-sports.io/basketball/teams/5810.png
+2022-11-19T22:00:00+00:00,n. carolina a&t,gardner webb,66 - 64,L,home,1668895200,https://media-1.api-sports.io/basketball/teams/5810.png
+2022-11-20T22:00:00+00:00,n. carolina a&t,wofford,64 - 78,L,away,1668981600,https://media-1.api-sports.io/basketball/teams/5810.png
 2022-11-22T23:00:00+00:00,n. carolina a&t,st. andrews,57 - 109,W,home,1669158000,https://media-2.api-sports.io/basketball/teams/5810.png
-2022-11-26T19:00:00+00:00,n. carolina a&t,greensboro,51 - 78,W,home,1669489200,https://media-1.api-sports.io/basketball/teams/5810.png
-2022-12-01T00:00:00+00:00,n. carolina a&t,nc greensboro,56 - 73,W,home,1669852800,https://media-3.api-sports.io/basketball/teams/5810.png
+2022-11-26T19:00:00+00:00,n. carolina a&t,greensboro,51 - 78,W,home,1669489200,https://media-2.api-sports.io/basketball/teams/5810.png
+2022-12-01T00:00:00+00:00,n. carolina a&t,nc greensboro,56 - 73,W,home,1669852800,https://media-1.api-sports.io/basketball/teams/5810.png
 2022-12-14T01:00:00+00:00,n. carolina a&t,houston,46 - 74,L,away,1670979600,https://media-2.api-sports.io/basketball/teams/5810.png
 2022-12-17T23:30:00+00:00,n. carolina a&t,texas southern,67 - 66,W,away,1671319800,https://media-3.api-sports.io/basketball/teams/5810.png
 2022-12-18T19:00:00+00:00,n. carolina a&t,norfolk state,66 - 70,L,away,1671390000,https://media-2.api-sports.io/basketball/teams/5810.png
-2022-12-22T02:30:00+00:00,n. carolina a&t,utep,62 - 75,L,away,1671676200,https://media-2.api-sports.io/basketball/teams/5810.png
+2022-12-22T02:30:00+00:00,n. carolina a&t,utep,62 - 75,L,away,1671676200,https://media-3.api-sports.io/basketball/teams/5810.png
 2022-12-23T00:30:00+00:00,n. carolina a&t,new mexico state,85 - 76,L,home,1671755400,https://media-2.api-sports.io/basketball/teams/5810.png
 2022-12-30T00:00:00+00:00,n. carolina a&t,northeastern,76 - 88,L,away,1672358400,https://media-1.api-sports.io/basketball/teams/5810.png
-2022-12-31T18:00:00+00:00,n. carolina a&t,hofstra,81 - 79,W,away,1672509600,https://media-3.api-sports.io/basketball/teams/5810.png
+2022-12-31T18:00:00+00:00,n. carolina a&t,hofstra,81 - 79,W,away,1672509600,https://media-1.api-sports.io/basketball/teams/5810.png
 2023-01-04T22:00:00+00:00,n. carolina a&t,charleston,92 - 79,L,home,1672869600,https://media-3.api-sports.io/basketball/teams/5810.png
 2023-01-07T19:00:00+00:00,n. carolina a&t,nc wilmington,66 - 61,L,home,1673118000,https://media-3.api-sports.io/basketball/teams/5810.png
-2023-01-12T00:00:00+00:00,n. carolina a&t,elon,,,away,1673481600,https://media-2.api-sports.io/basketball/teams/5810.png
-2023-01-14T19:00:00+00:00,n. carolina a&t,stony brook,,,home,1673722800,https://media-2.api-sports.io/basketball/teams/5810.png
+2023-01-12T00:00:00+00:00,n. carolina a&t,elon,80 - 71,W,away,1673481600,https://media-1.api-sports.io/basketball/teams/5810.png
+2023-01-14T19:00:00+00:00,n. carolina a&t,stony brook,,,home,1673722800,https://media-1.api-sports.io/basketball/teams/5810.png
 2023-01-17T00:00:00+00:00,n. carolina a&t,hampton,,,away,1673913600,https://media-2.api-sports.io/basketball/teams/5810.png
-2023-01-20T00:00:00+00:00,n. carolina a&t,towson,,,home,1674172800,https://media-2.api-sports.io/basketball/teams/5810.png
-2023-01-21T19:00:00+00:00,n. carolina a&t,william & mary,,,away,1674327600,https://media-1.api-sports.io/basketball/teams/5810.png
-2023-01-27T00:00:00+00:00,n. carolina a&t,drexel,,,home,1674777600,https://media-1.api-sports.io/basketball/teams/5810.png
+2023-01-20T00:00:00+00:00,n. carolina a&t,towson,,,home,1674172800,https://media-3.api-sports.io/basketball/teams/5810.png
+2023-01-21T19:00:00+00:00,n. carolina a&t,william & mary,,,away,1674327600,https://media-2.api-sports.io/basketball/teams/5810.png
+2023-01-27T00:00:00+00:00,n. carolina a&t,drexel,,,home,1674777600,https://media-2.api-sports.io/basketball/teams/5810.png
 2023-01-28T19:00:00+00:00,n. carolina a&t,monmouth,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/5810.png
-2023-02-03T00:00:00+00:00,n. carolina a&t,nc wilmington,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/5810.png
-2023-02-09T00:00:00+00:00,n. carolina a&t,elon,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/5810.png
-2023-02-11T19:00:00+00:00,n. carolina a&t,stony brook,,,away,1676142000,https://media-3.api-sports.io/basketball/teams/5810.png
-2023-02-14T00:00:00+00:00,n. carolina a&t,monmouth,,,away,1676332800,https://media-3.api-sports.io/basketball/teams/5810.png
-2023-02-18T21:00:00+00:00,n. carolina a&t,towson,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/5810.png
-2023-02-23T21:00:00+00:00,n. carolina a&t,delaware,None - None,tie,home,1677186000,https://media-1.api-sports.io/basketball/teams/2025.png
-2023-02-25T21:00:00+00:00,n. carolina a&t,hampton,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/2025.png
+2023-02-03T00:00:00+00:00,n. carolina a&t,nc wilmington,,,away,1675382400,https://media-3.api-sports.io/basketball/teams/5810.png
+2023-02-09T00:00:00+00:00,n. carolina a&t,elon,,,home,1675900800,https://media-3.api-sports.io/basketball/teams/5810.png
+2023-02-11T19:00:00+00:00,n. carolina a&t,stony brook,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/5810.png
+2023-02-14T00:00:00+00:00,n. carolina a&t,monmouth,,,away,1676332800,https://media-2.api-sports.io/basketball/teams/5810.png
+2023-02-18T21:00:00+00:00,n. carolina a&t,towson,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/5810.png
+2023-02-23T21:00:00+00:00,n. carolina a&t,delaware,None - None,tie,home,1677186000,https://media-3.api-sports.io/basketball/teams/2025.png
+2023-02-25T21:00:00+00:00,n. carolina a&t,hampton,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/2025.png

@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T04:00:00+00:00,liu sharks,utah utes,48 - 89,L,away,1667880000,https://media-2.api-sports.io/basketball/teams/5774.png
 2022-11-14T23:00:00+00:00,liu sharks,mount st. vincent,50 - 111,W,home,1668466800,https://media-2.api-sports.io/basketball/teams/5774.png
-2022-11-18T01:30:00+00:00,liu sharks,marquette,58 - 95,L,away,1668735000,https://media-3.api-sports.io/basketball/teams/5774.png
-2022-11-22T19:30:00+00:00,liu sharks,south dakota coyotes,58 - 68,L,away,1669145400,https://media-3.api-sports.io/basketball/teams/5774.png
-2022-11-23T16:00:00+00:00,liu sharks,northern illinois,86 - 61,L,home,1669219200,https://media-2.api-sports.io/basketball/teams/5774.png
+2022-11-18T01:30:00+00:00,liu sharks,marquette,58 - 95,L,away,1668735000,https://media-1.api-sports.io/basketball/teams/5774.png
+2022-11-22T19:30:00+00:00,liu sharks,south dakota coyotes,58 - 68,L,away,1669145400,https://media-1.api-sports.io/basketball/teams/5774.png
+2022-11-23T16:00:00+00:00,liu sharks,northern illinois,86 - 61,L,home,1669219200,https://media-3.api-sports.io/basketball/teams/5774.png
 2022-11-29T23:30:00+00:00,liu sharks,st. john's (n.y.),68 - 95,L,away,1669764600,https://media-3.api-sports.io/basketball/teams/5774.png
-2022-12-03T00:00:00+00:00,liu sharks,towson,74 - 64,L,home,1670025600,https://media-3.api-sports.io/basketball/teams/5774.png
-2022-12-06T00:00:00+00:00,liu sharks,umass lowell,84 - 64,L,home,1670284800,https://media-2.api-sports.io/basketball/teams/5774.png
-2022-12-10T17:30:00+00:00,liu sharks,uconn,61 - 114,L,away,1670693400,https://media-3.api-sports.io/basketball/teams/5774.png
-2022-12-15T00:00:00+00:00,liu sharks,albany,59 - 76,L,away,1671062400,https://media-2.api-sports.io/basketball/teams/5774.png
+2022-12-03T00:00:00+00:00,liu sharks,towson,74 - 64,L,home,1670025600,https://media-2.api-sports.io/basketball/teams/5774.png
+2022-12-06T00:00:00+00:00,liu sharks,umass lowell,84 - 64,L,home,1670284800,https://media-1.api-sports.io/basketball/teams/5774.png
+2022-12-10T17:30:00+00:00,liu sharks,uconn,61 - 114,L,away,1670693400,https://media-2.api-sports.io/basketball/teams/5774.png
+2022-12-15T00:00:00+00:00,liu sharks,albany,59 - 76,L,away,1671062400,https://media-1.api-sports.io/basketball/teams/5774.png
 2022-12-18T19:00:00+00:00,liu sharks,james madison,79 - 115,L,away,1671390000,https://media-1.api-sports.io/basketball/teams/5774.png
 2022-12-22T18:00:00+00:00,liu sharks,suny-purchase,58 - 95,W,home,1671732000,https://media-1.api-sports.io/basketball/teams/5774.png
-2022-12-29T18:00:00+00:00,liu sharks,wagner,69 - 61,L,home,1672336800,https://media-1.api-sports.io/basketball/teams/5774.png
-2022-12-31T18:00:00+00:00,liu sharks,sacred heart,82 - 64,L,home,1672509600,https://media-3.api-sports.io/basketball/teams/5774.png
-2023-01-06T00:00:00+00:00,liu sharks,central connecticut state,59 - 78,L,away,1672963200,https://media-3.api-sports.io/basketball/teams/5774.png
-2023-01-07T18:00:00+00:00,liu sharks,fairleigh dickinson,89 - 101,L,away,1673114400,https://media-2.api-sports.io/basketball/teams/5774.png
-2023-01-14T21:00:00+00:00,liu sharks,st. francis (pa),,,away,1673730000,https://media-2.api-sports.io/basketball/teams/5774.png
-2023-01-17T00:00:00+00:00,liu sharks,st. francis brooklyn,,,home,1673913600,https://media-3.api-sports.io/basketball/teams/5774.png
+2022-12-29T18:00:00+00:00,liu sharks,wagner,69 - 61,L,home,1672336800,https://media-2.api-sports.io/basketball/teams/5774.png
+2022-12-31T18:00:00+00:00,liu sharks,sacred heart,82 - 64,L,home,1672509600,https://media-1.api-sports.io/basketball/teams/5774.png
+2023-01-06T00:00:00+00:00,liu sharks,central connecticut state,59 - 78,L,away,1672963200,https://media-1.api-sports.io/basketball/teams/5774.png
+2023-01-07T18:00:00+00:00,liu sharks,fairleigh dickinson,89 - 101,L,away,1673114400,https://media-3.api-sports.io/basketball/teams/5774.png
+2023-01-14T21:00:00+00:00,liu sharks,st. francis (pa),,,away,1673730000,https://media-3.api-sports.io/basketball/teams/5774.png
+2023-01-17T00:00:00+00:00,liu sharks,st. francis brooklyn,,,home,1673913600,https://media-2.api-sports.io/basketball/teams/5774.png
 2023-01-21T00:00:00+00:00,liu sharks,stonehill,,,home,1674259200,https://media-2.api-sports.io/basketball/teams/5774.png
-2023-01-22T17:00:00+00:00,liu sharks,central connecticut state,,,home,1674406800,https://media-1.api-sports.io/basketball/teams/5774.png
-2023-01-27T00:00:00+00:00,liu sharks,sacred heart,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/5774.png
-2023-01-28T18:00:00+00:00,liu sharks,st. francis brooklyn,,,away,1674928800,https://media-2.api-sports.io/basketball/teams/5774.png
-2023-02-03T00:00:00+00:00,liu sharks,merrimack warriors,,,away,1675382400,https://media-1.api-sports.io/basketball/teams/5774.png
-2023-02-10T00:00:00+00:00,liu sharks,fairleigh dickinson,,,home,1675987200,https://media-3.api-sports.io/basketball/teams/5774.png
-2023-02-11T18:00:00+00:00,liu sharks,wagner,,,away,1676138400,https://media-1.api-sports.io/basketball/teams/5774.png
+2023-01-22T17:00:00+00:00,liu sharks,central connecticut state,,,home,1674406800,https://media-3.api-sports.io/basketball/teams/5774.png
+2023-01-27T00:00:00+00:00,liu sharks,sacred heart,,,away,1674777600,https://media-3.api-sports.io/basketball/teams/5774.png
+2023-01-28T18:00:00+00:00,liu sharks,st. francis brooklyn,,,away,1674928800,https://media-3.api-sports.io/basketball/teams/5774.png
+2023-02-03T00:00:00+00:00,liu sharks,merrimack warriors,,,away,1675382400,https://media-2.api-sports.io/basketball/teams/5774.png
+2023-02-10T00:00:00+00:00,liu sharks,fairleigh dickinson,,,home,1675987200,https://media-2.api-sports.io/basketball/teams/5774.png
+2023-02-11T18:00:00+00:00,liu sharks,wagner,,,away,1676138400,https://media-2.api-sports.io/basketball/teams/5774.png
 2023-02-17T00:00:00+00:00,liu sharks,stonehill,,,away,1676592000,https://media-3.api-sports.io/basketball/teams/5774.png
 2023-02-18T18:00:00+00:00,liu sharks,st. francis (pa),,,home,1676743200,https://media-3.api-sports.io/basketball/teams/5774.png

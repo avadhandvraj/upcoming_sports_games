@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T02:00:00+00:00,western michigan,minnesota,60 - 61,L,away,1667872800,https://media-3.api-sports.io/basketball/teams/2202.png
-2022-11-11T00:00:00+00:00,western michigan,goshen,62 - 99,W,home,1668124800,https://media-3.api-sports.io/basketball/teams/2202.png
-2022-11-13T22:00:00+00:00,western michigan,valparaiso,65 - 81,L,away,1668376800,https://media-2.api-sports.io/basketball/teams/2202.png
-2022-11-19T01:00:00+00:00,western michigan,houston christian,90 - 84,W,away,1668819600,https://media-1.api-sports.io/basketball/teams/2202.png
+2022-11-11T00:00:00+00:00,western michigan,goshen,62 - 99,W,home,1668124800,https://media-1.api-sports.io/basketball/teams/2202.png
+2022-11-13T22:00:00+00:00,western michigan,valparaiso,65 - 81,L,away,1668376800,https://media-1.api-sports.io/basketball/teams/2202.png
+2022-11-19T01:00:00+00:00,western michigan,houston christian,90 - 84,W,away,1668819600,https://media-3.api-sports.io/basketball/teams/2202.png
 2022-11-19T23:00:00+00:00,western michigan,rice,88 - 96,L,away,1668898800,https://media-1.api-sports.io/basketball/teams/2202.png
-2022-11-20T18:00:00+00:00,western michigan,georgia southern,63 - 57,L,home,1668967200,https://media-1.api-sports.io/basketball/teams/2202.png
-2022-11-26T17:00:00+00:00,western michigan,cleveland state,71 - 49,L,home,1669482000,https://media-1.api-sports.io/basketball/teams/2202.png
+2022-11-20T18:00:00+00:00,western michigan,georgia southern,63 - 57,L,home,1668967200,https://media-3.api-sports.io/basketball/teams/2202.png
+2022-11-26T17:00:00+00:00,western michigan,cleveland state,71 - 49,L,home,1669482000,https://media-2.api-sports.io/basketball/teams/2202.png
 2022-12-01T00:00:00+00:00,western michigan,dayton,47 - 67,L,away,1669852800,https://media-3.api-sports.io/basketball/teams/2202.png
-2022-12-06T00:00:00+00:00,western michigan,concordia (mi),50 - 94,W,home,1670284800,https://media-3.api-sports.io/basketball/teams/2202.png
-2022-12-10T19:30:00+00:00,western michigan,illinois (chi.),62 - 56,L,home,1670700600,https://media-3.api-sports.io/basketball/teams/2202.png
-2022-12-18T18:00:00+00:00,western michigan,iowa state,57 - 73,L,away,1671386400,https://media-1.api-sports.io/basketball/teams/2202.png
-2022-12-21T18:00:00+00:00,western michigan,siena heights,41 - 61,W,home,1671645600,https://media-2.api-sports.io/basketball/teams/2202.png
-2022-12-31T01:00:00+00:00,western michigan,wisconsin,66 - 76,L,away,1672448400,https://media-1.api-sports.io/basketball/teams/2202.png
-2023-01-04T00:00:00+00:00,western michigan,kent state,72 - 80,L,away,1672790400,https://media-2.api-sports.io/basketball/teams/2202.png
-2023-01-06T23:30:00+00:00,western michigan,toledo,74 - 102,L,away,1673047800,https://media-2.api-sports.io/basketball/teams/2202.png
-2023-01-11T00:00:00+00:00,western michigan,eastern michigan,,,home,1673395200,https://media-3.api-sports.io/basketball/teams/2202.png
+2022-12-06T00:00:00+00:00,western michigan,concordia (mi),50 - 94,W,home,1670284800,https://media-2.api-sports.io/basketball/teams/2202.png
+2022-12-10T19:30:00+00:00,western michigan,illinois (chi.),62 - 56,L,home,1670700600,https://media-2.api-sports.io/basketball/teams/2202.png
+2022-12-18T18:00:00+00:00,western michigan,iowa state,57 - 73,L,away,1671386400,https://media-3.api-sports.io/basketball/teams/2202.png
+2022-12-21T18:00:00+00:00,western michigan,siena heights,41 - 61,W,home,1671645600,https://media-3.api-sports.io/basketball/teams/2202.png
+2022-12-31T01:00:00+00:00,western michigan,wisconsin,66 - 76,L,away,1672448400,https://media-2.api-sports.io/basketball/teams/2202.png
+2023-01-04T00:00:00+00:00,western michigan,kent state,72 - 80,L,away,1672790400,https://media-1.api-sports.io/basketball/teams/2202.png
+2023-01-06T23:30:00+00:00,western michigan,toledo,74 - 102,L,away,1673047800,https://media-3.api-sports.io/basketball/teams/2202.png
+2023-01-11T00:00:00+00:00,western michigan,eastern michigan,79 - 85,W,home,1673395200,https://media-2.api-sports.io/basketball/teams/2202.png
 2023-01-14T18:00:00+00:00,western michigan,bowling green,,,home,1673719200,https://media-1.api-sports.io/basketball/teams/2202.png
-2023-01-18T00:00:00+00:00,western michigan,ball state,,,away,1674000000,https://media-2.api-sports.io/basketball/teams/2202.png
-2023-01-21T19:30:00+00:00,western michigan,akron,,,home,1674329400,https://media-3.api-sports.io/basketball/teams/2202.png
-2023-01-25T00:00:00+00:00,western michigan,ohio,,,away,1674604800,https://media-2.api-sports.io/basketball/teams/2202.png
-2023-01-28T21:00:00+00:00,western michigan,central michigan,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/2202.png
-2023-02-01T00:00:00+00:00,western michigan,northern illinois,,,home,1675209600,https://media-1.api-sports.io/basketball/teams/2202.png
-2023-02-04T19:30:00+00:00,western michigan,buffalo,,,home,1675539000,https://media-3.api-sports.io/basketball/teams/2202.png
-2023-02-08T00:00:00+00:00,western michigan,miami (ohio),,,away,1675814400,https://media-3.api-sports.io/basketball/teams/2202.png
-2023-02-11T21:00:00+00:00,western michigan,northern illinois,,,away,1676149200,https://media-3.api-sports.io/basketball/teams/2202.png
+2023-01-18T00:00:00+00:00,western michigan,ball state,,,away,1674000000,https://media-3.api-sports.io/basketball/teams/2202.png
+2023-01-21T19:30:00+00:00,western michigan,akron,,,home,1674329400,https://media-2.api-sports.io/basketball/teams/2202.png
+2023-01-25T00:00:00+00:00,western michigan,ohio,,,away,1674604800,https://media-3.api-sports.io/basketball/teams/2202.png
+2023-01-28T21:00:00+00:00,western michigan,central michigan,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/2202.png
+2023-02-01T00:00:00+00:00,western michigan,northern illinois,,,home,1675209600,https://media-3.api-sports.io/basketball/teams/2202.png
+2023-02-04T19:30:00+00:00,western michigan,buffalo,,,home,1675539000,https://media-2.api-sports.io/basketball/teams/2202.png
+2023-02-08T00:00:00+00:00,western michigan,miami (ohio),,,away,1675814400,https://media-2.api-sports.io/basketball/teams/2202.png
+2023-02-11T21:00:00+00:00,western michigan,northern illinois,,,away,1676149200,https://media-2.api-sports.io/basketball/teams/2202.png
 2023-02-15T00:00:00+00:00,western michigan,kent state,,,home,1676419200,https://media-2.api-sports.io/basketball/teams/2202.png
-2023-02-18T19:30:00+00:00,western michigan,ball state,,,home,1676748600,https://media-2.api-sports.io/basketball/teams/2202.png
+2023-02-18T19:30:00+00:00,western michigan,ball state,,,home,1676748600,https://media-1.api-sports.io/basketball/teams/2202.png

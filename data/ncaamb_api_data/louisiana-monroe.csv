@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,louisiana monroe,texas a&m,54 - 87,L,away,1667869200,https://media-1.api-sports.io/basketball/teams/5784.png
-2022-11-11T00:30:00+00:00,louisiana monroe,dallas christian,59 - 111,W,home,1668126600,https://media-1.api-sports.io/basketball/teams/5784.png
-2022-11-15T00:30:00+00:00,louisiana monroe,central baptist,56 - 105,W,home,1668472200,https://media-2.api-sports.io/basketball/teams/5784.png
-2022-11-18T01:00:00+00:00,louisiana monroe,tcu,60 - 95,L,away,1668733200,https://media-1.api-sports.io/basketball/teams/5784.png
-2022-11-22T00:00:00+00:00,louisiana monroe,louisiana tech,58 - 79,L,away,1669075200,https://media-2.api-sports.io/basketball/teams/5784.png
-2022-11-25T19:30:00+00:00,louisiana monroe,nebraska o.,56 - 63,L,away,1669404600,https://media-2.api-sports.io/basketball/teams/5784.png
-2022-11-26T16:00:00+00:00,louisiana monroe,loyola maryland,65 - 64,L,home,1669478400,https://media-1.api-sports.io/basketball/teams/5784.png
-2022-11-29T00:00:00+00:00,louisiana monroe,tulane,60 - 75,L,away,1669680000,https://media-1.api-sports.io/basketball/teams/5784.png
-2022-12-03T20:30:00+00:00,louisiana monroe,champion christian tigers,46 - 101,W,home,1670099400,https://media-3.api-sports.io/basketball/teams/5784.png
+2022-11-08T01:00:00+00:00,louisiana monroe,texas a&m,54 - 87,L,away,1667869200,https://media-2.api-sports.io/basketball/teams/5784.png
+2022-11-11T00:30:00+00:00,louisiana monroe,dallas christian,59 - 111,W,home,1668126600,https://media-2.api-sports.io/basketball/teams/5784.png
+2022-11-15T00:30:00+00:00,louisiana monroe,central baptist,56 - 105,W,home,1668472200,https://media-1.api-sports.io/basketball/teams/5784.png
+2022-11-18T01:00:00+00:00,louisiana monroe,tcu,60 - 95,L,away,1668733200,https://media-3.api-sports.io/basketball/teams/5784.png
+2022-11-22T00:00:00+00:00,louisiana monroe,louisiana tech,58 - 79,L,away,1669075200,https://media-1.api-sports.io/basketball/teams/5784.png
+2022-11-25T19:30:00+00:00,louisiana monroe,nebraska o.,56 - 63,L,away,1669404600,https://media-3.api-sports.io/basketball/teams/5784.png
+2022-11-26T16:00:00+00:00,louisiana monroe,loyola maryland,65 - 64,L,home,1669478400,https://media-2.api-sports.io/basketball/teams/5784.png
+2022-11-29T00:00:00+00:00,louisiana monroe,tulane,60 - 75,L,away,1669680000,https://media-2.api-sports.io/basketball/teams/5784.png
+2022-12-03T20:30:00+00:00,louisiana monroe,champion christian tigers,46 - 101,W,home,1670099400,https://media-1.api-sports.io/basketball/teams/5784.png
 2022-12-10T21:30:00+00:00,louisiana monroe,northwestern st.,73 - 91,L,away,1670707800,https://media-3.api-sports.io/basketball/teams/5784.png
-2022-12-15T00:30:00+00:00,louisiana monroe,sam houston st.,79 - 53,L,home,1671064200,https://media-1.api-sports.io/basketball/teams/5784.png
+2022-12-15T00:30:00+00:00,louisiana monroe,sam houston st.,79 - 53,L,home,1671064200,https://media-2.api-sports.io/basketball/teams/5784.png
 2022-12-17T20:00:00+00:00,louisiana monroe,lamar,59 - 83,W,home,1671307200,https://media-3.api-sports.io/basketball/teams/5784.png
 2022-12-20T17:30:00+00:00,louisiana monroe,jacksonville,66 - 55,L,home,1671557400,https://media-1.api-sports.io/basketball/teams/5784.png
-2022-12-30T01:00:00+00:00,louisiana monroe,texas state,57 - 53,W,away,1672362000,https://media-1.api-sports.io/basketball/teams/5784.png
-2022-12-31T20:00:00+00:00,louisiana monroe,arkansas state,84 - 72,W,away,1672516800,https://media-3.api-sports.io/basketball/teams/5784.png
-2023-01-06T00:30:00+00:00,louisiana monroe,georgia state,58 - 66,W,home,1672965000,https://media-3.api-sports.io/basketball/teams/5784.png
+2022-12-30T01:00:00+00:00,louisiana monroe,texas state,57 - 53,W,away,1672362000,https://media-3.api-sports.io/basketball/teams/5784.png
+2022-12-31T20:00:00+00:00,louisiana monroe,arkansas state,84 - 72,W,away,1672516800,https://media-1.api-sports.io/basketball/teams/5784.png
+2023-01-06T00:30:00+00:00,louisiana monroe,georgia state,58 - 66,W,home,1672965000,https://media-1.api-sports.io/basketball/teams/5784.png
 2023-01-07T20:00:00+00:00,louisiana monroe,southern miss,65 - 60,L,home,1673121600,https://media-2.api-sports.io/basketball/teams/5784.png
-2023-01-13T00:30:00+00:00,louisiana monroe,louisiana lafayette,,,home,1673569800,https://media-2.api-sports.io/basketball/teams/5784.png
+2023-01-13T00:30:00+00:00,louisiana monroe,louisiana lafayette,,,home,1673569800,https://media-1.api-sports.io/basketball/teams/5784.png
 2023-01-14T20:00:00+00:00,louisiana monroe,texas state,,,home,1673726400,https://media-3.api-sports.io/basketball/teams/5784.png
 2023-01-20T00:00:00+00:00,louisiana monroe,georgia southern,,,away,1674172800,https://media-3.api-sports.io/basketball/teams/5784.png
-2023-01-21T22:00:00+00:00,louisiana monroe,troy,,,away,1674338400,https://media-3.api-sports.io/basketball/teams/5784.png
-2023-01-27T00:00:00+00:00,louisiana monroe,marshall,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/5784.png
+2023-01-21T22:00:00+00:00,louisiana monroe,troy,,,away,1674338400,https://media-2.api-sports.io/basketball/teams/5784.png
+2023-01-27T00:00:00+00:00,louisiana monroe,marshall,,,away,1674777600,https://media-3.api-sports.io/basketball/teams/5784.png
 2023-01-28T21:00:00+00:00,louisiana monroe,james madison,,,away,1674939600,https://media-1.api-sports.io/basketball/teams/5784.png
 2023-02-03T00:30:00+00:00,louisiana monroe,coastal carolina,,,home,1675384200,https://media-3.api-sports.io/basketball/teams/5784.png
-2023-02-04T20:00:00+00:00,louisiana monroe,south alabama,,,home,1675540800,https://media-1.api-sports.io/basketball/teams/5784.png
-2023-02-10T00:30:00+00:00,louisiana monroe,appalachian state,,,home,1675989000,https://media-2.api-sports.io/basketball/teams/5784.png
-2023-02-11T21:00:00+00:00,louisiana monroe,southern miss,,,away,1676149200,https://media-1.api-sports.io/basketball/teams/5784.png
-2023-02-17T01:00:00+00:00,louisiana monroe,louisiana lafayette,,,away,1676595600,https://media-1.api-sports.io/basketball/teams/5784.png
-2023-02-18T21:00:00+00:00,louisiana monroe,south alabama,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/5784.png
+2023-02-04T20:00:00+00:00,louisiana monroe,south alabama,,,home,1675540800,https://media-3.api-sports.io/basketball/teams/5784.png
+2023-02-10T00:30:00+00:00,louisiana monroe,appalachian state,,,home,1675989000,https://media-3.api-sports.io/basketball/teams/5784.png
+2023-02-11T20:30:00+00:00,louisiana monroe,southern miss,,,away,1676147400,https://media-3.api-sports.io/basketball/teams/5784.png
+2023-02-17T01:00:00+00:00,louisiana monroe,louisiana lafayette,,,away,1676595600,https://media-2.api-sports.io/basketball/teams/5784.png
+2023-02-18T21:00:00+00:00,louisiana monroe,south alabama,,,away,1676754000,https://media-2.api-sports.io/basketball/teams/5784.png
 2023-02-22T21:00:00+00:00,louisiana monroe,troy,None - None,tie,home,1677099600,https://media-3.api-sports.io/basketball/teams/236.png
-2023-02-24T21:00:00+00:00,louisiana monroe,arkansas state,None - None,tie,home,1677272400,https://media-2.api-sports.io/basketball/teams/236.png
+2023-02-24T21:00:00+00:00,louisiana monroe,arkansas state,None - None,tie,home,1677272400,https://media-3.api-sports.io/basketball/teams/236.png

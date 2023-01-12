@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-09T00:00:00+00:00,detroit,rochester (mich.),65 - 93,W,home,1667952000,https://media-1.api-sports.io/basketball/teams/1887.png
-2022-11-11T18:00:00+00:00,detroit,boston college,66 - 70,L,away,1668189600,https://media-3.api-sports.io/basketball/teams/1887.png
-2022-11-17T00:00:00+00:00,detroit,ohio,74 - 88,W,home,1668643200,https://media-3.api-sports.io/basketball/teams/1887.png
-2022-11-19T23:00:00+00:00,detroit,florida atlantic,55 - 76,L,away,1668898800,https://media-2.api-sports.io/basketball/teams/1887.png
-2022-11-21T17:00:00+00:00,detroit,bryant university,88 - 98,L,away,1669050000,https://media-3.api-sports.io/basketball/teams/1887.png
+2022-11-11T18:00:00+00:00,detroit,boston college,66 - 70,L,away,1668189600,https://media-1.api-sports.io/basketball/teams/1887.png
+2022-11-17T00:00:00+00:00,detroit,ohio,74 - 88,W,home,1668643200,https://media-2.api-sports.io/basketball/teams/1887.png
+2022-11-19T23:00:00+00:00,detroit,florida atlantic,55 - 76,L,away,1668898800,https://media-3.api-sports.io/basketball/teams/1887.png
+2022-11-21T17:00:00+00:00,detroit,bryant university,88 - 98,L,away,1669050000,https://media-1.api-sports.io/basketball/teams/1887.png
 2022-11-23T17:00:00+00:00,detroit,charlotte,49 - 70,W,home,1669222800,https://media-1.api-sports.io/basketball/teams/1887.png
-2022-11-25T21:00:00+00:00,detroit,washington state,54 - 96,L,away,1669410000,https://media-1.api-sports.io/basketball/teams/1887.png
-2022-12-02T00:00:00+00:00,detroit,ipfw,75 - 66,W,away,1669939200,https://media-2.api-sports.io/basketball/teams/1887.png
-2022-12-03T20:00:00+00:00,detroit,cleveland state,77 - 92,L,away,1670097600,https://media-3.api-sports.io/basketball/teams/1887.png
-2022-12-08T01:00:00+00:00,detroit,tulsa,76 - 72,W,away,1670461200,https://media-2.api-sports.io/basketball/teams/1887.png
+2022-11-25T21:00:00+00:00,detroit,washington state,54 - 96,L,away,1669410000,https://media-2.api-sports.io/basketball/teams/1887.png
+2022-12-02T00:00:00+00:00,detroit,ipfw,75 - 66,W,away,1669939200,https://media-1.api-sports.io/basketball/teams/1887.png
+2022-12-03T20:00:00+00:00,detroit,cleveland state,77 - 92,L,away,1670097600,https://media-2.api-sports.io/basketball/teams/1887.png
+2022-12-08T01:00:00+00:00,detroit,tulsa,76 - 72,W,away,1670461200,https://media-1.api-sports.io/basketball/teams/1887.png
 2022-12-10T19:00:00+00:00,detroit,charlotte,80 - 82,L,away,1670698800,https://media-2.api-sports.io/basketball/teams/1887.png
 2022-12-18T20:00:00+00:00,detroit,eastern michigan,77 - 79,L,away,1671393600,https://media-2.api-sports.io/basketball/teams/1887.png
 2022-12-22T00:00:00+00:00,detroit,cincinnati,54 - 72,L,away,1671667200,https://media-3.api-sports.io/basketball/teams/1887.png
-2022-12-30T00:00:00+00:00,detroit,wisc. green bay,59 - 76,W,home,1672358400,https://media-3.api-sports.io/basketball/teams/1887.png
-2022-12-31T17:00:00+00:00,detroit,wisc. milwaukee,84 - 81,L,home,1672506000,https://media-2.api-sports.io/basketball/teams/1887.png
-2023-01-07T00:00:00+00:00,detroit,wright state,85 - 90,L,away,1673049600,https://media-1.api-sports.io/basketball/teams/1887.png
+2022-12-30T00:00:00+00:00,detroit,wisc. green bay,59 - 76,W,home,1672358400,https://media-2.api-sports.io/basketball/teams/1887.png
+2022-12-31T17:00:00+00:00,detroit,wisc. milwaukee,84 - 81,L,home,1672506000,https://media-3.api-sports.io/basketball/teams/1887.png
+2023-01-07T00:00:00+00:00,detroit,wright state,85 - 90,L,away,1673049600,https://media-3.api-sports.io/basketball/teams/1887.png
 2023-01-08T19:00:00+00:00,detroit,northern kentucky,76 - 78,L,away,1673204400,https://media-2.api-sports.io/basketball/teams/1887.png
-2023-01-13T00:00:00+00:00,detroit,youngstown state,,,home,1673568000,https://media-2.api-sports.io/basketball/teams/1887.png
-2023-01-14T18:00:00+00:00,detroit,robert morris,,,home,1673719200,https://media-3.api-sports.io/basketball/teams/1887.png
-2023-01-21T17:00:00+00:00,detroit,iupui,,,away,1674320400,https://media-1.api-sports.io/basketball/teams/1887.png
+2023-01-13T00:00:00+00:00,detroit,youngstown state,,,home,1673568000,https://media-3.api-sports.io/basketball/teams/1887.png
+2023-01-14T18:00:00+00:00,detroit,robert morris,,,home,1673719200,https://media-2.api-sports.io/basketball/teams/1887.png
+2023-01-21T17:00:00+00:00,detroit,iupui,,,away,1674320400,https://media-2.api-sports.io/basketball/teams/1887.png
 2023-01-24T00:00:00+00:00,detroit,oakland,,,home,1674518400,https://media-3.api-sports.io/basketball/teams/1887.png
-2023-01-28T00:00:00+00:00,detroit,robert morris,,,away,1674864000,https://media-2.api-sports.io/basketball/teams/1887.png
-2023-01-29T19:00:00+00:00,detroit,youngstown state,,,away,1675018800,https://media-1.api-sports.io/basketball/teams/1887.png
+2023-01-28T00:00:00+00:00,detroit,robert morris,,,away,1674864000,https://media-3.api-sports.io/basketball/teams/1887.png
+2023-01-29T19:00:00+00:00,detroit,youngstown state,,,away,1675018800,https://media-2.api-sports.io/basketball/teams/1887.png
 2023-02-03T00:00:00+00:00,detroit,cleveland state,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/1887.png
-2023-02-04T18:00:00+00:00,detroit,ipfw,,,home,1675533600,https://media-3.api-sports.io/basketball/teams/1887.png
+2023-02-04T18:00:00+00:00,detroit,ipfw,,,home,1675533600,https://media-2.api-sports.io/basketball/teams/1887.png
 2023-02-10T01:00:00+00:00,detroit,wisc. milwaukee,,,away,1675990800,https://media-2.api-sports.io/basketball/teams/1887.png
-2023-02-12T00:00:00+00:00,detroit,wisc. green bay,,,away,1676160000,https://media-1.api-sports.io/basketball/teams/1887.png
+2023-02-12T00:00:00+00:00,detroit,wisc. green bay,,,away,1676160000,https://media-3.api-sports.io/basketball/teams/1887.png
 2023-02-18T00:00:00+00:00,detroit,oakland,,,away,1676678400,https://media-2.api-sports.io/basketball/teams/1887.png
 2023-02-19T21:00:00+00:00,detroit,iupui,None - None,tie,home,1676840400,https://media-3.api-sports.io/basketball/teams/1887.png
-2023-02-23T21:00:00+00:00,detroit,northern kentucky,None - None,tie,home,1677186000,https://media-1.api-sports.io/basketball/teams/1887.png
-2023-02-25T21:00:00+00:00,detroit,wright state,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/1887.png
+2023-02-23T21:00:00+00:00,detroit,northern kentucky,None - None,tie,home,1677186000,https://media-2.api-sports.io/basketball/teams/1887.png
+2023-02-25T21:00:00+00:00,detroit,wright state,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/1887.png

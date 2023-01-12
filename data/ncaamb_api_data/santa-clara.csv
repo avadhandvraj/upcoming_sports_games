@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T03:00:00+00:00,santa clara,east. washington,72 - 84,W,home,1667876400,https://media-3.api-sports.io/basketball/teams/2111.png
-2022-11-11T03:00:00+00:00,santa clara,georgia southern,62 - 78,W,home,1668135600,https://media-1.api-sports.io/basketball/teams/2111.png
-2022-11-15T02:00:00+00:00,santa clara,utah state,74 - 96,L,away,1668477600,https://media-2.api-sports.io/basketball/teams/2111.png
-2022-11-19T02:30:00+00:00,santa clara,depaul,61 - 69,W,home,1668825000,https://media-1.api-sports.io/basketball/teams/2111.png
-2022-11-21T00:00:00+00:00,santa clara,ucf knights,50 - 57,L,away,1668988800,https://media-1.api-sports.io/basketball/teams/2111.png
+2022-11-08T03:00:00+00:00,santa clara,east. washington,72 - 84,W,home,1667876400,https://media-1.api-sports.io/basketball/teams/2111.png
+2022-11-11T03:00:00+00:00,santa clara,georgia southern,62 - 78,W,home,1668135600,https://media-3.api-sports.io/basketball/teams/2111.png
+2022-11-15T02:00:00+00:00,santa clara,utah state,74 - 96,L,away,1668477600,https://media-3.api-sports.io/basketball/teams/2111.png
+2022-11-19T02:30:00+00:00,santa clara,depaul,61 - 69,W,home,1668825000,https://media-3.api-sports.io/basketball/teams/2111.png
+2022-11-21T00:00:00+00:00,santa clara,ucf knights,50 - 57,L,away,1668988800,https://media-3.api-sports.io/basketball/teams/2111.png
 2022-11-24T00:00:00+00:00,santa clara,menlo,51 - 64,W,home,1669248000,https://media-1.api-sports.io/basketball/teams/2111.png
-2022-11-27T04:59:00+00:00,santa clara,iona,76 - 86,W,home,1669525140,https://media-3.api-sports.io/basketball/teams/2111.png
-2022-11-30T21:00:00+00:00,santa clara,wyoming,85 - 89,W,home,1669842000,https://media-3.api-sports.io/basketball/teams/2111.png
-2022-12-03T22:00:00+00:00,santa clara,sacramento state,65 - 72,W,home,1670104800,https://media-3.api-sports.io/basketball/teams/2111.png
-2022-12-08T03:00:00+00:00,santa clara,new mexico state,65 - 66,W,home,1670468400,https://media-3.api-sports.io/basketball/teams/2111.png
+2022-11-27T04:59:00+00:00,santa clara,iona,76 - 86,W,home,1669525140,https://media-2.api-sports.io/basketball/teams/2111.png
+2022-11-30T21:00:00+00:00,santa clara,wyoming,85 - 89,W,home,1669842000,https://media-2.api-sports.io/basketball/teams/2111.png
+2022-12-03T22:00:00+00:00,santa clara,sacramento state,65 - 72,W,home,1670104800,https://media-2.api-sports.io/basketball/teams/2111.png
+2022-12-08T03:00:00+00:00,santa clara,new mexico state,65 - 66,W,home,1670468400,https://media-2.api-sports.io/basketball/teams/2111.png
 2022-12-10T22:00:00+00:00,santa clara,san jose state,75 - 64,L,home,1670709600,https://media-1.api-sports.io/basketball/teams/2111.png
 2022-12-14T03:00:00+00:00,santa clara,portland state,75 - 78,W,home,1670986800,https://media-3.api-sports.io/basketball/teams/2111.png
 2022-12-16T03:00:00+00:00,santa clara,uc irvine,74 - 86,W,home,1671159600,https://media-3.api-sports.io/basketball/teams/2111.png
-2022-12-18T22:00:00+00:00,santa clara,california,62 - 71,W,home,1671400800,https://media-1.api-sports.io/basketball/teams/2111.png
-2022-12-22T22:00:00+00:00,santa clara,boise state,58 - 73,W,home,1671746400,https://media-2.api-sports.io/basketball/teams/2111.png
-2022-12-30T03:00:00+00:00,santa clara,san francisco,67 - 79,W,home,1672369200,https://media-3.api-sports.io/basketball/teams/2111.png
-2023-01-01T00:00:00+00:00,santa clara,st. marys (ca),67 - 64,L,home,1672531200,https://media-2.api-sports.io/basketball/teams/2111.png
-2023-01-06T03:00:00+00:00,santa clara,pepperdine,89 - 79,W,away,1672974000,https://media-2.api-sports.io/basketball/teams/2111.png
-2023-01-08T03:00:00+00:00,santa clara,gonzaga,81 - 76,L,home,1673146800,https://media-1.api-sports.io/basketball/teams/2111.png
+2022-12-18T22:00:00+00:00,santa clara,california,62 - 71,W,home,1671400800,https://media-3.api-sports.io/basketball/teams/2111.png
+2022-12-22T22:00:00+00:00,santa clara,boise state,58 - 73,W,home,1671746400,https://media-3.api-sports.io/basketball/teams/2111.png
+2022-12-30T03:00:00+00:00,santa clara,san francisco,67 - 79,W,home,1672369200,https://media-2.api-sports.io/basketball/teams/2111.png
+2023-01-01T00:00:00+00:00,santa clara,st. marys (ca),67 - 64,L,home,1672531200,https://media-1.api-sports.io/basketball/teams/2111.png
+2023-01-06T03:00:00+00:00,santa clara,pepperdine,89 - 79,W,away,1672974000,https://media-3.api-sports.io/basketball/teams/2111.png
+2023-01-08T03:00:00+00:00,santa clara,gonzaga,81 - 76,L,home,1673146800,https://media-3.api-sports.io/basketball/teams/2111.png
 2023-01-15T02:00:00+00:00,santa clara,pacific,,,away,1673748000,https://media-3.api-sports.io/basketball/teams/2111.png
 2023-01-20T04:00:00+00:00,santa clara,brigham young,,,home,1674187200,https://media-2.api-sports.io/basketball/teams/2111.png
 2023-01-22T01:00:00+00:00,santa clara,st. marys (ca),,,away,1674349200,https://media-2.api-sports.io/basketball/teams/2111.png
-2023-01-28T22:00:00+00:00,santa clara,pacific,,,home,1674943200,https://media-1.api-sports.io/basketball/teams/2111.png
-2023-02-03T04:00:00+00:00,santa clara,gonzaga,,,away,1675396800,https://media-3.api-sports.io/basketball/teams/2111.png
-2023-02-05T03:00:00+00:00,santa clara,san francisco,,,away,1675566000,https://media-1.api-sports.io/basketball/teams/2111.png
-2023-02-10T03:00:00+00:00,santa clara,san diego toreros,,,home,1675998000,https://media-2.api-sports.io/basketball/teams/2111.png
-2023-02-12T00:00:00+00:00,santa clara,loyola marymount,,,home,1676160000,https://media-2.api-sports.io/basketball/teams/2111.png
+2023-01-28T22:00:00+00:00,santa clara,pacific,,,home,1674943200,https://media-3.api-sports.io/basketball/teams/2111.png
+2023-02-03T04:00:00+00:00,santa clara,gonzaga,,,away,1675396800,https://media-1.api-sports.io/basketball/teams/2111.png
+2023-02-05T03:00:00+00:00,santa clara,san francisco,,,away,1675566000,https://media-3.api-sports.io/basketball/teams/2111.png
+2023-02-10T03:00:00+00:00,santa clara,san diego toreros,,,home,1675998000,https://media-1.api-sports.io/basketball/teams/2111.png
+2023-02-12T00:00:00+00:00,santa clara,loyola marymount,,,home,1676160000,https://media-3.api-sports.io/basketball/teams/2111.png
 2023-02-17T02:00:00+00:00,santa clara,brigham young,,,away,1676599200,https://media-3.api-sports.io/basketball/teams/2111.png
 2023-02-18T21:00:00+00:00,santa clara,portland,None - None,tie,away,1676754000,https://media-2.api-sports.io/basketball/teams/2111.png
-2023-02-23T21:00:00+00:00,santa clara,pepperdine,None - None,tie,home,1677186000,https://media-2.api-sports.io/basketball/teams/2111.png
+2023-02-23T21:00:00+00:00,santa clara,pepperdine,None - None,tie,home,1677186000,https://media-3.api-sports.io/basketball/teams/2111.png
 2023-02-25T21:00:00+00:00,santa clara,san diego toreros,None - None,tie,away,1677358800,https://media-2.api-sports.io/basketball/teams/2111.png

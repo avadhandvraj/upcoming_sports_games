@@ -1,13 +1,13 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-09-02,michigan state,western michigan,13 - 35,W,home,1662159600,https://media-2.api-sports.io/american-football/teams/92.png
-2022-09-10,michigan state,akron,0 - 52,W,home,1662840000,https://media-2.api-sports.io/american-football/teams/92.png
+2022-09-02,michigan state,western michigan,13 - 35,W,home,1662159600,https://media-1.api-sports.io/american-football/teams/92.png
+2022-09-10,michigan state,akron,0 - 52,W,home,1662840000,https://media-3.api-sports.io/american-football/teams/92.png
 2022-09-17,michigan state,washington,28 - 39,L,away,1663457400,https://media-3.api-sports.io/american-football/teams/92.png
 2022-09-24,michigan state,minnesota,34 - 7,L,home,1664047800,https://media-2.api-sports.io/american-football/teams/92.png
-2022-10-01,michigan state,maryland,13 - 27,L,away,1664652600,https://media-3.api-sports.io/american-football/teams/92.png
-2022-10-08,michigan state,ohio state,49 - 20,L,home,1665259200,https://media-1.api-sports.io/american-football/teams/92.png
-2022-10-15,michigan state,wisconsin,28 - 34,W,home,1665864000,https://media-3.api-sports.io/american-football/teams/92.png
-2022-10-29,michigan state,michigan,7 - 29,L,away,1667086200,https://media-3.api-sports.io/american-football/teams/92.png
-2022-11-05,michigan state,illinois,23 - 15,W,away,1667676600,https://media-2.api-sports.io/american-football/teams/92.png
-2022-11-12,michigan state,rutgers,21 - 27,W,home,1668272400,https://media-1.api-sports.io/american-football/teams/92.png
-2022-11-19,michigan state,indiana,39 - 31,L,home,1668877200,https://media-3.api-sports.io/american-football/teams/92.png
-2022-11-26,michigan state,penn state,16 - 35,L,away,1669496400,https://media-1.api-sports.io/american-football/teams/92.png
+2022-10-01,michigan state,maryland,13 - 27,L,away,1664652600,https://media-2.api-sports.io/american-football/teams/92.png
+2022-10-08,michigan state,ohio state,49 - 20,L,home,1665259200,https://media-3.api-sports.io/american-football/teams/92.png
+2022-10-15,michigan state,wisconsin,28 - 34,W,home,1665864000,https://media-2.api-sports.io/american-football/teams/92.png
+2022-10-29,michigan state,michigan,7 - 29,L,away,1667086200,https://media-1.api-sports.io/american-football/teams/92.png
+2022-11-05,michigan state,illinois,23 - 15,W,away,1667676600,https://media-1.api-sports.io/american-football/teams/92.png
+2022-11-12,michigan state,rutgers,21 - 27,W,home,1668272400,https://media-3.api-sports.io/american-football/teams/92.png
+2022-11-19,michigan state,indiana,39 - 31,L,home,1668877200,https://media-1.api-sports.io/american-football/teams/92.png
+2022-11-26,michigan state,penn state,16 - 35,L,away,1669496400,https://media-3.api-sports.io/american-football/teams/92.png

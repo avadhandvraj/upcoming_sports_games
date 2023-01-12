@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Monday, August 15 10:30 AM",mallorca,athletic club,0 - 0,tie,away,1660577400,https://media-3.api-sports.io/football/teams/798.png
-"Saturday, August 20 12:30 PM",mallorca,real betis,2 - 1,L,home,1661016600,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, August 27 12:30 PM",mallorca,rayo vallecano,2 - 0,W,away,1661621400,https://media-1.api-sports.io/football/teams/798.png
-"Saturday, September 03 07:00 AM",mallorca,girona,1 - 1,tie,home,1662206400,https://media-3.api-sports.io/football/teams/798.png
-"Sunday, September 11 07:00 AM",mallorca,real madrid,1 - 4,L,away,1662897600,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, September 17 07:00 AM",mallorca,almeria,0 - 1,W,home,1663416000,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, October 01 02:00 PM",mallorca,barcelona,1 - 0,L,home,1664650800,https://media-1.api-sports.io/football/teams/798.png
-"Monday, October 10 02:00 PM",mallorca,elche,1 - 1,tie,away,1665428400,https://media-1.api-sports.io/football/teams/798.png
-"Saturday, October 15 11:30 AM",mallorca,sevilla,1 - 0,L,home,1665851400,https://media-2.api-sports.io/football/teams/798.png
-"Wednesday, October 19 01:00 PM",mallorca,real sociedad,0 - 1,L,away,1666202400,https://media-1.api-sports.io/football/teams/798.png
+"Monday, August 15 10:30 AM",mallorca,athletic club,0 - 0,tie,away,1660577400,https://media-1.api-sports.io/football/teams/798.png
+"Saturday, August 20 12:30 PM",mallorca,real betis,2 - 1,L,home,1661016600,https://media-1.api-sports.io/football/teams/798.png
+"Saturday, August 27 12:30 PM",mallorca,rayo vallecano,2 - 0,W,away,1661621400,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, September 03 07:00 AM",mallorca,girona,1 - 1,tie,home,1662206400,https://media-2.api-sports.io/football/teams/798.png
+"Sunday, September 11 07:00 AM",mallorca,real madrid,1 - 4,L,away,1662897600,https://media-1.api-sports.io/football/teams/798.png
+"Saturday, September 17 07:00 AM",mallorca,almeria,0 - 1,W,home,1663416000,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, October 01 02:00 PM",mallorca,barcelona,1 - 0,L,home,1664650800,https://media-2.api-sports.io/football/teams/798.png
+"Monday, October 10 02:00 PM",mallorca,elche,1 - 1,tie,away,1665428400,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, October 15 11:30 AM",mallorca,sevilla,1 - 0,L,home,1665851400,https://media-3.api-sports.io/football/teams/798.png
+"Wednesday, October 19 01:00 PM",mallorca,real sociedad,0 - 1,L,away,1666202400,https://media-2.api-sports.io/football/teams/798.png
 "Saturday, October 22 11:30 AM",mallorca,valencia,2 - 1,W,away,1666456200,https://media-3.api-sports.io/football/teams/798.png
 "Friday, October 28 02:00 PM",mallorca,espanyol,1 - 1,tie,home,1666983600,https://media-1.api-sports.io/football/teams/798.png
-"Sunday, November 06 11:30 AM",mallorca,villarreal,2 - 0,W,away,1667755800,https://media-1.api-sports.io/football/teams/798.png
+"Sunday, November 06 11:30 AM",mallorca,villarreal,2 - 0,W,away,1667755800,https://media-3.api-sports.io/football/teams/798.png
 "Wednesday, November 09 02:30 PM",mallorca,atletico madrid,0 - 1,W,home,1668025800,https://media-3.api-sports.io/football/teams/798.png
-"Friday, December 30 10:00 AM",mallorca,getafe,0 - 2,L,away,1672416000,https://media-1.api-sports.io/football/teams/798.png
-"Saturday, January 07 11:30 AM",mallorca,valladolid,0 - 1,W,home,1673112600,https://media-3.api-sports.io/football/teams/798.png
-"Saturday, January 14 11:30 AM",mallorca,osasuna,,,away,1673717400,https://media-2.api-sports.io/football/teams/798.png
-"Friday, January 20 02:00 PM",mallorca,celta vigo,,,home,1674244800,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, January 28 06:00 PM",mallorca,cadiz,,,away,1674950400,https://media-1.api-sports.io/football/teams/798.png
-"Saturday, February 04 06:00 PM",mallorca,real madrid,,,home,1675555200,https://media-1.api-sports.io/football/teams/798.png
+"Friday, December 30 10:00 AM",mallorca,getafe,0 - 2,L,away,1672416000,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, January 07 11:30 AM",mallorca,valladolid,0 - 1,W,home,1673112600,https://media-2.api-sports.io/football/teams/798.png
+"Saturday, January 14 11:30 AM",mallorca,osasuna,,,away,1673717400,https://media-1.api-sports.io/football/teams/798.png
+"Friday, January 20 02:00 PM",mallorca,celta vigo,,,home,1674244800,https://media-1.api-sports.io/football/teams/798.png
+"Saturday, January 28 06:00 PM",mallorca,cadiz,,,away,1674950400,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, February 04 06:00 PM",mallorca,real madrid,,,home,1675555200,https://media-3.api-sports.io/football/teams/798.png
 "Saturday, February 11 06:00 PM",mallorca,sevilla,,,away,1676160000,https://media-3.api-sports.io/football/teams/798.png
 "Saturday, February 18 06:00 PM",mallorca,villarreal,,,home,1676764800,https://media-3.api-sports.io/football/teams/798.png
-"Saturday, February 25 06:00 PM",mallorca,espanyol,,,away,1677369600,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, March 04 06:00 PM",mallorca,elche,,,home,1677974400,https://media-3.api-sports.io/football/teams/798.png
-"Saturday, March 11 06:00 PM",mallorca,real sociedad,,,home,1678579200,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, February 25 06:00 PM",mallorca,espanyol,,,away,1677369600,https://media-1.api-sports.io/football/teams/798.png
+"Saturday, March 04 06:00 PM",mallorca,elche,,,home,1677974400,https://media-2.api-sports.io/football/teams/798.png
+"Saturday, March 11 06:00 PM",mallorca,real sociedad,,,home,1678579200,https://media-2.api-sports.io/football/teams/798.png
 "Saturday, March 18 07:00 PM",mallorca,real betis,,,away,1679184000,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, April 01 07:00 PM",mallorca,osasuna,,,home,1680393600,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, April 01 07:00 PM",mallorca,osasuna,,,home,1680393600,https://media-2.api-sports.io/football/teams/798.png
 "Saturday, April 08 07:00 PM",mallorca,valladolid,,,away,1680998400,https://media-2.api-sports.io/football/teams/798.png
 "Saturday, April 15 07:00 PM",mallorca,celta vigo,,,away,1681603200,https://media-2.api-sports.io/football/teams/798.png
 "Saturday, April 22 07:00 PM",mallorca,getafe,,,home,1682208000,https://media-2.api-sports.io/football/teams/798.png
 "Tuesday, April 25 07:00 PM",mallorca,atletico madrid,,,away,1682467200,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, April 29 07:00 PM",mallorca,athletic club,,,home,1682812800,https://media-1.api-sports.io/football/teams/798.png
+"Saturday, April 29 07:00 PM",mallorca,athletic club,,,home,1682812800,https://media-3.api-sports.io/football/teams/798.png
 "Tuesday, May 02 07:00 PM",mallorca,girona,,,away,1683072000,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, May 13 07:00 PM",mallorca,cadiz,,,home,1684022400,https://media-1.api-sports.io/football/teams/798.png
-"Saturday, May 20 07:00 PM",mallorca,almeria,,,away,1684627200,https://media-1.api-sports.io/football/teams/798.png
-"Tuesday, May 23 07:00 PM",mallorca,valencia,,,home,1684886400,https://media-1.api-sports.io/football/teams/798.png
-"Saturday, May 27 07:00 PM",mallorca,barcelona,,,away,1685232000,https://media-2.api-sports.io/football/teams/798.png
-"Saturday, June 03 07:00 PM",mallorca,rayo vallecano,,,home,1685836800,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, May 13 07:00 PM",mallorca,cadiz,,,home,1684022400,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, May 20 07:00 PM",mallorca,almeria,,,away,1684627200,https://media-2.api-sports.io/football/teams/798.png
+"Tuesday, May 23 07:00 PM",mallorca,valencia,,,home,1684886400,https://media-3.api-sports.io/football/teams/798.png
+"Saturday, May 27 07:00 PM",mallorca,barcelona,,,away,1685232000,https://media-1.api-sports.io/football/teams/798.png
+"Saturday, June 03 07:00 PM",mallorca,rayo vallecano,,,home,1685836800,https://media-1.api-sports.io/football/teams/798.png

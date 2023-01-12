@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:30:00+00:00,louisiana lafayette,centenary louisiana,55 - 106,W,home,1667871000,https://media-3.api-sports.io/basketball/teams/5783.png
-2022-11-11T23:00:00+00:00,louisiana lafayette,harvard,75 - 61,W,away,1668207600,https://media-3.api-sports.io/basketball/teams/5783.png
-2022-11-13T21:30:00+00:00,louisiana lafayette,east tennessee st,81 - 77,W,away,1668375000,https://media-2.api-sports.io/basketball/teams/5783.png
-2022-11-18T01:00:00+00:00,louisiana lafayette,louisiana tech,88 - 94,W,home,1668733200,https://media-3.api-sports.io/basketball/teams/5783.png
+2022-11-08T01:30:00+00:00,louisiana lafayette,centenary louisiana,55 - 106,W,home,1667871000,https://media-2.api-sports.io/basketball/teams/5783.png
+2022-11-11T23:00:00+00:00,louisiana lafayette,harvard,75 - 61,W,away,1668207600,https://media-1.api-sports.io/basketball/teams/5783.png
+2022-11-13T21:30:00+00:00,louisiana lafayette,east tennessee st,81 - 77,W,away,1668375000,https://media-1.api-sports.io/basketball/teams/5783.png
+2022-11-18T01:00:00+00:00,louisiana lafayette,louisiana tech,88 - 94,W,home,1668733200,https://media-1.api-sports.io/basketball/teams/5783.png
 2022-11-23T01:30:00+00:00,louisiana lafayette,smu mustangs,76 - 72,W,away,1669167000,https://media-2.api-sports.io/basketball/teams/5783.png
 2022-11-26T23:00:00+00:00,louisiana lafayette,drake,64 - 76,L,away,1669503600,https://media-1.api-sports.io/basketball/teams/5783.png
 2022-11-30T01:00:00+00:00,louisiana lafayette,loyola no,70 - 104,W,home,1669770000,https://media-1.api-sports.io/basketball/teams/5783.png
-2022-12-03T22:00:00+00:00,louisiana lafayette,new orleans,78 - 77,W,away,1670104800,https://media-1.api-sports.io/basketball/teams/5783.png
-2022-12-11T01:00:00+00:00,louisiana lafayette,samford,58 - 75,W,home,1670720400,https://media-2.api-sports.io/basketball/teams/5783.png
-2022-12-13T01:00:00+00:00,louisiana lafayette,louisiana christian,63 - 98,W,home,1670893200,https://media-1.api-sports.io/basketball/teams/5783.png
-2022-12-16T01:00:00+00:00,louisiana lafayette,mcneese state,78 - 70,W,away,1671152400,https://media-2.api-sports.io/basketball/teams/5783.png
+2022-12-03T22:00:00+00:00,louisiana lafayette,new orleans,78 - 77,W,away,1670104800,https://media-3.api-sports.io/basketball/teams/5783.png
+2022-12-11T01:00:00+00:00,louisiana lafayette,samford,58 - 75,W,home,1670720400,https://media-1.api-sports.io/basketball/teams/5783.png
+2022-12-13T01:00:00+00:00,louisiana lafayette,louisiana christian,63 - 98,W,home,1670893200,https://media-2.api-sports.io/basketball/teams/5783.png
+2022-12-16T01:00:00+00:00,louisiana lafayette,mcneese state,78 - 70,W,away,1671152400,https://media-3.api-sports.io/basketball/teams/5783.png
 2022-12-22T01:00:00+00:00,louisiana lafayette,texas,72 - 100,L,away,1671670800,https://media-2.api-sports.io/basketball/teams/5783.png
-2022-12-30T00:00:00+00:00,louisiana lafayette,coastal carolina,76 - 77,L,away,1672358400,https://media-2.api-sports.io/basketball/teams/5783.png
+2022-12-30T00:00:00+00:00,louisiana lafayette,coastal carolina,76 - 77,L,away,1672358400,https://media-3.api-sports.io/basketball/teams/5783.png
 2022-12-31T19:00:00+00:00,louisiana lafayette,old dominion,66 - 70,L,away,1672513200,https://media-2.api-sports.io/basketball/teams/5783.png
 2023-01-06T01:00:00+00:00,louisiana lafayette,southern miss,61 - 75,W,home,1672966800,https://media-2.api-sports.io/basketball/teams/5783.png
-2023-01-08T01:00:00+00:00,louisiana lafayette,georgia state,70 - 78,W,home,1673139600,https://media-3.api-sports.io/basketball/teams/5783.png
-2023-01-13T00:30:00+00:00,louisiana lafayette,louisiana monroe,,,away,1673569800,https://media-1.api-sports.io/basketball/teams/5783.png
-2023-01-14T21:00:00+00:00,louisiana lafayette,south alabama,,,away,1673730000,https://media-2.api-sports.io/basketball/teams/5783.png
+2023-01-08T01:00:00+00:00,louisiana lafayette,georgia state,70 - 78,W,home,1673139600,https://media-1.api-sports.io/basketball/teams/5783.png
+2023-01-13T00:30:00+00:00,louisiana lafayette,louisiana monroe,,,away,1673569800,https://media-2.api-sports.io/basketball/teams/5783.png
+2023-01-14T21:00:00+00:00,louisiana lafayette,south alabama,,,away,1673730000,https://media-1.api-sports.io/basketball/teams/5783.png
 2023-01-20T01:00:00+00:00,louisiana lafayette,arkansas state,,,away,1674176400,https://media-2.api-sports.io/basketball/teams/5783.png
-2023-01-21T22:00:00+00:00,louisiana lafayette,texas state,,,away,1674338400,https://media-3.api-sports.io/basketball/teams/5783.png
-2023-01-27T01:00:00+00:00,louisiana lafayette,troy,,,home,1674781200,https://media-2.api-sports.io/basketball/teams/5783.png
-2023-01-29T01:00:00+00:00,louisiana lafayette,georgia southern,,,home,1674954000,https://media-2.api-sports.io/basketball/teams/5783.png
+2023-01-21T22:00:00+00:00,louisiana lafayette,texas state,,,away,1674338400,https://media-2.api-sports.io/basketball/teams/5783.png
+2023-01-27T01:00:00+00:00,louisiana lafayette,troy,,,home,1674781200,https://media-3.api-sports.io/basketball/teams/5783.png
+2023-01-29T01:00:00+00:00,louisiana lafayette,georgia southern,,,home,1674954000,https://media-3.api-sports.io/basketball/teams/5783.png
 2023-02-03T01:30:00+00:00,louisiana lafayette,texas state,,,home,1675387800,https://media-1.api-sports.io/basketball/teams/5783.png
 2023-02-05T01:00:00+00:00,louisiana lafayette,marshall,,,home,1675558800,https://media-2.api-sports.io/basketball/teams/5783.png
-2023-02-10T01:30:00+00:00,louisiana lafayette,southern miss,,,away,1675992600,https://media-1.api-sports.io/basketball/teams/5783.png
-2023-02-11T22:00:00+00:00,louisiana lafayette,troy,,,away,1676152800,https://media-2.api-sports.io/basketball/teams/5783.png
+2023-02-10T01:30:00+00:00,louisiana lafayette,southern miss,,,away,1675992600,https://media-2.api-sports.io/basketball/teams/5783.png
+2023-02-11T22:00:00+00:00,louisiana lafayette,troy,,,away,1676152800,https://media-3.api-sports.io/basketball/teams/5783.png
 2023-02-17T01:00:00+00:00,louisiana lafayette,louisiana monroe,,,home,1676595600,https://media-2.api-sports.io/basketball/teams/5783.png
-2023-02-18T21:00:00+00:00,louisiana lafayette,james madison,None - None,tie,away,1676754000,https://media-3.api-sports.io/basketball/teams/1975.png
+2023-02-18T21:00:00+00:00,louisiana lafayette,james madison,None - None,tie,away,1676754000,https://media-1.api-sports.io/basketball/teams/1975.png
 2023-02-22T21:00:00+00:00,louisiana lafayette,arkansas state,None - None,tie,home,1677099600,https://media-3.api-sports.io/basketball/teams/1975.png
-2023-02-24T21:00:00+00:00,louisiana lafayette,south alabama,None - None,tie,home,1677272400,https://media-1.api-sports.io/basketball/teams/1975.png
+2023-02-24T21:00:00+00:00,louisiana lafayette,south alabama,None - None,tie,home,1677272400,https://media-2.api-sports.io/basketball/teams/1975.png

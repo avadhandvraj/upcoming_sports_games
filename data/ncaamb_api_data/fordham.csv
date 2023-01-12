@@ -1,27 +1,27 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,fordham,dartmouth,74 - 88,W,home,1667867400,https://media-2.api-sports.io/basketball/teams/1916.png
-2022-11-12T01:00:00+00:00,fordham,arkansas,48 - 74,L,away,1668214800,https://media-3.api-sports.io/basketball/teams/1916.png
+2022-11-08T00:30:00+00:00,fordham,dartmouth,74 - 88,W,home,1667867400,https://media-1.api-sports.io/basketball/teams/1916.png
+2022-11-12T01:00:00+00:00,fordham,arkansas,48 - 74,L,away,1668214800,https://media-2.api-sports.io/basketball/teams/1916.png
 2022-11-16T00:00:00+00:00,fordham,new hampshire,61 - 79,W,home,1668556800,https://media-1.api-sports.io/basketball/teams/1916.png
-2022-11-19T22:00:00+00:00,fordham,illinois (chi.),65 - 79,W,home,1668895200,https://media-2.api-sports.io/basketball/teams/1916.png
-2022-11-22T00:00:00+00:00,fordham,holy cross,53 - 67,W,home,1669075200,https://media-3.api-sports.io/basketball/teams/1916.png
-2022-11-23T00:00:00+00:00,fordham,stonehill,60 - 71,W,home,1669161600,https://media-2.api-sports.io/basketball/teams/1916.png
-2022-11-27T18:30:00+00:00,fordham,harvard,60 - 68,W,home,1669573800,https://media-3.api-sports.io/basketball/teams/1916.png
+2022-11-19T22:00:00+00:00,fordham,illinois (chi.),65 - 79,W,home,1668895200,https://media-1.api-sports.io/basketball/teams/1916.png
+2022-11-22T00:00:00+00:00,fordham,holy cross,53 - 67,W,home,1669075200,https://media-1.api-sports.io/basketball/teams/1916.png
+2022-11-23T00:00:00+00:00,fordham,stonehill,60 - 71,W,home,1669161600,https://media-3.api-sports.io/basketball/teams/1916.png
+2022-11-27T18:30:00+00:00,fordham,harvard,60 - 68,W,home,1669573800,https://media-2.api-sports.io/basketball/teams/1916.png
 2022-12-01T00:30:00+00:00,fordham,maine black bears,67 - 72,W,home,1669854600,https://media-1.api-sports.io/basketball/teams/1916.png
-2022-12-03T16:30:00+00:00,fordham,tulane,95 - 90,W,away,1670085000,https://media-1.api-sports.io/basketball/teams/1916.png
+2022-12-03T16:30:00+00:00,fordham,tulane,95 - 90,W,away,1670085000,https://media-2.api-sports.io/basketball/teams/1916.png
 2022-12-07T00:00:00+00:00,fordham,wagner,59 - 72,W,home,1670371200,https://media-2.api-sports.io/basketball/teams/1916.png
-2022-12-10T00:00:00+00:00,fordham,binghamton,62 - 77,W,home,1670630400,https://media-3.api-sports.io/basketball/teams/1916.png
-2022-12-11T18:00:00+00:00,fordham,central connecticut state,77 - 90,W,home,1670781600,https://media-1.api-sports.io/basketball/teams/1916.png
+2022-12-10T00:00:00+00:00,fordham,binghamton,62 - 77,W,home,1670630400,https://media-1.api-sports.io/basketball/teams/1916.png
+2022-12-11T18:00:00+00:00,fordham,central connecticut state,77 - 90,W,home,1670781600,https://media-2.api-sports.io/basketball/teams/1916.png
 2022-12-22T17:00:00+00:00,fordham,vmi,77 - 80,W,home,1671728400,https://media-3.api-sports.io/basketball/teams/1916.png
 2022-12-29T00:00:00+00:00,fordham,davidson,57 - 43,L,home,1672272000,https://media-3.api-sports.io/basketball/teams/1916.png
-2023-01-05T00:00:00+00:00,fordham,rhode island,79 - 82,L,away,1672876800,https://media-2.api-sports.io/basketball/teams/1916.png
+2023-01-05T00:00:00+00:00,fordham,rhode island,79 - 82,L,away,1672876800,https://media-3.api-sports.io/basketball/teams/1916.png
 2023-01-07T19:00:00+00:00,fordham,saint josephs,54 - 66,W,home,1673118000,https://media-2.api-sports.io/basketball/teams/1916.png
-2023-01-11T00:00:00+00:00,fordham,dayton,,,home,1673395200,https://media-2.api-sports.io/basketball/teams/1916.png
-2023-01-14T20:00:00+00:00,fordham,la salle,,,away,1673726400,https://media-2.api-sports.io/basketball/teams/1916.png
+2023-01-11T00:00:00+00:00,fordham,dayton,82 - 58,L,home,1673395200,https://media-1.api-sports.io/basketball/teams/1916.png
+2023-01-14T20:00:00+00:00,fordham,la salle,,,away,1673726400,https://media-3.api-sports.io/basketball/teams/1916.png
 2023-01-21T19:00:00+00:00,fordham,duquesne,,,away,1674327600,https://media-2.api-sports.io/basketball/teams/1916.png
-2023-01-26T00:00:00+00:00,fordham,st. bonaventure,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/1916.png
-2023-01-28T19:00:00+00:00,fordham,george washington,,,home,1674932400,https://media-3.api-sports.io/basketball/teams/1916.png
-2023-02-01T00:00:00+00:00,fordham,st. louis,,,home,1675209600,https://media-3.api-sports.io/basketball/teams/1916.png
-2023-02-05T17:00:00+00:00,fordham,richmond,,,away,1675616400,https://media-1.api-sports.io/basketball/teams/1916.png
+2023-01-26T00:00:00+00:00,fordham,st. bonaventure,,,away,1674691200,https://media-1.api-sports.io/basketball/teams/1916.png
+2023-01-28T19:00:00+00:00,fordham,george washington,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/1916.png
+2023-02-01T00:00:00+00:00,fordham,st. louis,,,home,1675209600,https://media-1.api-sports.io/basketball/teams/1916.png
+2023-02-05T17:00:00+00:00,fordham,richmond,,,away,1675616400,https://media-2.api-sports.io/basketball/teams/1916.png
 2023-02-09T00:00:00+00:00,fordham,umass,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/1916.png
 2023-02-11T19:30:00+00:00,fordham,davidson,,,away,1676143800,https://media-2.api-sports.io/basketball/teams/1916.png
 2023-02-16T00:00:00+00:00,fordham,st. bonaventure,,,home,1676505600,https://media-2.api-sports.io/basketball/teams/1916.png

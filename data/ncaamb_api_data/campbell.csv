@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T01:00:00+00:00,campbell,st. augustine,62 - 79,W,home,1667869200,https://media-3.api-sports.io/basketball/teams/179.png
+2022-11-08T01:00:00+00:00,campbell,st. augustine,62 - 79,W,home,1667869200,https://media-2.api-sports.io/basketball/teams/179.png
 2022-11-12T00:00:00+00:00,campbell,nc state,67 - 73,L,away,1668211200,https://media-2.api-sports.io/basketball/teams/179.png
-2022-11-19T00:00:00+00:00,campbell,appalachian state,63 - 58,W,away,1668816000,https://media-3.api-sports.io/basketball/teams/179.png
-2022-11-19T21:00:00+00:00,campbell,se louisiana,69 - 70,L,away,1668891600,https://media-2.api-sports.io/basketball/teams/179.png
-2022-11-20T17:00:00+00:00,campbell,kennesaw state,61 - 85,W,home,1668963600,https://media-3.api-sports.io/basketball/teams/179.png
+2022-11-19T00:00:00+00:00,campbell,appalachian state,63 - 58,W,away,1668816000,https://media-2.api-sports.io/basketball/teams/179.png
+2022-11-19T21:00:00+00:00,campbell,se louisiana,69 - 70,L,away,1668891600,https://media-1.api-sports.io/basketball/teams/179.png
+2022-11-20T17:00:00+00:00,campbell,kennesaw state,61 - 85,W,home,1668963600,https://media-2.api-sports.io/basketball/teams/179.png
 2022-11-23T21:00:00+00:00,campbell,jacksonville,64 - 43,L,home,1669237200,https://media-3.api-sports.io/basketball/teams/179.png
-2022-11-27T18:00:00+00:00,campbell,stetson,85 - 87,W,home,1669572000,https://media-1.api-sports.io/basketball/teams/179.png
-2022-12-03T00:00:00+00:00,campbell,east carolina,69 - 79,L,away,1670025600,https://media-2.api-sports.io/basketball/teams/179.png
-2022-12-08T01:00:00+00:00,campbell,evansville,66 - 72,L,away,1670461200,https://media-2.api-sports.io/basketball/teams/179.png
+2022-11-27T18:00:00+00:00,campbell,stetson,85 - 87,W,home,1669572000,https://media-2.api-sports.io/basketball/teams/179.png
+2022-12-03T00:00:00+00:00,campbell,east carolina,69 - 79,L,away,1670025600,https://media-1.api-sports.io/basketball/teams/179.png
+2022-12-08T01:00:00+00:00,campbell,evansville,66 - 72,L,away,1670461200,https://media-1.api-sports.io/basketball/teams/179.png
 2022-12-14T23:00:00+00:00,campbell,william peace,58 - 97,W,home,1671058800,https://media-2.api-sports.io/basketball/teams/179.png
 2022-12-17T20:00:00+00:00,campbell,georgia southern,53 - 54,L,away,1671307200,https://media-3.api-sports.io/basketball/teams/179.png
 2022-12-21T19:00:00+00:00,campbell,nc wilmington,74 - 66,L,home,1671649200,https://media-2.api-sports.io/basketball/teams/179.png
 2022-12-29T22:00:00+00:00,campbell,presbyterian,72 - 82,L,away,1672351200,https://media-2.api-sports.io/basketball/teams/179.png
-2022-12-31T19:00:00+00:00,campbell,longwood,67 - 42,L,home,1672513200,https://media-3.api-sports.io/basketball/teams/179.png
-2023-01-05T00:00:00+00:00,campbell,gardner webb,58 - 63,W,home,1672876800,https://media-2.api-sports.io/basketball/teams/179.png
-2023-01-07T19:00:00+00:00,campbell,unc asheville,55 - 58,L,away,1673118000,https://media-3.api-sports.io/basketball/teams/179.png
-2023-01-12T00:00:00+00:00,campbell,usc upstate,,,away,1673481600,https://media-1.api-sports.io/basketball/teams/179.png
+2022-12-31T19:00:00+00:00,campbell,longwood,67 - 42,L,home,1672513200,https://media-1.api-sports.io/basketball/teams/179.png
+2023-01-05T00:00:00+00:00,campbell,gardner webb,58 - 63,W,home,1672876800,https://media-1.api-sports.io/basketball/teams/179.png
+2023-01-07T19:00:00+00:00,campbell,unc asheville,55 - 58,L,away,1673118000,https://media-2.api-sports.io/basketball/teams/179.png
+2023-01-12T00:00:00+00:00,campbell,usc upstate,78 - 63,W,away,1673481600,https://media-2.api-sports.io/basketball/teams/179.png
 2023-01-14T19:00:00+00:00,campbell,winthrop,,,home,1673722800,https://media-1.api-sports.io/basketball/teams/179.png
 2023-01-19T00:00:00+00:00,campbell,radford,,,home,1674086400,https://media-3.api-sports.io/basketball/teams/179.png
 2023-01-21T22:30:00+00:00,campbell,charleston southern,,,away,1674340200,https://media-3.api-sports.io/basketball/teams/179.png
-2023-01-26T00:00:00+00:00,campbell,high point,,,away,1674691200,https://media-2.api-sports.io/basketball/teams/179.png
+2023-01-26T00:00:00+00:00,campbell,high point,,,away,1674691200,https://media-3.api-sports.io/basketball/teams/179.png
 2023-01-28T19:00:00+00:00,campbell,unc asheville,,,home,1674932400,https://media-1.api-sports.io/basketball/teams/179.png
-2023-02-02T00:00:00+00:00,campbell,usc upstate,,,home,1675296000,https://media-1.api-sports.io/basketball/teams/179.png
-2023-02-04T21:00:00+00:00,campbell,longwood,,,away,1675544400,https://media-1.api-sports.io/basketball/teams/179.png
-2023-02-09T00:00:00+00:00,campbell,high point,,,home,1675900800,https://media-2.api-sports.io/basketball/teams/179.png
-2023-02-11T19:00:00+00:00,campbell,gardner webb,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/179.png
+2023-02-02T00:00:00+00:00,campbell,usc upstate,,,home,1675296000,https://media-3.api-sports.io/basketball/teams/179.png
+2023-02-04T21:00:00+00:00,campbell,longwood,,,away,1675544400,https://media-2.api-sports.io/basketball/teams/179.png
+2023-02-09T00:00:00+00:00,campbell,high point,,,home,1675900800,https://media-1.api-sports.io/basketball/teams/179.png
+2023-02-11T19:00:00+00:00,campbell,gardner webb,,,away,1676142000,https://media-3.api-sports.io/basketball/teams/179.png
 2023-02-16T00:00:00+00:00,campbell,charleston southern,,,home,1676505600,https://media-3.api-sports.io/basketball/teams/179.png
 2023-02-18T19:00:00+00:00,campbell,presbyterian,,,home,1676746800,https://media-1.api-sports.io/basketball/teams/179.png

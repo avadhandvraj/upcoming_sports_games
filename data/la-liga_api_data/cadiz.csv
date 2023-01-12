@@ -1,39 +1,39 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Sunday, August 14 10:30 AM",cadiz,real sociedad,1 - 0,L,home,1660491000,https://media-3.api-sports.io/football/teams/724.png
-"Saturday, August 20 10:30 AM",cadiz,osasuna,0 - 2,L,away,1661009400,https://media-3.api-sports.io/football/teams/724.png
-"Monday, August 29 01:00 PM",cadiz,athletic club,4 - 0,L,home,1661796000,https://media-2.api-sports.io/football/teams/724.png
-"Friday, September 02 02:00 PM",cadiz,celta vigo,0 - 3,L,away,1662145200,https://media-1.api-sports.io/football/teams/724.png
-"Saturday, September 10 11:30 AM",cadiz,barcelona,4 - 0,L,home,1662827400,https://media-2.api-sports.io/football/teams/724.png
+"Sunday, August 14 10:30 AM",cadiz,real sociedad,1 - 0,L,home,1660491000,https://media-1.api-sports.io/football/teams/724.png
+"Saturday, August 20 10:30 AM",cadiz,osasuna,0 - 2,L,away,1661009400,https://media-2.api-sports.io/football/teams/724.png
+"Monday, August 29 01:00 PM",cadiz,athletic club,4 - 0,L,home,1661796000,https://media-1.api-sports.io/football/teams/724.png
+"Friday, September 02 02:00 PM",cadiz,celta vigo,0 - 3,L,away,1662145200,https://media-2.api-sports.io/football/teams/724.png
+"Saturday, September 10 11:30 AM",cadiz,barcelona,4 - 0,L,home,1662827400,https://media-1.api-sports.io/football/teams/724.png
 "Friday, September 16 02:00 PM",cadiz,valladolid,1 - 0,W,away,1663354800,https://media-2.api-sports.io/football/teams/724.png
 "Saturday, October 01 07:00 AM",cadiz,villarreal,0 - 0,tie,home,1664625600,https://media-3.api-sports.io/football/teams/724.png
-"Sunday, October 09 09:15 AM",cadiz,espanyol,2 - 2,tie,home,1665324900,https://media-2.api-sports.io/football/teams/724.png
-"Saturday, October 15 07:00 AM",cadiz,girona,1 - 1,tie,away,1665835200,https://media-1.api-sports.io/football/teams/724.png
+"Sunday, October 09 09:15 AM",cadiz,espanyol,2 - 2,tie,home,1665324900,https://media-3.api-sports.io/football/teams/724.png
+"Saturday, October 15 07:00 AM",cadiz,girona,1 - 1,tie,away,1665835200,https://media-2.api-sports.io/football/teams/724.png
 "Wednesday, October 19 12:00 PM",cadiz,real betis,0 - 0,tie,home,1666198800,https://media-3.api-sports.io/football/teams/724.png
-"Saturday, October 22 07:00 AM",cadiz,rayo vallecano,1 - 5,L,away,1666440000,https://media-2.api-sports.io/football/teams/724.png
-"Saturday, October 29 09:15 AM",cadiz,atletico madrid,2 - 3,W,home,1667052900,https://media-1.api-sports.io/football/teams/724.png
+"Saturday, October 22 07:00 AM",cadiz,rayo vallecano,1 - 5,L,away,1666440000,https://media-3.api-sports.io/football/teams/724.png
+"Saturday, October 29 09:15 AM",cadiz,atletico madrid,2 - 3,W,home,1667052900,https://media-2.api-sports.io/football/teams/724.png
 "Saturday, November 05 08:00 AM",cadiz,getafe,0 - 0,tie,away,1667653200,https://media-2.api-sports.io/football/teams/724.png
-"Thursday, November 10 02:30 PM",cadiz,real madrid,1 - 2,L,away,1668112200,https://media-1.api-sports.io/football/teams/724.png
+"Thursday, November 10 02:30 PM",cadiz,real madrid,1 - 2,L,away,1668112200,https://media-3.api-sports.io/football/teams/724.png
 "Friday, December 30 12:15 PM",cadiz,almeria,1 - 1,tie,home,1672424100,https://media-3.api-sports.io/football/teams/724.png
-"Friday, January 06 02:00 PM",cadiz,valencia,1 - 0,W,away,1673035200,https://media-2.api-sports.io/football/teams/724.png
-"Monday, January 16 02:00 PM",cadiz,elche,,,home,1673899200,https://media-1.api-sports.io/football/teams/724.png
-"Saturday, January 21 02:00 PM",cadiz,sevilla,,,away,1674331200,https://media-2.api-sports.io/football/teams/724.png
+"Friday, January 06 02:00 PM",cadiz,valencia,1 - 0,W,away,1673035200,https://media-3.api-sports.io/football/teams/724.png
+"Monday, January 16 02:00 PM",cadiz,elche,,,home,1673899200,https://media-2.api-sports.io/football/teams/724.png
+"Saturday, January 21 02:00 PM",cadiz,sevilla,,,away,1674331200,https://media-1.api-sports.io/football/teams/724.png
 "Saturday, January 28 06:00 PM",cadiz,mallorca,,,home,1674950400,https://media-3.api-sports.io/football/teams/724.png
-"Saturday, February 04 06:00 PM",cadiz,athletic club,,,away,1675555200,https://media-3.api-sports.io/football/teams/724.png
+"Saturday, February 04 06:00 PM",cadiz,athletic club,,,away,1675555200,https://media-1.api-sports.io/football/teams/724.png
 "Saturday, February 11 06:00 PM",cadiz,girona,,,home,1676160000,https://media-2.api-sports.io/football/teams/724.png
-"Saturday, February 18 06:00 PM",cadiz,barcelona,,,away,1676764800,https://media-3.api-sports.io/football/teams/724.png
-"Saturday, February 25 06:00 PM",cadiz,rayo vallecano,,,home,1677369600,https://media-1.api-sports.io/football/teams/724.png
+"Saturday, February 18 06:00 PM",cadiz,barcelona,,,away,1676764800,https://media-2.api-sports.io/football/teams/724.png
+"Saturday, February 25 06:00 PM",cadiz,rayo vallecano,,,home,1677369600,https://media-3.api-sports.io/football/teams/724.png
 "Saturday, March 04 06:00 PM",cadiz,real sociedad,,,away,1677974400,https://media-1.api-sports.io/football/teams/724.png
 "Saturday, March 11 06:00 PM",cadiz,getafe,,,home,1678579200,https://media-2.api-sports.io/football/teams/724.png
 "Saturday, March 18 07:00 PM",cadiz,almeria,,,away,1679184000,https://media-1.api-sports.io/football/teams/724.png
 "Saturday, April 01 07:00 PM",cadiz,sevilla,,,home,1680393600,https://media-2.api-sports.io/football/teams/724.png
-"Saturday, April 08 07:00 PM",cadiz,real betis,,,away,1680998400,https://media-3.api-sports.io/football/teams/724.png
-"Saturday, April 15 07:00 PM",cadiz,real madrid,,,home,1681603200,https://media-1.api-sports.io/football/teams/724.png
-"Saturday, April 22 07:00 PM",cadiz,espanyol,,,away,1682208000,https://media-2.api-sports.io/football/teams/724.png
-"Tuesday, April 25 07:00 PM",cadiz,osasuna,,,home,1682467200,https://media-1.api-sports.io/football/teams/724.png
-"Saturday, April 29 07:00 PM",cadiz,valencia,,,home,1682812800,https://media-1.api-sports.io/football/teams/724.png
-"Tuesday, May 02 07:00 PM",cadiz,atletico madrid,,,away,1683072000,https://media-3.api-sports.io/football/teams/724.png
-"Saturday, May 13 07:00 PM",cadiz,mallorca,,,away,1684022400,https://media-1.api-sports.io/football/teams/724.png
-"Saturday, May 20 07:00 PM",cadiz,valladolid,,,home,1684627200,https://media-2.api-sports.io/football/teams/724.png
-"Tuesday, May 23 07:00 PM",cadiz,villarreal,,,away,1684886400,https://media-1.api-sports.io/football/teams/724.png
-"Saturday, May 27 07:00 PM",cadiz,celta vigo,,,home,1685232000,https://media-1.api-sports.io/football/teams/724.png
-"Saturday, June 03 07:00 PM",cadiz,elche,,,away,1685836800,https://media-3.api-sports.io/football/teams/724.png
+"Saturday, April 08 07:00 PM",cadiz,real betis,,,away,1680998400,https://media-2.api-sports.io/football/teams/724.png
+"Saturday, April 15 07:00 PM",cadiz,real madrid,,,home,1681603200,https://media-2.api-sports.io/football/teams/724.png
+"Saturday, April 22 07:00 PM",cadiz,espanyol,,,away,1682208000,https://media-1.api-sports.io/football/teams/724.png
+"Tuesday, April 25 07:00 PM",cadiz,osasuna,,,home,1682467200,https://media-3.api-sports.io/football/teams/724.png
+"Saturday, April 29 07:00 PM",cadiz,valencia,,,home,1682812800,https://media-3.api-sports.io/football/teams/724.png
+"Tuesday, May 02 07:00 PM",cadiz,atletico madrid,,,away,1683072000,https://media-2.api-sports.io/football/teams/724.png
+"Saturday, May 13 07:00 PM",cadiz,mallorca,,,away,1684022400,https://media-3.api-sports.io/football/teams/724.png
+"Saturday, May 20 07:00 PM",cadiz,valladolid,,,home,1684627200,https://media-1.api-sports.io/football/teams/724.png
+"Tuesday, May 23 07:00 PM",cadiz,villarreal,,,away,1684886400,https://media-3.api-sports.io/football/teams/724.png
+"Saturday, May 27 07:00 PM",cadiz,celta vigo,,,home,1685232000,https://media-2.api-sports.io/football/teams/724.png
+"Saturday, June 03 07:00 PM",cadiz,elche,,,away,1685836800,https://media-1.api-sports.io/football/teams/724.png

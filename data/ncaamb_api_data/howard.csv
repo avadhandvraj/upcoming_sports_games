@@ -1,28 +1,28 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-07T23:30:00+00:00,howard,kentucky,63 - 95,L,away,1667863800,https://media-2.api-sports.io/basketball/teams/215.png
+2022-11-07T23:30:00+00:00,howard,kentucky,63 - 95,L,away,1667863800,https://media-1.api-sports.io/basketball/teams/215.png
 2022-11-10T00:00:00+00:00,howard,dist. of columbia,74 - 87,W,home,1668038400,https://media-1.api-sports.io/basketball/teams/215.png
 2022-11-11T23:00:00+00:00,howard,george washington,75 - 85,L,away,1668207600,https://media-1.api-sports.io/basketball/teams/215.png
 2022-11-13T17:00:00+00:00,howard,gallaudet univ.,56 - 108,W,home,1668358800,https://media-3.api-sports.io/basketball/teams/215.png
 2022-11-16T00:00:00+00:00,howard,james madison,95 - 69,L,home,1668556800,https://media-2.api-sports.io/basketball/teams/215.png
 2022-11-18T20:15:00+00:00,howard,wyoming,71 - 78,L,away,1668802500,https://media-1.api-sports.io/basketball/teams/215.png
-2022-11-19T20:15:00+00:00,howard,buffalo,59 - 63,W,home,1668888900,https://media-2.api-sports.io/basketball/teams/215.png
+2022-11-19T20:15:00+00:00,howard,buffalo,59 - 63,W,home,1668888900,https://media-3.api-sports.io/basketball/teams/215.png
 2022-11-21T20:15:00+00:00,howard,belmont,73 - 96,L,away,1669061700,https://media-2.api-sports.io/basketball/teams/215.png
-2022-11-26T20:30:00+00:00,howard,austin peay,56 - 55,W,away,1669494600,https://media-1.api-sports.io/basketball/teams/215.png
+2022-11-26T20:30:00+00:00,howard,austin peay,56 - 55,W,away,1669494600,https://media-3.api-sports.io/basketball/teams/215.png
 2022-12-01T00:00:00+00:00,howard,yale,40 - 86,L,away,1669852800,https://media-3.api-sports.io/basketball/teams/215.png
-2022-12-03T22:00:00+00:00,howard,hampton,65 - 74,L,away,1670104800,https://media-1.api-sports.io/basketball/teams/215.png
-2022-12-12T00:00:00+00:00,howard,vcu rams,60 - 70,L,away,1670803200,https://media-3.api-sports.io/basketball/teams/215.png
-2022-12-14T00:00:00+00:00,howard,florida international,59 - 71,W,home,1670976000,https://media-1.api-sports.io/basketball/teams/215.png
+2022-12-03T22:00:00+00:00,howard,hampton,65 - 74,L,away,1670104800,https://media-3.api-sports.io/basketball/teams/215.png
+2022-12-12T00:00:00+00:00,howard,vcu rams,60 - 70,L,away,1670803200,https://media-1.api-sports.io/basketball/teams/215.png
+2022-12-14T00:00:00+00:00,howard,florida international,59 - 71,W,home,1670976000,https://media-2.api-sports.io/basketball/teams/215.png
 2022-12-18T17:00:00+00:00,howard,harvard,66 - 54,W,away,1671382800,https://media-2.api-sports.io/basketball/teams/215.png
-2022-12-21T19:00:00+00:00,howard,mount st. mary's,62 - 63,W,home,1671649200,https://media-1.api-sports.io/basketball/teams/215.png
-2022-12-29T19:00:00+00:00,howard,la salle,80 - 76,L,home,1672340400,https://media-3.api-sports.io/basketball/teams/215.png
+2022-12-21T19:00:00+00:00,howard,mount st. mary's,62 - 63,W,home,1671649200,https://media-3.api-sports.io/basketball/teams/215.png
+2022-12-29T19:00:00+00:00,howard,la salle,80 - 76,L,home,1672340400,https://media-2.api-sports.io/basketball/teams/215.png
 2023-01-07T21:00:00+00:00,howard,delaware state,64 - 84,W,home,1673125200,https://media-3.api-sports.io/basketball/teams/215.png
-2023-01-10T00:30:00+00:00,howard,md.-east. shore,None - None,tie,away,1673310600,https://media-1.api-sports.io/basketball/teams/215.png
+2023-01-10T00:30:00+00:00,howard,md.-east. shore,73 - 82,L,away,1673310600,https://media-3.api-sports.io/basketball/teams/215.png
 2023-01-14T21:00:00+00:00,howard,norfolk state,,,away,1673730000,https://media-3.api-sports.io/basketball/teams/215.png
-2023-01-16T21:00:00+00:00,howard,morehouse,,,home,1673902800,https://media-3.api-sports.io/basketball/teams/215.png
+2023-01-16T21:00:00+00:00,howard,morehouse,,,home,1673902800,https://media-2.api-sports.io/basketball/teams/215.png
 2023-01-21T21:00:00+00:00,howard,morgan state,,,home,1674334800,https://media-3.api-sports.io/basketball/teams/215.png
-2023-01-24T00:30:00+00:00,howard,coppin state,,,home,1674520200,https://media-2.api-sports.io/basketball/teams/215.png
-2023-01-28T23:00:00+00:00,howard,n. carolina central,,,home,1674946800,https://media-2.api-sports.io/basketball/teams/215.png
-2023-01-31T00:30:00+00:00,howard,south carolina st,,,home,1675125000,https://media-3.api-sports.io/basketball/teams/215.png
+2023-01-24T00:30:00+00:00,howard,coppin state,,,home,1674520200,https://media-1.api-sports.io/basketball/teams/215.png
+2023-01-28T23:00:00+00:00,howard,n. carolina central,,,home,1674946800,https://media-1.api-sports.io/basketball/teams/215.png
+2023-01-31T00:30:00+00:00,howard,south carolina st,,,home,1675125000,https://media-2.api-sports.io/basketball/teams/215.png
 2023-02-11T21:00:00+00:00,howard,delaware state,,,away,1676149200,https://media-3.api-sports.io/basketball/teams/215.png
-2023-02-14T00:30:00+00:00,howard,md.-east. shore,,,home,1676334600,https://media-1.api-sports.io/basketball/teams/215.png
-2023-02-18T21:00:00+00:00,howard,coppin state,,,away,1676754000,https://media-3.api-sports.io/basketball/teams/215.png
+2023-02-14T00:30:00+00:00,howard,md.-east. shore,,,home,1676334600,https://media-3.api-sports.io/basketball/teams/215.png
+2023-02-18T21:00:00+00:00,howard,coppin state,,,away,1676754000,https://media-1.api-sports.io/basketball/teams/215.png

@@ -1,29 +1,29 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T01:00:00+00:00,high point,pfeiffer falcons,71 - 109,W,home,1667869200,https://media-1.api-sports.io/basketball/teams/1934.png
-2022-11-12T21:00:00+00:00,high point,wofford,80 - 91,W,home,1668286800,https://media-1.api-sports.io/basketball/teams/1934.png
+2022-11-12T21:00:00+00:00,high point,wofford,80 - 91,W,home,1668286800,https://media-3.api-sports.io/basketball/teams/1934.png
 2022-11-16T00:00:00+00:00,high point,lees-mcrae,83 - 100,W,home,1668556800,https://media-3.api-sports.io/basketball/teams/1934.png
-2022-11-19T03:00:00+00:00,high point,unlv,68 - 78,L,away,1668826800,https://media-1.api-sports.io/basketball/teams/1934.png
+2022-11-19T03:00:00+00:00,high point,unlv,68 - 78,L,away,1668826800,https://media-3.api-sports.io/basketball/teams/1934.png
 2022-11-21T22:30:00+00:00,high point,central michigan,68 - 67,W,away,1669069800,https://media-3.api-sports.io/basketball/teams/1934.png
-2022-11-23T22:00:00+00:00,high point,tennessee state,77 - 72,W,away,1669240800,https://media-1.api-sports.io/basketball/teams/1934.png
-2022-12-01T00:00:00+00:00,high point,elon,70 - 84,W,home,1669852800,https://media-3.api-sports.io/basketball/teams/1934.png
+2022-11-23T22:00:00+00:00,high point,tennessee state,77 - 72,W,away,1669240800,https://media-2.api-sports.io/basketball/teams/1934.png
+2022-12-01T00:00:00+00:00,high point,elon,70 - 84,W,home,1669852800,https://media-2.api-sports.io/basketball/teams/1934.png
 2022-12-03T19:00:00+00:00,high point,north florida,88 - 93,W,home,1670094000,https://media-1.api-sports.io/basketball/teams/1934.png
-2022-12-07T00:00:00+00:00,high point,furman,85 - 82,W,away,1670371200,https://media-2.api-sports.io/basketball/teams/1934.png
-2022-12-10T00:00:00+00:00,high point,queens royals,87 - 79,L,home,1670630400,https://media-3.api-sports.io/basketball/teams/1934.png
-2022-12-18T19:00:00+00:00,high point,nc wilmington,82 - 85,L,away,1671390000,https://media-1.api-sports.io/basketball/teams/1934.png
-2022-12-21T23:00:00+00:00,high point,east carolina,49 - 60,L,away,1671663600,https://media-1.api-sports.io/basketball/teams/1934.png
-2022-12-29T20:00:00+00:00,high point,longwood,73 - 87,L,away,1672344000,https://media-2.api-sports.io/basketball/teams/1934.png
+2022-12-07T00:00:00+00:00,high point,furman,85 - 82,W,away,1670371200,https://media-1.api-sports.io/basketball/teams/1934.png
+2022-12-10T00:00:00+00:00,high point,queens royals,87 - 79,L,home,1670630400,https://media-1.api-sports.io/basketball/teams/1934.png
+2022-12-18T19:00:00+00:00,high point,nc wilmington,82 - 85,L,away,1671390000,https://media-2.api-sports.io/basketball/teams/1934.png
+2022-12-21T23:00:00+00:00,high point,east carolina,49 - 60,L,away,1671663600,https://media-3.api-sports.io/basketball/teams/1934.png
+2022-12-29T20:00:00+00:00,high point,longwood,73 - 87,L,away,1672344000,https://media-1.api-sports.io/basketball/teams/1934.png
 2022-12-31T19:00:00+00:00,high point,gardner webb,80 - 73,L,home,1672513200,https://media-2.api-sports.io/basketball/teams/1934.png
-2023-01-05T00:00:00+00:00,high point,unc asheville,76 - 72,L,home,1672876800,https://media-2.api-sports.io/basketball/teams/1934.png
+2023-01-05T00:00:00+00:00,high point,unc asheville,76 - 72,L,home,1672876800,https://media-3.api-sports.io/basketball/teams/1934.png
 2023-01-07T20:00:00+00:00,high point,usc upstate,57 - 76,L,away,1673121600,https://media-3.api-sports.io/basketball/teams/1934.png
-2023-01-12T00:00:00+00:00,high point,charleston southern,,,away,1673481600,https://media-3.api-sports.io/basketball/teams/1934.png
-2023-01-15T00:00:00+00:00,high point,presbyterian,,,home,1673740800,https://media-3.api-sports.io/basketball/teams/1934.png
+2023-01-12T00:00:00+00:00,high point,charleston southern,69 - 106,L,away,1673481600,https://media-1.api-sports.io/basketball/teams/1934.png
+2023-01-15T00:00:00+00:00,high point,presbyterian,,,home,1673740800,https://media-1.api-sports.io/basketball/teams/1934.png
 2023-01-19T00:00:00+00:00,high point,winthrop,,,home,1674086400,https://media-3.api-sports.io/basketball/teams/1934.png
 2023-01-21T19:00:00+00:00,high point,radford,,,away,1674327600,https://media-2.api-sports.io/basketball/teams/1934.png
 2023-01-26T00:00:00+00:00,high point,campbell,,,home,1674691200,https://media-1.api-sports.io/basketball/teams/1934.png
-2023-01-28T19:00:00+00:00,high point,gardner webb,,,away,1674932400,https://media-1.api-sports.io/basketball/teams/1934.png
+2023-01-28T19:00:00+00:00,high point,gardner webb,,,away,1674932400,https://media-2.api-sports.io/basketball/teams/1934.png
 2023-02-01T23:30:00+00:00,high point,unc asheville,,,away,1675294200,https://media-2.api-sports.io/basketball/teams/1934.png
-2023-02-05T00:00:00+00:00,high point,charleston southern,,,home,1675555200,https://media-2.api-sports.io/basketball/teams/1934.png
-2023-02-09T00:00:00+00:00,high point,campbell,,,away,1675900800,https://media-2.api-sports.io/basketball/teams/1934.png
-2023-02-11T21:00:00+00:00,high point,longwood,,,home,1676149200,https://media-3.api-sports.io/basketball/teams/1934.png
-2023-02-16T00:00:00+00:00,high point,presbyterian,,,away,1676505600,https://media-3.api-sports.io/basketball/teams/1934.png
+2023-02-05T00:00:00+00:00,high point,charleston southern,,,home,1675555200,https://media-1.api-sports.io/basketball/teams/1934.png
+2023-02-09T00:00:00+00:00,high point,campbell,,,away,1675900800,https://media-3.api-sports.io/basketball/teams/1934.png
+2023-02-11T21:00:00+00:00,high point,longwood,,,home,1676149200,https://media-1.api-sports.io/basketball/teams/1934.png
+2023-02-16T00:00:00+00:00,high point,presbyterian,,,away,1676505600,https://media-1.api-sports.io/basketball/teams/1934.png
 2023-02-18T21:00:00+00:00,high point,usc upstate,,,home,1676754000,https://media-3.api-sports.io/basketball/teams/1934.png

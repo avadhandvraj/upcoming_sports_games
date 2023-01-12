@@ -1,32 +1,32 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-11-08T00:30:00+00:00,hofstra,princeton,83 - 77,W,away,1667867400,https://media-2.api-sports.io/basketball/teams/188.png
-2022-11-12T00:00:00+00:00,hofstra,iona,78 - 83,W,home,1668211200,https://media-1.api-sports.io/basketball/teams/188.png
-2022-11-15T00:00:00+00:00,hofstra,george washington,80 - 85,W,home,1668470400,https://media-1.api-sports.io/basketball/teams/188.png
-2022-11-18T03:00:00+00:00,hofstra,san jose state,85 - 76,W,away,1668740400,https://media-1.api-sports.io/basketball/teams/188.png
+2022-11-08T00:30:00+00:00,hofstra,princeton,83 - 77,W,away,1667867400,https://media-3.api-sports.io/basketball/teams/188.png
+2022-11-12T00:00:00+00:00,hofstra,iona,78 - 83,W,home,1668211200,https://media-3.api-sports.io/basketball/teams/188.png
+2022-11-15T00:00:00+00:00,hofstra,george washington,80 - 85,W,home,1668470400,https://media-3.api-sports.io/basketball/teams/188.png
+2022-11-18T03:00:00+00:00,hofstra,san jose state,85 - 76,W,away,1668740400,https://media-3.api-sports.io/basketball/teams/188.png
 2022-11-20T01:30:00+00:00,hofstra,st. marys (ca),48 - 76,L,away,1668907800,https://media-1.api-sports.io/basketball/teams/188.png
 2022-11-26T00:00:00+00:00,hofstra,middle tenn. st.,54 - 64,L,away,1669420800,https://media-1.api-sports.io/basketball/teams/188.png
-2022-11-26T19:00:00+00:00,hofstra,nc greensboro,65 - 53,W,away,1669489200,https://media-2.api-sports.io/basketball/teams/188.png
-2022-11-27T21:00:00+00:00,hofstra,quinnipiac,72 - 70,W,away,1669582800,https://media-2.api-sports.io/basketball/teams/188.png
-2022-12-01T00:00:00+00:00,hofstra,george mason,77 - 81,L,away,1669852800,https://media-2.api-sports.io/basketball/teams/188.png
-2022-12-08T00:00:00+00:00,hofstra,purdue,66 - 85,L,away,1670457600,https://media-2.api-sports.io/basketball/teams/188.png
-2022-12-12T00:00:00+00:00,hofstra,umass,56 - 71,L,away,1670803200,https://media-3.api-sports.io/basketball/teams/188.png
-2022-12-20T00:00:00+00:00,hofstra,south florida,70 - 77,L,away,1671494400,https://media-3.api-sports.io/basketball/teams/188.png
-2022-12-22T16:30:00+00:00,hofstra,old westbury,48 - 96,W,home,1671726600,https://media-2.api-sports.io/basketball/teams/188.png
+2022-11-26T19:00:00+00:00,hofstra,nc greensboro,65 - 53,W,away,1669489200,https://media-1.api-sports.io/basketball/teams/188.png
+2022-11-27T21:00:00+00:00,hofstra,quinnipiac,72 - 70,W,away,1669582800,https://media-1.api-sports.io/basketball/teams/188.png
+2022-12-01T00:00:00+00:00,hofstra,george mason,77 - 81,L,away,1669852800,https://media-3.api-sports.io/basketball/teams/188.png
+2022-12-08T00:00:00+00:00,hofstra,purdue,66 - 85,L,away,1670457600,https://media-3.api-sports.io/basketball/teams/188.png
+2022-12-12T00:00:00+00:00,hofstra,umass,56 - 71,L,away,1670803200,https://media-1.api-sports.io/basketball/teams/188.png
+2022-12-20T00:00:00+00:00,hofstra,south florida,70 - 77,L,away,1671494400,https://media-2.api-sports.io/basketball/teams/188.png
+2022-12-22T16:30:00+00:00,hofstra,old westbury,48 - 96,W,home,1671726600,https://media-3.api-sports.io/basketball/teams/188.png
 2022-12-30T00:00:00+00:00,hofstra,delaware,87 - 73,W,away,1672358400,https://media-1.api-sports.io/basketball/teams/188.png
-2022-12-31T18:00:00+00:00,hofstra,n. carolina a&t,81 - 79,L,home,1672509600,https://media-1.api-sports.io/basketball/teams/188.png
+2022-12-31T18:00:00+00:00,hofstra,n. carolina a&t,81 - 79,L,home,1672509600,https://media-2.api-sports.io/basketball/teams/188.png
 2023-01-06T00:00:00+00:00,hofstra,hampton,67 - 51,W,away,1672963200,https://media-1.api-sports.io/basketball/teams/188.png
-2023-01-07T19:00:00+00:00,hofstra,william & mary,75 - 62,W,away,1673118000,https://media-1.api-sports.io/basketball/teams/188.png
-2023-01-12T00:00:00+00:00,hofstra,monmouth,,,home,1673481600,https://media-1.api-sports.io/basketball/teams/188.png
+2023-01-07T19:00:00+00:00,hofstra,william & mary,75 - 62,W,away,1673118000,https://media-3.api-sports.io/basketball/teams/188.png
+2023-01-12T00:00:00+00:00,hofstra,monmouth,57 - 77,W,home,1673481600,https://media-3.api-sports.io/basketball/teams/188.png
 2023-01-14T19:00:00+00:00,hofstra,delaware,,,home,1673722800,https://media-2.api-sports.io/basketball/teams/188.png
-2023-01-16T17:00:00+00:00,hofstra,towson,,,away,1673888400,https://media-3.api-sports.io/basketball/teams/188.png
+2023-01-16T17:00:00+00:00,hofstra,towson,,,away,1673888400,https://media-1.api-sports.io/basketball/teams/188.png
 2023-01-20T00:00:00+00:00,hofstra,nc wilmington,,,home,1674172800,https://media-1.api-sports.io/basketball/teams/188.png
-2023-01-27T00:00:00+00:00,hofstra,elon,,,away,1674777600,https://media-2.api-sports.io/basketball/teams/188.png
-2023-01-28T21:00:00+00:00,hofstra,charleston,,,away,1674939600,https://media-2.api-sports.io/basketball/teams/188.png
-2023-02-03T00:00:00+00:00,hofstra,towson,,,home,1675382400,https://media-3.api-sports.io/basketball/teams/188.png
-2023-02-04T21:00:00+00:00,hofstra,stony brook,,,home,1675544400,https://media-2.api-sports.io/basketball/teams/188.png
-2023-02-08T23:00:00+00:00,hofstra,northeastern,,,away,1675897200,https://media-2.api-sports.io/basketball/teams/188.png
+2023-01-27T00:00:00+00:00,hofstra,elon,,,away,1674777600,https://media-1.api-sports.io/basketball/teams/188.png
+2023-01-28T21:00:00+00:00,hofstra,charleston,,,away,1674939600,https://media-3.api-sports.io/basketball/teams/188.png
+2023-02-03T00:00:00+00:00,hofstra,towson,,,home,1675382400,https://media-1.api-sports.io/basketball/teams/188.png
+2023-02-04T21:00:00+00:00,hofstra,stony brook,,,home,1675544400,https://media-1.api-sports.io/basketball/teams/188.png
+2023-02-08T23:00:00+00:00,hofstra,northeastern,,,away,1675897200,https://media-3.api-sports.io/basketball/teams/188.png
 2023-02-11T19:00:00+00:00,hofstra,monmouth,,,away,1676142000,https://media-2.api-sports.io/basketball/teams/188.png
 2023-02-14T00:00:00+00:00,hofstra,drexel,,,home,1676332800,https://media-2.api-sports.io/basketball/teams/188.png
-2023-02-17T00:00:00+00:00,hofstra,hampton,,,home,1676592000,https://media-2.api-sports.io/basketball/teams/188.png
-2023-02-18T23:30:00+00:00,hofstra,stony brook,,,away,1676763000,https://media-1.api-sports.io/basketball/teams/188.png
-2023-02-25T21:00:00+00:00,hofstra,northeastern,None - None,tie,home,1677358800,https://media-2.api-sports.io/basketball/teams/188.png
+2023-02-17T00:00:00+00:00,hofstra,hampton,,,home,1676592000,https://media-1.api-sports.io/basketball/teams/188.png
+2023-02-18T23:30:00+00:00,hofstra,stony brook,,,away,1676763000,https://media-3.api-sports.io/basketball/teams/188.png
+2023-02-25T21:00:00+00:00,hofstra,northeastern,None - None,tie,home,1677358800,https://media-3.api-sports.io/basketball/teams/188.png

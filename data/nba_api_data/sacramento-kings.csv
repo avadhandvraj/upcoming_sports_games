@@ -1,87 +1,87 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-2022-10-04T02:30:00+00:00,sacramento kings,los angeles lakers,105 - 75,W,away,1664850600,https://media-2.api-sports.io/basketball/teams/157.png
-2022-10-10T01:00:00+00:00,sacramento kings,portland trail blazers,94 - 126,W,home,1665363600,https://media-2.api-sports.io/basketball/teams/157.png
-2022-10-13T02:00:00+00:00,sacramento kings,phoenix suns,105 - 104,W,away,1665626400,https://media-3.api-sports.io/basketball/teams/157.png
+2022-10-04T02:30:00+00:00,sacramento kings,los angeles lakers,105 - 75,W,away,1664850600,https://media-1.api-sports.io/basketball/teams/157.png
+2022-10-10T01:00:00+00:00,sacramento kings,portland trail blazers,94 - 126,W,home,1665363600,https://media-1.api-sports.io/basketball/teams/157.png
+2022-10-13T02:00:00+00:00,sacramento kings,phoenix suns,105 - 104,W,away,1665626400,https://media-1.api-sports.io/basketball/teams/157.png
 2022-10-15T02:00:00+00:00,sacramento kings,los angeles lakers,86 - 133,W,home,1665799200,https://media-2.api-sports.io/basketball/teams/157.png
-2022-10-20T02:00:00+00:00,sacramento kings,portland trail blazers,115 - 108,L,home,1666231200,https://media-3.api-sports.io/basketball/teams/157.png
-2022-10-23T02:00:00+00:00,sacramento kings,los angeles clippers,111 - 109,L,home,1666490400,https://media-2.api-sports.io/basketball/teams/157.png
-2022-10-24T00:30:00+00:00,sacramento kings,golden state warriors,125 - 130,L,away,1666571400,https://media-1.api-sports.io/basketball/teams/157.png
-2022-10-28T02:00:00+00:00,sacramento kings,memphis grizzlies,125 - 110,L,home,1666922400,https://media-3.api-sports.io/basketball/teams/157.png
-2022-10-29T22:00:00+00:00,sacramento kings,miami heat,113 - 119,W,home,1667080800,https://media-1.api-sports.io/basketball/teams/157.png
+2022-10-20T02:00:00+00:00,sacramento kings,portland trail blazers,115 - 108,L,home,1666231200,https://media-1.api-sports.io/basketball/teams/157.png
+2022-10-23T02:00:00+00:00,sacramento kings,los angeles clippers,111 - 109,L,home,1666490400,https://media-3.api-sports.io/basketball/teams/157.png
+2022-10-24T00:30:00+00:00,sacramento kings,golden state warriors,125 - 130,L,away,1666571400,https://media-3.api-sports.io/basketball/teams/157.png
+2022-10-28T02:00:00+00:00,sacramento kings,memphis grizzlies,125 - 110,L,home,1666922400,https://media-1.api-sports.io/basketball/teams/157.png
+2022-10-29T22:00:00+00:00,sacramento kings,miami heat,113 - 119,W,home,1667080800,https://media-3.api-sports.io/basketball/teams/157.png
 2022-10-31T23:00:00+00:00,sacramento kings,charlotte hornets,115 - 108,W,away,1667257200,https://media-3.api-sports.io/basketball/teams/157.png
-2022-11-02T23:30:00+00:00,sacramento kings,miami heat,107 - 110,L,away,1667431800,https://media-3.api-sports.io/basketball/teams/157.png
-2022-11-05T21:00:00+00:00,sacramento kings,orlando magic,126 - 123,W,away,1667682000,https://media-1.api-sports.io/basketball/teams/157.png
-2022-11-08T03:00:00+00:00,sacramento kings,golden state warriors,113 - 116,L,away,1667876400,https://media-2.api-sports.io/basketball/teams/157.png
-2022-11-10T03:00:00+00:00,sacramento kings,cleveland cavaliers,120 - 127,W,home,1668049200,https://media-3.api-sports.io/basketball/teams/157.png
-2022-11-12T03:30:00+00:00,sacramento kings,los angeles lakers,120 - 114,W,away,1668223800,https://media-2.api-sports.io/basketball/teams/157.png
+2022-11-02T23:30:00+00:00,sacramento kings,miami heat,107 - 110,L,away,1667431800,https://media-1.api-sports.io/basketball/teams/157.png
+2022-11-05T21:00:00+00:00,sacramento kings,orlando magic,126 - 123,W,away,1667682000,https://media-2.api-sports.io/basketball/teams/157.png
+2022-11-08T03:00:00+00:00,sacramento kings,golden state warriors,113 - 116,L,away,1667876400,https://media-1.api-sports.io/basketball/teams/157.png
+2022-11-10T03:00:00+00:00,sacramento kings,cleveland cavaliers,120 - 127,W,home,1668049200,https://media-1.api-sports.io/basketball/teams/157.png
+2022-11-12T03:30:00+00:00,sacramento kings,los angeles lakers,120 - 114,W,away,1668223800,https://media-1.api-sports.io/basketball/teams/157.png
 2022-11-14T02:00:00+00:00,sacramento kings,golden state warriors,115 - 122,W,home,1668391200,https://media-1.api-sports.io/basketball/teams/157.png
-2022-11-16T03:00:00+00:00,sacramento kings,brooklyn nets,121 - 153,W,home,1668567600,https://media-3.api-sports.io/basketball/teams/157.png
-2022-11-18T03:00:00+00:00,sacramento kings,san antonio spurs,112 - 130,W,home,1668740400,https://media-3.api-sports.io/basketball/teams/157.png
-2022-11-20T23:00:00+00:00,sacramento kings,detroit pistons,129 - 137,W,home,1668985200,https://media-3.api-sports.io/basketball/teams/157.png
+2022-11-16T03:00:00+00:00,sacramento kings,brooklyn nets,121 - 153,W,home,1668567600,https://media-2.api-sports.io/basketball/teams/157.png
+2022-11-18T03:00:00+00:00,sacramento kings,san antonio spurs,112 - 130,W,home,1668740400,https://media-2.api-sports.io/basketball/teams/157.png
+2022-11-20T23:00:00+00:00,sacramento kings,detroit pistons,129 - 137,W,home,1668985200,https://media-1.api-sports.io/basketball/teams/157.png
 2022-11-23T01:00:00+00:00,sacramento kings,memphis grizzlies,113 - 109,W,away,1669165200,https://media-2.api-sports.io/basketball/teams/157.png
 2022-11-24T00:30:00+00:00,sacramento kings,atlanta hawks,106 - 115,L,away,1669249800,https://media-2.api-sports.io/basketball/teams/157.png
-2022-11-26T01:00:00+00:00,sacramento kings,boston celtics,104 - 122,L,away,1669424400,https://media-1.api-sports.io/basketball/teams/157.png
+2022-11-26T01:00:00+00:00,sacramento kings,boston celtics,104 - 122,L,away,1669424400,https://media-2.api-sports.io/basketball/teams/157.png
 2022-11-29T03:00:00+00:00,sacramento kings,phoenix suns,122 - 117,L,home,1669690800,https://media-2.api-sports.io/basketball/teams/157.png
 2022-12-01T03:00:00+00:00,sacramento kings,indiana pacers,114 - 137,W,home,1669863600,https://media-3.api-sports.io/basketball/teams/157.png
-2022-12-03T21:00:00+00:00,sacramento kings,los angeles clippers,123 - 96,W,away,1670101200,https://media-2.api-sports.io/basketball/teams/157.png
-2022-12-04T23:00:00+00:00,sacramento kings,chicago bulls,101 - 110,W,home,1670194800,https://media-3.api-sports.io/basketball/teams/157.png
+2022-12-03T21:00:00+00:00,sacramento kings,los angeles clippers,123 - 96,W,away,1670101200,https://media-3.api-sports.io/basketball/teams/157.png
+2022-12-04T23:00:00+00:00,sacramento kings,chicago bulls,101 - 110,W,home,1670194800,https://media-2.api-sports.io/basketball/teams/157.png
 2022-12-08T01:00:00+00:00,sacramento kings,milwaukee bucks,113 - 126,L,away,1670461200,https://media-2.api-sports.io/basketball/teams/157.png
-2022-12-10T00:30:00+00:00,sacramento kings,cleveland cavaliers,106 - 95,W,away,1670632200,https://media-2.api-sports.io/basketball/teams/157.png
-2022-12-11T23:00:00+00:00,sacramento kings,new york knicks,99 - 112,L,away,1670799600,https://media-3.api-sports.io/basketball/teams/157.png
-2022-12-14T00:00:00+00:00,sacramento kings,philadelphia 76ers,103 - 123,L,away,1670976000,https://media-1.api-sports.io/basketball/teams/157.png
+2022-12-10T00:30:00+00:00,sacramento kings,cleveland cavaliers,106 - 95,W,away,1670632200,https://media-3.api-sports.io/basketball/teams/157.png
+2022-12-11T23:00:00+00:00,sacramento kings,new york knicks,99 - 112,L,away,1670799600,https://media-1.api-sports.io/basketball/teams/157.png
+2022-12-14T00:00:00+00:00,sacramento kings,philadelphia 76ers,103 - 123,L,away,1670976000,https://media-2.api-sports.io/basketball/teams/157.png
 2022-12-15T00:30:00+00:00,sacramento kings,toronto raptors,124 - 123,W,away,1671064200,https://media-1.api-sports.io/basketball/teams/157.png
-2022-12-17T00:00:00+00:00,sacramento kings,detroit pistons,122 - 113,W,away,1671235200,https://media-1.api-sports.io/basketball/teams/157.png
+2022-12-17T00:00:00+00:00,sacramento kings,detroit pistons,122 - 113,W,away,1671235200,https://media-2.api-sports.io/basketball/teams/157.png
 2022-12-20T03:00:00+00:00,sacramento kings,charlotte hornets,125 - 119,L,home,1671505200,https://media-2.api-sports.io/basketball/teams/157.png
-2022-12-22T03:00:00+00:00,sacramento kings,los angeles lakers,120 - 134,W,home,1671678000,https://media-1.api-sports.io/basketball/teams/157.png
-2022-12-24T03:00:00+00:00,sacramento kings,washington wizards,125 - 111,L,home,1671850800,https://media-3.api-sports.io/basketball/teams/157.png
+2022-12-22T03:00:00+00:00,sacramento kings,los angeles lakers,120 - 134,W,home,1671678000,https://media-3.api-sports.io/basketball/teams/157.png
+2022-12-24T03:00:00+00:00,sacramento kings,washington wizards,125 - 111,L,home,1671850800,https://media-2.api-sports.io/basketball/teams/157.png
 2022-12-28T03:00:00+00:00,sacramento kings,denver nuggets,113 - 106,L,home,1672196400,https://media-2.api-sports.io/basketball/teams/157.png
-2022-12-29T03:00:00+00:00,sacramento kings,denver nuggets,126 - 127,W,home,1672282800,https://media-3.api-sports.io/basketball/teams/157.png
+2022-12-29T03:00:00+00:00,sacramento kings,denver nuggets,126 - 127,W,home,1672282800,https://media-1.api-sports.io/basketball/teams/157.png
 2022-12-31T03:00:00+00:00,sacramento kings,utah jazz,125 - 126,W,home,1672455600,https://media-2.api-sports.io/basketball/teams/157.png
-2023-01-02T01:00:00+00:00,sacramento kings,memphis grizzlies,108 - 118,L,away,1672621200,https://media-1.api-sports.io/basketball/teams/157.png
-2023-01-04T02:00:00+00:00,sacramento kings,utah jazz,117 - 115,W,away,1672797600,https://media-1.api-sports.io/basketball/teams/157.png
-2023-01-05T03:00:00+00:00,sacramento kings,atlanta hawks,120 - 117,L,home,1672887600,https://media-2.api-sports.io/basketball/teams/157.png
-2023-01-08T03:00:00+00:00,sacramento kings,los angeles lakers,136 - 134,L,home,1673146800,https://media-3.api-sports.io/basketball/teams/157.png
-2023-01-10T03:00:00+00:00,sacramento kings,orlando magic,,,home,1673319600,https://media-1.api-sports.io/basketball/teams/157.png
-2023-01-12T03:00:00+00:00,sacramento kings,houston rockets,,,home,1673492400,https://media-1.api-sports.io/basketball/teams/157.png
+2023-01-02T01:00:00+00:00,sacramento kings,memphis grizzlies,108 - 118,L,away,1672621200,https://media-3.api-sports.io/basketball/teams/157.png
+2023-01-04T02:00:00+00:00,sacramento kings,utah jazz,117 - 115,W,away,1672797600,https://media-3.api-sports.io/basketball/teams/157.png
+2023-01-05T03:00:00+00:00,sacramento kings,atlanta hawks,120 - 117,L,home,1672887600,https://media-3.api-sports.io/basketball/teams/157.png
+2023-01-08T03:00:00+00:00,sacramento kings,los angeles lakers,136 - 134,L,home,1673146800,https://media-1.api-sports.io/basketball/teams/157.png
+2023-01-10T03:00:00+00:00,sacramento kings,orlando magic,111 - 136,W,home,1673319600,https://media-1.api-sports.io/basketball/teams/157.png
+2023-01-12T03:00:00+00:00,sacramento kings,houston rockets,115 - 135,W,home,1673492400,https://media-3.api-sports.io/basketball/teams/157.png
 2023-01-14T03:00:00+00:00,sacramento kings,houston rockets,,,home,1673665200,https://media-3.api-sports.io/basketball/teams/157.png
-2023-01-16T00:00:00+00:00,sacramento kings,san antonio spurs,,,away,1673827200,https://media-2.api-sports.io/basketball/teams/157.png
-2023-01-19T03:30:00+00:00,sacramento kings,los angeles lakers,,,away,1674099000,https://media-3.api-sports.io/basketball/teams/157.png
+2023-01-16T00:00:00+00:00,sacramento kings,san antonio spurs,,,away,1673827200,https://media-3.api-sports.io/basketball/teams/157.png
+2023-01-19T03:30:00+00:00,sacramento kings,los angeles lakers,,,away,1674099000,https://media-1.api-sports.io/basketball/teams/157.png
 2023-01-21T03:00:00+00:00,sacramento kings,oklahoma city thunder,,,home,1674270000,https://media-1.api-sports.io/basketball/teams/157.png
-2023-01-22T03:00:00+00:00,sacramento kings,philadelphia 76ers,,,home,1674356400,https://media-1.api-sports.io/basketball/teams/157.png
+2023-01-22T03:00:00+00:00,sacramento kings,philadelphia 76ers,,,home,1674356400,https://media-2.api-sports.io/basketball/teams/157.png
 2023-01-24T03:30:00+00:00,sacramento kings,memphis grizzlies,,,home,1674531000,https://media-1.api-sports.io/basketball/teams/157.png
 2023-01-26T03:00:00+00:00,sacramento kings,toronto raptors,,,home,1674702000,https://media-3.api-sports.io/basketball/teams/157.png
 2023-01-29T01:00:00+00:00,sacramento kings,minnesota timberwolves,,,away,1674954000,https://media-1.api-sports.io/basketball/teams/157.png
-2023-01-31T01:00:00+00:00,sacramento kings,minnesota timberwolves,,,away,1675126800,https://media-1.api-sports.io/basketball/teams/157.png
-2023-02-02T01:00:00+00:00,sacramento kings,san antonio spurs,,,away,1675299600,https://media-2.api-sports.io/basketball/teams/157.png
-2023-02-04T00:00:00+00:00,sacramento kings,indiana pacers,,,away,1675468800,https://media-3.api-sports.io/basketball/teams/157.png
+2023-01-31T01:00:00+00:00,sacramento kings,minnesota timberwolves,,,away,1675126800,https://media-2.api-sports.io/basketball/teams/157.png
+2023-02-02T01:00:00+00:00,sacramento kings,san antonio spurs,,,away,1675299600,https://media-3.api-sports.io/basketball/teams/157.png
+2023-02-04T00:00:00+00:00,sacramento kings,indiana pacers,,,away,1675468800,https://media-2.api-sports.io/basketball/teams/157.png
 2023-02-06T00:00:00+00:00,sacramento kings,new orleans pelicans,,,away,1675641600,https://media-2.api-sports.io/basketball/teams/157.png
 2023-02-07T01:00:00+00:00,sacramento kings,houston rockets,,,away,1675731600,https://media-1.api-sports.io/basketball/teams/157.png
 2023-02-09T01:00:00+00:00,sacramento kings,houston rockets,,,away,1675904400,https://media-1.api-sports.io/basketball/teams/157.png
 2023-02-11T03:00:00+00:00,sacramento kings,dallas mavericks,,,home,1676084400,https://media-3.api-sports.io/basketball/teams/157.png
-2023-02-12T03:00:00+00:00,sacramento kings,dallas mavericks,,,home,1676170800,https://media-2.api-sports.io/basketball/teams/157.png
+2023-02-12T03:00:00+00:00,sacramento kings,dallas mavericks,,,home,1676170800,https://media-3.api-sports.io/basketball/teams/157.png
 2023-02-15T02:00:00+00:00,sacramento kings,phoenix suns,,,away,1676426400,https://media-2.api-sports.io/basketball/teams/157.png
-2023-02-24T03:00:00+00:00,sacramento kings,portland trail blazers,,,home,1677207600,https://media-1.api-sports.io/basketball/teams/157.png
-2023-02-25T03:30:00+00:00,sacramento kings,los angeles clippers,,,away,1677295800,https://media-3.api-sports.io/basketball/teams/157.png
-2023-02-27T00:00:00+00:00,sacramento kings,oklahoma city thunder,,,away,1677456000,https://media-1.api-sports.io/basketball/teams/157.png
-2023-03-01T01:00:00+00:00,sacramento kings,oklahoma city thunder,,,away,1677632400,https://media-3.api-sports.io/basketball/teams/157.png
-2023-03-04T03:00:00+00:00,sacramento kings,los angeles clippers,,,home,1677898800,https://media-1.api-sports.io/basketball/teams/157.png
+2023-02-24T03:00:00+00:00,sacramento kings,portland trail blazers,,,home,1677207600,https://media-2.api-sports.io/basketball/teams/157.png
+2023-02-25T03:30:00+00:00,sacramento kings,los angeles clippers,,,away,1677295800,https://media-2.api-sports.io/basketball/teams/157.png
+2023-02-27T00:00:00+00:00,sacramento kings,oklahoma city thunder,,,away,1677456000,https://media-2.api-sports.io/basketball/teams/157.png
+2023-03-01T01:00:00+00:00,sacramento kings,oklahoma city thunder,,,away,1677632400,https://media-2.api-sports.io/basketball/teams/157.png
+2023-03-04T03:00:00+00:00,sacramento kings,los angeles clippers,,,home,1677898800,https://media-3.api-sports.io/basketball/teams/157.png
 2023-03-05T03:00:00+00:00,sacramento kings,minnesota timberwolves,,,home,1677985200,https://media-1.api-sports.io/basketball/teams/157.png
-2023-03-07T03:00:00+00:00,sacramento kings,new orleans pelicans,,,home,1678158000,https://media-3.api-sports.io/basketball/teams/157.png
+2023-03-07T03:00:00+00:00,sacramento kings,new orleans pelicans,,,home,1678158000,https://media-2.api-sports.io/basketball/teams/157.png
 2023-03-10T03:00:00+00:00,sacramento kings,new york knicks,,,home,1678417200,https://media-1.api-sports.io/basketball/teams/157.png
-2023-03-12T02:00:00+00:00,sacramento kings,phoenix suns,,,away,1678586400,https://media-2.api-sports.io/basketball/teams/157.png
-2023-03-14T02:00:00+00:00,sacramento kings,milwaukee bucks,,,home,1678759200,https://media-3.api-sports.io/basketball/teams/157.png
-2023-03-16T00:00:00+00:00,sacramento kings,chicago bulls,,,away,1678924800,https://media-3.api-sports.io/basketball/teams/157.png
+2023-03-12T02:00:00+00:00,sacramento kings,phoenix suns,,,away,1678586400,https://media-1.api-sports.io/basketball/teams/157.png
+2023-03-14T02:00:00+00:00,sacramento kings,milwaukee bucks,,,home,1678759200,https://media-1.api-sports.io/basketball/teams/157.png
+2023-03-16T00:00:00+00:00,sacramento kings,chicago bulls,,,away,1678924800,https://media-2.api-sports.io/basketball/teams/157.png
 2023-03-16T23:30:00+00:00,sacramento kings,brooklyn nets,,,away,1679009400,https://media-1.api-sports.io/basketball/teams/157.png
-2023-03-19T00:00:00+00:00,sacramento kings,washington wizards,,,away,1679184000,https://media-3.api-sports.io/basketball/teams/157.png
+2023-03-19T00:00:00+00:00,sacramento kings,washington wizards,,,away,1679184000,https://media-1.api-sports.io/basketball/teams/157.png
 2023-03-21T01:00:00+00:00,sacramento kings,utah jazz,,,away,1679360400,https://media-3.api-sports.io/basketball/teams/157.png
-2023-03-22T02:00:00+00:00,sacramento kings,boston celtics,,,home,1679450400,https://media-2.api-sports.io/basketball/teams/157.png
-2023-03-25T02:00:00+00:00,sacramento kings,phoenix suns,,,home,1679709600,https://media-1.api-sports.io/basketball/teams/157.png
+2023-03-22T02:00:00+00:00,sacramento kings,boston celtics,,,home,1679450400,https://media-3.api-sports.io/basketball/teams/157.png
+2023-03-25T02:00:00+00:00,sacramento kings,phoenix suns,,,home,1679709600,https://media-2.api-sports.io/basketball/teams/157.png
 2023-03-26T02:00:00+00:00,sacramento kings,utah jazz,,,home,1679796000,https://media-2.api-sports.io/basketball/teams/157.png
-2023-03-28T02:00:00+00:00,sacramento kings,minnesota timberwolves,,,home,1679968800,https://media-2.api-sports.io/basketball/teams/157.png
-2023-03-30T02:00:00+00:00,sacramento kings,portland trail blazers,,,away,1680141600,https://media-3.api-sports.io/basketball/teams/157.png
-2023-04-01T02:00:00+00:00,sacramento kings,portland trail blazers,,,away,1680314400,https://media-1.api-sports.io/basketball/teams/157.png
-2023-04-02T22:00:00+00:00,sacramento kings,san antonio spurs,,,home,1680472800,https://media-2.api-sports.io/basketball/teams/157.png
-2023-04-05T00:00:00+00:00,sacramento kings,new orleans pelicans,,,away,1680652800,https://media-2.api-sports.io/basketball/teams/157.png
-2023-04-06T00:30:00+00:00,sacramento kings,dallas mavericks,,,away,1680741000,https://media-1.api-sports.io/basketball/teams/157.png
-2023-04-08T02:00:00+00:00,sacramento kings,golden state warriors,None - None,tie,home,1680919200,https://media-1.api-sports.io/basketball/teams/157.png
-2023-04-09T19:30:00+00:00,sacramento kings,denver nuggets,None - None,tie,away,1681068600,https://media-3.api-sports.io/basketball/teams/157.png
+2023-03-28T02:00:00+00:00,sacramento kings,minnesota timberwolves,,,home,1679968800,https://media-3.api-sports.io/basketball/teams/157.png
+2023-03-30T02:00:00+00:00,sacramento kings,portland trail blazers,,,away,1680141600,https://media-1.api-sports.io/basketball/teams/157.png
+2023-04-01T02:00:00+00:00,sacramento kings,portland trail blazers,,,away,1680314400,https://media-2.api-sports.io/basketball/teams/157.png
+2023-04-02T22:00:00+00:00,sacramento kings,san antonio spurs,,,home,1680472800,https://media-1.api-sports.io/basketball/teams/157.png
+2023-04-05T00:00:00+00:00,sacramento kings,new orleans pelicans,,,away,1680652800,https://media-3.api-sports.io/basketball/teams/157.png
+2023-04-06T00:30:00+00:00,sacramento kings,dallas mavericks,,,away,1680741000,https://media-2.api-sports.io/basketball/teams/157.png
+2023-04-08T02:00:00+00:00,sacramento kings,golden state warriors,,,home,1680919200,https://media-1.api-sports.io/basketball/teams/157.png
+2023-04-09T19:30:00+00:00,sacramento kings,denver nuggets,,,away,1681068600,https://media-2.api-sports.io/basketball/teams/157.png

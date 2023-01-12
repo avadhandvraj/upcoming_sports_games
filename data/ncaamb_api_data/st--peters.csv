@@ -1,25 +1,25 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T00:00:00+00:00,st. peters,njit,59 - 73,W,home,1667865600,https://media-2.api-sports.io/basketball/teams/5864.png
-2022-11-12T17:00:00+00:00,st. peters,seton hall,44 - 80,L,away,1668272400,https://media-2.api-sports.io/basketball/teams/5864.png
-2022-11-16T00:00:00+00:00,st. peters,bucknell,71 - 82,W,home,1668556800,https://media-2.api-sports.io/basketball/teams/5864.png
-2022-11-19T19:00:00+00:00,st. peters,st. francis brooklyn,58 - 61,L,away,1668884400,https://media-3.api-sports.io/basketball/teams/5864.png
-2022-11-23T18:00:00+00:00,st. peters,old westbury,51 - 98,W,home,1669226400,https://media-1.api-sports.io/basketball/teams/5864.png
+2022-11-12T17:00:00+00:00,st. peters,seton hall,44 - 80,L,away,1668272400,https://media-1.api-sports.io/basketball/teams/5864.png
+2022-11-16T00:00:00+00:00,st. peters,bucknell,71 - 82,W,home,1668556800,https://media-3.api-sports.io/basketball/teams/5864.png
+2022-11-19T19:00:00+00:00,st. peters,st. francis brooklyn,58 - 61,L,away,1668884400,https://media-2.api-sports.io/basketball/teams/5864.png
+2022-11-23T18:00:00+00:00,st. peters,old westbury,51 - 98,W,home,1669226400,https://media-2.api-sports.io/basketball/teams/5864.png
 2022-11-27T19:00:00+00:00,st. peters,fairleigh dickinson,63 - 77,W,home,1669575600,https://media-3.api-sports.io/basketball/teams/5864.png
-2022-12-02T00:00:00+00:00,st. peters,mount st. mary's,73 - 58,L,home,1669939200,https://media-3.api-sports.io/basketball/teams/5864.png
-2022-12-04T00:00:00+00:00,st. peters,fairfield,55 - 67,L,away,1670112000,https://media-1.api-sports.io/basketball/teams/5864.png
-2022-12-10T18:00:00+00:00,st. peters,saint josephs,57 - 73,L,away,1670695200,https://media-3.api-sports.io/basketball/teams/5864.png
+2022-12-02T00:00:00+00:00,st. peters,mount st. mary's,73 - 58,L,home,1669939200,https://media-1.api-sports.io/basketball/teams/5864.png
+2022-12-04T00:00:00+00:00,st. peters,fairfield,55 - 67,L,away,1670112000,https://media-2.api-sports.io/basketball/teams/5864.png
+2022-12-10T18:00:00+00:00,st. peters,saint josephs,57 - 73,L,away,1670695200,https://media-1.api-sports.io/basketball/teams/5864.png
 2022-12-14T00:00:00+00:00,st. peters,hartford,58 - 57,W,away,1670976000,https://media-3.api-sports.io/basketball/teams/5864.png
 2022-12-18T19:00:00+00:00,st. peters,quinnipiac,56 - 63,W,home,1671390000,https://media-2.api-sports.io/basketball/teams/5864.png
 2022-12-22T23:30:00+00:00,st. peters,maryland,45 - 75,L,away,1671751800,https://media-3.api-sports.io/basketball/teams/5864.png
-2022-12-30T19:00:00+00:00,st. peters,manhattan,57 - 67,W,home,1672426800,https://media-3.api-sports.io/basketball/teams/5864.png
-2023-01-01T21:00:00+00:00,st. peters,iona,55 - 73,L,away,1672606800,https://media-1.api-sports.io/basketball/teams/5864.png
+2022-12-30T19:00:00+00:00,st. peters,manhattan,57 - 67,W,home,1672426800,https://media-2.api-sports.io/basketball/teams/5864.png
+2023-01-01T21:00:00+00:00,st. peters,iona,55 - 73,L,away,1672606800,https://media-2.api-sports.io/basketball/teams/5864.png
 2023-01-07T00:00:00+00:00,st. peters,siena,60 - 70,L,away,1673049600,https://media-3.api-sports.io/basketball/teams/5864.png
-2023-01-08T19:00:00+00:00,st. peters,canisius,67 - 60,L,home,1673204400,https://media-3.api-sports.io/basketball/teams/5864.png
-2023-01-14T00:00:00+00:00,st. peters,quinnipiac,,,away,1673654400,https://media-2.api-sports.io/basketball/teams/5864.png
-2023-01-15T19:00:00+00:00,st. peters,fairfield,,,home,1673809200,https://media-1.api-sports.io/basketball/teams/5864.png
-2023-01-21T00:00:00+00:00,st. peters,marist,,,away,1674259200,https://media-1.api-sports.io/basketball/teams/5864.png
-2023-01-22T19:00:00+00:00,st. peters,niagara,,,home,1674414000,https://media-3.api-sports.io/basketball/teams/5864.png
-2023-01-28T22:00:00+00:00,st. peters,mount st. mary's,,,away,1674943200,https://media-1.api-sports.io/basketball/teams/5864.png
-2023-02-04T00:00:00+00:00,st. peters,rider,,,away,1675468800,https://media-1.api-sports.io/basketball/teams/5864.png
-2023-02-11T00:00:00+00:00,st. peters,marist,,,home,1676073600,https://media-3.api-sports.io/basketball/teams/5864.png
+2023-01-08T19:00:00+00:00,st. peters,canisius,67 - 60,L,home,1673204400,https://media-1.api-sports.io/basketball/teams/5864.png
+2023-01-14T00:00:00+00:00,st. peters,quinnipiac,,,away,1673654400,https://media-1.api-sports.io/basketball/teams/5864.png
+2023-01-15T19:00:00+00:00,st. peters,fairfield,,,home,1673809200,https://media-3.api-sports.io/basketball/teams/5864.png
+2023-01-21T00:00:00+00:00,st. peters,marist,,,away,1674259200,https://media-3.api-sports.io/basketball/teams/5864.png
+2023-01-22T19:00:00+00:00,st. peters,niagara,,,home,1674414000,https://media-1.api-sports.io/basketball/teams/5864.png
+2023-01-28T22:00:00+00:00,st. peters,mount st. mary's,,,away,1674943200,https://media-2.api-sports.io/basketball/teams/5864.png
+2023-02-04T00:00:00+00:00,st. peters,rider,,,away,1675468800,https://media-2.api-sports.io/basketball/teams/5864.png
+2023-02-11T00:00:00+00:00,st. peters,marist,,,home,1676073600,https://media-2.api-sports.io/basketball/teams/5864.png
 2023-02-12T19:00:00+00:00,st. peters,manhattan,,,away,1676228400,https://media-3.api-sports.io/basketball/teams/5864.png

@@ -1,31 +1,31 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
 2022-11-08T03:00:00+00:00,loyola marymount,life pacific,49 - 99,W,home,1667876400,https://media-3.api-sports.io/basketball/teams/3382.png
-2022-11-11T03:00:00+00:00,loyola marymount,uc riverside,81 - 79,L,home,1668135600,https://media-2.api-sports.io/basketball/teams/3382.png
-2022-11-13T03:00:00+00:00,loyola marymount,uc davis,75 - 85,W,home,1668308400,https://media-3.api-sports.io/basketball/teams/3382.png
+2022-11-11T03:00:00+00:00,loyola marymount,uc riverside,81 - 79,L,home,1668135600,https://media-3.api-sports.io/basketball/teams/3382.png
+2022-11-13T03:00:00+00:00,loyola marymount,uc davis,75 - 85,W,home,1668308400,https://media-1.api-sports.io/basketball/teams/3382.png
 2022-11-16T03:00:00+00:00,loyola marymount,uc irvine,64 - 79,L,away,1668567600,https://media-3.api-sports.io/basketball/teams/3382.png
-2022-11-18T21:30:00+00:00,loyola marymount,georgetown,84 - 66,W,away,1668807000,https://media-3.api-sports.io/basketball/teams/3382.png
-2022-11-20T19:30:00+00:00,loyola marymount,wake forest,75 - 77,W,home,1668972600,https://media-1.api-sports.io/basketball/teams/3382.png
+2022-11-18T21:30:00+00:00,loyola marymount,georgetown,84 - 66,W,away,1668807000,https://media-1.api-sports.io/basketball/teams/3382.png
+2022-11-20T19:30:00+00:00,loyola marymount,wake forest,75 - 77,W,home,1668972600,https://media-3.api-sports.io/basketball/teams/3382.png
 2022-11-23T20:00:00+00:00,loyola marymount,morgan state,80 - 81,W,home,1669233600,https://media-2.api-sports.io/basketball/teams/3382.png
-2022-11-25T20:00:00+00:00,loyola marymount,bellarmine,59 - 80,W,home,1669406400,https://media-3.api-sports.io/basketball/teams/3382.png
-2022-12-01T02:00:00+00:00,loyola marymount,colorado state,71 - 87,L,away,1669860000,https://media-1.api-sports.io/basketball/teams/3382.png
-2022-12-04T03:00:00+00:00,loyola marymount,nevada,52 - 64,W,home,1670122800,https://media-2.api-sports.io/basketball/teams/3382.png
-2022-12-08T02:00:00+00:00,loyola marymount,grand canyon,69 - 65,W,away,1670464800,https://media-1.api-sports.io/basketball/teams/3382.png
+2022-11-25T20:00:00+00:00,loyola marymount,bellarmine,59 - 80,W,home,1669406400,https://media-2.api-sports.io/basketball/teams/3382.png
+2022-12-01T02:00:00+00:00,loyola marymount,colorado state,71 - 87,L,away,1669860000,https://media-3.api-sports.io/basketball/teams/3382.png
+2022-12-04T03:00:00+00:00,loyola marymount,nevada,52 - 64,W,home,1670122800,https://media-3.api-sports.io/basketball/teams/3382.png
+2022-12-08T02:00:00+00:00,loyola marymount,grand canyon,69 - 65,W,away,1670464800,https://media-3.api-sports.io/basketball/teams/3382.png
 2022-12-11T05:30:00+00:00,loyola marymount,utah state,79 - 67,L,home,1670736600,https://media-1.api-sports.io/basketball/teams/3382.png
-2022-12-18T22:00:00+00:00,loyola marymount,cleveland state,59 - 70,W,home,1671400800,https://media-2.api-sports.io/basketball/teams/3382.png
-2022-12-22T03:00:00+00:00,loyola marymount,tulsa,64 - 76,W,home,1671678000,https://media-3.api-sports.io/basketball/teams/3382.png
-2022-12-30T02:00:00+00:00,loyola marymount,portland,92 - 72,W,away,1672365600,https://media-1.api-sports.io/basketball/teams/3382.png
-2022-12-31T22:00:00+00:00,loyola marymount,pacific,72 - 78,L,away,1672524000,https://media-2.api-sports.io/basketball/teams/3382.png
+2022-12-18T22:00:00+00:00,loyola marymount,cleveland state,59 - 70,W,home,1671400800,https://media-3.api-sports.io/basketball/teams/3382.png
+2022-12-22T03:00:00+00:00,loyola marymount,tulsa,64 - 76,W,home,1671678000,https://media-2.api-sports.io/basketball/teams/3382.png
+2022-12-30T02:00:00+00:00,loyola marymount,portland,92 - 72,W,away,1672365600,https://media-2.api-sports.io/basketball/teams/3382.png
+2022-12-31T22:00:00+00:00,loyola marymount,pacific,72 - 78,L,away,1672524000,https://media-3.api-sports.io/basketball/teams/3382.png
 2023-01-06T04:00:00+00:00,loyola marymount,brigham young,59 - 64,W,home,1672977600,https://media-3.api-sports.io/basketball/teams/3382.png
-2023-01-08T03:00:00+00:00,loyola marymount,san francisco,72 - 70,L,home,1673146800,https://media-3.api-sports.io/basketball/teams/3382.png
-2023-01-13T02:00:00+00:00,loyola marymount,st. marys (ca),,,away,1673575200,https://media-2.api-sports.io/basketball/teams/3382.png
-2023-01-14T21:00:00+00:00,loyola marymount,san diego toreros,,,home,1673730000,https://media-2.api-sports.io/basketball/teams/3382.png
-2023-01-19T21:00:00+00:00,loyola marymount,gonzaga,,,away,1674162000,https://media-3.api-sports.io/basketball/teams/3382.png
-2023-01-27T03:00:00+00:00,loyola marymount,portland,,,home,1674788400,https://media-2.api-sports.io/basketball/teams/3382.png
-2023-01-28T21:00:00+00:00,loyola marymount,pepperdine,,,home,1674939600,https://media-3.api-sports.io/basketball/teams/3382.png
+2023-01-08T03:00:00+00:00,loyola marymount,san francisco,72 - 70,L,home,1673146800,https://media-2.api-sports.io/basketball/teams/3382.png
+2023-01-13T02:00:00+00:00,loyola marymount,st. marys (ca),,,away,1673575200,https://media-3.api-sports.io/basketball/teams/3382.png
+2023-01-15T03:00:00+00:00,loyola marymount,san diego toreros,,,home,1673751600,https://media-2.api-sports.io/basketball/teams/3382.png
+2023-01-19T21:00:00+00:00,loyola marymount,gonzaga,,,away,1674162000,https://media-1.api-sports.io/basketball/teams/3382.png
+2023-01-27T03:00:00+00:00,loyola marymount,portland,,,home,1674788400,https://media-1.api-sports.io/basketball/teams/3382.png
+2023-01-28T21:00:00+00:00,loyola marymount,pepperdine,,,home,1674939600,https://media-2.api-sports.io/basketball/teams/3382.png
 2023-02-03T02:00:00+00:00,loyola marymount,brigham young,,,away,1675389600,https://media-2.api-sports.io/basketball/teams/3382.png
 2023-02-05T03:00:00+00:00,loyola marymount,san diego toreros,,,away,1675566000,https://media-3.api-sports.io/basketball/teams/3382.png
-2023-02-10T03:00:00+00:00,loyola marymount,st. marys (ca),,,home,1675998000,https://media-3.api-sports.io/basketball/teams/3382.png
-2023-02-12T00:00:00+00:00,loyola marymount,santa clara,,,away,1676160000,https://media-3.api-sports.io/basketball/teams/3382.png
-2023-02-17T04:00:00+00:00,loyola marymount,gonzaga,,,home,1676606400,https://media-2.api-sports.io/basketball/teams/3382.png
+2023-02-10T03:00:00+00:00,loyola marymount,st. marys (ca),,,home,1675998000,https://media-1.api-sports.io/basketball/teams/3382.png
+2023-02-12T00:00:00+00:00,loyola marymount,santa clara,,,away,1676160000,https://media-1.api-sports.io/basketball/teams/3382.png
+2023-02-17T04:00:00+00:00,loyola marymount,gonzaga,,,home,1676606400,https://media-3.api-sports.io/basketball/teams/3382.png
 2023-02-18T21:00:00+00:00,loyola marymount,pacific,,,home,1676754000,https://media-1.api-sports.io/basketball/teams/3382.png
 2023-02-25T21:00:00+00:00,loyola marymount,pepperdine,None - None,tie,away,1677358800,https://media-1.api-sports.io/basketball/teams/3382.png

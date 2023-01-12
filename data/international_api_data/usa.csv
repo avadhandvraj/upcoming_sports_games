@@ -1,27 +1,2 @@
 Date,Team,Opponent,Score,Result,Home or Away,Unix Timestamp,Image Url
-"Friday, November 25 01:00 PM",usa,england,0 - 0,tie,away,1669402800,https://media-2.api-sports.io/football/teams/2384.png
-"Thursday, September 02 09:05 PM",usa,el salvador,0 - 0,tie,away,1630634700,https://media-3.api-sports.io/football/teams/2384.png
-"Sunday, September 05 07:00 PM",usa,canada,1 - 1,tie,home,1630886400,https://media-1.api-sports.io/football/teams/2384.png
-"Wednesday, September 08 09:30 PM",usa,honduras,4 - 1,W,away,1631154600,https://media-2.api-sports.io/football/teams/2384.png
-"Thursday, October 07 06:30 PM",usa,jamaica,0 - 2,W,home,1633649400,https://media-1.api-sports.io/football/teams/2384.png
-"Sunday, October 10 05:00 PM",usa,panama,0 - 1,L,away,1633903200,https://media-3.api-sports.io/football/teams/2384.png
-"Wednesday, October 13 06:00 PM",usa,costa rica,1 - 2,W,home,1634166000,https://media-1.api-sports.io/football/teams/2384.png
-"Friday, November 12 08:10 PM",usa,mexico,0 - 2,W,home,1636769400,https://media-3.api-sports.io/football/teams/2384.png
-"Tuesday, November 16 04:00 PM",usa,jamaica,1 - 1,tie,away,1637100000,https://media-3.api-sports.io/football/teams/2384.png
-"Thursday, January 27 06:00 PM",usa,el salvador,0 - 1,W,home,1643328000,https://media-1.api-sports.io/football/teams/2384.png
-"Sunday, January 30 02:05 PM",usa,canada,0 - 2,L,away,1643573100,https://media-2.api-sports.io/football/teams/2384.png
-"Wednesday, February 02 06:30 PM",usa,honduras,0 - 3,W,home,1643848200,https://media-1.api-sports.io/football/teams/2384.png
-"Thursday, March 24 09:00 PM",usa,mexico,0 - 0,tie,away,1648173600,https://media-3.api-sports.io/football/teams/2384.png
-"Sunday, March 27 06:00 PM",usa,panama,1 - 5,W,home,1648422000,https://media-3.api-sports.io/football/teams/2384.png
-"Wednesday, March 30 08:05 PM",usa,costa rica,0 - 2,L,away,1648688700,https://media-2.api-sports.io/football/teams/2384.png
-"Tuesday, November 29 01:00 PM",usa,iran,1 - 0,W,away,1669748400,https://media-2.api-sports.io/football/teams/2384.png
-"Friday, June 10 09:00 PM",usa,grenada,0 - 5,W,home,1654912800,https://media-2.api-sports.io/football/teams/2384.png
-"Tuesday, June 14 09:00 PM",usa,el salvador,1 - 1,tie,away,1655258400,https://media-2.api-sports.io/football/teams/2384.png
-"Thursday, March 23 07:00 PM",usa,grenada,,,away,1679616000,https://media-2.api-sports.io/football/teams/2384.png
-"Sunday, March 26 07:00 PM",usa,el salvador,,,home,1679875200,https://media-2.api-sports.io/football/teams/2384.png
-"Wednesday, June 01 06:30 PM",usa,morocco,0 - 3,W,home,1654126200,https://media-1.api-sports.io/football/teams/2384.png
-"Sunday, June 05 04:00 PM",usa,uruguay,0 - 0,tie,home,1654462800,https://media-2.api-sports.io/football/teams/2384.png
-"Monday, November 21 01:00 PM",usa,wales,1 - 1,tie,home,1669057200,https://media-2.api-sports.io/football/teams/2384.png
-"Friday, September 23 07:25 AM",usa,japan,0 - 2,L,away,1663935900,https://media-1.api-sports.io/football/teams/2384.png
-"Tuesday, September 27 01:00 PM",usa,saudi arabia,0 - 0,tie,away,1664301600,https://media-1.api-sports.io/football/teams/2384.png
-"Saturday, December 03 09:00 AM",usa,netherlands,1 - 3,L,away,1670079600,https://media-3.api-sports.io/football/teams/2384.png
+"Friday, November 25 01:00 PM",usa,england,0 - 0,tie,away,1669402800,https://media-3.api-sports.io/football/teams/2384.png
